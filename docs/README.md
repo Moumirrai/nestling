@@ -3,9 +3,6 @@
 Sbírka zpracovaných otázek do [POZEMNÍHO STEVENBICTVÍ](/pos/1) A [STAVEBNÍ MECHANIKY](/stk/1/).
 
 Pokud chcete přispět svým časem či vědomostmi můžete nahrát materiály do níže uvedené složky
-
-
-<br>
 <br>
 
 <p align="center">

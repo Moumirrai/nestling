@@ -1,1 +1,0 @@
-import{o as e,c as a,a as t,d as o}from"./app.34f32f34.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const r={},s={id:"_28-kanalizace",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#_28-kanalizace","aria-hidden":"true"},"#",-1),n=o(" 28. KANALIZACE"),d=[_,n];function i(h,f){return e(),a("h1",s,d)}var x=c(r,[["render",i]]);export{x as default};
