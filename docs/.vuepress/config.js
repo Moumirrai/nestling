@@ -14,16 +14,15 @@ module.exports = {
           "/otázky/1/",
           "/otázky/2/",
           "/otázky/3/",
-          "/otázky/4/",
-          "/otázky/5/",
-          "/otázky/6/",
         ],
         nav: [
           { text: "Home", link: "/" },
         ],
-        repo: "colwilson/vuepress-examples",
+        repo: "/Moumirrai/nestling",
         repoLabel: "Pomoct s projektem",
-        displayAllHeaders: false
+        displayAllHeaders: false,
+        editLink: false,
+        contributors: false
       },
       plugins: [
         [

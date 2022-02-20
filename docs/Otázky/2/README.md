@@ -182,7 +182,7 @@ Při nestejnoměrném sedání, vlivem různých nepříznivých změn v základ
 
 Při založení do zámrzné hloubky dochází při zmrznutí zeminy k nadzvednutí základů i svislých nosných konstrukcí a když mrazy pominou, vrací se základy i svislé konstrukce do původní polohy. Tím vznikají v konstrukci trhliny, které se postupem času zvětšují. Řešením je prohloubení základů.
 
-#####Při prohlubování základů musíme:
+##### Při prohlubování základů musíme:
 
 - provést výkop po celé délce objektu na úroveň zákl. spáry
 - podezdívat v záběrech dl. 1m, vzdálených od sebe 4m
