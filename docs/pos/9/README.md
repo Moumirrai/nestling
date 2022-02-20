@@ -35,13 +35,30 @@
 
 #### Schodnice
 
+- šikmý nosník podporující schodišť. rameno nebo stupně
+
 #### Zrcadlo
+
+- prostor vzniklý mezi schodišťovými rameny
 
 #### Výstupní čára
 
-## Rozdělení podle konstrukce
+- čára spojující přední hrany stupňů v ose výstupu
 
-## Rozdělení podle materiálu
+## Rozdělení
+
+### Podle konstrukce
+
+#### S plně podporovanými stupni
+- **PAŽENÁ**
+    - TODO:dodělat
+#### S oboustranně podporovanými stupni
+
+#### Se zvláštnímy stupni
+
+
+
+### Podle materiálu
 
 ## Výpočet
 

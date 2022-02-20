@@ -1,4 +1,4 @@
-### <h2 align="center">NESTLING</h2>
+### NESTLING
 
 Sbírka zpracovaných otázek do [POZEMNÍHO STEVENBICTVÍ](/pos/1) A [STAVEBNÍ MECHANIKY](/stk/1/).
 
