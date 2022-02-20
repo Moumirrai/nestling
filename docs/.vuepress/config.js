@@ -2,7 +2,7 @@ module.exports = {
     // site config
     lang: 'cs',
     title: 'NESTLING',
-    description: 'No, i dont think so',
+    description: 'Maturitní otázky pro SPŠS',
   
     // theme and its config
     theme: '@vuepress/theme-default', 
@@ -19,10 +19,10 @@ module.exports = {
           "/otázky/6/",
         ],
         nav: [
-          { text: "Home", link: "/" }
+          { text: "Home", link: "/" },
         ],
         repo: "colwilson/vuepress-examples",
-        repoLabel: "Contribute",
+        repoLabel: "Pomoct s projektem",
         displayAllHeaders: false
       },
       plugins: [
