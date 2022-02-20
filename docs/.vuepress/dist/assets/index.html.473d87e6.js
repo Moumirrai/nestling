@@ -1,1 +1,0 @@
-import{o as e,a as t,b as a,d as o}from"./app.e1b95296.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const s={},_={id:"_4-otazka",tabindex:"-1"},c=a("a",{class:"header-anchor",href:"#_4-otazka","aria-hidden":"true"},"#",-1),n=o(" 4. Ot\xE1zka"),d=[c,n];function i(h,f){return e(),t("h1",_,d)}var x=r(s,[["render",i]]);export{x as default};

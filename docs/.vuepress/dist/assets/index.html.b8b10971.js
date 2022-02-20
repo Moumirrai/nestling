@@ -1,0 +1,1 @@
+const e={key:"v-744b66d4",path:"/pos/",title:"SEZNAM OT\xC1ZEK - POS",lang:"cs",frontmatter:{},excerpt:"",headers:[{level:2,title:"Idk",slug:"idk",children:[]}],filePathRelative:"pos/README.md"};export{e as data};

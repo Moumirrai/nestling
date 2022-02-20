@@ -1,0 +1,1 @@
+# 12. VNĚJŠÍ SCHODIŠTĚ, VNITŘNÍ A VNĚJŠÍ RAMPY

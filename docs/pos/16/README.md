@@ -1,0 +1,1 @@
+# 16. PŘEVISLÉ A USTUPUJÍCÍ KCE

@@ -1,0 +1,1 @@
+import{o as e,c as o,a as t,d as a}from"./app.34f32f34.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"_18-podlahy",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#_18-podlahy","aria-hidden":"true"},"#",-1),d=a(" 18. PODLAHY"),n=[_,d];function h(i,f){return e(),o("h1",c,n)}var p=r(s,[["render",h]]);export{p as default};
