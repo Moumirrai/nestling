@@ -1,3 +1,6 @@
+---
+pageClass: with-youtube
+---
 # 2. ZÁKLADOVÉ KONSTRUKCE
 
 Základové konstrikce přenášejí veškeré zatížení z vrchní stavby do podloží (základové spáry).
@@ -11,8 +14,12 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - mají vodorovnou (horizontální) základovou spáru
 - roznášejí zatížení z vrchní stavby na větší plochu tak, aby byly splněny požadavky I. a II. skupiny mezních stavů
 - Mezi základy plošné patří **základové patky** , **pásy** , **rošty** a **desky**.
+  
+  
 
 ### Patky
+
+
 
 - používají se pro skelety
 - vyžadují málo stlačitelnou půdů
@@ -20,8 +27,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 #### Podle průřezu se patky dělí na:
 
-| Jednostupňové                     | Dvoustupňové                     | Tvaru komolého jehlanu                 |
-| --------------------------------- | -------------------------------- | -------------------------------------- |
+| Jednostupňové                         | Dvoustupňové                         | Tvaru komolého jehlanu                     |
+| ------------------------------------- | ------------------------------------ | ------------------------------------------ |
 | ![jednostupnove](/images/pos/1/1.png) | ![dvoustupnove](/images/pos/1/2.png) | ![tvar-komol-jehlanu](/images/pos/1/3.png) |
 
 #### Podle technologie provádění se dělí na:
@@ -67,7 +74,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 ### Pásy
 
--  používají se tam, kde je **nestejnorodá základová půda**, ve které by mohlo dojít k sedání budovy, nebo tam kde by **rozměry základových patek** byly neúměrně velké a tudíž **neekonomické**. Dále se používají v **poddolovaném území** nebo sesuvných oblastech, kde je nutné zajistit vodorovnou tuhost základů.
+- používají se tam, kde je **nestejnorodá základová půda**, ve které by mohlo dojít k sedání budovy, nebo tam kde by **rozměry základových patek** byly neúměrně velké a tudíž **neekonomické**. Dále se používají v **poddolovaném území** nebo sesuvných oblastech, kde je nutné zajistit vodorovnou tuhost základů.
 - mohou být obdélníkové, nebo lichoběžníkové ve tvaru obráceného písmene T
 
 <p align="center">
@@ -126,22 +133,29 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 #### Technologie provádění
 
-<iframe width="320" height="180" src="https://www.youtube.com/embed/Hviz46ggQkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+<div class="videoWrapper">
+  <iframe width="560" height="349" src="https://www.youtube.com/embed/Hviz46ggQkE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 _V současné době se při výstavbě základových desek u nepodsklepených budov stále více používá samozhutnitelných betonů typu Compacton, které umožňují realizaci základové desky bez vibrování a srovnávání směsi. Na předem připravenou základovou spáru, se nejprve provede štěrkový podsyp a položí PE folie. Zhotoví se bednící konstrukce desky. Na folii se připraví navržená ocelová výztuž, většinou kari síť. Výztuž je umístěna na distančních prvcích, které zajistí její dostatečné krytí a spolupůsobení s betonem. Výztuž nesmí ležet přímo na folii. Betonáž probíhá nalitím tekuté betonové směsi, která se uvede do roviny pouze lehkým natřásáním latí._
 
 #### Podle tvaru se dělí na:
 
-##### Rovné 
+##### Rovné
+
 - s konstantní výškou 600–1200 mm
 - vhodné hlavně u stěnových systémů
 
 ##### Žebrové
+
 - při větší zatížení a větší osové vzdálenosti svislých nosných konstrukcí, tedy u skeletových staveb. 
 - desky se vyztužují žebry, které lépe odolávají deformacím
 - žebra mohou být nad deskou nebo pod ní
 
 ##### Hřibové
+
 - jsou v místě sloupů zesíleny hřibovými hlavicemi
 
 <p align="center">
@@ -166,10 +180,10 @@ Při hlubinném zakládání se zatížení stavby přenáší do hlubších ún
 
 #### Mezi hlubinné základy patří:
 
-| PILOTY | ŠACHOTVÉ PILÍŘE |
-|---|---|
+| PILOTY                                 | ŠACHOTVÉ PILÍŘE                        |
+| -------------------------------------- | -------------------------------------- |
 | ![jednostupnove](/images/pos/1/11.png) | ![jednostupnove](/images/pos/1/12.png) |
-| ZÁKLADOVÉ STUDNY | KESONY |
+| ZÁKLADOVÉ STUDNY                       | KESONY                                 |
 | ![jednostupnove](/images/pos/1/13.png) | ![jednostupnove](/images/pos/1/14.png) |
 
 ## Opravy základů
