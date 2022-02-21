@@ -1,5 +1,5 @@
 ---
-pageClass: with-youtube
+pageClass: question-page
 ---
 # 2. ZÁKLADOVÉ KONSTRUKCE
 

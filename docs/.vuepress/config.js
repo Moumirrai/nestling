@@ -16,13 +16,16 @@ module.exports = {
           children: [
             "/pos/1/",
             "/pos/2/",
+            /*
             "/pos/3/",
             "/pos/4/",
             "/pos/5/",
             "/pos/6/",
             "/pos/7/",
             "/pos/8/",
+            */
             "/pos/9/",
+            /*
             "/pos/10/",
             "/pos/11/",
             "/pos/12/",
@@ -41,9 +44,13 @@ module.exports = {
             "/pos/25/",
             "/pos/26/",
             "/pos/27/",
+            */
             "/pos/28/",
+            /*
             "/pos/29/",
             "/pos/30/",
+            */
+            "/pos/37/",
           ],
         },
       ],

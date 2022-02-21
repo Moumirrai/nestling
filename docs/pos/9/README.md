@@ -1,3 +1,6 @@
+---
+pageClass: question-page
+---
 # 9. KONSTRUKCE A NÁVRH SCHODIŠTĚ
 
 ## Názvosloví
@@ -44,10 +47,9 @@
 ### Výstupní čára
 
 - čára spojující přední hrany stupňů v ose výstupu
-  
-> TODO: obázek
 
----
+<img class="centered_image" src="/images/pos/9/nazvoslovi.png" />
+
 
 ## Rozdělení
 
@@ -99,7 +101,7 @@
 
 - **KONZOLOVITĚ VETKNUTÁ**
   
-> TODO: obrázek
+<img class="centered_image" src="/images/pos/9/rozdeleni_konstrukce.png" />
 
 ### Podle materiálu
 
@@ -123,46 +125,47 @@
 
 - šířka ramene je dána typem budovy a požírními předpisy
 
-- šířka podest se musí rovnat minimálně šířce ramen
+- šířka podest se musí rovnat **minimálně šířce ramen**
 
 ### Návrh rozměrů schodišťového stupně
 
-    $2*v+š = 630mm$
+::: tip VZOREC
+$2*v+š = 630mm$
 
-<br>
+$v$ - výška stupně
 
-- $v$ - výška stupně
+$š$ - šířka stupně
 
-- $š$ - šířka stupně
+630 mm - průměrná délka kroku
+:::
 
-- 630 mm - průměrná délka kroku
 
-> TODO: obrázek 
+
+<img class="centered_image" src="/images/pos/9/navrh_stupne.png" />
 
 ### Podchodná výška
 
-    $h_p = 1500 + \frac{750}{cos\alpha }$
+::: tip VZOREC
+$h_p = 1500 + \frac{750}{cos\alpha }$ 
 
-<br>
+$h_p$ = podchodná výška svisle od přední hrany stupně v mm
 
-- $h_p$ = podchodná výška svisle od přední hrany stupně v mm
+$\alpha$ = sklon schodišťového ramene
+:::
 
-- $\alpha$ = sklon schodišťového ramene
-
-- **minimální podchodná výška je 2100 mm**
+- **minimální podchodná výška je** <Badge type="warning" text="2100 mm" vertical="middle" />
   
-  > todo obrázek
+<img class="centered_image" src="/images/pos/9/podchodna_vyska.png" />
 
 ### Průchodná výška
+::: tip VZOREC
+$h_{pr} = 750 + 1500 × cos\alpha$
 
-    $h_{pr} = 750 + 1500 × cos\alpha$
+$h_{pr}$ - průchodná výška
 
-<br>
+$\alpha$ - sklon schodišťového ramene
+:::
 
-- $h_{pr}$ - průchodná výška
+- **minimální průchodná výška je** <Badge type="warning" text="1900 mm" vertical="middle" />
 
-- $\alpha$ - sklon schodišťového ramene
-
-- **minimální průchodná výška je 1900 mm**
-
-> TODO: obrázek
+<img class="centered_image" src="/images/pos/9/pruchodna_vyska.png" />

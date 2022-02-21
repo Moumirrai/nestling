@@ -1,3 +1,6 @@
+---
+pageClass: question-page
+---
 # 1. ZEMNÍ PRÁCE
 
 - práce kterými se zahajuje stavební činnost

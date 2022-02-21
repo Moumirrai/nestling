@@ -1,3 +1,6 @@
+---
+pageClass: question-page
+---
 # 5. STROPNÍ KCE DŘEVĚNÉ
 
 ::: tip
