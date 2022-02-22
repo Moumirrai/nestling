@@ -73,6 +73,7 @@ html.dark {
   .link_underline > a {
     font-size: 1.5em;
     position: relative;
+    text-decoration: none;
     &:before {
       content: "";
       cursor: pointer;
