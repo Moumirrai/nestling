@@ -1,7 +1,7 @@
 module.exports = {
   // site config
   lang: "cs",
-  title: "NESTLING",
+  title: "Nestling",
   description: "Maturitní otázky",
   head: [
     ['link', { rel: 'icon', href: `/images/icons/logo.png` }],
@@ -64,7 +64,9 @@ module.exports = {
             "/pos/15/",
             "/pos/16/",
             "/pos/17/",
+            */
             "/pos/18/",
+            /*
             "/pos/19/",
             "/pos/20/",
             "/pos/21/",

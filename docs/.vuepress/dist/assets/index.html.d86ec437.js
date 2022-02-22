@@ -1,0 +1,1 @@
+const e={key:"v-5293fb17",path:"/pos/26/",title:"26. V\u011ATR\xC1N\xCD A KLIMATIZACE",lang:"cs",frontmatter:{pageClass:"question-page"},excerpt:"",headers:[],filePathRelative:"pos/26/README.md"};export{e as data};

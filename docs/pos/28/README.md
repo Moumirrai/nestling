@@ -73,11 +73,11 @@ Kanalizační přípojka je podzemní potrubí spojující vnitřní kanalizaci 
 
 Žumpa – vodotěsná jímka bez odtoku, která slouží jen k shromažďovaní odpadních vod, musí se pravidelně vyvážet pomocí fekálního vozu.
 
-> TODO: obrázek žumpy (jímka)
+TODO: obrázek žumpy (jímka)
 
 Septik - zajišťuje biologické a mechanické předčištění kalů. Jedná se o většinou plastovou nepropustnou nádobu s několika přepážkami zpravidla zapuštěnou do terénu. Poté odpadní voda odtéká přepadem do veřejné kanalizace či domácí čistírny.
 
-> TODO: obrázek septiku
+TODO: obrázek septiku
 
 ### Zásady
 
@@ -109,7 +109,7 @@ Septik - zajišťuje biologické a mechanické předčištění kalů. Jedná se
 - Odvodnění pomocí střešních vtoků na ploše střechy
 - Gravitační systém odvodnění se zpravidla navrhuje tak, že jednotlivé střešní vtoky se odvodňují samostatným svislým dešťovým odpadem.
 
-> TODO: obrázek odvodnění ploché střechy
+TODO: obrázek odvodnění ploché střechy
 
 ### Retenční nádrže
 
@@ -118,7 +118,7 @@ Septik - zajišťuje biologické a mechanické předčištění kalů. Jedná se
 - Retenční nádrž bývá obvykle vyrobena z laminátu nebo polyethylenu.
 - Mohou mít různý tvar, nejčastěji jde o válec.
 
-> TODO: obrázek retenční nádrže
+TODO: obrázek retenční nádrže
 
 ## Prostředky pro ochranu domovní kanalizace
 
@@ -126,11 +126,13 @@ Septik - zajišťuje biologické a mechanické předčištění kalů. Jedná se
 
 ### Zápachové uzávěrky
 
+TODO: obrázek zápachové uzávěrky
+
 - Zabraňuje proniknutí stokového vzduchu přes zařizovací předmět do místnosti.
 - Zápachovými uzávěrkami musí být opatřeny všechny zařizovací předměty a zařízení napojená na vnitřní kanalizaci.
 - Suché, či vodní
 
-> TODO: obrázek sifon
+TODO: obrázek sifon
 
 - Princip vodní zápachové uzávěrky (tzv. Sifon)
 
@@ -139,7 +141,7 @@ Septik - zajišťuje biologické a mechanické předčištění kalů. Jedná se
 - Jsou zařízení určená k zachycení různých látek, které nesmí být do kanalizace vpuštěny, protože by ji ucpávaly, popřípadě znečisťovaly odpadní vodu takovým způsobem, že by pak nesměla být vypuštěna do veřejné kanalizace.
 - Např. Odlučovač tuku, lapač střešních splavenin, lapač škrobu, odlučovač benzinu a oleje
 
-> TODO: obrázek lapače
+TODO: obrázek lapače
 
 ## Vpusti
 

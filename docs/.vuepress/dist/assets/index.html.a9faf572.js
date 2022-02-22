@@ -1,0 +1,1 @@
+const e={key:"v-5293fa9b",path:"/pos/22/",title:"22. TRUHL\xC1\u0158SK\xC9 V\xDDROBKY",lang:"cs",frontmatter:{pageClass:"question-page"},excerpt:"",headers:[],filePathRelative:"pos/22/README.md"};export{e as data};

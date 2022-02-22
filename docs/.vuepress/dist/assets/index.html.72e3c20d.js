@@ -1,1 +1,0 @@
-const t={key:"v-d723370a",path:"/stk/2/",title:"STK 2. ot\xE1zka",lang:"cs",frontmatter:{},excerpt:"",headers:[{level:2,title:"podnadpis",slug:"podnadpis",children:[]}],filePathRelative:"stk/2/README.md"};export{t as data};

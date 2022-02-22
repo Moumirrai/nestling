@@ -48,7 +48,7 @@ pageClass: question-page
 
 ## Rozdělení základních vrstev
 
-TODO: rozdeleni-vrstev
+<img class="centered_image" src="/images/pos/18/rozdeleni-vrstev.png" />
 
 #### Nášlapná vrstva
 
@@ -83,32 +83,57 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 * Plovoucí podlaha je charakteristická tím, že nášlapná vrstva spolu s roznášecí vrstvou spočívají na pružné podložce
 - #### Těžká plovoucí podlaha
 - roznášecí a nášlapná vrstva má velkou plošnou hmotnost (nad 75 kg/m2)
-  TODO: tezka-plovouci + popisek níže
-1) keramická dlažba, 2) cementová malta, 3) keramický sokl, 4) cementový potěř se sítí, 5) rohož z minerálních vláken, 6) ochrana zvukové izolace
+
+::: tip Těžká plovoucí podlaha
+<br>
+<img class="centered_image" src="/images/pos/18/tezka-plovouci.png" />
+
+1. keramická dlažba, 2. cementová malta, 3. keramický sokl, 4. cementový potěř se sítí, 5. rohož z minerálních vláken, 6. ochrana zvukové izolace
+:::
+
 - #### Lehká plovoucí podlaha
 
 - používá nášlapné i roznášecí vrstvy s malou plošnou hmotností (do 15 kg/m2). - Pro splnění požadavků na vzduchovou neprůzvučnost ji lze použít pouze na těžkou stropní konstrukci (nad 350 kg/m2) nebo na stropní konstrukci, kde akustickou funkci plní podhled.
-  TODO: lehka-plovouci + popisek níže
-1) dřevěné vlysy, 2) lepidlo, 3) dřevěná ukončovací lišta, 4) dřevotřísková deska, 5) rohož z minerálních vláken
+
+::: tip Lehká plovoucí podlaha
+<br>
+<img class="centered_image" src="/images/pos/18/lehka-plovouci.png" />
+
+1. dřevěné vlysy, 2. lepidlo, 3. dřevěná ukončovací lišta, 4. dřevotřísková deska, 5. rohož z minerálních vláken
+:::
 
 ### Tuhé podlahy
 
 * jsou konstrukce, které ve skladbě neobsahují pružnou vložku, která tlumí kročejový hluk. používají se v místnostech, kde není třeba chránit okolní prostory proti tomuto druhu hluku.
-  TODO: tuha-podlaha + popisek
-1) keramická dlažba, 2) tmel, 3) keramický obklad, 4) cementový potěr se sítí, 5) hydroizolace
 
-### Dvojté podlahy
+::: tip Tuhá podlaha
+<br>
+<img class="centered_image" src="/images/pos/18/tuha-podlaha.png" />
+
+1. keramická dlažba, 2. tmel, 3. keramický obklad, 4. cementový potěr se sítí, 5. hydroizolace
+:::
+
+### Dvojité podlahy
 
 - Dvojité podlahy se skládají ze dvou odlišných vrstev, kde je pochůzná vrstva spolu s roznášecí vrstvou umístěna na roštových nebo bodových podpěrách, kterými je přenášeno zatížení do vodorovné konstrukce nebo jiného podkladu.
-  TODO: dvojita-podlaha + popisek
-1) pružná podložka, 2) roznášecí lať, 3) palubky
+
+::: tip Dvojitá podlaha
+<br>
+<img class="centered_image" src="/images/pos/18/dvojita-podlaha.png" />
+
+1. pružná podložka, 2. roznášecí lať, 3. palubky
+:::
 
 ### Nulové podlahy
 
 - Tak zvaná nulová podlaha je tvořena z tenké tuhé nášlapné vrstvy (PVC, linoleum apod.), která je podložena měkkou tlumící vrstvou z pěnové pryže, plsti, textilu apod. tloušťky 2 až 4 mm. - Nulová podlaha se používala hlavně v panelové výstavbě.
-  
-  > TODO: nulova-podlaha + popisek
-1) PVC povlak, 2) textilní podložka, 3) samonivelační vyrovnávací stěrka, 4) PVC lišta
+
+::: tip Nulová podlaha
+<br>
+<img class="centered_image" src="/images/pos/18/nulova-podlaha.png" />
+
+1. PVC povlak, 2. textilní podložka, 3. samonivelační vyrovnávací stěrka, 4. PVC lišta
+:::
 
 ## Rozdělení podle druhu a materiálu
 
@@ -119,9 +144,14 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 o šířce 100 až 150 mm, o tloušťce
 
 22 mm, které se spojují na pero a drážku.
-TODO: drevena-podlaha + popisek níže
 
-1) dvě vrstvy prken, 2) násyp, 3) polštář, 4) záklop, 5) stropní trám, 6) podhled
+::: tip Palubová podlaha
+<br>
+<img class="centered_image" src="/images/pos/18/nulova-podlaha.png" />
+
+1. dvě vrstvy prken, 2. násyp, 3. polštář, 4. záklop, 5. stropní trám, 6. podhled
+:::
+
 - #### Vlysová podlaha
 
 je nejrozšířenějším druhem dřevěných podlah.

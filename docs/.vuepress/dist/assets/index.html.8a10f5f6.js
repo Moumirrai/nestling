@@ -1,1 +1,0 @@
-const t={key:"v-5293fa5d",path:"/pos/20/",title:"20. IZOLACE TEPELN\xC9, ZVUKOV\xC9 A PROTI OT\u0158ES\u016EM",lang:"cs",frontmatter:{},excerpt:"",headers:[],filePathRelative:"pos/20/README.md"};export{t as data};

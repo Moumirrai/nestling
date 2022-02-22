@@ -1,1 +1,0 @@
-const t={key:"v-5293f69c",path:"/pos/10/",title:"10. SCHODI\u0160T\u011A S PLN\u011A PODPOROVAN\xDDMY STUPNI",lang:"cs",frontmatter:{},excerpt:"",headers:[],filePathRelative:"pos/10/README.md"};export{t as data};

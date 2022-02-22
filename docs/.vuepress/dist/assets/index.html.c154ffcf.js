@@ -1,0 +1,1 @@
+const e={key:"v-5293fb36",path:"/pos/27/",title:"27. DOMOVN\xCD VODOINSTALACE A PLYNOVOD",lang:"cs",frontmatter:{pageClass:"question-page",bude_d\u011Blat:"Tes\xEDk"},excerpt:"",headers:[],filePathRelative:"pos/27/README.md"};export{e as data};
