@@ -10,6 +10,20 @@
   --pwa-popup-btn-text-color: #ffffff;
   --pwa-popup-btn-bg-color: #ffcc00;
   --pwa-popup-btn-hover-bg-color: #ffdb4a;
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background-color: var(--c-bg);
+    border-radius: 10px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: var(--c-brand);
+    border-radius: 10px;
+  }
+  
+
 }
 
 html.dark {
@@ -95,6 +109,7 @@ html.dark {
 }
 
 .theme-container.question-page {
+
   .videoWrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
@@ -112,6 +127,25 @@ html.dark {
     max-height: 500px;
     height: 70%;
     width: auto;
+  }
+  .download_button {
+    background-color: #ff6464;
+    border: 1px solid #ff6464;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+  }
+
+  .download_button:hover {
+    background-color: white; /* Green */
+    color: #ff6464;
   }
   h1 {
     color: var(--c-brand)

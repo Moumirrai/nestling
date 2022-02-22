@@ -1,7 +1,7 @@
 ---
 pageClass: question-page
 ---
-# 37. Románská architektura a gotika
+# 37. ROMÁNSKÁ ARCHITEKTURA A GOTIKA
 
 ## Románská architektura
 

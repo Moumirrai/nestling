@@ -1,2 +1,5 @@
+---
+pageClass: question-page
+---
 # 11. SCHODIŠTĚ S JEDNOSTRANNĚ A OBOUSTRANNĚ PODPOROVANÝMI STUPNI
 

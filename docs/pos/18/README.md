@@ -1,3 +1,6 @@
+---
+pageClass: question-page
+---
 # 18. PODLAHY
 
 
