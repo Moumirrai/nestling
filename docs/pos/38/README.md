@@ -11,8 +11,6 @@ pageClass: question-page
 
 <img class="centered_image" src="/images/pos/37/romanska.png" />
 
----
-
 ## Gotická architektura
 
 - 12 - 14. století
@@ -21,5 +19,3 @@ pageClass: question-page
 - Název „gotika“ zavedli italští humanisté, kteří ji mylně spojovali s Góty, jejichž umění bylo považováno za barbarské
 
 <img class="centered_image" src="/images/pos/37/gotika.png" />
-
----

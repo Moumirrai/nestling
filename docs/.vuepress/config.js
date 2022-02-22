@@ -3,11 +3,15 @@ module.exports = {
   lang: "cs",
   title: "NESTLING",
   description: "Maturitní otázky",
+  head: [
+    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
+    ['meta', { name: 'theme-color', content: '#ffcc00' }],
+  ],
 
   // theme and its config
   theme: "@vuepress/theme-default",
   themeConfig: {
-    //logo: '/images/icons/logo.png',
+    logo: '/images/icons/logo.png',
     lastUpdated: false,
     sidebar: {
       "/pos/": [
@@ -50,6 +54,7 @@ module.exports = {
             "/pos/29/",
             "/pos/30/",
             */
+            "/pos/36/",
             "/pos/37/",
           ],
         },
@@ -77,6 +82,9 @@ module.exports = {
     displayAllHeaders: false,
     editLink: false,
     contributors: false,
+    themePlugins: {
+      mediumZoom: true,
+    }
   },
   plugins: [
     [
@@ -92,5 +100,22 @@ module.exports = {
       },
     ],
     ["@renovamen/vuepress-plugin-katex"],
+    ["@vuepress/plugin-medium-zoom", {
+      zoomOptions: {
+        scrollOffset: 40,
+      }
+    }],
+    ['@vuepress/plugin-pwa'],
+    [
+      '@vuepress/plugin-pwa-popup',
+      {
+        locales: {
+          '/': {
+            message: 'Nové otázky dostupné ke stažení!',
+            buttonText: 'Stáhnout offline',
+          },
+        },
+      },
+    ],
   ],
 };

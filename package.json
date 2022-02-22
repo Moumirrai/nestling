@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"start": "vuepress dev docs",
-	"test": "vuepress build docs",
+    "start": "vuepress dev docs",
+    "test": "vuepress build docs",
     "serve": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
@@ -13,6 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "@vuepress/plugin-medium-zoom": "^2.0.0-beta.35",
+    "@vuepress/plugin-pwa": "^2.0.0-beta.35",
+    "@vuepress/plugin-pwa-popup": "^2.0.0-beta.35",
     "@vuepress/plugin-search": "^2.0.0-beta.35",
     "vuepress": "^2.0.0-beta.35",
     "vuepress-plugin-smooth-scroll": "^0.0.10"

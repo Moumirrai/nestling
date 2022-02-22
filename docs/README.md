@@ -1,12 +1,14 @@
 ---
-home: true
 pageClass: home_page
 ---
 <p align="center">
 
-<div class="link_underline"><a href="/pos/1/">POZEMNÍ STAVITELSTVÍ</a></div>
+## Maturitní otázky
+
+<div class="link_underline"><RouterLink to="/pos/1/">POZEMNÍ STAVITELSTVÍ</RouterLink></div>
+
 <br>
-<div class="link_underline"><a href="/stk/1/">STAVEBNÍ MECHANIKA</a></div>
+<div class="link_underline"><RouterLink to="/stk/1/">STAVEBNÍ MECHANIKA</RouterLink></div>
 <br>
 <br>
 
@@ -14,6 +16,6 @@ pageClass: home_page
 Pokud chcete přispět svým časem či vědomostmi můžete nahrát materiály do níže uvedené složky
 <br>
 
-<a href="https://mega.nz/megadrop/kqKInvroV94" class="upload_button">Nahrát materiály</a>
+<a href="https://mega.nz/megadrop/kqKInvroV94" target="_blank" class="upload_button">Nahrát materiály</a>
 
 </p>
