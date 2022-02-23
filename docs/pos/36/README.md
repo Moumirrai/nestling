@@ -5,12 +5,12 @@ pageClass: default-page
 
 ## Řecká Antika
 
-<img class="centered_image" src="/images/pos/36/antika_recko.png" />
+<img class="centered_image" src="/images/pos/36/antika_recko.webp" />
 
 ---
 
 ## Římská antika
 
-<img class="centered_image" src="/images/pos/36/antika_rim.png" />
+<img class="centered_image" src="/images/pos/36/antika_rim.webp" />
 
 ---
