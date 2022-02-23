@@ -12,9 +12,9 @@ pageClass: default-page
 <br>
 
 
-Pokud chcete přispět svým časem či vědomostmi můžete nahrát materiály do níže uvedené složky
+Vzhledem k tomu že se čas krátí budeme vděční za jakoukoliv pomoc a poskytnuté materiály. Více informací naleznete na uvedeném odkazu.
 <br>
 
-<a href="https://mega.nz/megadrop/kqKInvroV94" target="_blank" class="upload_button">Nahrát materiály</a>
+<button @click="$router.push('/contribute/')" class="secondary_button">POMOCT S PROJEKTEM</button>
 
 </p>

@@ -48,7 +48,7 @@ pageClass: default-page
 
 ## Rozdělení základních vrstev
 
-<img class="centered_image" src="/images/pos/18/rozdeleni-vrstev.png" />
+<img class="centered_image" src="/images/pos/18/rozdeleni-vrstev.webp" />
 
 #### Nášlapná vrstva
 
@@ -80,16 +80,17 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 ### Plovoucí podlaha
 
-* Plovoucí podlaha je charakteristická tím, že nášlapná vrstva spolu s roznášecí vrstvou spočívají na pružné podložce
-- #### Těžká plovoucí podlaha
-- roznášecí a nášlapná vrstva má velkou plošnou hmotnost (nad 75 kg/m2)
+- Plovoucí podlaha je charakteristická tím, že nášlapná vrstva spolu s roznášecí vrstvou spočívají na pružné podložce
+
+* #### Těžká plovoucí podlaha
+* roznášecí a nášlapná vrstva má velkou plošnou hmotnost (nad 75 kg/m2)
 
 ::: tip Těžká plovoucí podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/tezka-plovouci.png" />
+<img class="centered_image" src="/images/pos/18/tezka-plovouci.webp" />
 
 1. keramická dlažba, 2. cementová malta, 3. keramický sokl, 4. cementový potěř se sítí, 5. rohož z minerálních vláken, 6. ochrana zvukové izolace
-:::
+   :::
 
 - #### Lehká plovoucí podlaha
 
@@ -97,21 +98,21 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 ::: tip Lehká plovoucí podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/lehka-plovouci.png" />
+<img class="centered_image" src="/images/pos/18/lehka-plovouci.webp" />
 
 1. dřevěné vlysy, 2. lepidlo, 3. dřevěná ukončovací lišta, 4. dřevotřísková deska, 5. rohož z minerálních vláken
-:::
+   :::
 
 ### Tuhé podlahy
 
-* jsou konstrukce, které ve skladbě neobsahují pružnou vložku, která tlumí kročejový hluk. používají se v místnostech, kde není třeba chránit okolní prostory proti tomuto druhu hluku.
+- jsou konstrukce, které ve skladbě neobsahují pružnou vložku, která tlumí kročejový hluk. používají se v místnostech, kde není třeba chránit okolní prostory proti tomuto druhu hluku.
 
 ::: tip Tuhá podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/tuha-podlaha.png" />
+<img class="centered_image" src="/images/pos/18/tuha-podlaha.webp" />
 
 1. keramická dlažba, 2. tmel, 3. keramický obklad, 4. cementový potěr se sítí, 5. hydroizolace
-:::
+   :::
 
 ### Dvojité podlahy
 
@@ -119,10 +120,10 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 ::: tip Dvojitá podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/dvojita-podlaha.png" />
+<img class="centered_image" src="/images/pos/18/dvojita-podlaha.webp" />
 
 1. pružná podložka, 2. roznášecí lať, 3. palubky
-:::
+   :::
 
 ### Nulové podlahy
 
@@ -130,10 +131,10 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 ::: tip Nulová podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/nulova-podlaha.png" />
+<img class="centered_image" src="/images/pos/18/nulova-podlaha.webp" />
 
 1. PVC povlak, 2. textilní podložka, 3. samonivelační vyrovnávací stěrka, 4. PVC lišta
-:::
+   :::
 
 ## Rozdělení podle druhu a materiálu
 
@@ -147,10 +148,10 @@ o šířce 100 až 150 mm, o tloušťce
 
 ::: tip Palubová podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/nulova-podlaha.png" />
+<img class="centered_image" src="/images/pos/18/drevena-podlaha.webp" />
 
 1. dvě vrstvy prken, 2. násyp, 3. polštář, 4. záklop, 5. stropní trám, 6. podhled
-:::
+   :::
 
 - #### Vlysová podlaha
 
@@ -162,12 +163,29 @@ a skládají se obvykle do rybinovitého vzoru.
 
 - čtvercová skladba vlysů - rybinovitá skladba vlysů
 
+::: tip Čtvercová skladba
+<br>
+<img class="centered_image" src="/images/pos/18/ctvercove_vlysy.webp" />
+<br>
+:::
+
+::: tip Rybinová skladba
+<br>
+<img class="centered_image" src="/images/pos/18/rybina_vlysy.webp" />
+<br>
+:::
+
 - #### Parketová podlaha
 
 skládá se z tabulí o rozměrech 300 x 300 mm až 600 x 600 mm, o tloušťce 9 až 22 mm, spojovaných na péro a drážku. Parkety jsou prefabrikáty složené z menších dřevěných prvků.
-TODO: parkety + popisek
 
-- parketa vlysová - parketa mozaiková - parketa překližková
+::: tip Parkety
+<br>
+<img class="centered_image" src="/images/pos/18/parkety.webp" />
+<br>
+
+1. parketa vlysová 2. parketa mozaiková 3. parketa překližková
+   :::
 
 - #### Panelová podlaha
 
@@ -180,8 +198,12 @@ jsou vytvářeny z jednotlivých prvků tvaru lamel o šířce cca 150 mm a dél
 ### Dlažby
 
 - #### Keramické dlažby
-  
-  TODO: vícero obrázku (dlazby)
+
+::: tip Dlažby
+<br>
+<img class="centered_image" src="/images/pos/18/dlazby.webp" />
+<br>
+:::
 
 Jsou vhodné do mokrých a vlhkých
 
@@ -194,6 +216,12 @@ rozměry jsou 100 x
 - #### Betonové dlažby
 
 používají se v průmyslových objektech ve skladech, výrobních halách a také jako dlažba venkovní. Dlaždice mají rozměry 150 x 150 x 20 mm až 500 x 500 x 70 mm.
+
+::: tip Betonová dlažba
+<br>
+<img class="centered_image" src="/images/pos/18/betonova-dlazba.webp" />
+<br>
+:::
 
 - #### Teracové dlažby
 
@@ -224,8 +252,12 @@ je poloteplá podlahovina, která se uplatňuje v bytové a občanské výstavb�
 ### Mazaniny
 
 - #### Cementové potěry
-  
-  TODO: vícero obrázků (mazaniny)
+
+::: tip Mazaniny
+<br>
+<img class="centered_image" src="/images/pos/18/mazaniny.webp" />
+<br>
+:::
 
 mohou tvořit nášlapnou vrstvu v podružných místnostech jako jsou sklady, kotelny apod. Jejich povrch se stírá ocelových hladítkem. V těžkých provozech, jako jsou například garáže, sklady nebo průmyslové výrobny, je možné využít vhodných vlastností drátkobetonu, tedy betonové mazaniny vyztužené kovovými vlákny o různých tloušťkách a velikostech.
 
@@ -244,11 +276,19 @@ Provádí se ze směsi cementu, různobarevné kamenné drtě, vody a barviva. N
 Provádí se jednovrstvá nebo dvouvrstvá ze vzdušného práškového pojiva (anhydrit). Nanáší
 
 se strojně.
-TODO: anhydrit-mazanina
+::: tip Anhydritová mazanina
+<br>
+<img class="centered_image" src="/images/pos/18/anhydrit-podlaha.webp" />
+<br>
+:::
 
 ### Povlakové krytiny
 
-TODO: krytiny
+::: tip Krytiny
+<br>
+<img class="centered_image" src="/images/pos/18/krytiny.webp" />
+<br>
+:::
 
 - #### Linoleové povlaky
 

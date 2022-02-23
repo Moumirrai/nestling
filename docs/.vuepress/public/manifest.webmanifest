@@ -4,8 +4,8 @@
     "description": "Maturitní otázky pro SPŠS",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#ffcc00",
-    "theme_color": "#ffcc00",
+    "background_color": "#22272e",
+    "theme_color": "#22272e",
     "icons": [
         {
             "src": "/images/icons/android-chrome-192x192.png",
@@ -16,6 +16,18 @@
             "src": "/images/icons/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
+        },
+        {
+            "src": "/images/icons/maskable_icon_x192.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/icons/maskable_icon_x512.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ]
   }

@@ -108,7 +108,6 @@ module.exports = {
       },
     ],
     repo: "/Moumirrai/nestling",
-    repoLabel: "Pomoct s projektem",
     displayAllHeaders: false,
     editLink: false,
     contributors: false,
