@@ -48,7 +48,7 @@ pageClass: default-page
 
 ## Rozdělení základních vrstev
 
-<img class="centered_image" src="/images/pos/18/rozdeleni-vrstev.webp" />
+<img class="centered_image" src="/images/pos/18/rozdeleni-vrstev.jpg" />
 
 #### Nášlapná vrstva
 
@@ -87,7 +87,7 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 ::: tip Těžká plovoucí podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/tezka-plovouci.webp" />
+<img class="centered_image" src="/images/pos/18/tezka-plovouci.jpg" />
 
 1. keramická dlažba, 2. cementová malta, 3. keramický sokl, 4. cementový potěř se sítí, 5. rohož z minerálních vláken, 6. ochrana zvukové izolace
    :::
@@ -98,7 +98,7 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 ::: tip Lehká plovoucí podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/lehka-plovouci.webp" />
+<img class="centered_image" src="/images/pos/18/lehka-plovouci.jpg" />
 
 1. dřevěné vlysy, 2. lepidlo, 3. dřevěná ukončovací lišta, 4. dřevotřísková deska, 5. rohož z minerálních vláken
    :::
@@ -109,7 +109,7 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 ::: tip Tuhá podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/tuha-podlaha.webp" />
+<img class="centered_image" src="/images/pos/18/tuha-podlaha.jpg" />
 
 1. keramická dlažba, 2. tmel, 3. keramický obklad, 4. cementový potěr se sítí, 5. hydroizolace
    :::
@@ -120,7 +120,7 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 ::: tip Dvojitá podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/dvojita-podlaha.webp" />
+<img class="centered_image" src="/images/pos/18/dvojita-podlaha.jpg" />
 
 1. pružná podložka, 2. roznášecí lať, 3. palubky
    :::
@@ -131,7 +131,7 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 ::: tip Nulová podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/nulova-podlaha.webp" />
+<img class="centered_image" src="/images/pos/18/nulova-podlaha.jpg" />
 
 1. PVC povlak, 2. textilní podložka, 3. samonivelační vyrovnávací stěrka, 4. PVC lišta
    :::
@@ -148,7 +148,7 @@ o šířce 100 až 150 mm, o tloušťce
 
 ::: tip Palubová podlaha
 <br>
-<img class="centered_image" src="/images/pos/18/drevena-podlaha.webp" />
+<img class="centered_image" src="/images/pos/18/drevena-podlaha.jpg" />
 
 1. dvě vrstvy prken, 2. násyp, 3. polštář, 4. záklop, 5. stropní trám, 6. podhled
    :::
@@ -165,13 +165,13 @@ a skládají se obvykle do rybinovitého vzoru.
 
 ::: tip Čtvercová skladba
 <br>
-<img class="centered_image" src="/images/pos/18/ctvercove_vlysy.webp" />
+<img class="centered_image" src="/images/pos/18/ctvercove_vlysy.jpg" />
 <br>
 :::
 
 ::: tip Rybinová skladba
 <br>
-<img class="centered_image" src="/images/pos/18/rybina_vlysy.webp" />
+<img class="centered_image" src="/images/pos/18/rybina_vlysy.jpg" />
 <br>
 :::
 
@@ -181,7 +181,7 @@ skládá se z tabulí o rozměrech 300 x 300 mm až 600 x 600 mm, o tloušťce 9
 
 ::: tip Parkety
 <br>
-<img class="centered_image" src="/images/pos/18/parkety.webp" />
+<img class="centered_image" src="/images/pos/18/parkety.jpg" />
 <br>
 
 1. parketa vlysová 2. parketa mozaiková 3. parketa překližková
@@ -201,7 +201,7 @@ jsou vytvářeny z jednotlivých prvků tvaru lamel o šířce cca 150 mm a dél
 
 ::: tip Dlažby
 <br>
-<img class="centered_image" src="/images/pos/18/dlazby.webp" />
+<img class="centered_image" src="/images/pos/18/dlazby.jpg" />
 <br>
 :::
 
@@ -219,7 +219,7 @@ používají se v průmyslových objektech ve skladech, výrobních halách a ta
 
 ::: tip Betonová dlažba
 <br>
-<img class="centered_image" src="/images/pos/18/betonova-dlazba.webp" />
+<img class="centered_image" src="/images/pos/18/betonova-dlazba.jpg" />
 <br>
 :::
 
@@ -255,7 +255,7 @@ je poloteplá podlahovina, která se uplatňuje v bytové a občanské výstavb�
 
 ::: tip Mazaniny
 <br>
-<img class="centered_image" src="/images/pos/18/mazaniny.webp" />
+<img class="centered_image" src="/images/pos/18/mazaniny.jpg" />
 <br>
 :::
 
@@ -278,7 +278,7 @@ Provádí se jednovrstvá nebo dvouvrstvá ze vzdušného práškového pojiva (
 se strojně.
 ::: tip Anhydritová mazanina
 <br>
-<img class="centered_image" src="/images/pos/18/anhydrit-podlaha.webp" />
+<img class="centered_image" src="/images/pos/18/anhydrit-podlaha.jpg" />
 <br>
 :::
 
@@ -286,7 +286,7 @@ se strojně.
 
 ::: tip Krytiny
 <br>
-<img class="centered_image" src="/images/pos/18/krytiny.webp" />
+<img class="centered_image" src="/images/pos/18/krytiny.jpg" />
 <br>
 :::
 

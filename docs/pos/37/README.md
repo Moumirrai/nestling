@@ -9,7 +9,7 @@ pageClass: default-page
 - ovlivněno byzatským stylem
 - navazuje na kulturu antického Říma
 
-<img class="centered_image" src="/images/pos/37/romanska.webp" />
+<img class="centered_image" src="/images/pos/37/romanska.jpg" />
 
 ---
 
@@ -20,6 +20,6 @@ pageClass: default-page
 - období vrchoného a pozdního středověku
 - Název „gotika“ zavedli italští humanisté, kteří ji mylně spojovali s Góty, jejichž umění bylo považováno za barbarské
 
-<img class="centered_image" src="/images/pos/37/gotika.webp" />
+<img class="centered_image" src="/images/pos/37/gotika.jpg" />
 
 ---

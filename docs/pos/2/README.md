@@ -29,7 +29,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 | Jednostupňové                         | Dvoustupňové                         | Tvaru komolého jehlanu                     |
 | ------------------------------------- | ------------------------------------ | ------------------------------------------ |
-| ![jednostupnove](/images/pos/2/1.webp) | ![dvoustupnove](/images/pos/2/2.webp) | ![tvar-komol-jehlanu](/images/pos/2/3.webp) |
+| ![jednostupnove](/images/pos/2/1.jpg) | ![dvoustupnove](/images/pos/2/2.jpg) | ![tvar-komol-jehlanu](/images/pos/2/3.jpg) |
 
 #### Podle technologie provádění se dělí na:
 
@@ -43,7 +43,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - Jednostupňové se zhotovují do výšky kolem 350 mm, ostatní 400mm a více.
 
 <br>
-<img class="centered_image" src="/images/pos/2/4.webp" />
+<img class="centered_image" src="/images/pos/2/4.jpg" />
 
 ##### Patky z monolitického železobetonu
 
@@ -56,7 +56,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - betonují se do bednění → rozšíření výkopu o pracovní prostor
 
 <br>
-<img class="centered_image" src="/images/pos/2/5.webp" />
+<img class="centered_image" src="/images/pos/2/5.jpg" />
 
 ##### Patky prefabrikované
 
@@ -67,7 +67,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - Kalichové patky mají otvor (kalich), do kterého se osadí a zabetonuje prefa. sloup
 
 <br>
-<img class="centered_image" src="/images/pos/2/6.webp" />
+<img class="centered_image" src="/images/pos/2/6.jpg" />
 
 ### Pásy
 
@@ -75,7 +75,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - mohou být obdélníkové, nebo lichoběžníkové ve tvaru obráceného písmene T
 
 <br>
-<img class="centered_image" src="/images/pos/2/7.webp" />
+<img class="centered_image" src="/images/pos/2/7.jpg" />
 
 #### Podle materiálu se dělí na:
 
@@ -105,7 +105,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - komplokovanější než prosté vylitíé betonu
 
 <br>
-<img class="centered_image" src="/images/pos/2/8.webp" />
+<img class="centered_image" src="/images/pos/2/8.jpg" />
 
 ### Rošty
 
@@ -116,7 +116,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - mají stejné průřezy jako pásy
 
 <br>
-<img class="centered_image" src="/images/pos/2/9.webp" />
+<img class="centered_image" src="/images/pos/2/9.jpg" />
 
 ### Desky
 
@@ -153,7 +153,7 @@ _V současné době se při výstavbě základových desek u nepodsklepených bu
 - jsou v místě sloupů zesíleny hřibovými hlavicemi
 
 <br>
-<img class="centered_image" src="/images/pos/2/10.webp" />
+<img class="centered_image" src="/images/pos/2/10.jpg" />
 
 ## Hlubinné základy
 
@@ -175,11 +175,11 @@ Při hlubinném zakládání se zatížení stavby přenáší do hlubších ún
 
 | PILOTY                                 | ŠACHOTVÉ PILÍŘE                        |
 | -------------------------------------- | -------------------------------------- |
-| <img class="centered_image" src="/images/pos/2/11.webp" /> | <img class="centered_image" src="/images/pos/2/12.webp" /> |
+| <img class="centered_image" src="/images/pos/2/11.jpg" /> | <img class="centered_image" src="/images/pos/2/12.jpg" /> |
 
 | ZÁKLADOVÉ STUDNY                       | KESONY                                 |
 | -------------------------------------- | -------------------------------------- |
-| <img class="centered_image" src="/images/pos/2/13.webp" /> | <img class="centered_image" src="/images/pos/2/14.webp" /> |
+| <img class="centered_image" src="/images/pos/2/13.jpg" /> | <img class="centered_image" src="/images/pos/2/14.jpg" /> |
 
 ## Opravy základů
 
@@ -202,7 +202,7 @@ Při založení do zámrzné hloubky dochází při zmrznutí zeminy k nadzvednu
 - k sousednímu záběru se lze vrátit za 5 – 7 dní
 
 <br>
-<img class="centered_image" src="/images/pos/2/15.webp" />
+<img class="centered_image" src="/images/pos/2/15.jpg" />
 
 ### Rozšiřování základů
 
@@ -213,9 +213,9 @@ Příčinou je zvýšení zatížení na základovou spáru. O způsobu zvyšov�
 - podezděním a podvlečením ocelových nosníků
 
 <br>
-<img class="centered_image" src="/images/pos/2/16.webp" />
+<img class="centered_image" src="/images/pos/2/16.jpg" />
 
 - pomocí železobetonových příložek
 
 <br>
-<img class="centered_image" src="/images/pos/2/17.webp" />
+<img class="centered_image" src="/images/pos/2/17.jpg" />

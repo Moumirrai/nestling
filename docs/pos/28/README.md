@@ -28,7 +28,7 @@ pageClass: default-page
 
 ::: tip Řez svislé kanalizace
 <br>
-<img class="centered_image" src="/images/pos/28/rez_svisla_kanalizace.png" />
+<img class="centered_image" src="/images/pos/28/rez_svisla_kanalizace.jpg" />
 
 1 – uliční stoka, 2 – hlavní svod, 3 – revizní šachta, 4 – dvorní vpust, 5 – vedlejší svody, 6 – odpadní potrubí, 7 –připojovací potrubí, 8 – větrací potrubí, 9 – větrací nástavec, 10 – čistící tvarovka, 11 – lapač splavenin, 12 – napojení dešťového odpadu, 13 – dešťový odpad
 :::
@@ -39,7 +39,7 @@ pageClass: default-page
 
 ::: tip Ležatá kanalizace
 <br>
-<img class="centered_image" src="/images/pos/28/lezeta_kanalizace.png" />
+<img class="centered_image" src="/images/pos/28/lezeta_kanalizace.jpg" />
 
 1 – vyústění z budovy, 2 – hlavní svod, 3 – odbočky k připojení vedlejších svodů, 4 – čistící tvarovka, 5 – oblouky pro změny směru, 6-8 – vedlejší svody
 :::
@@ -56,14 +56,14 @@ Kanalizační přípojka je podzemní potrubí spojující vnitřní kanalizaci 
 
 ::: tip Přípojka
 <br>
-<img class="centered_image" src="/images/pos/28/pripojka_schema.png" />
+<img class="centered_image" src="/images/pos/28/pripojka_schema.jpg" />
 
  1 – uliční stoka, 2 – kanalizační přípojka, 3 – vnitřní kanalizace, 4 – revizní šachta, 5 – hranice pozemku
 :::
 
 ::: tip Detail přípojky
 <br>
-<img class="centered_image" src="/images/pos/28/pripojka_detail.png" />
+<img class="centered_image" src="/images/pos/28/pripojka_detail.jpg" />
 <br>
 :::
 
