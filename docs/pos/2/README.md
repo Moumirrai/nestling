@@ -29,7 +29,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 | Jednostupňové                         | Dvoustupňové                         | Tvaru komolého jehlanu                     |
 | ------------------------------------- | ------------------------------------ | ------------------------------------------ |
-| ![jednostupnove](/images/pos/1/1.png) | ![dvoustupnove](/images/pos/1/2.png) | ![tvar-komol-jehlanu](/images/pos/1/3.png) |
+| ![jednostupnove](/images/pos/2/1.webp) | ![dvoustupnove](/images/pos/2/2.webp) | ![tvar-komol-jehlanu](/images/pos/2/3.webp) |
 
 #### Podle technologie provádění se dělí na:
 
@@ -42,9 +42,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - Roznášecí úhel patek je obvykle **60°**.
 - Jednostupňové se zhotovují do výšky kolem 350 mm, ostatní 400mm a více.
 
-<p align="center">
-  <img src="/images/pos/1/4.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/4.webp" />
 
 ##### Patky z monolitického železobetonu
 
@@ -56,9 +55,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - Roznášecí úhel patek je obvykle **45°** až **30°**.
 - betonují se do bednění → rozšíření výkopu o pracovní prostor
 
-<p align="center">
-  <img src="/images/pos/1/5.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/5.webp" />
 
 ##### Patky prefabrikované
 
@@ -68,18 +66,16 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - ukládají se na štěrkopískovou vrstvu, mazaninu, nebo roznášecí desku
 - Kalichové patky mají otvor (kalich), do kterého se osadí a zabetonuje prefa. sloup
 
-<p align="center">
-  <img src="/images/pos/1/6.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/6.webp" />
 
 ### Pásy
 
 - používají se tam, kde je **nestejnorodá základová půda**, ve které by mohlo dojít k sedání budovy, nebo tam kde by **rozměry základových patek** byly neúměrně velké a tudíž **neekonomické**. Dále se používají v **poddolovaném území** nebo sesuvných oblastech, kde je nutné zajistit vodorovnou tuhost základů.
 - mohou být obdélníkové, nebo lichoběžníkové ve tvaru obráceného písmene T
 
-<p align="center">
-  <img src="/images/pos/1/7.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/7.webp" />
 
 #### Podle materiálu se dělí na:
 
@@ -108,9 +104,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - lze betonovat do ztraceného bednění
 - komplokovanější než prosté vylitíé betonu
 
-<p align="center">
-  <img src="/images/pos/1/8.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/8.webp" />
 
 ### Rošty
 
@@ -120,9 +115,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - jsou vhodné jak pod stěny tak pod sloupy
 - mají stejné průřezy jako pásy
 
-<p align="center">
-  <img src="/images/pos/1/9.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/9.webp" />
 
 ### Desky
 
@@ -158,9 +152,8 @@ _V současné době se při výstavbě základových desek u nepodsklepených bu
 
 - jsou v místě sloupů zesíleny hřibovými hlavicemi
 
-<p align="center">
-  <img src="/images/pos/1/10.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/10.webp" />
 
 ## Hlubinné základy
 
@@ -182,9 +175,11 @@ Při hlubinném zakládání se zatížení stavby přenáší do hlubších ún
 
 | PILOTY                                 | ŠACHOTVÉ PILÍŘE                        |
 | -------------------------------------- | -------------------------------------- |
-| ![jednostupnove](/images/pos/1/11.png) | ![jednostupnove](/images/pos/1/12.png) |
+| <img class="centered_image" src="/images/pos/2/11.webp" /> | <img class="centered_image" src="/images/pos/2/12.webp" /> |
+
 | ZÁKLADOVÉ STUDNY                       | KESONY                                 |
-| ![jednostupnove](/images/pos/1/13.png) | ![jednostupnove](/images/pos/1/14.png) |
+| -------------------------------------- | -------------------------------------- |
+| <img class="centered_image" src="/images/pos/2/13.webp" /> | <img class="centered_image" src="/images/pos/2/14.webp" /> |
 
 ## Opravy základů
 
@@ -206,9 +201,8 @@ Při založení do zámrzné hloubky dochází při zmrznutí zeminy k nadzvednu
 - nové zdivo ke starému základu důkladně uklínovat
 - k sousednímu záběru se lze vrátit za 5 – 7 dní
 
-<p align="center">
-  <img src="/images/pos/1/15.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/15.webp" />
 
 ### Rozšiřování základů
 
@@ -218,12 +212,10 @@ Příčinou je zvýšení zatížení na základovou spáru. O způsobu zvyšov�
 
 - podezděním a podvlečením ocelových nosníků
 
-<p align="center">
-  <img src="/images/pos/1/16.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/16.webp" />
 
 - pomocí železobetonových příložek
 
-<p align="center">
-  <img src="/images/pos/1/17.png" />
-</p>
+<br>
+<img class="centered_image" src="/images/pos/2/17.webp" />

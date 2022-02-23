@@ -1,7 +1,0 @@
-import{r as o,o as d,c as i,a as e,e as t,w as n,F as r,d as p,b as s}from"./app.683fe3b7.js";import{_}from"./plugin-vue_export-helper.21dcd24c.js";const u={},m=p('<h1 id="_5-stropni-kce-drevene" tabindex="-1"><a class="header-anchor" href="#_5-stropni-kce-drevene" aria-hidden="true">#</a> 5. STROPN\xCD KCE D\u0158EV\u011AN\xC9</h1><div class="custom-container tip"><p class="custom-container-title">TIP</p><p>sem se d\xE1 napst pozm\xE1nka</p></div><div class="custom-container warning"><p class="custom-container-title">Sem se d\xE1 taky napst cokoliv</p><ul><li>sem se d\xE1 napst pozm\xE1nka <ul><li>nebo cokoliv jin\xE9ho</li></ul></li></ul></div>',3),x=s("Taky se d\xE1 ud\u011Blat "),h=s(),v=s(", "),g=e("div",{class:"language-text ext-text"},[e("pre",{class:"language-text"},[e("code",null,`1) a
-2) b
-3) c
-`)])],-1),k=e("div",{class:"language-text ext-text"},[e("pre",{class:"language-text"},[e("code",null,`1) d
-2) e
-3) f
-`)])],-1);function f(N,C){const a=o("Badge"),c=o("CodeGroupItem"),l=o("CodeGroup");return d(),i(r,null,[m,e("p",null,[x,t(a,{type:"tip",text:"pozn\xE1mka",vertical:"middle"}),h,t(a,{type:"warning",text:"t\u0159eba takto",vertical:"middle"}),v,t(a,{type:"danger",text:"nebo takto",vertical:"middle"})]),t(l,null,{default:n(()=>[t(c,{title:"PRVN\xCD MO\u017DNOST"},{default:n(()=>[g]),_:1}),t(c,{title:"DRUH\xC1 MO\u017DNOST"},{default:n(()=>[k]),_:1})]),_:1})],64)}var V=_(u,[["render",f]]);export{V as default};

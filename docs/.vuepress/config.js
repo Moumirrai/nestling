@@ -92,7 +92,7 @@ module.exports = {
       "/stk/": [
         {
           text: "Stavební mechanika",
-          children: ["/stk/1/", "/stk/2/"],
+          children: ["/stk/1/"],
         },
       ],
     },
