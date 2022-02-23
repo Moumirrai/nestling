@@ -1,1 +1,0 @@
-const e={key:"v-5293f756",path:"/pos/16/",title:"16. P\u0158EVISL\xC9 A USTUPUJ\xCDC\xCD KCE",lang:"cs",frontmatter:{pageClass:"default-page"},excerpt:"",headers:[],filePathRelative:"pos/16/README.md"};export{e as data};

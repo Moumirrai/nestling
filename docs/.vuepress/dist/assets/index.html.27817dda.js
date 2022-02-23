@@ -1,1 +1,0 @@
-const e={key:"v-5293fed8",path:"/pos/36/",title:"36. ANTIKA",lang:"cs",frontmatter:{pageClass:"default-page"},excerpt:"",headers:[{level:2,title:"\u0158eck\xE1 Antika",slug:"recka-antika",children:[]},{level:2,title:"\u0158\xEDmsk\xE1 antika",slug:"rimska-antika",children:[]}],filePathRelative:"pos/36/README.md"};export{e as data};
