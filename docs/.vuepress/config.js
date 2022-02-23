@@ -137,21 +137,7 @@ module.exports = {
     }],
     ['@vuepress/pwa',
     {
-      skipWaiting: false,
+      skipWaiting: true,
     }],
-    [
-      '@vuepress/plugin-pwa-popup',
-      {
-        message: 'Nové otázky dostupné ke stažení!',
-        buttonText: 'Stáhnout offline',
-        locales: {
-          '/': {
-            message: 'Nové otázky dostupné ke stažení!',
-            buttonText: 'Stáhnout offline',
-          },
-        },
-        
-      },
-    ],
   ],
 };
