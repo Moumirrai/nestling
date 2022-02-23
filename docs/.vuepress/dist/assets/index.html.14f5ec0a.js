@@ -1,1 +1,0 @@
-const e={key:"v-e1e5eea8",path:"/pos/7/",title:"7. STROPN\xCD KCE \u017DELEZOBETONOV\xC9 MONOLITICK\xC9",lang:"cs",frontmatter:{pageClass:"question-page"},excerpt:"",headers:[],filePathRelative:"pos/7/README.md"};export{e as data};

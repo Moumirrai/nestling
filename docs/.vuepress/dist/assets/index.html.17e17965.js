@@ -1,1 +1,0 @@
-const t={key:"v-8daa1a0e",path:"/",title:"",lang:"cs",frontmatter:{pageClass:"home_page"},excerpt:"",headers:[{level:2,title:"Maturitn\xED ot\xE1zky",slug:"maturitni-otazky",children:[]}],filePathRelative:"README.md"};export{t as data};

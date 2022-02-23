@@ -1,0 +1,1 @@
+const e={key:"v-d7233748",path:"/stk/1/",title:"STK 1 ot\xE1zka",lang:"cs",frontmatter:{pageClass:"default-page"},excerpt:"",headers:[{level:2,title:"Mockup",slug:"mockup",children:[]}],filePathRelative:"stk/1/README.md"};export{e as data};

@@ -1,5 +1,5 @@
 ---
-pageClass: question-page
+pageClass: default-page
 bude_dělat: Tesík
 ---
 

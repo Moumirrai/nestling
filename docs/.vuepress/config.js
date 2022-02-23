@@ -49,7 +49,9 @@ module.exports = {
             /*
             "/pos/3/",
             "/pos/4/",
+            */
             "/pos/5/",
+            /*
             "/pos/6/",
             "/pos/7/",
             "/pos/8/",
@@ -133,10 +135,15 @@ module.exports = {
         scrollOffset: 40,
       }
     }],
-    ['@vuepress/plugin-pwa'],
+    ['@vuepress/pwa',
+    {
+      skipWaiting: false,
+    }],
     [
       '@vuepress/plugin-pwa-popup',
       {
+        message: 'Nové otázky dostupné ke stažení!',
+        buttonText: 'Stáhnout offline',
         locales: {
           '/': {
             message: 'Nové otázky dostupné ke stažení!',

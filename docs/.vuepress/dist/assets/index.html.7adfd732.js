@@ -1,0 +1,1 @@
+const e={key:"v-5293fa5d",path:"/pos/20/",title:"20. IZOLACE TEPELN\xC9, ZVUKOV\xC9 A PROTI OT\u0158ES\u016EM",lang:"cs",frontmatter:{pageClass:"default-page"},excerpt:"",headers:[],filePathRelative:"pos/20/README.md"};export{e as data};

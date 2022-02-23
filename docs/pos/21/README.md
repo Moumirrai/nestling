@@ -1,4 +1,4 @@
 ---
-pageClass: question-page
+pageClass: default-page
 ---
 # 21. IZOLACE PROTI VODĚ A ZEMNÍ VLKOSTI, OCHRANA STAVEB PROTI RADONU

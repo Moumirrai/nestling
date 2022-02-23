@@ -1,1 +1,0 @@
-const e={key:"v-5293fa7c",path:"/pos/21/",title:"21. IZOLACE PROTI VOD\u011A A ZEMN\xCD VLKOSTI, OCHRANA STAVEB PROTI RADONU",lang:"cs",frontmatter:{pageClass:"question-page"},excerpt:"",headers:[],filePathRelative:"pos/21/README.md"};export{e as data};

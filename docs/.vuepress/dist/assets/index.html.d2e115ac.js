@@ -1,1 +1,0 @@
-const e={key:"v-5293f775",path:"/pos/17/",title:"17. KOM\xCDNY A VENTILA\u010CN\xCD PR\u016EDUCHY",lang:"cs",frontmatter:{pageClass:"question-page"},excerpt:"",headers:[],filePathRelative:"pos/17/README.md"};export{e as data};

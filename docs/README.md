@@ -1,15 +1,14 @@
 ---
-pageClass: home_page
+pageClass: default-page
 ---
 <p align="center">
 
 ## Maturitní otázky
 
-<div class="link_underline"><RouterLink to="/pos/1/">POZEMNÍ STAVITELSTVÍ</RouterLink></div>
-
-<br>
-<div class="link_underline"><RouterLink to="/stk/1/">STAVEBNÍ MECHANIKA</RouterLink></div>
-<br>
+<div class="buttons">
+  <button @click="$router.push('/pos/1/')" class="primary_button">POZEMNÍ STAVITELSTVÍ</button>
+  <button @click="$router.push('/stk/1/')" class="primary_button">STAVEBNÍ MECHANIKA</button>
+</div>
 <br>
 
 

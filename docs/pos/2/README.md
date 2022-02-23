@@ -1,5 +1,5 @@
 ---
-pageClass: question-page
+pageClass: default-page
 ---
 # 2. ZÁKLADOVÉ KONSTRUKCE
 

@@ -1,5 +1,5 @@
 ---
-pageClass: question-page
+pageClass: default-page
 ---
 # 1. ZEMNÍ PRÁCE
 

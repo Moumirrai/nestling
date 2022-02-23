@@ -1,5 +1,5 @@
 ---
-pageClass: question-page
+pageClass: default-page
 ---
 # STK 1 otázka
 

@@ -1,5 +1,5 @@
 ---
-pageClass: question-page
+pageClass: default-page
 ---
 # 37. ROMÁNSKÁ ARCHITEKTURA A GOTIKA
 
@@ -9,7 +9,7 @@ pageClass: question-page
 - ovlivněno byzatským stylem
 - navazuje na kulturu antického Říma
 
-<img class="centered_image" src="/images/pos/37/romanska.png" />
+<img class="centered_image" src="/images/pos/37/romanska.webp" />
 
 ---
 
@@ -20,6 +20,6 @@ pageClass: question-page
 - období vrchoného a pozdního středověku
 - Název „gotika“ zavedli italští humanisté, kteří ji mylně spojovali s Góty, jejichž umění bylo považováno za barbarské
 
-<img class="centered_image" src="/images/pos/37/gotika.png" />
+<img class="centered_image" src="/images/pos/37/gotika.webp" />
 
 ---

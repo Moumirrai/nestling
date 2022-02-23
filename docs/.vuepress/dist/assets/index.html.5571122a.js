@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t,b as o}from"./app.83fcdc82.js";import{_ as r}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"_13-zabradli",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#_13-zabradli","aria-hidden":"true"},"#",-1),d=o(" 13. Z\xC1BRADL\xCD"),n=[_,d];function i(h,f){return e(),a("h1",c,n)}var x=r(s,[["render",i]]);export{x as default};

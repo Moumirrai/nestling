@@ -1,0 +1,1 @@
+const e={key:"v-5293feb9",path:"/pos/35/",title:"30. REKONSTRUKCE - DODATE\u010CN\xC9 OTVORY, TRHLINY VE SVISL\xDDCH KC\xCD",lang:"cs",frontmatter:{pageClass:"default-page",bude_d\u011Blat:"Kolb\xE1bek"},excerpt:"",headers:[],filePathRelative:"pos/35/README.md"};export{e as data};
