@@ -11,6 +11,6 @@ Pokud tato možnost není pro vás a chcete pouze poskytnou matriály, nahrání
 
 <div class="buttons">
   <a href="/other/template.docx" target="_blank" class="secondary_button">STÁHNOUT VZOR</a>
-  <a href="/other/template.docx" target="_blank" class="upload_button">NAHRÁT</a>
+  <a href="https://mega.nz/megadrop/kqKInvroV94" target="_blank" class="upload_button">NAHRÁT</a>
 </div>
 <br>
