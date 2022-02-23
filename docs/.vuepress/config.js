@@ -6,7 +6,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: `/images/icons/logo.png` }],
     ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
-    ['meta', { name: 'theme-color', content: '#ffcc00' }],
+    ['meta', { name: 'theme-color', content: '#22272e' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     [
       'meta',
