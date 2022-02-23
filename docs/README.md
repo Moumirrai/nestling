@@ -1,5 +1,7 @@
 ---
 pageClass: default-page
+editLink: false
+contributors: false
 ---
 <p align="center">
 

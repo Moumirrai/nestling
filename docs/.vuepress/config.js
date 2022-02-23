@@ -109,8 +109,13 @@ module.exports = {
     ],
     repo: "/Moumirrai/nestling",
     displayAllHeaders: false,
-    editLink: false,
-    contributors: false,
+    editLink: true,
+    editLinkText: "Upravit stránku",
+    docsRepo: 'https://github.com/Moumirrai/nestling',
+    docsBranch: 'master',
+    docsDir: 'docs',
+    editLinkPattern: ':repo/edit/:branch/:path',
+    contributors: true,
     themePlugins: {
       mediumZoom: true,
     }
