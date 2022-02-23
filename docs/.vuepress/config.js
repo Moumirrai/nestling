@@ -1,3 +1,4 @@
+require('dotenv').config();
 module.exports = {
   // site config
   lang: "cs",
@@ -139,5 +140,11 @@ module.exports = {
     {
       skipWaiting: true,
     }],
+    [
+      '@vuepress/plugin-google-analytics',
+      {
+        id: process.env.GOOGLE_ANALYTICS_ID,
+      },
+    ],
   ],
 };

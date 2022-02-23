@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.35",
     "@vuepress/plugin-medium-zoom": "^2.0.0-beta.35",
     "@vuepress/plugin-pwa": "^2.0.0-beta.35",
     "@vuepress/plugin-pwa-popup": "^2.0.0-beta.35",
@@ -20,6 +21,7 @@
     "vuepress-plugin-smooth-scroll": "^0.0.10"
   },
   "dependencies": {
-    "@renovamen/vuepress-plugin-katex": "^2.0.0-alpha.10"
+    "@renovamen/vuepress-plugin-katex": "^2.0.0-alpha.10",
+    "dotenv": "^16.0.0"
   }
 }
