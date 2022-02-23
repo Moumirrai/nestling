@@ -48,7 +48,7 @@ pageClass: default-page
 
 - čára spojující přední hrany stupňů v ose výstupu
 
-<img class="centered_image" src="/images/pos/9/nazvoslovi.webp" />
+<img class="centered_image" src="/images/pos/9/nazvoslovi.jpg" />
 
 
 ## Rozdělení
@@ -101,7 +101,7 @@ pageClass: default-page
 
 - **KONZOLOVITĚ VETKNUTÁ**
   
-<img class="centered_image" src="/images/pos/9/rozdeleni_konstrukce.webp" />
+<img class="centered_image" src="/images/pos/9/rozdeleni_konstrukce.jpg" />
 
 ### Podle materiálu
 
@@ -154,7 +154,7 @@ $š$ - šířka stupně
 
 
 
-<img class="centered_image" src="/images/pos/9/navrh_stupne.webp" />
+<img class="centered_image" src="/images/pos/9/navrh_stupne.jpg" />
 
 ### Podchodná výška
 
@@ -168,7 +168,7 @@ $\alpha$ = sklon schodišťového ramene
 
 - **minimální podchodná výška je** <Badge type="warning" text="2100 mm" vertical="middle" />
   
-<img class="centered_image" src="/images/pos/9/podchodna_vyska.webp" />
+<img class="centered_image" src="/images/pos/9/podchodna_vyska.jpg" />
 
 ### Průchodná výška
 ::: tip VZOREC
@@ -181,4 +181,4 @@ $\alpha$ - sklon schodišťového ramene
 
 - **minimální průchodná výška je** <Badge type="warning" text="1900 mm" vertical="middle" />
 
-<img class="centered_image" src="/images/pos/9/pruchodna_vyska.webp" />
+<img class="centered_image" src="/images/pos/9/pruchodna_vyska.jpg" />
