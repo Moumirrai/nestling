@@ -10,6 +10,18 @@
   --pwa-popup-btn-text-color: #ffffff;
   --pwa-popup-btn-bg-color: #ffcc00;
   --pwa-popup-btn-hover-bg-color: #ffdb4a;
+
+  --c-warning: #e7c000;
+  --c-warning-bg: #fffae3;
+  --c-warning-title: #3a3000;
+  --c-warning-text: #746000;
+  --c-warning-text-accent: var(--c-text);
+  --c-danger-bg: #fff6f6;
+  --c-danger-title: #ff2e2e;
+  --c-danger-text: #460606;
+  --c-danger-text-accent: var(--c-text);
+  --c-details-bg: #eeeeee;
+
   ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
@@ -46,14 +58,14 @@ html.dark {
 
   // custom container colors
   --c-tip: #318a62;
-  --c-warning: #ceab00;
-  --c-warning-bg: #7e755b;
-  --c-warning-title: #ceac03;
-  --c-warning-text: #362e00;
-  --c-danger: #940000;
-  --c-danger-bg: #806161;
-  --c-danger-title: #610000;
-  --c-danger-text: #3a0000;
+  --c-warning: #ffd500;
+  --c-warning-bg: #2b313a;
+  --c-warning-title: #ffdd34;
+  --c-warning-text: #adbac7;
+  --c-danger: #ff0000;
+  --c-danger-bg: #2b313a;
+  --c-danger-title: #ff4b4b;
+  --c-danger-text: #adbac7;
   --c-details-bg: #323843;
 
   // code blocks vars

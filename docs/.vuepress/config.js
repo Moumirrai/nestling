@@ -1,3 +1,4 @@
+const path = require('path')
 module.exports = {
   // site config
   lang: "cs",
@@ -35,7 +36,7 @@ module.exports = {
   ],
 
   // theme and its config
-  theme: "@vuepress/theme-default",
+  theme: path.resolve(__dirname, './theme'),
   themeConfig: {
     logo: '/images/icons/logo.png',
     lastUpdated: false,
