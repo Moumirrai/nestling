@@ -1,7 +1,9 @@
 ---
 pageClass: default-page
 ---
+
 # 38. RENESACE A BAROKO
+
 ## Renesační architektura
 
 - 14 - 16. století
@@ -11,6 +13,7 @@ pageClass: default-page
 - navazuje na kulturu antického Říma
 
 :::tip TYPYCKÉ ZNAKY
+
 - otvory většinou obdélnékové
 - časté využití cihel
 - omítání a zdobení štukem či mramorovými obklady
@@ -19,31 +22,36 @@ pageClass: default-page
 - atika
 - kupole
 - arkáda
-:::
+  :::
 
 :::warning TYPICKÉ STAVBY
+
 - Předměstské vily
 - Zámky
 - Paláce
 - Radnice
-:::
+  :::
 
 :::danger PAMÁTKY
 V EVROPĚ
+
 - Dóm ve Florencii
 - Dóm sv. Petra v Římě
 - zámek Amboise (Francie)
+
 ---
+
 V ČR
+
 - zámek Červená Lhota
 - náměstí v Telči
-<img class="centered_image" src="/images/pos/38/telc.jpg" />
-<br>
+  <img class="centered_image" src="/images/pos/38/telc.jpg" />
+  <br>
 - Letohrádek Hvězda
 - Dům pánů z Lipé (Brno)
-<img class="centered_image" src="/images/pos/38/dum-panu-z-lipe.jpg" />
+  <img class="centered_image" src="/images/pos/38/dum-panu-z-lipe.jpg" />
 - zámek v Litomyšli
-:::
+  :::
 
 <br>
 <img class="centered_image" src="/images/pos/38/1.jpg" />
@@ -63,28 +71,33 @@ V ČR
 - snaha o porušení pravidelnosti
 
 :::tip TYPYCKÉ ZNAKY
+
 - nepravidelné a složité půdorysy
 - cihelné stavby
 - zdobené střešní štíty
 - stšny zdobeny silnou vrstvou štuku
 - časté užití klenby (křížová, klášterní, kupole)
-:::
+  :::
 
 :::danger PAMÁTKY
 V EVROPĚ
+
 - kostel sv. Karla Boromejského ve Vídni
 - Chrám v Drážďanech
+
 ---
+
 V ČR
+
 - Sloup Nejsvětější Trojice v Olomouci
 - Arcibiskupský palác v Kroměříži
-<img class="centered_image" src="/images/pos/38/kromeriz.jpg" />
-<br>
+  <img class="centered_image" src="/images/pos/38/kromeriz.jpg" />
+  <br>
 - Kašna Parnas na Zelném trhu (Brno)
 - Kostel sv. Tomáše na Moravském náměstí (Brno)
-<img class="centered_image" src="/images/pos/38/svaty-tomas.jpg" />
-<br>
-:::
+  <img class="centered_image" src="/images/pos/38/svaty-tomas.jpg" />
+  <br>
+  :::
 
 <img class="centered_image" src="/images/pos/38/baroko.jpg" />
 <br>
@@ -95,7 +108,8 @@ V ČR
 <img class="centered_image" src="/images/pos/38/5.jpg" />
 <br>
 
-***
+---
+
 <br>
 
 <div class="videoWrapper">
