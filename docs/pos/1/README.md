@@ -31,6 +31,7 @@ Na základě těchto ůdajů se určí **vhodnost** staveniště.
 - krajinná nebo přírodní rezervace
 - území s neůnosnou (jílovitou) půdou
 
+
 ### Vhodná staveniště
 - s únosnou a nestlačitelnou půdou
 - nepříliš svažitá území
@@ -52,3 +53,5 @@ Na základě těchto ůdajů se určí **vhodnost** staveniště.
 
 
 TODO:přeházet nadpisy a kategorie, dodělat zbytek
+
+sdkjhfgb
