@@ -47,8 +47,8 @@ module.exports = {
           children: [
             "/pos/1/",
             "/pos/2/",
-            /*
             "/pos/3/",
+            /*
             "/pos/4/",
             */
             "/pos/5/",
@@ -86,9 +86,11 @@ module.exports = {
             /*
             "/pos/29/",
             "/pos/30/",
-            */
             "/pos/36/",
+            */
             "/pos/37/",
+            "/pos/38/",
+            "/pos/39/",
           ],
         },
       ],
