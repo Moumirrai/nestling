@@ -101,6 +101,9 @@ html.dark {
   h3 {
     color: var(--c-brand);
   }
+  strong {
+    color: var(--c-brand)
+  }
   /*
   h4 {
     color: var(--c-heading-4)
@@ -109,7 +112,6 @@ html.dark {
     color: var(--c-heading-5)
   }
   */
-
   .upload_button {
     background-color: #ff6464;
     border: 2px solid #ff6464;
