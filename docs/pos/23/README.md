@@ -4,10 +4,22 @@ pageClass: default-page
 
 # 23. ZÁMEČNICKÉ VÝROBKY
 
-jsou to doplňkové stavební konstrukce
+- jsou to doplňkové stavební konstrukce
 
-pratří sem (kovové) okna, dveře, vrata, světlíky, plechové stěny, výlohy, zábradlí, stavební kování, výtahové ohrazení...
+- pratří sem (kovové) okna, dveře, vrata, světlíky, plechové stěny, výlohy, zábradlí, stavební kování, výtahové ohrazení...
 
 ## materiály
 
-jako materiáli se používají profily válcované za tepla, tenkostěnné uzavřené a otevřené profily, konstrukční a bezešvé trubky a plech
+- jako materiáli se používají profily válcované za tepla, tenkostěnné uzavřené a otevřené profily, konstrukční a bezešvé trubky a plech.
+
+### základní materiáli:
+
+- ocel
+
+- hliník ( a jeho slitiny)
+
+- kombinované
+
+## kovová okna
+
+asf
