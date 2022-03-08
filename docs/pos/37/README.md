@@ -22,7 +22,7 @@ pageClass: default-page
 
 :::warning TYPICKÉ STAVBY
 - Rotundy
-    - kruhový půdorys
+    - kruhová půdorys
     - kuželovité střechy
 - Kostely
 - Baziliky
@@ -65,7 +65,7 @@ V ČR
 - Křížová a klášterní klenba
 <img class="centered_image" src="/images/pos/37/krizova_klenba.jpg" />
 <br>
-- Složité vnější systémy pilířů a oblouků
+- Složitá vnější systém pilířů a oblouků
 :::
 
 :::warning TYPICKÉ STAVBY

@@ -1,7 +1,7 @@
 ---
 pageClass: default-page
 layout: FooBar
-home: false
+home: true
 editLink: false
 contributors: false
 ---
