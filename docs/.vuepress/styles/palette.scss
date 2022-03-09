@@ -12,13 +12,13 @@
   --pwa-popup-btn-hover-bg-color: #ffdb4a;
 
   --c-warning: #e7c000;
-  --c-warning-bg: #fffae3;
-  --c-warning-title: #3a3000;
-  --c-warning-text: #746000;
+  --c-warning-bg: #f3f4f5;
+  --c-warning-title: #2c3e50;
+  --c-warning-text: #2c3e50;
   --c-warning-text-accent: var(--c-text);
-  --c-danger-bg: #fff6f6;
+  --c-danger-bg: #f3f4f5;
   --c-danger-title: #ff2e2e;
-  --c-danger-text: #460606;
+  --c-danger-text: #2c3e50;
   --c-danger-text-accent: var(--c-text);
   --c-details-bg: #eeeeee;
 
@@ -101,6 +101,9 @@ html.dark {
   h3 {
     color: var(--c-brand);
   }
+  strong {
+    color: var(--c-brand)
+  }
   /*
   h4 {
     color: var(--c-heading-4)
@@ -109,7 +112,6 @@ html.dark {
     color: var(--c-heading-5)
   }
   */
-
   .upload_button {
     background-color: #ff6464;
     border: 2px solid #ff6464;
