@@ -11,6 +11,8 @@
   --pwa-popup-btn-bg-color: #ffcc00;
   --pwa-popup-btn-hover-bg-color: #ffdb4a;
 
+  --c-text-quote: #2c3e50;
+
   --c-warning: #e7c000;
   --c-warning-bg: #f3f4f5;
   --c-warning-title: #2c3e50;
@@ -51,6 +53,7 @@ html.dark {
   --c-text-light: #96a7b7;
   --c-text-lighter: #8b9eb0;
   --c-text-lightest: #8094a8;
+  --c-text-quote: #adbac7;
 
   // border colors
   --c-border: #3e4c5a;
@@ -58,6 +61,7 @@ html.dark {
 
   // custom container colors
   --c-tip: #318a62;
+  --c-tip-title: #318a62;
   --c-warning: #ffd500;
   --c-warning-bg: #2b313a;
   --c-warning-title: #ffdd34;
