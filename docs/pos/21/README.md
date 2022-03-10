@@ -45,6 +45,33 @@ pageClass: default-page
 >- kovové fólie
 >- pryžové fólie
 
+### Povlakové hydroizolace
+
+- Pásy z oxidovaných asfaltů
+   - tradiční
+   - cenově dostupné
+- Asfaltové pásy typu A
+    - bez krycí vrstvy
+- Asfaltové pásy typu R
+    - oboustranná krycí vrstva tl. 1 mm
+- Asfaltové pásy typu S
+    - oboustranná krycí vrstva tl. 2 mm
+- Pásy z modifikovaných asfaltů
+- Folie
+    - z měkčeného PVC
+    - na extrémě namáhavé hydroizolace a střechy
+
+### Nepovlakové hydroizolace
+
+- Vodostavební beton
+    - přísady na bázi vodního skla
+    - použití - bílá vana
+- Nátěrové systémy
+    - pouze proti zemní vlhkosti
+- Izolace vzduchovými dutinami
+    - náročné
+    - poze u rekonstrukce historických budov
+
 
 > TODO:delete
 >- druhy izolací proti vodě a zemní vlhkosti, materiály, konstrukce, provádění
