@@ -9,10 +9,6 @@ pageClass: default-page
 ## Secese
 
 - usilovalo se o tvorbu nového stylu
-- tvary rostlinného charakteru
-- otvory mají zdobené rohy
-- horní obrys staveb bávý zvlněný nebo obloučkový
-- pravoúhlý půdorys
 
 :::tip TYPYCKÉ ZNAKY
 
