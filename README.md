@@ -16,7 +16,7 @@ POS - OTÁZKY
 |   5    | @Fantastyk     | images ready |             |            |
 |   6    | @Moumirrai     |              |      X      |            |
 |   7    |                |              |             |            |
-|   8    |                |              |             |            |
+|   8    | @Moumirrai     |              |      X      |            |
 |   9    | @Moumirrai     |              |             |     X      |
 |   10   |                |              |             |            |
 |   11   |                |              |             |            |
@@ -29,7 +29,7 @@ POS - OTÁZKY
 |   18   | @siberiastronk |              |             |     X      |
 |   19   |                |              |             |            |
 |   20   |                |              |             |            |
-|   21   |                |              |             |            |
+|   21   | @Moumirrai     |              |      X      |            |
 |   22   |                |              |             |            |
 |   23   | @tomostronos   |              |             |            |
 |   24   |                |              |             |            |
@@ -53,4 +53,4 @@ POS - OTÁZKY
 |   42   |                |              |             |            |
 |   43   |                |              |             |            |
 |   44   |                |              |             |            |
-|  Sum   | 15/45 (33%)    |              |      4      | 8/45 (18%) |
+|  Sum   | 17/44 (38%)    |              |      6      | 8/44 (18%) |
