@@ -9,7 +9,7 @@ Dřevěné stropy se v minulosti běžně používaly v bytových, občanských 
 
 Dřevěné stropy jsou lehké a přitom únosné, mají dobré tepelně a zvukově izolační vlastnosti. Nevýhodou dřevěných stropů je malá požární odolnost, poměrně malá tuhost, velké průhyby stropů, špatné hydroizolační vlastnosti (výskyt houby a plísní).
 
-## Podle konstrukčního řešení dělíme dřevěné stropy na povalové, trámové a fošnové
+## Dělení podle konstrukce
 
 ### Stropy povalové
 
