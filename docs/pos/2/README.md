@@ -10,7 +10,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 ## Plošné základy
 
-- jsou neběžnejší
+- jsou nejběžnější
 - mají vodorovnou (horizontální) základovou spáru
 - roznášejí zatížení z vrchní stavby na větší plochu tak, aby byly splněny požadavky I. a II. skupiny mezních stavů
 - Mezi základy plošné patří **základové patky** , **pásy** , **rošty** a **desky**.
@@ -22,7 +22,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 
 - používají se pro skelety
-- vyžadují málo stlačitelnou půdů
+- vyžadují málo stlačitelnou půdu
 - maximální půdorysný rozměr se doporučuje 3x3 m
 
 #### Podle průřezu se patky dělí na:
@@ -47,7 +47,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 ##### Patky z monolitického železobetonu
 
-- navrhují se při **menší únosnosti půdy**, nebo při **vyskoé úrovni pozemní vody**
+- navrhují se při **menší únosnosti půdy**, nebo při **vysoké úrovni pozemní vody**
 - díky vyztužení mají **menší výšku** → **menší hloubka** základové spáry
 - mohou být čtvercové, obdélníkové, lichoběžníkové nebo kruhové
 - vyžadují podkladní beton (50 - 100mm) a ochranu proti agresivní vodě (nátěr či speciální beton)
@@ -60,7 +60,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 ##### Patky prefabrikované
 
-- hlavně u montovaných skeletovách staveb
+- hlavně u montovaných skeletových staveb
 - nejčastější tvary - **plné a kalichové**
 - mají ocelové trny, na které se navaří sloupy
 - ukládají se na štěrkopískovou vrstvu, mazaninu, nebo roznášecí desku
@@ -87,8 +87,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 - používají se při menším zatížení
 - navrhují se pod zdmi
-- pásy delší než 15m se musí rozdělit dilatačními spárami
-- miniální rozměr je 500x500mm
+- pásy delší, než 15 m se musí rozdělit dilatačními spárami
+- minimální rozměr je 500x500mm
 
 ##### Pásy z vyztuženého betonu
 
@@ -100,19 +100,19 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 - mohou být PB nebo ŽB
 - mohou tvořit zdivo suterénu
-- zkracují dobu výstavby ale jsou finančně náročné
+- zkracují dobu výstavby, ale jsou finančně náročné
 - lze betonovat do ztraceného bednění
-- komplokovanější než prosté vylitíé betonu
+- komplikovanější než prosté vylití betonu
 
 <br>
 <img class="centered_image" src="/images/pos/2/8.jpg" />
 
 ### Rošty
 
-- vznikají vzájemnám spojením pásů
+- vznikají vzájemným spojením pásů
 - výhodou je tuhost
 - používají se při malé únosnosti zeminy nebo poddolovaném území
-- jsou vhodné jak pod stěny tak pod sloupy
+- jsou vhodné jak pod stěny, tak pod sloupy
 - mají stejné průřezy jako pásy
 
 <br>
@@ -121,9 +121,9 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 ### Desky
 
 - obvykle monolitické železobetonové
-- navrhují se při nesourodé zemině, při vysokoé úrovni pozemní vody (základová vana), nebu u výškových staveb kde by bylo cokoliv jiného neekonomické
+- navrhují se při nesourodé zemině, při vysoké úrovni pozemní vody (základová vana), nebo u výškových staveb, kde by bylo cokoliv jiného neekonomické
 - bývají velmi nákladné
-- dají se použít jak pro stěny tak pro skeletové systémy
+- dají se použít jak pro stěny, tak pro skeletové systémy
 
 #### Technologie provádění
 
@@ -206,7 +206,7 @@ Při založení do zámrzné hloubky dochází při zmrznutí zeminy k nadzvednu
 
 ### Rozšiřování základů
 
-Příčinou je zvýšení zatížení na základovou spáru. O způsobu zvyšování únosnosti základů rozhodne statik. Náklady na zesilování základové konstrukce jsou vysoké, proto je třeba uvážit, jestli je předpokládaná úprava objektu ekonomicky výhodná.Řešením je rozšíření základů.
+Příčinou je zvýšení zatížení na základovou spáru. O způsobu zvyšování únosnosti základů rozhodne statik. Náklady na zesilování základové konstrukce jsou vysoké, proto je třeba uvážit, jestli je předpokládaná úprava objektu ekonomicky výhodná. Řešením je rozšíření základů.
 
 ##### Způsoby rozšíření jsou:
 

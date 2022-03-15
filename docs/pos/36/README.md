@@ -20,7 +20,7 @@ pageClass: default-page
 - ovlivněno byzantským stylem
 - navazuje na kulturu antického Říma
 
-:::tip TYPYCKÉ ZNAKY
+:::tip TYPICKÉ ZNAKY
 - **NE**lomený oblouk
 - Masivní kamenné zdi (řádkové zdivo)
 - Kvůli masivním zdem menší okna - méně světla
@@ -65,11 +65,11 @@ V ČR
 
 - 12 - 15. století
 - navazuje na Románskou architekturu
-- vzink ve Francii
-- období vrchoného a pozdního středověku
+- vznik ve Francii
+- období vrcholného a pozdního středověku
 - Název „gotika“ zavedli italští humanisté, kteří ji mylně spojovali s Góty, jejichž umění bylo považováno za barbarské
 
-:::tip TYPYCKÉ ZNAKY
+:::tip TYPICKÉ ZNAKY
 - Lomený oblouk - představuje sepnuté ruce
 - Slabé (méně hmotné) zdi
 - Křížová a klášterní klenba

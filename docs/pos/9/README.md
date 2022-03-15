@@ -28,8 +28,8 @@ pageClass: default-page
 
 ### Schodišťové stupně
 
-- prevky schodišťového ramene
-- skládájí se z: 
+- prvky schodišťového ramene
+- skládají se z: 
   - **STUPNICE** - horní plocha
   - **PODSTUPNICE** - přední svislá plocha
   - **ČELO STUPNĚ** - boční svislá plocha
@@ -127,15 +127,15 @@ pageClass: default-page
 1. Zjistíme výšku k překonání
 2. Navrhneme výšku stupně <Badge type="warning" text="150 - 180mm" vertical="middle" />
 3. Výšku schodiště vydělíme výškou stupně a zaokrouhlíme na celé číslo (u dvouramenného schodiště by měl počet být sudý)
-4. Výšku vydělíme zvolenám číslem a dostaneme tak výšku stupně $v$
+4. Výšku vydělíme zvoleným číslem a dostaneme tak výšku stupně $v$
 5. S pomocí [Lehmanova vzorce](../9/#navrh-rozmeru-schodistoveho-stupne) vypočítáme šířku stupně $š$
 6. Vypočítáme sklon $tan\alpha = \frac{h}{b}$
 7. Vypočteme délku schodišťového ramene $L = (n-1) * b$ kde $n$ je počet schodišťových stupňů
-8. Zpočítáme a zkontrolujeme jeslti vyhovuje [podchodná](../9/#podchodna-vyska) a [průchodná](../9/#pruchodna-vyska) výška
+8. Spočítáme a zkontrolujeme jestli vyhovuje [podchodná](../9/#podchodna-vyska) a [průchodná](../9/#pruchodna-vyska) výška
 
 :::
 
-- šířka ramene je dána typem budovy a požírními předpisy
+- šířka ramene je dána typem budovy a požárními předpisy
 
 - šířka podest se musí rovnat **minimálně šířce ramen**
 - u dvouramenného schodiště je šířka zrcadla minimálně **100 mm**

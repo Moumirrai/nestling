@@ -123,21 +123,21 @@ pageClass: default-page
 ### Unifikace:
 
 - vybrané sjednocené rozměry
-- doporučené hodnoty pro půdorysné a kladebné parametry jsou 2400, 3000, 3600, 4800, 6000, 9000, 12000, 18000 a dále n x 6000 mm
+- doporučené hodnoty pro půdorysné a skladebné parametry jsou 2400, 3000, 3600, 4800, 6000, 9000, 12000, 18000 a dále n x 6000 mm
 - pro výškové skladebné parametry 2400, 2800, 3300, 3600, 4200, 5400, 6000 a 7200 mm.
 
 ## Zdění
 
 - proces výstavy z kusového zdiva
 - prostor mezi cihlami v jedné vrstvě se nazývá styčná spára
-- prostor mezi vrstavmi cihel se nazývá ložná spára
-- spáry mají cca 10mm a jsouo vyplněny maltou
+- prostor mezi vrstvami cihel se nazývá ložná spára
+- spáry mají cca 10mm a jsou vyplněny maltou
 
 ### Konstrukční zásady dodržované při zdění:
 
 - Konstrukci vytváříme s co největších prvků
 - Ložné spáry musí být vodorovné.
-- Styčné spáry nesmí být průběžné, musí být vždy v následující vrstvě převázany nosným prvkem.
+- Styčné spáry nesmí být průběžné, musí být vždy v následující vrstvě převázány nosným prvkem.
 - V případě použití malých zdících prvků vzhledem k tloušťce zdi je nutné střídání vazáků běhouny.
 
 <img class="centered_image" src="/images/pos/3/image12.jpg" />
@@ -263,7 +263,7 @@ pageClass: default-page
 <br>
 <img class="centered_image" src="/images/pos/3/image30.jpg" />
 
-### Zdivo z výpenopískových tvárnic
+### Zdivo z vápenopískových tvárnic
 
 - přesné rozměry a vysoká odolnost
 - větší objemová hmotnost vlastního materiálu ( cca 1800 kg/m3)

@@ -10,7 +10,7 @@ pageClass: default-page
 
 - usilovalo se o tvorbu nového stylu
 
-:::tip TYPYCKÉ ZNAKY
+:::tip TYPICKÉ ZNAKY
 
 - tvary rostlinného charakteru
 - otvory mají zdobené rohy
@@ -46,7 +46,7 @@ pageClass: default-page
 - trval do konce 1. světové války
 - unikátní, vyskytuje se zejména u nás
 
-:::tip TYPYCKÉ ZNAKY
+:::tip TYPICKÉ ZNAKY
 
 - různé zkoušení hmot
 - zalamování oken a dveří
@@ -77,10 +77,10 @@ pageClass: default-page
 ## Moderní architektura
 
 - začali se využívat ocelové a železobetonové skelety
-- přirovnání budov ke stroji - dobře provozně řešená budova musí působit působit svou účelností esteticky
-- vyvoj ukončila 2. světová válka
+- přirovnání budov ke stroji - dobře provozně řešená budova musí působit svou účelností esteticky
+- vývoj ukončila 2. světová válka
 
-:::tip TYPYCKÉ ZNAKY
+:::tip TYPICKÉ ZNAKY
 
 - pásová okna
 - ploché střechy

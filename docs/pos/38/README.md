@@ -4,17 +4,17 @@ pageClass: default-page
 
 # 38. RENESACE A BAROKO
 
-## Renesační architektura
+## Renesanční architektura
 
 - 14 - 16. století
 - vznik v Italských městech
-- insporováno antickými a římskými stavbami
+- inspirováno antickými a římskými stavbami
 - jednoduchá geometrie, pravidelnost a souměrnost
 - navazuje na kulturu antického Říma
 
-:::tip TYPYCKÉ ZNAKY
+:::tip TYPICKÉ ZNAKY
 
-- otvory většinou obdélnékové
+- otvory většinou obdélníkové
 - časté využití cihel
 - omítání a zdobení štukem či mramorovými obklady
 - vnější sloupořadí
@@ -66,16 +66,16 @@ V ČR
 ## Barokní architektura
 
 - 17 - 18. století
-- vzink ve Itálii
+- vznik ve Itálii
 - důraz na dojem, ne funkčnost
 - snaha o porušení pravidelnosti
 
-:::tip TYPYCKÉ ZNAKY
+:::tip TYPICKÉ ZNAKY
 
 - nepravidelné a složité půdorysy
 - cihelné stavby
 - zdobené střešní štíty
-- stšny zdobeny silnou vrstvou štuku
+- stěny zdobeny silnou vrstvou štuku
 - časté užití klenby (křížová, klášterní, kupole)
   :::
 

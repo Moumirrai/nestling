@@ -4,14 +4,14 @@ pageClass: default-page
 
 # 21. IZOLACE PROTI VODĚ A ZEMNÍ VLKOSTI, OCHRANA STAVEB PROTI RADONU
 
-## Izolace proti vodě a zemní vlkosti
+## Izolace proti vodě a zemní vlhkosti
 
 ### Vliv vody na stavební konstrukce
 
 - Dřevěné konstrukce - hniloba, dřevokazné houby
 - Cihelné zdivo - výkvěty
 - Ocelové konstrukce - koroze
-- Betonové konstukce - čisté vodě odolávají dobře, ale agresivní a chemicky rozrušená voda beton rozrušuje
+- Betonové konstrukce - čisté vodě odolávají dobře, ale agresivní a chemicky rozrušená voda beton rozrušuje
 
 ### Druhy vod působící na stavební konstrukce
 
@@ -43,7 +43,7 @@ pageClass: default-page
 >
 > ##### Nepřímé
 >
-> - ostraněním škodlivého prostředí, např. výběrem vhodného staveniště, tvarem objektu
+> - odstraněním škodlivého prostředí, např. výběrem vhodného staveniště, tvarem objektu
 
 #### Podle materiálu
 
@@ -67,7 +67,7 @@ pageClass: default-page
 - Pásy z modifikovaných asfaltů
 - Folie
   - z měkčeného PVC
-  - na extrémě namáhavé hydroizolace a střechy
+  - na extrémně namáhavé hydroizolace a střechy
 
 ### Nepovlakové hydroizolace
 
@@ -78,7 +78,7 @@ pageClass: default-page
   - pouze proti zemní vlhkosti
 - Izolace vzduchovými dutinami
   - náročné
-  - poze u rekonstrukce historických budov
+  - pouze u rekonstrukce historických budov
 
 ### Přechod mezi vodorovnou a svislou izolací
 
@@ -107,7 +107,7 @@ pageClass: default-page
 :::tip NÍZKÉ
 
 - stačí běžná hydroizolace
-- schodištový prostor se doporučuje oddělit dveřmi
+- schodišťový prostor se doporučuje oddělit dveřmi
   :::
 
 :::warning STŘEDNÍ
@@ -132,7 +132,7 @@ pageClass: default-page
 - syntetickými fóliemi
 - stěrkami různého chemického složení atd.
 
-Vyjímkou jsou asfaltové pásy s kovovými výztužnými vložkami, plastové profilované (nopové) fólie a vodotězná železobetonová konstrukce (bílá vana)
+Výjimkou jsou asfaltové pásy s kovovými výztužnými vložkami, plastové profilované (nopové) fólie a vodotěsná železobetonová konstrukce (bílá vana)
 
 <img class="centered_image" src="/images/pos/21/radon1.jpg" />
 <br>

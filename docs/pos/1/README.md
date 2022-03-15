@@ -11,7 +11,7 @@ pageClass: default-page
 
 Geologický a hydrogeologický průzkum určuje:
 
-1. Kvalitu, druh a únostnost zeminy
+1. Kvalitu, druh a únosnost zeminy
 2. Tloušťky geologických vrstev
 3. Maximální hladinu podzemní vody **HPV**
 4. Kvalitu a druh podzemní vody
@@ -19,7 +19,7 @@ Geologický a hydrogeologický průzkum určuje:
    **b) hladová** - má nedostatek minerálů → odebírá minerály z betonu
    **c) agresivní** - obsahuje příliš mnoho minerálů
 
-Na základě těchto ůdajů se určí **vhodnost** staveniště.
+Na základě těchto údajů se určí **vhodnost** staveniště.
 
 ## Vhodnost stavenišť
 
@@ -30,7 +30,7 @@ Na základě těchto ůdajů se určí **vhodnost** staveniště.
 - území na kterých hrozí sesuvy nebo záplavy
 - zavodněná území
 - krajinná nebo přírodní rezervace
-- území s neůnosnou (jílovitou) půdou
+- území s neúnosnou (jílovitou) půdou
 
 ### Vhodná staveniště
 
@@ -42,9 +42,9 @@ Na základě těchto ůdajů se určí **vhodnost** staveniště.
 
 ### Přípravné vyměřovací práce
 
-Všechny práce které je třeba provést aby mohl nerušeně pokračovat hlavní práce.
+Všechny práce, které je třeba provést, aby mohl nerušeně pokračovat hlavní práce.
 
-Patří sem bourání objektů, sejmutí ornice nebo odstranení porostu
+Patří sem bourání objektů, sejmutí ornice nebo odstranění porostu
 
 - před zahájením je nutné vyznačit rozměry
 - podkladem je situační výkres
@@ -58,7 +58,7 @@ Patří sem:
 
 #### Výkopové práce a rozpojování hornin
 
-- z 90% se prování stroji
+- z 90 % se prování stroji
 - ruční výkop pouze u staveb s velmi malým objemem zemních prací
 
 #### Zajišťování stěn výkopů
@@ -66,15 +66,15 @@ Patří sem:
 ##### Zajištění svislými stěnami
 
 - max. výška bez zabezpečení je 1,5m
-- moužno pouze u soudržných zemin
+- možno pouze u soudržných zemin
 
 <img class="centered_image" src="/images/pos/1/svisly_vykop.jpg" />
 
-##### Zajištění svahovnáním
+##### Zajištění svahováním
 
 - max výška bez zabezpečení 2m
 - pod svahem musí být odvodňovací rýha
-- při hlubce více než 2m musá být provedeny lavice o min. šířce 600mm
+- při hloubce více než 2m musí být provedeny lavice o min. šířce 600mm
 
 :::warning SVAHOVÁNÍ V 1. FÁZI
 <br>
@@ -96,7 +96,7 @@ Patří sem:
   2. Systémová (ocelová)
   3. Kombinovaná
 
-###### **Roubení s příložním pažením**
+###### **Roubení s příložným pažením**
 
 :::warning U RÝHY
 <br>
@@ -129,16 +129,16 @@ Patří sem:
 <br>
 <img class="centered_image" src="/images/pos/1/spoustene_pazeni.jpg" />
 
-**1** - vodorovný rám, **2** - svislý sloupek, **3** - svislá pažina, **4** - klin, **5** - závěz z kruhové oceli nebo rýdlovacího drátu, **6** - tesařská skoba
+**1** - vodorovný rám, **2** - svislý sloupek, **3** - svislá pažina, **4** - klin, **5** - závěs z kruhové oceli nebo rádlovacího drátu, **6** - tesařská skoba
 
 ###### **Roubení s hnaným pažením**
 
 <br>
 <img class="centered_image" src="/images/pos/1/hnane_pazeni.jpg" />
 
-**1** - vodorovný rám, **2** - svislý sloupek, **3** - pažina, **4** - malý klín, **5** - odstavnice, **6** - závěz z kruhové oceli nebo rýdlovacího drátu, **7** - tesařská skoba, **8** - velký klín, **9** - ležina, **10** - práh
+**1** - vodorovný rám, **2** - svislý sloupek, **3** - pažina, **4** - malý klín, **5** - odstavnice, **6** - závěs z kruhové oceli nebo rádlovacího drátu, **7** - tesařská skoba, **8** - velký klín, **9** - ležina, **10** - práh
 
-##### Šťětové stěny
+##### Štětové stěny
 
 - kovové konstrukce
 
@@ -182,14 +182,14 @@ Patří sem:
 ### Povrchové odvodnění
 
 - používá se u soudržných zemin nebo skalnatých půd
-- odvádá se voda která se vsakuje na dno ze stěn nebo stéká po jejich povrchu
+- odvádí se voda která se vsakuje na dno ze stěn nebo stéká po jejich povrchu
 
 <img class="centered_image" src="/images/pos/1/odvodneni_povrch.jpg" />
 
 ### Hloubkové odvodnění
 
 - používá se v málo propustných zeminách
-- používá systém studná vybudouvaných po obvodu stavby
-- hlubka studní musí být taková aby hladina spodní vody klesla <Badge type="warning" text="min 0,5 m" vertical="middle" /> pod úropveň dna výkopu
+- používá systém studní vybudovaných po obvodu stavby
+- hloubka studní musí být taková aby hladina spodní vody klesla <Badge type="warning" text="min 0,5 m" vertical="middle" /> pod úroveň dna výkopu
 
 <img class="centered_image" src="/images/pos/1/odvodneni_hloubkove.jpg" />

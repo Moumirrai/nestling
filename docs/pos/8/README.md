@@ -5,9 +5,9 @@ pageClass: default-page
 
 ## Deskové montované stropy
 
-- Železobetonové stropní desky jsou vhodné pro melé vzdálenosti nosných podpěr (1200 - 3000 mm)
+- Železobetonové stropní desky jsou vhodné pro malé vzdálenosti nosných podpěr (1200 - 3000 mm)
 - Výhodou je poměrně jednoduchá montáž, ale vyžaduje pečlivost při ukládání
-- Desky jsou lichoběžníkového průřezu - snažší zalévání spár, jednoduché určení správného otočení
+- Desky jsou lichoběžníkového průřezu - snazší zalévání spár, jednoduché určení správného otočení
 
 <img class="centered_image" src="/images/pos/8/desky.jpg" />
 
@@ -16,13 +16,13 @@ Vyrábějí se standartě ve dvou variantách:
 >- výška 65 a 90 mm
 
 >**Dutinové desky**
->- vylehčené čtyřmi polélnými dutinami
+>- vylehčené čtyřmi podélnými dutinami
 >- výška 90 a 140 mm
 
 ## Panelové montované stropy
 
 - Využívají větších prvků - panelů
-- Váhodou je menší počet styků a spár
+- Výhodou je menší počet styků a spár
 - Ukládají se na svislé nosné konstrukce
 - Panely mohou být **plné** a **dutinové** nebo **dutinové předpjaté**
 
@@ -41,7 +41,7 @@ Vyrábějí se standartě ve dvou variantách:
 ### Přímá klenba
 
 - cihelná klenba vetknutá do ocelových nosníků
-- vzpětí klenby je 30-50 mm, a při omítání se vyrovná omítkou do rovného povrchu
+- vzepětí klenby je 30-50 mm, a při omítání se vyrovná omítkou do rovného povrchu
 
 <img class="centered_image" src="/images/pos/8/prima_klenba.jpg" />
 
@@ -64,7 +64,7 @@ Vyrábí se ve dvou variantách:
 >**CSD HURDIS 2**
 >- skosené čela
 >- ukládají se do keramických patek navlečených na spodní přírubu nosníku
->- patky umožňují snažší vložení desek, a slouží jako ochrana proti korozi
+>- patky umožňují snazší vložení desek, a slouží jako ochrana proti korozi
 >
 ><img class="centered_image" src="/images/pos/8/hurdis2.jpg" />
 ><br>
@@ -101,16 +101,16 @@ Vyrábí se ve dvou variantách:
 - pro otvory světlosti do 2900 mm (s tepelnou izolací 2100 mm)
 
 :::tip VÝHODY
-- nižší hmostnost prvku
+- nižší hmotnost prvku
 - nižší cena než u keram. nadpraží
-- dutiny mořno využít při manipulaci
+- dutiny možno využít při manipulaci
 - vysoká únosnost
 :::
 
 ### Montáž
 
 - překlady se osazují na navlhčenou plochu na 15 mm malty minimální třídy MC 15
-- překlady musí být omítnuty cementovou nebo výpenocementovou omítkou min. tloušťky 10 mm
+- překlady musí být omítnuty cementovou nebo vápenocementovou omítkou min. tloušťky 10 mm
 
 :::tip PŘEKLADY NA NOSNÉ ZDI
 <br>

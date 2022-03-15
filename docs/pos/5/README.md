@@ -1,6 +1,5 @@
 ---
 pageClass: default-page
-bude_dělat: Kolbábek
 ---
 
 # 5. STROPNÍ KCE DŘEVĚNÉ
@@ -99,7 +98,7 @@ Stropní trámy se kladly v osové vzdálenosti až do 900 mm od sebe, polštá�
 
 - podhled přibíjí na samostatné trámy (rákosníky), které jsou vždy rovnoběžně se stropními trámy
 - zlepšené zvukově izolační vlastnosti
-- větší spotřeba dřeva a tloušťka stropu
+- větší spotřeba dřeva a menší tloušťka stropu
 
 <img class="centered_image" src="/images/pos/5/8.jpg" />
 
@@ -168,7 +167,7 @@ Spojení trámu s výměnnou
 
 <img class="centered_image" src="/images/pos/5/11.jpg" />
 
-**a** – půlcihelná příčka prochází dřevěným stropem, **b** - půlcihelná příčka je podporována ocelovým nosníkem, **c** - půlcihelná příčka je podporována ŽB nosníkem, **d** - čtvrcihelná příčka je položena na fošnu spočívající na záklopu dřevěného stropu
+**a** – půlcihelná příčka prochází dřevěným stropem, **b** - půlcihelná příčka je podporována ocelovým nosníkem, **c** - půlcihelná příčka je podporována ŽB nosníkem, **d** - čtvrtcihelná příčka je položena na fošnu spočívající na záklopu dřevěného stropu
 
 :::
 

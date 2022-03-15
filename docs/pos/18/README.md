@@ -8,7 +8,7 @@ pageClass: default-page
 
 #### Mechanické
 
-- povnost v tahu
+- pevnost v tahu
 
 - odolnost proti opotřebení a nárazu
 
@@ -74,7 +74,7 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 
 - dělí podle své funkce na izolace zvukové, tepelné a izolace proti vodě a vlhkosti. - Izolace zvukové se provádějí z pružných nebo z polopružných hmot
 
-- Izolace tepelné jsou obdobné jako zvukové – materiál např.: pěnový polystyrén - Izolace proti vodě se obvykle provádějí ze zivičné izolace z asfaltových izolačních pásů kladených na betonový podklad.
+- Izolace tepelné jsou obdobné jako zvukové – materiál např.: pěnový polystyrén - Izolace proti vodě se obvykle provádějí ze živičné izolace z asfaltových izolačních pásů kladených na betonový podklad.
 
 ## Rozdělení podle konstrukce
 
@@ -89,7 +89,7 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 <br>
 <img class="centered_image" src="/images/pos/18/tezka-plovouci.jpg" />
 
-1. keramická dlažba, 2. cementová malta, 3. keramický sokl, 4. cementový potěř se sítí, 5. rohož z minerálních vláken, 6. ochrana zvukové izolace
+1. keramická dlažba, 2. cementová malta, 3. keramický sokl, 4. cementový potěr se sítí, 5. rohož z minerálních vláken, 6. ochrana zvukové izolace
    :::
 
 - #### Lehká plovoucí podlaha

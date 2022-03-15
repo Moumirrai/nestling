@@ -5,7 +5,7 @@ pageClass: default-page
 
 ## Větrání
 
-Účelem je výměna vzduchu v prostorách, neboli odvádět hygienicky závadný vduch mimo prostor a nahrazovat ho čistým
+Účelem je výměna vzduchu v prostorách neboli odvádět hygienicky závadný vzduch mimo prostor a nahrazovat ho čistým
 
 ##### Dělíme na:
 - [přirozené](../26/#prirozene-vetrani)
@@ -20,20 +20,20 @@ Výměna vzduchu založena na rozdílných teplotách interiéru a vnějšího p
 
 ##### Přirozené větrání provádíme:
 - [okny a dveřmi](../26/#vetrani-okny-a-dvermi)
-- [ventilačnímy průduchy](../26/#vetrani-ventilacnimy-pruduchy)
+- [ventilačními průduchy](../26/#vetrani-ventilacnimy-pruduchy)
 - [infiltrací](../26/#vetrani-infiltraci)
-- [areací](../26/#vetrani-areaci)
+- [aerací](../26/#vetrani-aeraci)
 
 #### Větrání okny a dveřmi
 
-- výplně otvorů služí pro přívod a odvod vzduchu
-- spodní polovinou otvoru přchází čistý vzduch a horní polovinou odchází vnitřní vzduch
+- výplně otvorů slouží pro přívod a odvod vzduchu
+- spodní polovinou otvoru přichází čistý vzduch a horní polovinou odchází vnitřní vzduch
 - příčným větráním (průvanem) se násobně zvyšuje účinnost
 
-#### Větrání ventilačnímy průduchy
+#### Větrání ventilačními průduchy
 
 - některé místnosti mohou být napojeny na ventilační průduchy které jsou vyvedeny nad střechu konstrukce
-- v chladnějším odbdobí teplý vnitřní vzduch stoupá průduchem a místo něj se do místnosti dotstává čistý vzduch
+- v chladnějším období teplý vnitřní vzduch stoupá průduchem a místo něj se do místnosti dostává čistý vzduch
 - nevýhodou je proudění teplého vzduchu do místností v létě
 
 :::warning Šachtové větrání bez přívodu vzduchu
@@ -45,11 +45,11 @@ Výměna vzduchu založena na rozdílných teplotách interiéru a vnějšího p
 
 #### Větrání infiltrací
 
-- přirozené větrání vzniklé netěstnostmi ve spárách a pórech
+- přirozené větrání vzniklé netěsnostmi ve spárách a pórech
 - kvůli tepelným ztrátám se snažíme toto větrání omezit
 - při dokonalém utěsnění je možný výskyt plísní
 
-#### Větrání areací
+#### Větrání aerací
 
 - trvalá výměna vzduchu otvory kterou je možné klapkami upravovat
 - používá se zejména u průmyslových hal
@@ -70,27 +70,27 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 :::
 
 #### Podle konstrukce dělíme na:
-- Centrální (vduch je rozváděn potrubím ze strojovny)
+- Centrální (vzduch je rozváděn potrubím ze strojovny)
 - Necentrální (vzduchové jednotky umístěny v místnostech)
 
 #### Využití nuceného větrání
 
-##### Větrání s nuceným přívodem vduchu (přetlak)
+##### Větrání s nuceným přívodem vzduchu (přetlak)
 - v místnosti vzniká přetlak
-- používá se u místností do kterách nemá vnikat vzduch ze sousedních prostor
+- používá se u místností do kterých nemá vnikat vzduch ze sousedních prostor
 - přívod vzduchu zajišťuje vzduchotechnika, zatímco odvod zajišťuje infiltrace
 - použití - obchodní domy, tělocvičny, kina
 
-##### Větrání s nuceným odvodem vduchu (podtlak)
+##### Větrání s nuceným odvodem vzduchu (podtlak)
 - používá se u místností ze kterých se nemá šířit zápach do okolí
-- přívod zduchu zajištěn infiltrací
-- použití - wc, koupelny, kuchyně
+- přívod vzduchu zajištěn infiltrací
+- použití - WC, koupelny, kuchyně
 
-##### Větrání s nuceným odvodem i přívodem vduchu (rovnotlaké)
+##### Větrání s nuceným odvodem i přívodem vzduchu (rovnotlaké)
 - vzduchotechnika zajištuje odvod i přívod vzduchu
 - často v kombinaci s úpravou vzduchu (filtrace, teplota)
 
-:::warning Větrání s nuceným odvodem i přívodem vduchu
+:::warning Větrání s nuceným odvodem i přívodem vzduchu
 <br>
 <img class="centered_image" src="/images/pos/26/rovnotlake.jpg" />
 <br>
@@ -102,7 +102,7 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 
 ### Kombinované větrání
 
-- kobinace [přirozeného](../26/#prirozene-vetrani) a [nuceného](../26/#nucene-vetrani) větrání
+- kombinace [přirozeného](../26/#prirozene-vetrani) a [nuceného](../26/#nucene-vetrani) větrání
 
 ## Klimatizační zařízení
 
@@ -113,7 +113,7 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 - klimatizační zařízení komfortní (pro prostory s lidmi)
 - technologické zařízení (pro výrobní a technologické proces)
 
-#### Rozdelní podle konstrukce
+#### Rozdělení podle konstrukce
 
 - centrální klimatizace
     - nízkotlaké systémy (5-8m/s)
@@ -127,7 +127,7 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 <br>
 <img class="centered_image" src="/images/pos/26/klimatizace.jpg" />
 
-**1.** komora sacího ventilátoru, **2.** rozváděcí komora, **3.** směsovací a filtrační komora, **4.** komora předehřívací, **5.** komora chladiče, **6.** komora pračky vzduchu, **7.** komora dohřívače, **8.** komora vytlačeného vzduchu, **9.** regulační klapky a tlumící vložky, **10.** vzduch odvádění z klimatizovaného prostoru, **11.** cirkulační vzduch, **12.** výfukový vzduch, **13.** cerstvý vzduch, **14.** upravený vzduch
+**1.** komora sacího ventilátoru, **2.** rozváděcí komora, **3.** směšovací a filtrační komora, **4.** komora předehřívací, **5.** komora chladiče, **6.** komora pračky vzduchu, **7.** komora dohřívače, **8.** komora vytlačeného vzduchu, **9.** regulační klapky a tlumící vložky, **10.** vzduch odvádění z klimatizovaného prostoru, **11.** cirkulační vzduch, **12.** výfukový vzduch, **13.** čerstvý vzduch, **14.** upravený vzduch
 :::
 
 #### Filtrace
@@ -149,17 +149,17 @@ Druhy filtrů:
 
 **Chladiče** jsou žebrované trubky, nebo topná tělesa které obsahují studenou chladící vodu
 
-#### Zvlhčovače (pračky vduchu)
+#### Zvlhčovače (pračky vzduchu)
 
 - rozprašují do upraveného vzduchu vodu
 
 #### Strojovny
 
 - nesmí být umístěny vedle obytné části budovy
-- musí mít samostaný elektrický rozvaděč
-- dveře ze strojovny by se měli oevírat směrem ven
+- musí mít samostatný elektrický rozvaděč
+- dveře ze strojovny by se měli otevírat směrem ven
 - musí být opatřeny protipožárními klapkami
 
 #### Odsávací a rozprašovací zařízení
 
-- instalují se v provozech se sdrojem prachu (kovového, textilného, dřevěného)
+- instalují se v provozech se zdrojem prachu (kovového, textilního, dřevěného)
