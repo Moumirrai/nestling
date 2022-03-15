@@ -11,7 +11,9 @@ contributors: false
 
 <div class="buttons">
   <button @click="$router.push('/pos/1/')" class="primary_button">POZEMNÍ STAVITELSTVÍ</button>
+  <!--
   <button @click="$router.push('/stk/1/')" class="primary_button">STAVEBNÍ MECHANIKA</button>
+  -->
 </div>
 <br>
 

@@ -52,9 +52,9 @@ Patří sem bourání objektů, sejmutí ornice nebo odstranení porostu
 ### Hlavní zemní práce
 
 Patří sem:
+
 - [Výkopové práce a rozpojování hornin](/pos/1/#vykopove-prace-a-rozpojovani-hornin)
 - [Zajišťování stěn výkopů](/pos/1/#zajistovani-sten-vykopu)
-
 
 #### Výkopové práce a rozpojování hornin
 
@@ -92,11 +92,11 @@ Patří sem:
 
 - používá se v případě, že hloubka výkopu je větší než 1,5m a nelze použít svahováním
 - roubení rozdělujeme:
-    1. Klasická (dřevěná)
-    2. Systémová (ocelová)
-    3. Kombinovaná
+  1. Klasická (dřevěná)
+  2. Systémová (ocelová)
+  3. Kombinovaná
 
-**Roubení s příložním pažením**
+###### **Roubení s příložním pažením**
 
 :::warning U RÝHY
 <br>
@@ -110,15 +110,51 @@ Patří sem:
 <br>
 :::
 
-**Roubení s pažením do zápor**
+###### **Roubení s pažením do zápor**
 
 - u hlubokých jam v soudržných zeminách
 
 <img class="centered_image" src="/images/pos/1/pazeni_do_zapor.jpg" />
 
-<!--
-TODO:dodělat
--->
+###### **Roubeni s pažením do zápor s kořenovými pilotami**
+
+- používá se v případě, že hloubka výkopu je větší než 3,5m
+
+<img class="centered_image" src="/images/pos/1/koren_rez.jpg" />
+<br>
+<img class="centered_image" src="/images/pos/1/koren_pudorys.jpg" />
+
+###### **Roubení se spouštěným pažením**
+
+<br>
+<img class="centered_image" src="/images/pos/1/spoustene_pazeni.jpg" />
+
+**1** - vodorovný rám, **2** - svislý sloupek, **3** - svislá pažina, **4** - klin, **5** - závěz z kruhové oceli nebo rýdlovacího drátu, **6** - tesařská skoba
+
+###### **Roubení s hnaným pažením**
+
+<br>
+<img class="centered_image" src="/images/pos/1/hnane_pazeni.jpg" />
+
+**1** - vodorovný rám, **2** - svislý sloupek, **3** - pažina, **4** - malý klín, **5** - odstavnice, **6** - závěz z kruhové oceli nebo rýdlovacího drátu, **7** - tesařská skoba, **8** - velký klín, **9** - ležina, **10** - práh
+
+##### Šťětové stěny
+
+- kovové konstrukce
+
+<img class="centered_image" src="/images/pos/1/stetova_stena.jpg" />
+
+
+##### Podzemní stěny
+
+###### **Pilotové stěny**
+- prováděny do rýh šířky 600-1000mm
+- obvykle používány v hlubokých výkopech
+
+<img class="centered_image" src="/images/pos/1/pilotove_steny.jpg" />
+
+###### **Milánské stěny**
+- prováděny do rýh šířky 400-1500mm
 
 ### Stavební jáma
 

@@ -96,12 +96,14 @@ module.exports = {
           ],
         },
       ],
+      /*
       "/stk/": [
         {
           text: "Stavební mechanika",
           children: ["/stk/1/"],
         },
       ],
+      */
     },
     nav: [{ text: "Home", link: "/" }],
     navbar: [
@@ -109,10 +111,12 @@ module.exports = {
         text: "POS",
         link: "/pos/1/",
       },
+      /*
       {
         text: "STK",
         link: "/stk/1/",
       },
+      */
     ],
     repo: "/Moumirrai/nestling",
     displayAllHeaders: false,
