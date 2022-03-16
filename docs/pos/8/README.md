@@ -26,12 +26,50 @@ Vyrábějí se standartě ve dvou variantách:
 - Ukládají se na svislé nosné konstrukce
 - Panely mohou být **plné** a **dutinové** nebo **dutinové předpjaté**
 
+>**Plné**
+>- velká hmotnost
+
+>**Dutinové**
+>- pro rozpětí 3-6,6 m
+>- minimální uložení 80 mm
+
+>**Dutinové předpjaté**
+>- díky předpjaté výztuži je nižší tloušťka panelu
+
+<img class="centered_image" src="/images/pos/8/panely.jpg" />
+
+### Spiroll
+
+- tl. 250-300 mm → až 12m
+- tl 400mm → až 20m
+- nejsou opatřeny závěsnýmy háky
+
+<img class="centered_image" src="/images/pos/8/spiroll1.jpg" />
+<br>
+<img class="centered_image" src="/images/pos/8/spiroll2.jpg" />
+
 ### Uložení na průvlaky
 
 - průřezy průvlaků bývají nejčastěji tvaru obdélníku, I nebo T
 - průvlaky mohou mít ozub pro uložení panelů
 
+:::warning KONSTRUKČNÍ TVARY PRŮVLAKŮ
+<br>
+<img class="centered_image" src="/images/pos/8/pruvlak1.jpg" />
+<br>
+:::
 
+:::warning ULOŽENÍ PRLŮVLAKU NA PRŮBĚŽNÝ SLOUP
+<br>
+<img class="centered_image" src="/images/pos/8/pruvlak2.jpg" />
+<br>
+:::
+
+:::warning POŽADAVKY NA STYK PANELŮ
+<br>
+<img class="centered_image" src="/images/pos/8/pruvlak3.jpg" />
+<br>
+:::
 
 ## Nosníkové stropy
 
@@ -112,7 +150,7 @@ Vyrábí se ve dvou variantách:
 - překlady se osazují na navlhčenou plochu na 15 mm malty minimální třídy MC 15
 - překlady musí být omítnuty cementovou nebo vápenocementovou omítkou min. tloušťky 10 mm
 
-:::tip PŘEKLADY NA NOSNÉ ZDI
+:::warning PŘEKLADY NA NOSNÉ ZDI
 <br>
 <img class="centered_image" src="/images/pos/8/preklad_nosne.jpg" />
 <br>
@@ -122,7 +160,7 @@ Vyrábí se ve dvou variantách:
 <br>
 :::
 
-:::tip PŘEKLADY NA PŘÍČCE
+:::warning PŘEKLADY NA PŘÍČCE
 <br>
 <img class="centered_image" src="/images/pos/8/preklad_pricky.jpg" />
 <br>
