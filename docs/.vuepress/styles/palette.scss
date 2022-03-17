@@ -34,6 +34,12 @@
   ::-webkit-scrollbar-thumb {
     background-color: var(--c-brand);
   }
+
+  .sidebar {
+    .router-link-active {
+      font-weight: bold;
+    }
+  }
   
 
 }
@@ -60,6 +66,7 @@ html.dark {
   --c-border-dark: #34404c;
 
   // custom container colors
+  --c-white: #ffffff;
   --c-tip: #318a62;
   --c-tip-title: #318a62;
   --c-warning: #ffd500;
@@ -74,6 +81,7 @@ html.dark {
 
   // code blocks vars
   --code-hl-bg-color: #363b46;
+
 }
 
 .theme-container.default-page {
