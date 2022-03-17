@@ -1,6 +1,6 @@
-```yaml
+---
 pageClass: default-page
-```
+---
 
 # 23. ZÁMEČNICKÉ VÝROBKY
 
@@ -16,11 +16,11 @@ pageClass: default-page
 ## Povrchové úpravy
 
 - zámečnické výrobky chráníme především před korozí, dodávají finální vzhled prvku
-  
+
   - pozinkování
-  
+
   - eloxování (tepelné nanášení a vypalování barvy)
-  
+
   - ochranné nátěry - laky, barvy
 
 ## Kovová okna
@@ -28,22 +28,30 @@ pageClass: default-page
 - podle konstrukce mamé okna jednoduchá, zdvojená, dvojitě zasklená
 
 - Dle způsobu otevírání křídel máme otevírací, sklápěcí, vyklápěcí a pevné
-  
+
   - ocelová (výhradně u nevytápěných místností)
-  
+
   - hliníková
 
 ### Jednoduchá okna
 
 - navrhují se zpravidla v nevytápěných objektech. V obytných budovách se navrhují pouze jako okna sklepní nebo schodišťová
-  
-  (OBRÁZEK 1,2)
+
+<img class="centered_image" src="/images/pos/23/1.jpg" />
+
+<!--
+TODO:Rozdělit a popisky
+-->
 
 ### Zdvojená okna
 
 - uplatňují se zejména v občanských a průmyslových objektech
-  
-  (OBRÁZEK 3)
+
+<img class="centered_image" src="/images/pos/23/3.jpg" />
+
+<!--
+TODO:popisky
+-->
 
 #### Výplně otvorů
 
@@ -52,8 +60,8 @@ pageClass: default-page
 ### Okna dvojitě zasklená
 
 - mají mezi jednostlivými rámy vzduchovou mezeru
-  
-  (OBRÁZEK 4)
+
+<img class="centered_image" src="/images/pos/23/4.jpg" />
 
 ## Kovové dveře
 
@@ -70,8 +78,74 @@ pageClass: default-page
 - dveře se vyrábí ocelové avšak některé části dveří, např. zasklívací lišty, mohoui být z hliníkových slitin, popřípadě z jiných materiálů.
 
 - výplně dveří jsou z ocelového drátového plechu, z průhledného skla, žebrového plechu nebo s izolační vložkou
-  
-  (OBRÁZEK 5)
+
+<div class=customTable style="overflow-x:auto;">
+<table border=0 cellpadding=0 cellspacing=0 width=498 style='border-collapse:
+ collapse;table-layout:fixed;width:373pt'>
+ <col>
+ <col span=2>
+ <col style='width:105pt'>
+ <tr>
+  <th>Č.</th>
+  <th>Druh křídla dveří a vrat</th>
+  <th colspan=2>Zobrazení v půdorysu</th>
+ </tr>
+ <tr>
+  <td class=center>1</td>
+  <td>Otočné jednokřídlové</td>
+  <td class=center><img class="centered_image" src="/images/pos/23/5_1.jpg" /></td>
+  <td class=center><img class="centered_image" src="/images/pos/23/5_2.jpg" /></td>
+ </tr>
+ <tr>
+  <td class=center>2</td>
+  <td>Otočné dvoukřídlové</td>
+  <td class=center><img class="centered_image" src="/images/pos/23/5_3.jpg" /></td>
+  <td class=center><img class="centered_image" src="/images/pos/23/5_4.jpg" /></td>
+ </tr>
+ <tr>
+  <td class=center>3</td>
+  <td>Kyvné jednokřídlové</td>
+  <td class=center><img class="centered_image" src="/images/pos/23/5_5.jpg" /></td>
+  <td class=center><img class="centered_image" src="/images/pos/23/5_6.jpg" /></td>
+ </tr>
+ <tr>
+  <td class=center>4</td>
+  <td>Kyvné dvoukřídlové</td>
+  <td class=center><img class="centered_image" src="/images/pos/23/5_7.jpg" /></td>
+  <td class=center><img class="centered_image" src="/images/pos/23/5_8.jpg" /></td>
+ </tr>
+ <tr>
+  <td class=center>5</td>
+  <td>Posuvné jednokřídlové</td>
+  <td colspan=2 class=center><img class="centered_image" src="/images/pos/23/5_9.jpg" /></td>
+ </tr>
+ <tr>
+  <td class=center>6</td>
+  <td>Posuvné dvoukřídlové</td>
+  <td colspan=2 class=center><img class="centered_image" src="/images/pos/23/5_10.jpg" /></td>
+ </tr>
+ <tr>
+  <td class=center>7</td>
+  <td>Skládací</td>
+  <td colspan=2 class=center><img class="centered_image" src="/images/pos/23/5_11.jpg" /></td>
+ </tr>
+ <tr>
+  <td class=center>8</td>
+  <td>Otáčivé</td>
+  <td colspan=2 class=center><img class="centered_image" src="/images/pos/23/5_12.jpg" /></td>
+ </tr>
+ <tr>
+  <td class=center>9</td>
+  <td>Vyklápěcí</td>
+  <td colspan=2 class=center><img class="centered_image" src="/images/pos/23/5_13.jpg" /></td>
+ </tr>
+ <tr>
+  <td class=center>10</td>
+  <td>Vícekřídlové</td>
+  <td colspan=2 class=center><img class="centered_image" src="/images/pos/23/5_14.jpg" /></td>
+ </tr>
+</table>
+</div>
 
 ## Stavební kování
 
@@ -87,7 +161,13 @@ pageClass: default-page
 - Válečkové nebo rozvorové uzávěry
 - Sklapky a obrtlíky (slouží k uzavírání křídel)
 - Ventilační okenní uzávěry pákové nebo lanové (umožňují otevírání a zavírání sklápěcích křídel)
-- Spojky zdvojených křídel (slouží k dočasnému spojení zdvojených okenních křídel(OBRÁZEK 6)
+- Spojky zdvojených křídel (slouží k dočasnému spojení zdvojených okenních křídel
+
+<img class="centered_image" src="/images/pos/23/6.jpg" />¨
+
+<!--
+TODO:rozdělit a popisky
+-->
 
 #### Dveřní kování
 
@@ -104,14 +184,22 @@ pageClass: default-page
 - Dveřní kliky včetně štítků nebo madla
 
 - Zadlabávací zámky obyčejné a dozické zámky s bezpečnostní vložkou, válečkovou střelkou, popř. petlice, visací zámky apod.
-  
-  (OBRÁZEK 7)
+
+<img class="centered_image" src="/images/pos/23/7.jpg" />
+
+<!--
+TODO:popisky
+-->
 
 ### Kliky
 
 - kliky, koule, olivy, půlolivy
-  
-  (OBRÁZEK 8-10)
+
+<img class="centered_image" src="/images/pos/23/8.jpg" />
+<br>
+<img class="centered_image" src="/images/pos/23/9.jpg" />
+<br>
+<img class="centered_image" src="/images/pos/23/10.jpg" />
 
 ### Zábradlí
 
@@ -130,15 +218,15 @@ pageClass: default-page
 - součástí je i branka
 
 - druhy
-  
+
   - zděné
-  
+
   - drátěné
-    
+
     - tkané
-    
+
     - pletivo z vlnitého drátu
-    
+
     - svařované sítě
 
 ### Žebříky
@@ -150,15 +238,20 @@ pageClass: default-page
 - podle sklonu máme šikmé a svislé
 
 - nejčastěji se používají ocelové žebříky
-  
-  (OBRÁZEK 11)
+
+<img class="centered_image" src="/images/pos/23/11.jpg" />
 
 ### Ocelové schodiště
 
 - z ocelových profilů (lisované plechy, válcované profily)
-  
-  (OBRÁZEK 12)
+
+<img class="centered_image" src="/images/pos/23/12.jpg" />
 
 ### Ocelová zárubeň
 
-        (OBRÁZEK 13)
+<br>
+
+<img class="centered_image" src="/images/pos/23/13.jpg" />
+<!--
+TODO:popisky
+-->

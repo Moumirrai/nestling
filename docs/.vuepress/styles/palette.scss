@@ -86,6 +86,19 @@ html.dark {
 
 .theme-container.default-page {
 
+  .customTable {
+    .center {
+      text-align: center;
+      //allign image to center
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+      }
+    }
+  }
+
   .videoWrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */

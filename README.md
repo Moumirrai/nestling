@@ -18,7 +18,7 @@ POS - OTÁZKY
 |   7    |                |                |             |             |
 |   8    | @Moumirrai     |                |             |      X      |
 |   9    | @Moumirrai     |                |             |      X      |
-|   10   | @Moumirrai     |                |             |             |
+|   10   | @Moumirrai     |                |             |      X      |
 |   11   | @Moumirrai     |                |             |             |
 |   12   | @Moumirrai     |                |             |             |
 |   13   |                |                |             |             |
@@ -53,4 +53,4 @@ POS - OTÁZKY
 |   42   |                |                |             |             |
 |   43   |                |                |             |             |
 |   44   |                |                |             |             |
-|  Sum   | 20/44 (45%)    |                |      3      | 12/44 (27%) |
+|  Sum   | 20/44 (45%)    |                |      3      | 13/44 (29%) |
