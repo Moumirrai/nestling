@@ -351,3 +351,172 @@ Rozvody teplé vody musí být navrženy tak, aby u každého výtoku měla voda
 
 Rozvod teplé vody bývá doplněn o tzv. cirkulačním potrubím. Cirkulační potrubí je pod nejvyšší odbočkou pro podlažní
 rozvodné potrubí napojeno na stoupající potrubí a vedeno zpět ke kotli. Cirkulace zajišťuje, že voda má v rozvodu stálou teplotu.
+
+
+
+
+
+
+
+## Domovní plynovod
+
+Domovní plynovod slouží k přivedení zemního plynu, dříve i svítiplynu,do objektu ke spotřebičům z centrální plynovodní sítě. V budovách, které nejsou připojeny na veřejný plynovod možno použít propan butan dodávaný v lahvích.
+
+## Plynovodní přípojka
+
+Plynovodní přípojka je zařízení pro připojení odběrního místa k hl.plynovodnímu řádu,sahá od plynovodu k hlavnímu uzávěru odběrního místa.
+
+Přípojky není dovoleno vést přes pozemky nepatřící k napojovanému objektu. Přípojka má být vedena kolmo k plynovodnímu řádu v hloubce **min 800mm** (krytí přípojky).Niveleta dna výkopu je v hloubce **1000-1200mm**. Plynovodní přípojka má být ve spádu **min 0,5%** směrem k hlavnímu plynovodnímu řádu (plynovodní přípojka může být vedena i opačně ale musí být na ní umístěn uzávěr s možností odvodnění).
+
+Ve zdivu je potrubí v chráničce z litinové nebo ocelové trubky o jednom ø větší než vlastní potrubí opatřeno převlečnou manžetou. V místě prostupu nesmí být na potrubí žádný spoj(pouze v nutných případech spoje svařované s kontrolovanou těsností)
+
+Vzdálenost od vodovodního, kanalizačního, elektroinstalací řádu je **min 400mm**, v místě křížení s uvedenými sítěmi je vzdálenost **min 100mm**.
+
+(OBRÁZEK 7)
+
+poznámka:
+
+- pro každý samostatný objekt se zřizuje jedna samostatná přípojka
+
+- jedna přípojka je zřízena **maximálně pro 3** popisová čísla
+
+- minimální světlost přípojky je **32mm**
+
+### Přípojka z polyethylenu
+
+Názvosloví:
+
+- tvarovka - součást potrubí sloužící ke:spojování,změně směru,změně profilu, zaslepení trubky
+
+- přechodka - slouží ke spojení plastové a kovové části potrubí
+
+- zemní souprava - zařízení, které ovládá uzávěry uložené v zemi
+
+- výstražná fólie - pás z plastu upozorňující na přítomnost vedení v zemi
+
+- podsyp - je sypaná konstrukce z předepsaného materiálu(písku)na dně rýhy
+
+- obsyp - sypaná konstrukce určená k ochraně potrubí před poškozením
+
+- zásyp - sypaná konstrukce určená k vyplnění prostoru hlíny mezi obsypem a terénem
+
+Potrubí z polyethylenu nesmí být použito pro nadzemní vedení. Trubky pro chráničky musí být žluté, jsou-li jiné barvy musí být označení minimálně 4 podélnými žlutými pruhy. Potrubí musí být chráněno před tepelnými účinky ostatních vedeních tak aby teplota jeho povrchu nepřesáhla 20°C.
+
+Sklon potrubí z PE je min **0,4%** směrem k plynovodu. Je-li potrubí
+uloženo ve větším spádu jak 20% musí být navrženo opatření proti posunutí.
+
+### Chráničky
+
+- při ochraně proti uniku plynu
+
+- při ochraně před poškozením potrubí
+
+(OBRÁZEK 8)
+
+Ústí chráničky musí být zajištěno tak aby při eventuálních dilatačních pohybech nemohlo dojít ke vzájemnému dotyku potrubí a chráničky.
+
+### Zemní práce
+
+Rozměry rýhy pro uložení potrubí stanoví projekt. Potrubí lze ukládat pouze na podsyp výšky **min 100mm**. Dno výkopu musí být vyrovnáno a zhutněno aby na něm leželo potrubí po celé své délce.
+
+Ve vzdálenosti **300-400mm nad vrchem potrubí** musí být uložena **výstražná fólie žluté barvy**. Šířka pásu **musí přesahovat 50mm na** každou stranu **šířku** uloženého potrubí.
+
+(OBRÁZEK 9)
+
+## Části domovního plynovodu
+
+Domovní plynovod začíná hlavním uzávěrem plynu (HUP) a končí uzávěry před spotřebiči. Skládá se z potrubí přívodního a rozvodného.
+
+Části domovního plynovodu:
+
+- **přívodní část** je od HUP k plynoměru
+
+- **rozvodná část** je od plynoměru ke spotřebičům
+
+- **Stoupací vedení** je část plynovodu vedoucí svisle min přes jedno podlaží
+
+- **hlavní uzávěr** HUP zařízení kterým lze uzavřít celý domovní plynovod
+
+Plynovodní potrubí musí být co nejkratší s minimem množstvím prostupů zdmi.
+
+Potrubí vedená na povrchu jsou upevněna ke konstrukci pomocí konzol, závěsu, třmenů (obdoba vodovodu) ve
+vzdálenostech předepsaných dle profilu potrubí.Vedení potrubí je **zakázáno v podlaze**, pouze výjimečně může být v betonovém kanálku se snímatelným krytem.
+
+plynovod nesmí být veden:
+
+- výtahovými šachtami
+
+- komínovými a větracími průduchy
+
+- ve stěnách za zabudovaným nábytkem
+
+- v podlaze ob budov
+
+- chráněnými únikovými cestami
+
+- na půdách
+
+- obecně tam kde může dojít k ohřátí plynovodu
+
+(OBRÁZEK 10)
+
+### Stoupací vedení
+
+Stoupací vedení se v budovách pro bydlení umisťuje do nebytových dobře větratelných místností (do bytových jader,do instalačních šachet). Stoupací vedení nesmí být vedeno obytnými prostory. Při prostupu stropem musí být vedeno v ocelové chráničce. S ležatým potrubím je spojeno pomocí T kusů s možným čištěním a odvodněním. Stoupací vedení se odvodňuje v nejnižší části.
+
+(OBRÁZEK 11)
+
+### Umístění HUP
+
+Hlavní uzávěr plynu nesmí být podle nových předpisů umístěn v budově. Umisťuje se na hranici pozemku ve speciální skříňce, nebo na fasádě v samostatně větratelné nice.
+
+### Plynoměry
+
+Plynoměrem se odměřuje množství spotřebovaného plynu. Každý odběratel musí mít samostatný plynoměr. Před a za plynoměrem má být uzavírací kohout. Plynovod se k potrubí připojuje šroubením. Plynoměr musí mít přívod vždy na levé straně plynoměru.
+
+(OBRÁZEK 12)
+
+**Plynoměry musí být umístěné** na přístupném a větratelném místě, nejlépe ve výklenku o rozměrech 500 x 500 x 350. Na veřejném místě musí být uzamčen ve skřínce. V obytných budovách se umisťují do schodišťových prostor
+a na chodby.
+
+**Plynoměry se nesmí osazovat** v ložnicích, skladech s potravinami, skladech s hořlavinami, kotelnách, garážích, koupelnách, prádelnách a v místech s teplotou vyšší jak 30°C
+
+### Potrubí
+
+Pro uložení v zemi a pro přípojky se používají ocelové trubky a polyethylenové trubky bezešvé uvnitř neasfaltované. Vnější ochranný povlak potrubí je asfaltový nátěr a skelná tkanina. U polyethylenových (PE) trub se vnější povrch neizoluje.
+
+Pro plynovod v budovách se provádí bezešvé svařované potrubí. Potrubí se v zásadě nesešroubovává.
+
+## Plynové spotřebiče
+
+Plynové spotřebiče můžeme rozdělit na:
+
+- spotřebiče bez odtahu spalin
+
+- spotřebiče které musí mít vlastní odtah spalin
+
+### Spotřebiče bez odtahu spalin
+
+Spotřebiče bez odtahu spalin lze umístit jen ve větraných místnostech, které nesmí sloužit ke spaní. Spotřebiče bez odtahu spalin musí být umístěny v místnostech kde na jeden spotřebič připadá 10 - 26 m 3 prostoru.
+
+Mezi spotřebiče bez odtahu spalin řadíme např:
+
+- plynový sporák (místnost 20 m 3 )
+
+- plynový vařič (místnost 10 m 3 )
+
+- samostatná plynová trouba (místnost 10 m 3 )
+
+- samostatný průtokový ohřívač vody do 10 kW (místnost 20 m 3 )
+
+### Spotřebiče s vlastním odtah spalin
+
+Spotřebiče které musí mít vlastní odtah spalin jsou např:
+
+- průtokový ohřívač vody nad 10 kW
+
+- průtokový ohřívač vody do 10 kW, používaný pro vanu nebo sprchu
+
+- plynový kotel
+
+- lokální vytápění místností
