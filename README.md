@@ -36,7 +36,7 @@ POS - OTÁZKY
 |   25   | @Moumirrai     | hrebenac       |             |      X      |
 |   26   | @Moumirrai     |                |             |      X      |
 |   27   | @tomostronos   |                |      X      |             |
-|   28   | @siberiastronk | images         |      X      |             |
+|   28   | @siberiastronk | images         |             |      X      |
 |   29   |                |                |             |             |
 |   30   | @Fantastyk     |                |      X      |             |
 |   31   |                |                |             |             |
@@ -53,4 +53,4 @@ POS - OTÁZKY
 |   42   |                |                |             |             |
 |   43   |                |                |             |             |
 |   44   |                |                |             |             |
-|  Sum   | 22/44 (50%)    |                |      5      | 14/44 (32%) |
+|  Sum   | 22/44 (50%)    |                |      5      | 15/44 (34%) |

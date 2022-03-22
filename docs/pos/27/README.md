@@ -10,28 +10,20 @@ bude_dělat: Tesík
 Voda se získává z:
 
 - podzemních pramenitých zdrojů
-
 - povrchových zdrojů
-
 - vodních nádrží
 
 Podle způsobu dopravy vody ke spotřebiteli rozeznáváme vodovody:
 
-- spádové = gravitační (voda protéká potrubím bez přečerpání)
-
-- výtlačné (používají se pouze tam, kde nelze použít spádové)
+- **spádové** = gravitační (voda protéká potrubím bez přečerpání)
+- **výtlačné** (používají se pouze tam, kde nelze použít spádové)
 
 Podle půdorysného uspořádání veřejné vodovodní rozeznáváme síť:
 
-- větvenou 
-  
+- **Větvenou** 
   - Voda je dopravována do místa spotřeby pouze jedním směrem. Větvená síť je nevýhodná, při poruchách jsou problémy se zásobováním. Navrhuje se pouze v místech malé spotřeby vody.
-
-- okružná
-  
+- **Okružní**
   - Celý vodovodní systém hlavních i vedlejších řádů je vzájemně propojen. Tento vodovodní systém je výhodný pro svůj stejný tlak ve všech částech potrubí, při rozšíření a opravách.
-
-## Vodovodní přípojka a vodoměr
 
 ### Vodovodní přípojka
 
@@ -39,27 +31,22 @@ Vodovodní přípojka je část potrubí mezi veřejným a vnitřním vodovodem.
 
 <img class="centered_image" src="/images/pos/27/27-1.jpg" /> 
 
-Přípojka má být:
-
+**Přípojka má být:**
 - uložena v hloubce 1 až 1,5m
-
 - uložena kolmo k uliční čáře
-
 - uložena v místě prostupu zdivem nebo základy v chráničce utěsněné na obou koncích
-
 - v místě napojení na veřejný vodovod musí být opatřena uzávěrem se zákopovou zemní úpravou
-
 - ve sklonu potrubí min. 0,3% od objektu k veřejnému řádu
-
 - označená orientační tabulkou
-
 - navržena z jednoho druhu materiálu (např. ocelové závitové trubky asfaltované)
 
 <img class="centered_image" src="/images/pos/27/27-2.jpg" />
 
 Norma doporučuje především plastové přípojky. Od DN 80 doporučuje provést přípojku z ocelové tlakové hrdlové trubky. Jestli-že je potrubí přípojky navržené plastové (PE,PP), musí být přípojka provedena z jednoho kusu.
 
-### Hlavní uzávěr vnitřního vodovodu = HUVV
+### Hlavní uzávěr vnitřního vodovodu
+
+> značeno **HUVV**
 
 Hlavní uzávěr vnitřního vodovodu je usazený bezprostředně za vodoměrem. HUVV je součástí vnitřního vodovodu.
 
@@ -73,7 +60,9 @@ Vodoměr v podsklepených objektech se umísťuje v suterénu za obvodovou zeď 
 
 U nepodsklepených objektu se vodoměr umísťuje ve vodoměrné šachtě, nebo ve výklenku,nebo ve skřínce na zdivu. Umístění vodoměru mimo objekt jen výjimečné, např.v případě, že je objekt vzdálen od hranice pozemku víc než 10m.
 
-### Hlavní uzávěr objektu = HUO
+### Hlavní uzávěr objektu
+
+> značeno **HUO**
 
 Hlavní uzávěr objektu je osazený na potrubí vnitrního vodovodu ve stavebním objektu těsně za obvodovou zdí. Uzávěr je umístěn před vodoměrem.
 
@@ -83,9 +72,8 @@ Vnitřní vodovod tvoří soustava vodovodních potrubí v objektu za vodovodní
 
 Vnitřní vodovod může být :
 
-- jednotný
-
-- dělený
+- **jednotný**
+- **dělený**
 
 Při děleném vnitřním vodovodu je samostatný rozvod pro pitnou vodu a samostatný rozvod pro vodu užitkovou. Tyto dva rozvody nesmějí být propojeny.
 
@@ -97,28 +85,19 @@ Voda je dodávána k výtokům u zařizovacích předmětů. Tyto zařizovací p
 
 Rozvod vody v objektech je tvořen:
 
-- Iežatým potrubím
-  
+- **Ležatým potrubím**
   - Ležaté potrubí je vedeno od vodovodní přípojky směrem ke stoupajícím potrubím ve sklonu min.0,3%. Zpravidla bývá zavěšeně pod stropem. Před každým stoupajícím potrubím musí být osazen uzávěr.
-
-- stoupacím potrubím
-  
+- **Stoupacím potrubím**
   - Stoupající potrubí muže být vedeno v instalačním šachtě, v drážce, ve zdivu, nebo volně na zdivu.
-
-- připojovacím potrubím
-  
+- **Připojovacím potrubím**
   - Připojovací potrubí je část potrubí od stoupajícího po výtokové armatury. Výtok pro teplou vodu je označen červenou barvou a výtok pro studenou vodu je označen modrou barvou. 
-  
   - Pro připojovací potrubí s možností zamrznutí, musí být v nejnižším místě umístěn uzavírací a vypouštěcí ventil.
 
 Dále můžeme rozvody vody v objektech rozdělit na rozvody:
 
 - studené vody
-
 - teplé vody
-
 - cirkulační vody
-
 - požární vody
 
 ### Trubní materiál
@@ -128,11 +107,8 @@ Pro vnitrní potrubí se používá především plastové trubky. Teplá vod a 
 Pro rozvody vody se mohou použít i jiné materiály:
 
 - ocelové pozinkované bezešvé(závitové nebo hrdlové) trouby
-
 - měděné trouby na pitnou vodu (pouze s povolením hygienika)
-
 - litinové tlakové trubky (hrdlové nebo přírubové) - používají se především na přípojky pro průmyslové objekty
-
 - skleněné trubky v chemických a potravinářských provozech
 
 ### Armatury
@@ -142,11 +118,8 @@ Součástí vnitřních rozvodů studené a teplé vody jsou armatury.
 Armatury rozeznáváme:
 
 - výtokové
-
 - uzavírací
-
 - pojistné
-
 - zpětné
 
 ### Tepelná ochrana potrubí
@@ -183,17 +156,11 @@ Zařizovací předměty jsou pevně nainstalovaná zařízení zásobovaná vodo
 Příklady zařizovacích předmětů:
 
 - záchodové mísy
-
 - umyvadla
-
 - vany
-
 - dřezy
-
 - bidety
-
 - pisoárové mísy
-
 - výlevky
 
 Každý zařizovací předmět je součástí sestavy, která kromě něho zahrnuje výtokovou armaturu, odpadní armaturu a spojovací materiál.
@@ -225,7 +192,6 @@ Požární vodovod zabezpečuje dopravu potřebného množství vody pod daným 
 Požární vodovody mohou být:
 
 - vnější
-
 - vnitřní
 
 ### Vnější požární vodovody
@@ -248,23 +214,18 @@ Požární rozvod vody může být samostatný nebo společný s rozvodem pitné
 Rozvodné potrubí může být:
 
 - zavodněné (pod tlakem)
-
 - nezavodněné (suché)
 
 stabilní samočinná hasící zařízení se dělí do dvou základních skupin:
 
 - SPRINKLEROVÁ ZARÍZENÍ 
-  
   - jsou samočinná stabilní zařízení, která se skládají z rozvodné sítě a ze sprinklerových hlavic.
-  
   - Princip sprinklerové hlavice je založen na ampuli s tekutinou (případně tavném kovovém článku), která při určité teplotě reaguje, následkem čehož ampule praskne a uvolní se voda v hlavici. Hasí pouze ty hlavice, u kterých bylo dosaženo nutné teploty.
 
 <img class="centered_image" src="/images/pos/27/OBRÁZEK SPRINKLERY.jpg" />
 
 - DRENČEROVÁ SOUSTAVA
-  
   - Z hlediska spuštění systému se drenčery instalují jako samočinné, kde se řídící ventil automaticky ovládá na základě impulsů čidel (senzorů), nebo jako ruční, kde řídící ventil je otevřen za asistence člověka. 
-  
   - Z uvedeného popisu drenčerových zařízení vyplývá, že hlavice jsou stále otevřené, a tudíž při otevření řídícího ventilu se skrápí celá plocha, narozdíl od sprinklerů, kde každá hlavice se spouští samostatně dle potřeb.
 
 **Požární hydranty** jsou umísťovány v prostoru chráněných únikových cest, umísťují se ve výšce 1,3m nad podlahou a musí být chráněny proti zamrznutí. Únikové cesty bývají většinou schodiště nebo chodby.
@@ -276,9 +237,7 @@ stabilní samočinná hasící zařízení se dělí do dvou základních skupin
 Vnitrní požární vodovod se nenavrhuje:
 
 - v rodinných domech
-
 - v rodinných rekreačních objektech
-
 - v objektech s max.15 lužky
 
 **Obytné budovy s výškou do 22,5m** jsou vybaveny hydranty min. DN 25,vnitrní požární vodovod je stále pod tlakem.
@@ -294,23 +253,18 @@ TUV je ohřátá pitná voda určená k mytí, praní, koupán. **Není určena 
 Možnosti ohřevu TVU:
 
 - ohřívání místní (lokální)
-
 - ohřev ústřední
-
 - ohřev dálkový
 
 Podle konstrukce zařízení rozdělujeme ohřev TUV na:
 
 - průtočné
-
 - akumulační
-
 - smíšené
 
 Ohřev TUV podle možnosti zabezpečení z různých zdrojů:
 
 - ohřívání jednoduché
-
 - ohřívání kombinované
 
 Při centrální přípravě má mít voda na výstupu z ohříváku maximálně 55 o C.U výtoku nemá být teplota vody nižší než 50 o C.
@@ -328,7 +282,6 @@ Tyto ohříváky lze využít i pro skupinový ohřev.
 Ohřev TUV pomocí elektřiny se provádí pomocí ohřívačů:
 
 - přímotopných (odebírají elektřinu pro okamžitý ohřev a spotřebu)
-
 - akumulačních (odebírají proud většinou mimo odebíranou špičku, kdy je nižší sazba a mohou zásobovat i skupinu výtoku TUV)
 
 ### Ústřední a dálkový ohřev TUV
@@ -345,7 +298,6 @@ U **dálkového ohřevu** se teplonosná látka přivádí ze sítí elektráren
 Alternativní zdroje energie pro výrobu TUV mohou být:
 
 - sluneční kolektory
-
 - tepelná čerpadla
 
 ### Rozvody teplé vody
@@ -374,9 +326,7 @@ Vzdálenost od vodovodního, kanalizačního, elektroinstalací řádu je **min 
 poznámka:
 
 - pro každý samostatný objekt se zřizuje jedna samostatná přípojka
-
 - jedna přípojka je zřízena **maximálně pro 3** popisová čísla
-
 - minimální světlost přípojky je **32mm**
 
 ### Přípojka z polyethylenu
@@ -386,15 +336,10 @@ Názvosloví:
 - tvarovka - součást potrubí sloužící ke:spojování,změně směru,změně profilu, zaslepení trubky
 
 - přechodka - slouží ke spojení plastové a kovové části potrubí
-
 - zemní souprava - zařízení, které ovládá uzávěry uložené v zemi
-
 - výstražná fólie - pás z plastu upozorňující na přítomnost vedení v zemi
-
 - podsyp - je sypaná konstrukce z předepsaného materiálu(písku)na dně rýhy
-
 - obsyp - sypaná konstrukce určená k ochraně potrubí před poškozením
-
 - zásyp - sypaná konstrukce určená k vyplnění prostoru hlíny mezi obsypem a terénem
 
 Potrubí z polyethylenu nesmí být použito pro nadzemní vedení. Trubky pro chráničky musí být žluté, jsou-li jiné barvy musí být označení minimálně 4 podélnými žlutými pruhy. Potrubí musí být chráněno před tepelnými účinky ostatních vedeních tak aby teplota jeho povrchu nepřesáhla 20°C.
@@ -405,7 +350,6 @@ uloženo ve větším spádu jak 20% musí být navrženo opatření proti posun
 ### Chráničky
 
 - při ochraně proti uniku plynu
-
 - při ochraně před poškozením potrubí
 
 <img class="centered_image" src="/images/pos/27/27-8.jpg" />
@@ -427,11 +371,8 @@ Domovní plynovod začíná hlavním uzávěrem plynu (HUP) a končí uzávěry 
 Části domovního plynovodu:
 
 - **přívodní část** je od HUP k plynoměru
-
 - **rozvodná část** je od plynoměru ke spotřebičům
-
 - **Stoupací vedení** je část plynovodu vedoucí svisle min přes jedno podlaží
-
 - **hlavní uzávěr** HUP zařízení kterým lze uzavřít celý domovní plynovod
 
 Plynovodní potrubí musí být co nejkratší s minimem množstvím prostupů zdmi.
@@ -442,17 +383,11 @@ vzdálenostech předepsaných dle profilu potrubí.Vedení potrubí je **zakáz�
 plynovod nesmí být veden:
 
 - výtahovými šachtami
-
 - komínovými a větracími průduchy
-
 - ve stěnách za zabudovaným nábytkem
-
 - v podlaze ob budov
-
 - chráněnými únikovými cestami
-
 - na půdách
-
 - obecně tam kde může dojít k ohřátí plynovodu
 
 <img class="centered_image" src="/images/pos/27/27-10.jpg" />
@@ -489,7 +424,6 @@ Pro plynovod v budovách se provádí bezešvé svařované potrubí. Potrubí 
 Plynové spotřebiče můžeme rozdělit na:
 
 - spotřebiče bez odtahu spalin
-
 - spotřebiče které musí mít vlastní odtah spalin
 
 ### Spotřebiče bez odtahu spalin
@@ -499,11 +433,8 @@ Spotřebiče bez odtahu spalin lze umístit jen ve větraných místnostech, kte
 Mezi spotřebiče bez odtahu spalin řadíme např:
 
 - plynový sporák (místnost 20 m 3 )
-
 - plynový vařič (místnost 10 m 3 )
-
 - samostatná plynová trouba (místnost 10 m 3 )
-
 - samostatný průtokový ohřívač vody do 10 kW (místnost 20 m 3 )
 
 ### Spotřebiče s vlastním odtah spalin
@@ -511,9 +442,6 @@ Mezi spotřebiče bez odtahu spalin řadíme např:
 Spotřebiče které musí mít vlastní odtah spalin jsou např:
 
 - průtokový ohřívač vody nad 10 kW
-
 - průtokový ohřívač vody do 10 kW, používaný pro vanu nebo sprchu
-
 - plynový kotel
-
 - lokální vytápění místností
