@@ -53,7 +53,7 @@ TODO:Rozdělit a popisky
 TODO:popisky
 -->
 
-#### Výplně otvorů
+### Výplně otvorů
 
 - u oken zdvojených se mezera mezi jednotlivými tabulemi skla vyplňuje buď vzduchem nebo některým vzácným plynem s lepšími tepelněizolačními vlastnostmi (argon, krypton)
 

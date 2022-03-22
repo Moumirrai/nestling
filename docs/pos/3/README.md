@@ -244,7 +244,7 @@ pageClass: default-page
 **1**. první vrstva, **2**. druhá vrstva
 :::
 
-### Zdivo z kamenných tvárnic
+### Zdivo z keramických tvárnic
 
 - prostřídané svislé dutiny
 - dobré tepelně technické vlastnosti

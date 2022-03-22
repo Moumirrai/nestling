@@ -129,7 +129,7 @@ pageClass: default-page
 3. Výšku schodiště vydělíme výškou stupně a zaokrouhlíme na celé číslo (u dvouramenného schodiště by měl počet být sudý)
 4. Výšku vydělíme zvoleným číslem a dostaneme tak výšku stupně $v$
 5. S pomocí [Lehmanova vzorce](../9/#navrh-rozmeru-schodistoveho-stupne) vypočítáme šířku stupně $š$
-6. Vypočítáme sklon $tan\alpha = \frac{h}{b}$
+6. Vypočítáme sklon $tan\alpha = \frac{v}{š}$
 7. Vypočteme délku schodišťového ramene $L = (n-1) * b$ kde $n$ je počet schodišťových stupňů
 8. Spočítáme a zkontrolujeme jestli vyhovuje [podchodná](../9/#podchodna-vyska) a [průchodná](../9/#pruchodna-vyska) výška
 

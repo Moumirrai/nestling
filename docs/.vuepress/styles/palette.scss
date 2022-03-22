@@ -1,5 +1,11 @@
 :root {
+
+  --c-brand: #3eaf7c;
+  --c-brand-light: #51c792;
+
   scroll-behavior: smooth;
+
+
   --pwa-popup-z-index: 10;
 
   --pwa-popup-text-color: #2c3e50;
@@ -39,6 +45,10 @@
     .router-link-active {
       font-weight: bold;
     }
+  }
+
+  .badge.warning {
+    color: var(--c-text);
   }
   
 
@@ -81,6 +91,10 @@ html.dark {
 
   // code blocks vars
   --code-hl-bg-color: #363b46;
+
+  .badge.warning {
+    color: var(--c-bg);
+  }
 
 }
 
