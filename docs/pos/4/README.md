@@ -10,7 +10,7 @@ nosných konstrukcí
 :::warning Rozdělení dle statického uložení
 <br>
 
-<img class="centered_image" src="/images/pos/4/uložení1.jpg" />
+<img class="centered_image" src="/images/pos/4/ulozeni_1.jpg" />
 <br>
 
 :::
