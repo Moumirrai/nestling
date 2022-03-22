@@ -259,7 +259,7 @@ stabilní samočinná hasící zařízení se dělí do dvou základních skupin
   
   - Princip sprinklerové hlavice je založen na ampuli s tekutinou (případně tavném kovovém článku), která při určité teplotě reaguje, následkem čehož ampule praskne a uvolní se voda v hlavici. Hasí pouze ty hlavice, u kterých bylo dosaženo nutné teploty.
 
-(OBRÁZEK SPRINKLER)
+<img class="centered_image" src="/images/pos/27/OBRÁZEK SPRINKLERY.jpg" />
 
 - DRENČEROVÁ SOUSTAVA
   
@@ -269,7 +269,7 @@ stabilní samočinná hasící zařízení se dělí do dvou základních skupin
 
 **Požární hydranty** jsou umísťovány v prostoru chráněných únikových cest, umísťují se ve výšce 1,3m nad podlahou a musí být chráněny proti zamrznutí. Únikové cesty bývají většinou schodiště nebo chodby.
 
-(OBRÁZEK HYDRANTY)
+<img class="centered_image" src="/images/pos/27/OBRÁZEK HYDRANTY.jpg" />
 
 ### Zásady požárních vnitrních vodovodu pro bydlení
 
