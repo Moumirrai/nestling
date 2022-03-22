@@ -20,7 +20,7 @@ Podle způsobu dopravy vody ke spotřebiteli rozeznáváme vodovody:
 
 Podle půdorysného uspořádání veřejné vodovodní rozeznáváme síť:
 
-- **Větvenou** 
+- **Větvenou**
   - Voda je dopravována do místa spotřeby pouze jedním směrem. Větvená síť je nevýhodná, při poruchách jsou problémy se zásobováním. Navrhuje se pouze v místech malé spotřeby vody.
 - **Okružní**
   - Celý vodovodní systém hlavních i vedlejších řádů je vzájemně propojen. Tento vodovodní systém je výhodný pro svůj stejný tlak ve všech částech potrubí, při rozšíření a opravách.
@@ -29,9 +29,10 @@ Podle půdorysného uspořádání veřejné vodovodní rozeznáváme síť:
 
 Vodovodní přípojka je část potrubí mezi veřejným a vnitřním vodovodem. Začíná navrtávkou nebo odbočkou na veřejném řádu a končí vodoměrnou sestavou uvnitř objektu. Každý objekt musí mít samostatnou vodovodní přípojku.
 
-<img class="centered_image" src="/images/pos/27/1.jpg" /> 
+<img class="centered_image" src="/images/pos/27/1.jpg" />
 
 **Přípojka má být:**
+
 - uložena v hloubce 1 až 1,5m
 - uložena kolmo k uliční čáře
 - uložena v místě prostupu zdivem nebo základy v chráničce utěsněné na obou koncích
@@ -90,7 +91,7 @@ Rozvod vody v objektech je tvořen:
 - **Stoupacím potrubím**
   - Stoupající potrubí muže být vedeno v instalačním šachtě, v drážce, ve zdivu, nebo volně na zdivu.
 - **Připojovacím potrubím**
-  - Připojovací potrubí je část potrubí od stoupajícího po výtokové armatury. Výtok pro teplou vodu je označen červenou barvou a výtok pro studenou vodu je označen modrou barvou. 
+  - Připojovací potrubí je část potrubí od stoupajícího po výtokové armatury. Výtok pro teplou vodu je označen červenou barvou a výtok pro studenou vodu je označen modrou barvou.
   - Pro připojovací potrubí s možností zamrznutí, musí být v nejnižším místě umístěn uzavírací a vypouštěcí ventil.
 
 Dále můžeme rozvody vody v objektech rozdělit na rozvody:
@@ -218,14 +219,14 @@ Rozvodné potrubí může být:
 
 stabilní samočinná hasící zařízení se dělí do dvou základních skupin:
 
-- SPRINKLEROVÁ ZARÍZENÍ 
+- SPRINKLEROVÁ ZARÍZENÍ
   - jsou samočinná stabilní zařízení, která se skládají z rozvodné sítě a ze sprinklerových hlavic.
   - Princip sprinklerové hlavice je založen na ampuli s tekutinou (případně tavném kovovém článku), která při určité teplotě reaguje, následkem čehož ampule praskne a uvolní se voda v hlavici. Hasí pouze ty hlavice, u kterých bylo dosaženo nutné teploty.
 
 <img class="centered_image" src="/images/pos/27/sprinklery.jpg" />
 
 - DRENČEROVÁ SOUSTAVA
-  - Z hlediska spuštění systému se drenčery instalují jako samočinné, kde se řídící ventil automaticky ovládá na základě impulsů čidel (senzorů), nebo jako ruční, kde řídící ventil je otevřen za asistence člověka. 
+  - Z hlediska spuštění systému se drenčery instalují jako samočinné, kde se řídící ventil automaticky ovládá na základě impulsů čidel (senzorů), nebo jako ruční, kde řídící ventil je otevřen za asistence člověka.
   - Z uvedeného popisu drenčerových zařízení vyplývá, že hlavice jsou stále otevřené, a tudíž při otevření řídícího ventilu se skrápí celá plocha, narozdíl od sprinklerů, kde každá hlavice se spouští samostatně dle potřeb.
 
 **Požární hydranty** jsou umísťovány v prostoru chráněných únikových cest, umísťují se ve výšce 1,3m nad podlahou a musí být chráněny proti zamrznutí. Únikové cesty bývají většinou schodiště nebo chodby.
