@@ -1,6 +1,8 @@
 ---
+
 pageClass: default-page
 ---
+
 # 28. KANALIZACE
 
 ## A) Vnitřní odpadní kanalizace
@@ -22,8 +24,6 @@ pageClass: default-page
 - Nerezová ocel - tam, kde jsou kladeny vysoké nároky na hygienu, čistitelnost, tepelnou a chemickou odolnost odpadního potrubí.
 - Kamenina - tradiční materiál, který se používá tam kde jsou zvýšené nároky na životnost a odolnost potrubí.
 
-
-
 ### Části vnitřní kanalizace
 
 ::: tip Řez svislé kanalizace
@@ -43,8 +43,6 @@ pageClass: default-page
 
 1 – vyústění z budovy, 2 – hlavní svod, 3 – odbočky k připojení vedlejších svodů, 4 – čistící tvarovka, 5 – oblouky pro změny směru, 6-8 – vedlejší svody
 :::
-
-
 
 Hlavní svod – bývá zpravidla nejdelší a prochází přibližně půdorysným středem budovy. Končí přechodem do kanalizační přípojky nebo napojením do domovní čistírny.
 
@@ -86,8 +84,6 @@ TODO: obrázek septiku
 3. Je žádoucí v systému instalovat větrací potrubí volně otevřená do atmosféry k větrání venkovní stokové sítě
 4. Při průchodu potrubí stropem nesmí být v průchodu spoj, průchod je nutno izolovat proti hluku a vodě
 5. Odklon stoupacího potrubí nesmí být delší než 1m (zvyšuje se úroveň hluku)
-   
-   
 
 ## B) Dešťová kanalizace
 
@@ -159,8 +155,22 @@ Dvorní vpusti - okolí vpusti nejméně do vzdálenosti 1m od mříže vydláž
 - Každá trubka má jeden konec opatřen hrdlem, do kterého se nasune hladký konec trubky druhé.
 - Pro změnu směru či zalomení používáme kolena.
 
-> TODO: obrázek odpadního kolena
+> TODO: obrázek spojování přechodu
 
+### Veřejná kanalizace
 
+- Slouží k odvádění odpadních vod z jednotlivých nemovitostí a z veřejného prostranství do městské čistírny odpadních vod, případně přímo do recipientu.
 
-> TODO: POZOR CHYBÍ VĚŘEJNÁ KANALIZACE
+#### Dělení podle hnací síly
+
+- Gravitační
+
+- Vakuová kanalizace - v síti je podtlak
+
+- Tlaková kanalizace - v síti je přetlak
+
+TODO: obrázek vakuové + tlakové 
+
+#### Dělení podle tvaru
+
+TODO: obrázek dělení podle tvaru
