@@ -231,7 +231,7 @@ stabilní samočinná hasící zařízení se dělí do dvou základních skupin
 
 **Požární hydranty** jsou umísťovány v prostoru chráněných únikových cest, umísťují se ve výšce 1,3m nad podlahou a musí být chráněny proti zamrznutí. Únikové cesty bývají většinou schodiště nebo chodby.
 
-<img class="centered_image" src="/images/pos/27/hydranty.jpg" />
+<img class="centered_image" src="/images/pos/27/hydrant.jpg" />
 
 ### Zásady požárních vnitrních vodovodu pro bydlení
 
