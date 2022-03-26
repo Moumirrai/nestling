@@ -209,8 +209,7 @@ pageClass: default-page
 <div class='hide'>
 
 ---
----
 <br>
 
-*[STÁHNOUT PDF/TISK](https://github.com/Moumirrai/nestling/blob/master/pdf/pos/40.pdf)*
+*[STÁHNOUT PDF/TISK](https://docs.google.com/viewer?url=https://github.com/Moumirrai/nestling/raw/68843949b78649c61493fcf59db04d1db49d63b4/pdf/pos/40.pdf)*
 </div>
