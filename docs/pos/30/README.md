@@ -99,7 +99,7 @@ pageClass: default-page
 <br>
 <img class="centered_image" src="/images/pos/30/2.jpg" />       
 <br>
-<img class="centered_image" src="/images/pos/4/prvky.jpg" />
+<img class="centered_image" src="/images/pos/30/35.jpg" />
 <br>
 :::  
 
