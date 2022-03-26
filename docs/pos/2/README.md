@@ -172,7 +172,7 @@ Při hlubinném zakládání se zatížení stavby přenáší do hlubších ún
 - **plovoucí** – zatížení se přenáší třením mezi nerovným povrchem pilot a zeminou
 
 #### Mezi hlubinné základy patří:
-
+<div class='table'>
 | PILOTY                                 | ŠACHOTVÉ PILÍŘE                        |
 | -------------------------------------- | -------------------------------------- |
 | <img class="centered_image" src="/images/pos/2/11.jpg" /> | <img class="centered_image" src="/images/pos/2/12.jpg" /> |
@@ -180,6 +180,7 @@ Při hlubinném zakládání se zatížení stavby přenáší do hlubších ún
 | ZÁKLADOVÉ STUDNY                       | KESONY                                 |
 | -------------------------------------- | -------------------------------------- |
 | <img class="centered_image" src="/images/pos/2/13.jpg" /> | <img class="centered_image" src="/images/pos/2/14.jpg" /> |
+</div>
 
 ## Opravy základů
 

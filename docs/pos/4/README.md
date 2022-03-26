@@ -47,3 +47,5 @@ nosných konstrukcí
 <br>
 
 :::
+
+<img class="centered_image" src="/images/pos/4/prvky.jpg" />
