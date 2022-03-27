@@ -184,14 +184,10 @@ Povinnost uschovat deník je na 10 let po skončení účetního období
 
 Sečtením všech položek v deníku se provede účetní uzávěrka, která slouží jako podklad pro výpočet daně z příjmů na formuláři [Daňového přiznání](#danove-priznani-a-placeni-dani)
 
-<!--
-
 <div class='hide'>
 
 ---
 <br>
 
-*[STÁHNOUT PDF/TISK](https://docs.google.com/viewer?url=https://github.com/Moumirrai/nestling/raw/68843949b78649c61493fcf59db04d1db49d63b4/pdf/pos/40.pdf)*
+*[STÁHNOUT PDF/TISK](https://docs.google.com/viewer?url=https://github.com/Moumirrai/nestling/raw/8a8cdccc1ab923190dacd9a2d522264b8e22d41a/pdf/pos/41.pdf)*
 </div>
-
--->
