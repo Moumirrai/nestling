@@ -68,7 +68,7 @@ pageClass: default-page
 ### Zánik živnosti
 
 - smrtí podnikatele, není-li dědic
-- pokud byla živnost vydána na dobu neurčitou
+- pokud byla živnost vydána na dobu určitou
 - rozhodnutím živnostenského úřadu o zrušení po hrubém nebo opakovaném poručení zákona
 
 ## Podnikání podle zákona o korporacích
