@@ -207,10 +207,12 @@ pageClass: default-page
 
 > např. naše škola, muzea, galerie, divadla
 
+<!--
 <div class='hide'>
-
 ---
 <br>
 
 *[STÁHNOUT PDF/TISK](https://docs.google.com/viewer?url=https://github.com/Moumirrai/nestling/raw/68843949b78649c61493fcf59db04d1db49d63b4/pdf/pos/40.pdf)*
 </div>
+
+-->
