@@ -154,18 +154,7 @@ module.exports = {
     }],
     ['@vuepress/pwa',
     {
-      skipWaiting: false,
+      skipWaiting: true,
     }],
-    [
-      '@vuepress/plugin-pwa-popup',
-      {
-        locales: {
-          '/': {
-            message: 'Nový obsah k dispozici!',
-            buttonText: 'Aktualizovat',
-          }
-        },
-      },
-    ],
   ],
 };
