@@ -105,6 +105,8 @@ V ČR
 <img class="centered_image" src="/images/pos/37/gotika.jpg" />
 <br>
 
+TEST
+
 ***
 <br>
 
