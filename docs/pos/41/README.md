@@ -33,7 +33,7 @@ pageClass: default-page
 - **daň z přidané hodnoty** - připočítána k produktu
   - základní je **21%** a snížená **15%**
 - **spotřební daň** - speciální druh daně, stát se snaží spotřebu těchto produktů omezit
-- **celní daň** - exportované zboží
+- **celní daň** - importované zboží
 
 <br>
 
@@ -88,7 +88,7 @@ Rozeznávám 5 skupin příjmu:
 
 #### Slevy na daních
 
-- sleva se odečítá od daně
+- sleva se odečítá od základu daně
 - na slevu má nárok **rodina s dětmi** (na každé dítě může uplatnit sleva), **ZTP/P** etc.
 
 ### Srážková daň
