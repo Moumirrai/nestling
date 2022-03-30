@@ -69,7 +69,8 @@ pageClass: default-page
 
 - smrtí podnikatele, není-li dědic
 - pokud byla živnost vydána na dobu určitou
-- rozhodnutím živnostenského úřadu o zrušení po hrubém nebo opakovaném poručení zákona
+- podnikatel o to zažádá
+- rozhodnutím živnostenského úřadu o zrušení po hrubém nebo opakovaném porušení zákona
 
 ## Podnikání podle zákona o korporacích
 
