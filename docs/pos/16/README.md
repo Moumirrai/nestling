@@ -35,9 +35,11 @@ pageClass: default-page
    
    - požadavek na bezpečnost provozu --> požadavky na zábradlí, požadavky na povrchy podah, prostorové požadavky 
 
-(OBR. - VÝŠKA ZÁBRADLÍ)
+<img class="centered_image" src="/images/pos/16/vyskazabradli.jpg" />
 
 3. ### Izolační
+
+   - zvuková izolace
    
    - tepelná izolace (nutné řešit tkzv. tepelné mosty)
    
@@ -45,7 +47,7 @@ pageClass: default-page
    
    1. **obložení** 
    
-   (OBR. - OBLOŽENÍ)
+   <img class="centered_image" src="/images/pos/16/oblozeni.jpg" />
    
    2. **částečné přerušení tepelné izolace**
       
@@ -53,19 +55,17 @@ pageClass: default-page
       
       - nevýhodou je vysoká pravděpodobnost že v zimním období může dojít ke kondenzaci vodních par --> výskyt plísně 
    
-   (OBR. - ČÁSTEČNÉ PŘERUŠENÍ)
+   <img class="centered_image" src="/images/pos/16/castecnepreruseni.jpg" />
    
    3. **vložení TI do přerušené ŽB kce. (ISO nosníky)**
       
       - ŽB deska je přerušena TI (ISO nosníkem), který má v sobě zakotvenou skze TI betonářskou výztuž na obě strany a po zabetonování spolupůsobí se stropní konstrukcí
    
-   (OBR. - ISO NOSNÍK 1)
+   <img class="centered_image" src="/images/pos/16/isonosnik1.jpg" />
+
+   <img class="centered_image" src="/images/pos/16/isonosnik2.jpg" />
    
-   (OBR. - ISO NOSNÍK 2)
-   
-   (OBR. - ISO NOSNÍK 3)
-   
-   - zvuková izolace
+   <img class="centered_image" src="/images/pos/16/isonosnik3.jpg" />
 
 4. ### Odolnost proti požáru
 
@@ -81,7 +81,7 @@ pageClass: default-page
      
      - okapní drážky
 
-(OBR. - OKAPNÍ NOS)
+<img class="centered_image" src="/images/pos/16/okapninos.jpg" />
 
 7. ### Odolnost vůči účinkům objemových změn
    
@@ -117,13 +117,13 @@ pageClass: default-page
 
 - podepřený prvek
 
-(OBR. - BALKONY)
+<img class="centered_image" src="/images/pos/16/balkony.jpg" />
 
 ## Lodžie
 
 - stojí na třech obvodových stěnách
 
-rozlišujeme:
+**rozlišujeme**:
 
 - předsazené l.
 
@@ -131,7 +131,7 @@ rozlišujeme:
 
 - polozapuštěné l.
 
-(OBR. - LODŽIE)
+<img class="centered_image" src="/images/pos/16/lodzie.jpg" />
 
 ## Římsy
 
@@ -141,7 +141,7 @@ rozlišujeme:
 
 - materiál: prefabrikát, ŽB-monolit, cihly nebo kámen)
 
-podle umístění:
+**podle umístění**:
 
 - kordonová
 
@@ -153,13 +153,13 @@ podle umístění:
 
 - štítová
 
-stabilita se zajišťuje:
+**stabilita se zajišťuje**:
 
 - kotvením
 
 - přitížením nadezdívkou
 
-(OBR - ŘÍMSY)
+<img class="centered_image" src="/images/pos/16/rimsy.jpg" />
 
 ## Arkýře a Apsidy
 
@@ -167,9 +167,9 @@ stabilita se zajišťuje:
 
 - Apsida - stojící na zemi / Arkýř - ve vzduchu
 
-(OBR. - APSIDA)
+<img class="centered_image" src="/images/pos/16/apsida.jpg" />
 
-(OBR. - VYKÝŘ)
+<img class="centered_image" src="/images/pos/16/vykyr.jpg" />
 
 ## Markýzy (přístřešky)
 
@@ -177,7 +177,7 @@ stabilita se zajišťuje:
 
 - vyložení cca 1 až 3m podle typu objektu
 
-(OBR. - MARKÝZA)
+<img class="centered_image" src="/images/pos/16/markyza.jpg" />
 
 ## Terasy (ustupující podlaží)
 
@@ -189,10 +189,10 @@ nutno řešit:
 
 - akusticky (kročejový hluk)
 
-(OBR. - TERASA)
+<img class="centered_image" src="/images/pos/16/terasa.jpg" />
 
 ## Pavlače
 
 chodba vně budovy
 
-(OBR. - PAVLAČ)
+<img class="centered_image" src="/images/pos/16/pavlac.jpg" />
