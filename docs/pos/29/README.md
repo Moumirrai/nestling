@@ -1,6 +1,7 @@
 ---
 pageClass: default-page
 ---
+
 # 29. VYTÁPĚNÍ
 
 <!--
@@ -32,6 +33,10 @@ podle konstrukce rozeznáváme otopná tělesa:
 
 - SKŘÍŃKOVÁ (tzv. konvektory)
 
-(OBRÁZEK 3x - článková, desková o.t., konvektor)
+- ŽEBROVÁ
+
+- TRUBKOVÁ
+
+(OBRÁZEK 5x - článková, desková o.t., konvektor, žebrová, tubková)
 
 ## Podlahové vytápění
