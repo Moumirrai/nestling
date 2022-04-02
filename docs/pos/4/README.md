@@ -50,14 +50,15 @@ nosných konstrukcí
 <br>
 <img class="centered_image" src="/images/pos/4/12.jpg" />
 <br>
-obrázek
+34.jpg (why.jpg)
 <!-- <img class="centered_image" src="/images/pos/4/why.jpg" /> -->
 <br>
 
 **Kotvení pomocí pásové oceli**
 
 <br>
-<img class="centered_image" src="/images/pos/4/pasek.jpg" />
+pasek.jpg
+<!-- <img class="centered_image" src="/images/pos/4/pasek.jpg" /> -->
 <br>
 
 :::
