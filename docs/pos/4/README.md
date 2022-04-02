@@ -255,7 +255,7 @@ drevo.jpg
 - svislé profily (sloupky) jsou zavěšené v nosném pojezdovém profilu připevněném na stropě
 - na sloupcích je připevněn poddajný plášťovací materiál
 <br>
-<!-- <img class="centered_image" src="/images/pos/4/shrn.jpg" /> >>
+<!-- <img class="centered_image" src="/images/pos/4/shrn.jpg" /> -->
 <br>
 
 **Posuvná**
