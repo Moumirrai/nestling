@@ -1,11 +1,10 @@
 ---
-
 pageClass: default-page
 ---
 
 # 16. PŘEVISLÉ A USTUPUJÍCÍ KCE
 
-### rozdělení nosných vodorovných kcí:
+### Rozdělení nosných vodorovných kcí:
 
 - **stropní** 
 
@@ -13,7 +12,7 @@ pageClass: default-page
 
 - **ustupující** - lodžie (zapuštěné), terasy
 
-## funkční požadavky:
+## Funkční požadavky:
 
 1. ### Statické
    
@@ -38,7 +37,7 @@ pageClass: default-page
 <img class="centered_image" src="/images/pos/16/vyskazabradli.jpg" />
 
 3. ### Izolační
-
+   
    - zvuková izolace
    
    - tepelná izolace (nutné řešit tkzv. tepelné mosty)
@@ -62,7 +61,7 @@ pageClass: default-page
       - ŽB deska je přerušena TI (ISO nosníkem), který má v sobě zakotvenou skze TI betonářskou výztuž na obě strany a po zabetonování spolupůsobí se stropní konstrukcí
    
    <img class="centered_image" src="/images/pos/16/isonosnik1.jpg" />
-
+   
    <img class="centered_image" src="/images/pos/16/isonosnik2.jpg" />
    
    <img class="centered_image" src="/images/pos/16/isonosnik3.jpg" />

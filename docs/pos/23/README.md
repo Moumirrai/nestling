@@ -16,11 +16,11 @@ pageClass: default-page
 ## Povrchové úpravy
 
 - zámečnické výrobky chráníme především před korozí, dodávají finální vzhled prvku
-
+  
   - pozinkování
-
+  
   - eloxování (tepelné nanášení a vypalování barvy)
-
+  
   - ochranné nátěry - laky, barvy
 
 ## Kovová okna
@@ -28,9 +28,9 @@ pageClass: default-page
 - podle konstrukce mamé okna jednoduchá, zdvojená, dvojitě zasklená
 
 - Dle způsobu otevírání křídel máme otevírací, sklápěcí, vyklápěcí a pevné
-
+  
   - ocelová (výhradně u nevytápěných místností)
-
+  
   - hliníková
 
 ### Jednoduchá okna
@@ -218,15 +218,15 @@ TODO:popisky
 - součástí je i branka
 
 - druhy
-
+  
   - zděné
-
+  
   - drátěné
-
+    
     - tkané
-
+    
     - pletivo z vlnitého drátu
-
+    
     - svařované sítě
 
 ### Žebříky
