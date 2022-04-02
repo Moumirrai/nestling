@@ -27,7 +27,7 @@ nosných konstrukcí
 
 :::warning Kotvení
 <br>
-<img class="centered_image" src="/images/pos/4/kotveni.jpg" />
+<img class="centered_image" src="/images/pos/4/35.jpg" />
 <br>
 
 :::
