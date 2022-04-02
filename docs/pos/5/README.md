@@ -46,7 +46,7 @@ Pro výšení stability nosných zdí se některé trámy kotví ocelovými kotv
 - lepší zlepšené zvukově izolační vlastnosti
 - byl používán v bytové výstavbě
 
-Na nosné trámy se přibíjel záklop tloušťky 30 mm. Tloušťka násypu byla 120 až 160 mm. Hrubá podlaha se přibíjela do polštářů průřezu 80/120 mm, uložených v násypu v osové vzdálenosti 80 až 90 mm od sebe.
+Na nosné trámy se přibíjel záklop tloušťky 30 mm. Tloušťka násypu byla 120 až 160 mm. Hrubá podlaha se přibíjela do polštářů průřezu 80/120 mm, uložených v násypu v osové vzdálenosti 800 až 900 mm od sebe.
 <br>
 
 <img class="centered_image" src="/images/pos/5/4.jpg" />
