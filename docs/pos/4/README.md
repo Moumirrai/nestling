@@ -16,7 +16,7 @@ nosných konstrukcí
 :::warning Rozdělení dle statického uložení
 <br>
 ulozeni1.jpg
-<!--<img class="centered_image" src="/images/pos/4/ulozeni1.jpg" /> -->
+<img class="centered_image" src="/images/pos/4/ulozeni1.jpg" /> 
 <br>
 
 :::
@@ -51,14 +51,14 @@ ulozeni1.jpg
 <img class="centered_image" src="/images/pos/4/12.jpg" />
 <br>
 34.jpg (why.jpg)
-<!-- <img class="centered_image" src="/images/pos/4/why.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/why.jpg" /> 
 <br>
 
 **Kotvení pomocí pásové oceli**
 
 <br>
 pasek.jpg
-<!-- <img class="centered_image" src="/images/pos/4/pasek.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/pasek.jpg" /> 
 <br>
 
 :::
@@ -85,7 +85,7 @@ pasek.jpg
 
 <br>
 therm.jpg
-<!-- <img class="centered_image" src="/images/pos/4/therm.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/therm.jpg" /> 
 <br>
 
 <br>
@@ -99,12 +99,12 @@ therm.jpg
 
 <br>
 ytong.jpg
-<!-- <img class="centered_image" src="/images/pos/4/ytong.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/ytong.jpg" /> 
 <br>
 
 <br>
 ytong2.jpg
-<!-- <img class="centered_image" src="/images/pos/4/ytong2.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/ytong2.jpg" /> 
 <br>
 
 :::
@@ -117,11 +117,11 @@ ytong2.jpg
 :::warning Prvky a kotvení
 <br>
 sklo.jpg
-<!-- <img class="centered_image" src="/images/pos/4/sklo.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/sklo.jpg" /> 
 <br>
 <br>
 sklokotva.jpg
-<!-- <img class="centered_image" src="/images/pos/4/sklokotva.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/sklokotva.jpg" /> 
 <br>
 
 :::
@@ -141,7 +141,7 @@ sklokotva.jpg
 :::warning Moniérka
 <br>
 nomierka.jpg
-<!-- <img class="centered_image" src="/images/pos/4/monierka.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/monierka.jpg" /> 
 <br>
 
 :::
@@ -156,7 +156,7 @@ nomierka.jpg
 :::warning Rabicka
 <br>
 rabicka.jpg
-<!-- <img class="centered_image" src="/images/pos/4/rabicka.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/rabicka.jpg" /> 
 <br>
 
 :::
@@ -177,7 +177,7 @@ rabicka.jpg
 :::warning Panel
 <br>
 panel.jpg
-<!-- <img class="centered_image" src="/images/pos/4/panel.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/panel.jpg" /> 
 <br>
 
 :::
@@ -194,17 +194,17 @@ panel.jpg
 **Na dřevěné kci**
 <br>
 drevo.jpg
-<!-- <img class="centered_image" src="/images/pos/4/drevo.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/drevo.jpg" /> 
 <br>
 
 **Na ocelovém profilu**
 <br>
-<!-- <img class="centered_image" src="/images/pos/4/ocel.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/ocel.jpg" /> 
 <br>
 
 **Spárování**
 <br>
-<!-- <img class="centered_image" src="/images/pos/4/spara.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/spara.jpg" /> 
 <br>
 
 :::
@@ -227,7 +227,7 @@ drevo.jpg
 :::warning Přemístitelná
 
 <br>
-<!-- <img class="centered_image" src="/images/pos/4/premis.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/premis.jpg" /> 
 <br>
 
 :::
@@ -239,7 +239,7 @@ drevo.jpg
 
 :::warning Skříň
 <br>
-<!-- <img class="centered_image" src="/images/pos/4/skrin.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/skrin.jpg" /> 
 <br>
 
 :::
@@ -255,21 +255,21 @@ drevo.jpg
 - svislé profily (sloupky) jsou zavěšené v nosném pojezdovém profilu připevněném na stropě
 - na sloupcích je připevněn poddajný plášťovací materiál
 <br>
-<!-- <img class="centered_image" src="/images/pos/4/shrn.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/shrn.jpg" /> 
 <br>
 
 **Posuvná**
 - deskové díly jsou zavěšené ve vodící kolejnici, v podlaze jsou díly vedené v drážce
 - jednotlivé díly se zasouvají do bočních krycích důlců
 <br>
-<!-- <img class="centered_image" src="/images/pos/4/posun.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/posun.jpg" /> 
 <br>
 
 **Skládací**
 - obdobně jako posuvná
 - jednotlivé dílce jsou mezi sebou spojené a při skládání se otáčejí kolem svislé osy
 <br>
-<!-- <img class="centered_image" src="/images/pos/4/sklad.jpg" /> -->
+ <img class="centered_image" src="/images/pos/4/sklad.jpg" /> 
 <br>
 
 :::
