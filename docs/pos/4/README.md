@@ -84,7 +84,8 @@ pasek.jpg
 <br>
 
 <br>
-<img class="centered_image" src="/images/pos/4/therm.jpg" />
+therm.jpg
+<!-- <img class="centered_image" src="/images/pos/4/therm.jpg" /> -->
 <br>
 
 <br>
