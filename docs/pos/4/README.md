@@ -15,8 +15,8 @@ nosných konstrukcí
 
 :::warning Rozdělení dle statického uložení
 <br>
-
-<img class="centered_image" src="/images/pos/4/ulozeni1.jpg" />
+ulozeni1.jpg
+<!--<img class="centered_image" src="/images/pos/4/ulozeni1.jpg" /> -->
 <br>
 
 :::
@@ -98,11 +98,13 @@ therm.jpg
 - kotví se ocelovými příponkami
 
 <br>
-<img class="centered_image" src="/images/pos/4/ytong.jpg" />
+ytong.jpg
+<!-- <img class="centered_image" src="/images/pos/4/ytong.jpg" /> -->
 <br>
 
 <br>
-<img class="centered_image" src="/images/pos/4/ytong2.jpg" />
+ytong2.jpg
+<!-- <img class="centered_image" src="/images/pos/4/ytong2.jpg" /> -->
 <br>
 
 :::
@@ -114,10 +116,12 @@ therm.jpg
 
 :::warning Prvky a kotvení
 <br>
-<img class="centered_image" src="/images/pos/4/sklo.jpg" />
+sklo.jpg
+<!-- <img class="centered_image" src="/images/pos/4/sklo.jpg" /> -->
 <br>
 <br>
-<img class="centered_image" src="/images/pos/4/sklokotva.jpg" />
+sklokotva.jpg
+<!-- <img class="centered_image" src="/images/pos/4/sklokotva.jpg" /> -->
 <br>
 
 :::
@@ -136,7 +140,8 @@ therm.jpg
 
 :::warning Moniérka
 <br>
-<img class="centered_image" src="/images/pos/4/monierka.jpg" />
+nomierka.jpg
+<!-- <img class="centered_image" src="/images/pos/4/monierka.jpg" /> -->
 <br>
 
 :::
@@ -150,7 +155,8 @@ therm.jpg
 
 :::warning Rabicka
 <br>
-<img class="centered_image" src="/images/pos/4/rabicka.jpg" />
+rabicka.jpg
+<!-- <img class="centered_image" src="/images/pos/4/rabicka.jpg" /> -->
 <br>
 
 :::
@@ -170,7 +176,8 @@ therm.jpg
 
 :::warning Panel
 <br>
-<img class="centered_image" src="/images/pos/4/panel.jpg" />
+panel.jpg
+<!-- <img class="centered_image" src="/images/pos/4/panel.jpg" /> -->
 <br>
 
 :::
@@ -186,17 +193,18 @@ therm.jpg
 
 **Na dřevěné kci**
 <br>
-<img class="centered_image" src="/images/pos/4/drevo.jpg" />
+drevo.jpg
+<!-- <img class="centered_image" src="/images/pos/4/drevo.jpg" /> -->
 <br>
 
 **Na ocelovém profilu**
 <br>
-<img class="centered_image" src="/images/pos/4/ocel.jpg" />
+<!-- <img class="centered_image" src="/images/pos/4/ocel.jpg" /> -->
 <br>
 
 **Spárování**
 <br>
-<img class="centered_image" src="/images/pos/4/spara.jpg" />
+<!-- <img class="centered_image" src="/images/pos/4/spara.jpg" /> -->
 <br>
 
 :::
@@ -219,7 +227,7 @@ therm.jpg
 :::warning Přemístitelná
 
 <br>
-<img class="centered_image" src="/images/pos/4/premis.jpg" />
+<!-- <img class="centered_image" src="/images/pos/4/premis.jpg" /> -->
 <br>
 
 :::
@@ -231,7 +239,7 @@ therm.jpg
 
 :::warning Skříň
 <br>
-<img class="centered_image" src="/images/pos/4/skrin.jpg" />
+<!-- <img class="centered_image" src="/images/pos/4/skrin.jpg" /> -->
 <br>
 
 :::
@@ -247,21 +255,21 @@ therm.jpg
 - svislé profily (sloupky) jsou zavěšené v nosném pojezdovém profilu připevněném na stropě
 - na sloupcích je připevněn poddajný plášťovací materiál
 <br>
-<img class="centered_image" src="/images/pos/4/shrn.jpg" />
+<!-- <img class="centered_image" src="/images/pos/4/shrn.jpg" /> >>
 <br>
 
 **Posuvná**
 - deskové díly jsou zavěšené ve vodící kolejnici, v podlaze jsou díly vedené v drážce
 - jednotlivé díly se zasouvají do bočních krycích důlců
 <br>
-<img class="centered_image" src="/images/pos/4/posun.jpg" />
+<!-- <img class="centered_image" src="/images/pos/4/posun.jpg" /> -->
 <br>
 
 **Skládací**
 - obdobně jako posuvná
 - jednotlivé dílce jsou mezi sebou spojené a při skládání se otáčejí kolem svislé osy
 <br>
-<img class="centered_image" src="/images/pos/4/sklad.jpg" />
+<!-- <img class="centered_image" src="/images/pos/4/sklad.jpg" /> -->
 <br>
 
 :::
