@@ -12,11 +12,11 @@ pageClass: default-page
 
 - například schodiště na zahradu nebo ke hlavnímu vstupu
 - nejsou chráněny proti povětrnostním vlivům
-- důležité je aby schodiště **nebylo kluzké**
+- důležité je, aby schodiště **nebylo kluzké**
 
 ### Předložená schodiště
 
-- mají **mimimálně 3** stupně (při menším počtu se doporučuje navrhnout rampa)
+- mají **minimálně 3** stupně (při menším počtu se doporučuje navrhnout rampa)
 - v jednom rameni mají **max 7** stupňů
 - pokud má schodiště vice než 3 stupně, je nutné oboustranné zábradlí
 
@@ -28,7 +28,7 @@ pageClass: default-page
 
 ### Pažená schodiště
 
-- tvořeny úpravou a pažením sklonitého terénu (v zahrádách, parcelách atd.)
+- tvořeny úpravou a pažením sklonitého terénu (v zahradách, parcelách atd.)
 - jsou to zejména terénní schodiště, v kombinaci se zásypem nebo rostlou zeminou
 
 <img class="centered_image" src="/images/pos/12/pazena.jpg" />
@@ -39,12 +39,12 @@ pageClass: default-page
 - povrch musí být dostatečně drsný
 - musí být dobře osvětleny
 
->**Maximální dovolený skoln pro pro vozidla**
+>**Maximální dovolený sklon pro pro vozidla**
 >- vnitřní
 >   - přímé - **14%**
 >   - zakřivené - **13%**
 >   - vyrovnávací - **17%**
->- vnější - **10%**, ve vyjmečných případech **15%**
+>- vnější - **10%**, ve výjimečných případech **15%**
 
 <img class="centered_image" src="/images/pos/12/rampy3.jpg" />
 
@@ -56,7 +56,7 @@ pageClass: default-page
 - u ramp pro osoby se sníženou schopností pohybu je nutná ochrana proti sjetí vozíku, hmatové prvky pro nevidomé a zábranu či sokl sloužící jako zarážka pro slepeckou hůl
 - šířka **min. 1,5m**, u rodinného domu stačí 1,2m
 
->**Maximální dovolený skoln pro pro pěší provoz**
+>**Maximální dovolený sklon pro pěší provoz**
 >- vnitřní se schodištěm - **1:6**
 >- vnější - **1:10**
 >- pro invalidy - **1:12**
