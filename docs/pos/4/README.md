@@ -1,22 +1,22 @@
 ---
 pageClass: default-page
 ---
+
 # 4. PŘÍČKY
 
 - nenosné stěny, přenášejí pouze vlastní hmotnost do
-nosných konstrukcí 
+  nosných konstrukcí
 - vlastnosti - dělící, zvukové izolační, tepelně izolační, protipožární
 
 **Rozdělení dle technologie provádění**
 
--   **zděné** (cihelné, z pórobetonových tvárnic, sklobetonové,)
--   **monolotické** (tzv. Moniérova příčka, Rabicka, keramidová přička)
--   **montované** (z celostěnových panelů, sádrokartonové, lehké montované příčky přemistitelné, skříňové, pohyblivé)
+- **zděné** (cihelné, z pórobetonových tvárnic, sklobetonové,)
+- **monolotické** (tzv. Moniérova příčka, Rabicka, keramidová přička)
+- **montované** (z celostěnových panelů, sádrokartonové, lehké montované příčky přemistitelné, skříňové, pohyblivé)
 
 :::warning Rozdělení dle statického uložení
 <br>
-ulozeni1.jpg
-<img class="centered_image" src="/images/pos/4/ulozeni1.jpg" /> 
+<img class="centered_image" src="/images/pos/4/ulozeni1.jpg" />
 <br>
 
 :::
@@ -38,7 +38,6 @@ ulozeni1.jpg
 - pokládají se buď na maltu či lepidlem systému DRYFIX
 - **materiály** : keramické (plné, dutinové např porotherm), betonové lehčené (porobetonové, keramzitbetonové), sklobetonové (skleněné tvárnice)
 
-
 ### **Jednoduché příčky**
 
 - 1/4 cihelná příčka: cihly na ostro, převazují se na půl délky
@@ -50,15 +49,13 @@ ulozeni1.jpg
 <br>
 <img class="centered_image" src="/images/pos/4/12.jpg" />
 <br>
-34.jpg (why.jpg)
- <img class="centered_image" src="/images/pos/4/why.jpg" /> 
+<img class="centered_image" src="/images/pos/4/why.jpg" /> 
 <br>
 
 **Kotvení pomocí pásové oceli**
 
 <br>
-pasek.jpg
- <img class="centered_image" src="/images/pos/4/pasek.jpg" /> 
+<img class="centered_image" src="/images/pos/4/pasek.jpg" /> 
 <br>
 
 :::
@@ -84,8 +81,7 @@ pasek.jpg
 <br>
 
 <br>
-therm.jpg
- <img class="centered_image" src="/images/pos/4/therm.jpg" /> 
+<img class="centered_image" src="/images/pos/4/therm.jpg" /> 
 <br>
 
 <br>
@@ -94,34 +90,31 @@ therm.jpg
 
 :::
 
-:::warning  Pórobetonové (Ytong, Porfix)
+:::warning Pórobetonové (Ytong, Porfix)
+
 - kotví se ocelovými příponkami
 
 <br>
-ytong.jpg
- <img class="centered_image" src="/images/pos/4/ytong.jpg" /> 
+<img class="centered_image" src="/images/pos/4/ytong.jpg" /> 
 <br>
 
 <br>
-ytong2.jpg
- <img class="centered_image" src="/images/pos/4/ytong2.jpg" /> 
+<img class="centered_image" src="/images/pos/4/ytong2.jpg" /> 
 <br>
 
 :::
 
-
 ### **Sklobetonové příčky**
+
 - skládají se ze skleněných příčkovek, ocelového rámu a podkladního betonu
 - musejí být od všech konstrukcí dilatačně odděleny
 
 :::warning Prvky a kotvení
 <br>
-sklo.jpg
- <img class="centered_image" src="/images/pos/4/sklo.jpg" /> 
+<img class="centered_image" src="/images/pos/4/sklo.jpg" />
 <br>
 <br>
-sklokotva.jpg
- <img class="centered_image" src="/images/pos/4/sklokotva.jpg" /> 
+<img class="centered_image" src="/images/pos/4/sklokotva.jpg" />
 <br>
 
 :::
@@ -140,8 +133,7 @@ sklokotva.jpg
 
 :::warning Moniérka
 <br>
-nomierka.jpg
- <img class="centered_image" src="/images/pos/4/monierka.jpg" /> 
+<img class="centered_image" src="/images/pos/4/monierka.jpg" />
 <br>
 
 :::
@@ -155,8 +147,7 @@ nomierka.jpg
 
 :::warning Rabicka
 <br>
-rabicka.jpg
- <img class="centered_image" src="/images/pos/4/rabicka.jpg" /> 
+<img class="centered_image" src="/images/pos/4/rabicka.jpg" />
 <br>
 
 :::
@@ -176,8 +167,7 @@ rabicka.jpg
 
 :::warning Panel
 <br>
-panel.jpg
- <img class="centered_image" src="/images/pos/4/panel.jpg" /> 
+<img class="centered_image" src="/images/pos/4/panel.jpg" />
 <br>
 
 :::
@@ -193,18 +183,17 @@ panel.jpg
 
 **Na dřevěné kci**
 <br>
-drevo.jpg
- <img class="centered_image" src="/images/pos/4/drevo.jpg" /> 
+<img class="centered_image" src="/images/pos/4/drevo.jpg" />
 <br>
 
 **Na ocelovém profilu**
 <br>
- <img class="centered_image" src="/images/pos/4/ocel.jpg" /> 
+<img class="centered_image" src="/images/pos/4/ocel.jpg" />
 <br>
 
 **Spárování**
 <br>
- <img class="centered_image" src="/images/pos/4/spara.jpg" /> 
+<img class="centered_image" src="/images/pos/4/spara.jpg" />
 <br>
 
 :::
@@ -216,7 +205,6 @@ drevo.jpg
 - Cementotřísková deska
 - Deska na bázi celulózy
 
-
 ### Lehné montované příčky přemístitelné
 
 - lze bez zbytků rozebrat a znovu použít bez jakéholi narušení kcí
@@ -225,21 +213,20 @@ drevo.jpg
 - užití nejčastěji v administrativních budovách
 
 :::warning Přemístitelná
-
 <br>
- <img class="centered_image" src="/images/pos/4/premis.jpg" /> 
+<img class="centered_image" src="/images/pos/4/premis.jpg" />
 <br>
 
 :::
 
 ### Skříňové příčky
 
-- montované přemístitelné kce, jejichž vnitřní prostor je využitý pro další funkci (skladovací, instalační) 
+- montované přemístitelné kce, jejichž vnitřní prostor je využitý pro další funkci (skladovací, instalační)
 - základní prvky jsou svislé plošně bočnice rozepřené mezi podlahu
 
 :::warning Skříň
 <br>
- <img class="centered_image" src="/images/pos/4/skrin.jpg" /> 
+<img class="centered_image" src="/images/pos/4/skrin.jpg" />
 <br>
 
 :::
@@ -252,24 +239,27 @@ drevo.jpg
 :::warning Příčky
 
 **Shrnovací**
+
 - svislé profily (sloupky) jsou zavěšené v nosném pojezdovém profilu připevněném na stropě
 - na sloupcích je připevněn poddajný plášťovací materiál
-<br>
- <img class="centered_image" src="/images/pos/4/shrn.jpg" /> 
-<br>
+  <br>
+  <img class="centered_image" src="/images/pos/4/shrn.jpg" />
+  <br>
 
 **Posuvná**
+
 - deskové díly jsou zavěšené ve vodící kolejnici, v podlaze jsou díly vedené v drážce
 - jednotlivé díly se zasouvají do bočních krycích důlců
-<br>
- <img class="centered_image" src="/images/pos/4/posun.jpg" /> 
-<br>
+  <br>
+  <img class="centered_image" src="/images/pos/4/posun.jpg" />
+  <br>
 
 **Skládací**
+
 - obdobně jako posuvná
 - jednotlivé dílce jsou mezi sebou spojené a při skládání se otáčejí kolem svislé osy
-<br>
- <img class="centered_image" src="/images/pos/4/sklad.jpg" /> 
-<br>
+  <br>
+  <img class="centered_image" src="/images/pos/4/sklad.jpg" />
+  <br>
 
 :::
