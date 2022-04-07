@@ -83,7 +83,7 @@ pageClass: default-page
 
 - **VŘETENOVÁ**
   
-  - jsou v místě srzcadla podepřena stěnou (vřetenovou zdí)
+  - jsou v místě zrcadla podepřena stěnou (vřetenovou zdí)
 
 - **VISUTÁ**
   
