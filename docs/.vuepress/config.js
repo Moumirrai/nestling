@@ -97,6 +97,7 @@ module.exports = {
             "/pos/39/",
             "/pos/40/",
             "/pos/41/",
+            "/pos/42/",
           ],
         },
       ],

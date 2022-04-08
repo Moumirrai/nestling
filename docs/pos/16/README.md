@@ -6,7 +6,7 @@ pageClass: default-page
 
 ### Rozdělení nosných vodorovných kcí:
 
-- **stropní** 
+- **stropní**
 
 - **převislé** - římsy, balkony, lodžie, arkýře, apsidy, pavlače
 
@@ -15,77 +15,77 @@ pageClass: default-page
 ## Funkční požadavky:
 
 1. ### Statické
-   
+
    - (u konzoly dostatečná nadezdívka)
-   
+
    - rozhodující druhy zatížení:
-     
+
      - zatížení vlastní hmotností
-     
+
      - zatížení od uvažovaného provozu
-     
+
      - sníh
-     
+
      - vítr
-     
+
      - zatížení teplotními změnami
 
 2. ### Dispozičně provozní
-   
-   - požadavek na bezpečnost provozu --> požadavky na zábradlí, požadavky na povrchy podah, prostorové požadavky 
+
+   - požadavek na bezpečnost provozu --> požadavky na zábradlí, požadavky na povrchy podah, prostorové požadavky
 
 <img class="centered_image" src="/images/pos/16/vyskazabradli.jpg" />
 
 3. ### Izolační
-   
+
    - zvuková izolace
-   
+
    - tepelná izolace (nutné řešit tkzv. tepelné mosty)
-   
+
    tři základní způsoby přerušení tepelných mostů u převislých kcí:
-   
-   1. **obložení** 
-   
+
+   1. **obložení**
+
    <img class="centered_image" src="/images/pos/16/oblozeni.jpg" />
-   
+
    2. **částečné přerušení tepelné izolace**
-      
+
       - nosným prvkem je žebro/trám, tepelná izo. je umístěna mezi žebry a v místě přerušené desky nad žebry
-      
-      - nevýhodou je vysoká pravděpodobnost že v zimním období může dojít ke kondenzaci vodních par --> výskyt plísně 
-   
+
+      - nevýhodou je vysoká pravděpodobnost že v zimním období může dojít ke kondenzaci vodních par --> výskyt plísně
+
    <img class="centered_image" src="/images/pos/16/castecnepreruseni.jpg" />
-   
+
    3. **vložení TI do přerušené ŽB kce. (ISO nosníky)**
-      
+
       - ŽB deska je přerušena TI (ISO nosníkem), který má v sobě zakotvenou skze TI betonářskou výztuž na obě strany a po zabetonování spolupůsobí se stropní konstrukcí
-   
+
    <img class="centered_image" src="/images/pos/16/isonosnik1.jpg" />
-   
+
    <img class="centered_image" src="/images/pos/16/isonosnik2.jpg" />
-   
+
    <img class="centered_image" src="/images/pos/16/isonosnik3.jpg" />
 
 4. ### Odolnost proti požáru
 
 5. ### Architektonické
-   
+
    - (převislé konstrukce jsou často výrazný prvek u historických slohů)
 
 6. ### Odolnost vůči povětrnostních vlivům
-   
+
    - ochrana před dešťovou vodou
-     
+
      - okapní nosy
-     
+
      - okapní drážky
 
 <img class="centered_image" src="/images/pos/16/okapninos.jpg" />
 
 7. ### Odolnost vůči účinkům objemových změn
-   
+
    - vlivem: teplotních změn, změn vlhkosti
-   
+
    - nutno řešit dilatacemi
 
 ## Balkóny
@@ -126,7 +126,7 @@ pageClass: default-page
 
 - předsazené l.
 
-- zapuštěné l. 
+- zapuštěné l.
 
 - polozapuštěné l.
 
@@ -148,7 +148,7 @@ pageClass: default-page
 
 - nadokenní
 
-- střešní 
+- střešní
 
 - štítová
 
@@ -172,7 +172,7 @@ pageClass: default-page
 
 ## Markýzy (přístřešky)
 
-- chrání vstupy před nepříznivými vlivy 
+- chrání vstupy před nepříznivými vlivy
 
 - vyložení cca 1 až 3m podle typu objektu
 
@@ -182,7 +182,7 @@ pageClass: default-page
 
 nutno řešit:
 
-- staticky 
+- staticky
 
 - tepelně technicky
 
