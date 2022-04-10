@@ -99,12 +99,17 @@ Vnitřní vodovod může být zásobovaný vodou z veřejného vodovodu, nebo z 
 Pro rozvod vody v objektech slouží:
 
 #### Ležaté potrubí
-  - Ležaté potrubí je vedeno od vodovodní přípojky směrem ke stoupajícím potrubím ve sklonu min.0,3%. Zpravidla bývá zavěšeně pod stropem. Před každým stoupajícím potrubím musí být osazen uzávěr.
+
+- Ležaté potrubí je vedeno od vodovodní přípojky směrem ke stoupajícím potrubím ve sklonu min.0,3%. Zpravidla bývá zavěšeně pod stropem. Před každým stoupajícím potrubím musí být osazen uzávěr.
+
 #### Stoupací potrubí
-  - Stoupající potrubí muže být vedeno v instalačním šachtě, v drážce, ve zdivu, nebo volně na zdivu.
+
+- Stoupající potrubí muže být vedeno v instalačním šachtě, v drážce, ve zdivu, nebo volně na zdivu.
+
 #### Připojovací potrubí
-  - Připojovací potrubí je část potrubí od stoupajícího po výtokové armatury. Výtok pro teplou vodu je označen červenou barvou a výtok pro studenou vodu je označen modrou barvou.
-  - Pro připojovací potrubí s možností zamrznutí, musí být v nejnižším místě umístěn uzavírací a vypouštěcí ventil.
+
+- Připojovací potrubí je část potrubí od stoupajícího po výtokové armatury. Výtok pro teplou vodu je označen červenou barvou a výtok pro studenou vodu je označen modrou barvou.
+- Pro připojovací potrubí s možností zamrznutí, musí být v nejnižším místě umístěn uzavírací a vypouštěcí ventil.
 
 Dále můžeme rozvody vody v objektech rozdělit na rozvody:
 
@@ -178,6 +183,7 @@ Rozvodné požární potrubí může být:
 Stabilní samočinná hasící zařízení se dělíme na:
 
 :::warning SPRINKLEROVÁ ZAŘÍZENÍ
+
 - jsou samočinná stabilní zařízení, která se skládají z rozvodné sítě a ze sprinklerových hlavic
 - Princip je založen na ampuli s tekutinou (případně tavném kovovém článku), která při určité teplotě reaguje, následkem čehož ampule praskne a uvolní se voda v hlavici. Hasí pouze ty hlavice, u kterých bylo dosaženo nutné teploty
 
@@ -186,11 +192,13 @@ Stabilní samočinná hasící zařízení se dělíme na:
 :::
 
 :::warning DRENČEROVÁ SOUSTAVA
+
 - Z hlediska spuštění systému se drenčery instalují jako samočinné, kde se řídící ventil automaticky ovládá na základě čidel, nebo jako ruční, kde řídící ventil je otevřen za asistence člověka
 - hlavice jsou stále otevřené, při otevření řídícího ventilu se skrápí celá plocha, narozdíl od sprinklerů, kde každá hlavice se spouští samostatně dle potřeby
-:::
+  :::
 
 :::warning POŽÁRNÍ HYDRANTY
+
 - jsou umísťovány v prostoru chráněných únikových cest (schodiště a chodby)
 - umísťují se ve výšce 1,3m nad podlahou
 - musí být chráněny proti zamrznutí

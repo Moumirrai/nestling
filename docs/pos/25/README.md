@@ -19,6 +19,7 @@ TODO: dodělat speciální tašky, např hřebenáč
 <img class="centered_image" src="/images/pos/25/dosek.jpg" />
 
 ### Dřevěné krytiny
+
 <br>
 <img class="centered_image" src="/images/pos/25/drevo.jpg" />
 
@@ -70,11 +71,13 @@ TODO: dodělat speciální tašky, např hřebenáč
 <br>
 
 > #### Jednoduchá bobrovka
+>
 > <img class="centered_image" src="/images/pos/25/bobrovka_jednoducha.jpg" />
 
 > #### Dvojitá bobrovka
+>
 > <img class="centered_image" src="/images/pos/25/bobrovka_dvojita.jpg" />
-:::
+> :::
 
 :::warning TAŠKY RAŽENÉ
 

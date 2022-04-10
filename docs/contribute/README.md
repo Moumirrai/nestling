@@ -3,6 +3,7 @@ pageClass: default-page
 editLink: false
 contributors: false
 ---
+
 # Pomoct s projetem
 
 V případě návrhů či připomínek nás můžete kontaktovat na <Badge type="warning" text="moumirrai@protonmail.com" vertical="middle" />

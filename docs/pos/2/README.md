@@ -1,6 +1,7 @@
 ---
 pageClass: default-page
 ---
+
 # 2. ZÁKLADOVÉ KONSTRUKCE
 
 Základové konstrikce přenášejí veškeré zatížení z vrchní stavby do podloží (základové spáry).
@@ -14,12 +15,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - mají vodorovnou (horizontální) základovou spáru
 - roznášejí zatížení z vrchní stavby na větší plochu tak, aby byly splněny požadavky I. a II. skupiny mezních stavů
 - Mezi základy plošné patří **základové patky** , **pásy** , **rošty** a **desky**.
-  
-  
 
 ### Patky
-
-
 
 - používají se pro skelety
 - vyžadují málo stlačitelnou půdu
@@ -144,7 +141,7 @@ _V současné době se při výstavbě základových desek u nepodsklepených bu
 
 ##### Žebrové
 
-- při větší zatížení a větší osové vzdálenosti svislých nosných konstrukcí, tedy u skeletových staveb. 
+- při větší zatížení a větší osové vzdálenosti svislých nosných konstrukcí, tedy u skeletových staveb.
 - desky se vyztužují žebry, které lépe odolávají deformacím
 - žebra mohou být nad deskou nebo pod ní
 
@@ -172,14 +169,16 @@ Při hlubinném zakládání se zatížení stavby přenáší do hlubších ún
 - **plovoucí** – zatížení se přenáší třením mezi nerovným povrchem pilot a zeminou
 
 #### Mezi hlubinné základy patří:
+
 <div class='table'>
 | PILOTY                                 | ŠACHOTVÉ PILÍŘE                        |
 | -------------------------------------- | -------------------------------------- |
 | <img class="centered_image" src="/images/pos/2/11.jpg" /> | <img class="centered_image" src="/images/pos/2/12.jpg" /> |
 
-| ZÁKLADOVÉ STUDNY                       | KESONY                                 |
-| -------------------------------------- | -------------------------------------- |
+| ZÁKLADOVÉ STUDNY                                          | KESONY                                                    |
+| --------------------------------------------------------- | --------------------------------------------------------- |
 | <img class="centered_image" src="/images/pos/2/13.jpg" /> | <img class="centered_image" src="/images/pos/2/14.jpg" /> |
+
 </div>
 
 ## Opravy základů

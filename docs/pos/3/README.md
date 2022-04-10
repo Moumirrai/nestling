@@ -1,6 +1,7 @@
 ---
 pageClass: default-page
 ---
+
 # 3. ZDĚNÉ STAVBY
 
 - používají malé kusové dílce, které se dají osazovat ručně
@@ -255,7 +256,7 @@ pageClass: default-page
 
 ### Zdivo z porobetonových tvárnic
 
-- jemný beton s jemnozrnnou stukturou vylehčený pory vyplněnými vzduchem
+- jemný beton s jemnozrnnou strukturou vylehčený póry vyplněnými vzduchem
 - mají přesné rozměry, proto je lze zdít na tenkou vrstvu malty (1-3 mm)
 - dobré tepelně izolační vlastnosti
 

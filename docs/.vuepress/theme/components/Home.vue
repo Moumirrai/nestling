@@ -18,8 +18,3 @@
   </template>
   </ParentLayout>
 </template>
-
-<style lang="css">
-.page {
-}
-</style>

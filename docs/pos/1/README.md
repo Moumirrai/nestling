@@ -144,16 +144,17 @@ Patří sem:
 
 <img class="centered_image" src="/images/pos/1/stetova_stena.jpg" />
 
-
 ##### Podzemní stěny
 
 ###### **Pilotové stěny**
+
 - prováděny do rýh šířky 600-1000mm
 - obvykle používány v hlubokých výkopech
 
 <img class="centered_image" src="/images/pos/1/pilotove_steny.jpg" />
 
 ###### **Milánské stěny**
+
 - prováděny do rýh šířky 400-1500mm
 
 ### Stavební jáma
@@ -190,6 +191,6 @@ Patří sem:
 
 - používá se v málo propustných zeminách
 - používá systém studní vybudovaných po obvodu stavby
-- hloubka studní musí být taková aby hladina spodní vody klesla <Badge type="warning" text="min 0,5 m" vertical="middle" /> pod úroveň dna výkopu
+- hloubka studní musí být taková, aby hladina spodní vody klesla <Badge type="warning" text="min 0,5 m" vertical="middle" /> pod úroveň dna výkopu
 
 <img class="centered_image" src="/images/pos/1/odvodneni_hloubkove.jpg" />

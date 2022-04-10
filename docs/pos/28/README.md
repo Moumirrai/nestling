@@ -1,5 +1,4 @@
 ---
-
 pageClass: default-page
 ---
 
@@ -167,13 +166,13 @@ Slouží k odvádění odpadních vod z jednotlivých nemovitostí a z veřejné
 
 ### Gravitační
 
-### Vakuová kanalizace 
+### Vakuová kanalizace
 
 - v síti je podtlak
 
 <img class="centered_image" src="/images/pos/28/verejna-vakuova.jpg" />
 
-### Tlaková kanalizace 
+### Tlaková kanalizace
 
 - v síti je přetlak
 

@@ -11,8 +11,8 @@ pageClass: default-page
 **Rozdělení dle technologie provádění**
 
 - **zděné** (cihelné, z pórobetonových tvárnic, sklobetonové,)
-- **monolotické** (tzv. Moniérova příčka, Rabicka, keramidová přička)
-- **montované** (z celostěnových panelů, sádrokartonové, lehké montované příčky přemistitelné, skříňové, pohyblivé)
+- **monolotické** (tzv. Moniérova příčka, Rabicka, keramidová příčka)
+- **montované** (z celostěnových panelů, sádrokartonové, lehké montované příčky přemístitelné, skříňové, pohyblivé)
 
 :::warning Rozdělení dle statického uložení
 <br>
@@ -62,11 +62,11 @@ pageClass: default-page
 
 ### **Dvojité příčky**
 
-- jsou to 2 jednoduché přičky, kde do vzduchové mezery je vložena pohltivá akustická izolace
-- používá se jako mezibytová přička
+- jsou to 2 jednoduché přéčky, kde do vzduchové mezery je vložena pohltivá akustická izolace
+- používá se jako mezibytová příčka
 - kotví se obdobně jako jednoduchá - do ozubů, kapes, drážek či kotevní výztuží
 
-:::warning Dvojitá přička
+:::warning Dvojitá příčka
 <br>
 <img class="centered_image" src="/images/pos/4/31.jpg" />
 <br>
@@ -154,13 +154,13 @@ pageClass: default-page
 
 ## Montované příčky
 
-- **konstrukče se dělí** - pevné, přemístitelné a pohyblivé
-- **podle druhů prvků na** - panelové (z celoplošných, z vertikálních), kostrové (tvoří je nosné prvky a oplášťovací)
+- **konstrukce se dělí** - pevné, přemístitelné a pohyblivé
+- **podle druhů prvků na** - panelové (z celoplošných, z vertikálních), kostrové (tvoří je nosné prvky a oplášťovaní)
 
 ### Z celostěnových panelů
 
-- stavějí se z betonu, přirodního kamene nebo lehčených betonů
-- výrábejí se v panelárnách nebo na velkých stavbách na místě
+- stavějí se z betonu, přírodního kamene nebo lehčených betonů
+- vyrábějí se v panelárnách nebo na velkých stavbách na místě
 - jsou opatřeny závěsnými oky pro lepší manipulaci
 - **výhody** - rychlost montáže, kompletnost prvku
 - **nevýhody** - přeprava, potřeba těžkého vybavení
@@ -205,10 +205,10 @@ pageClass: default-page
 - Cementotřísková deska
 - Deska na bázi celulózy
 
-### Lehné montované příčky přemístitelné
+### Lehké montované příčky přemístitelné
 
-- lze bez zbytků rozebrat a znovu použít bez jakéholi narušení kcí
-- kostra je tvoří nejčastěji hliníkové profily, ale i ocel a dřevo, na které se pokládají jíž kompletované plošné prvky
+- lze bez zbytků rozebrat a znovu použít bez jakékoliv narušení kcí
+- kostra je tvoří nejčastěji hliníkové profily, ale i ocel a dřevo, na které se pokládají, již kompletované plošné prvky
 - prvky mohou být neprůsvitné, průsvitné, pevné i otevíravé
 - užití nejčastěji v administrativních budovách
 
@@ -249,7 +249,7 @@ pageClass: default-page
 **Posuvná**
 
 - deskové díly jsou zavěšené ve vodící kolejnici, v podlaze jsou díly vedené v drážce
-- jednotlivé díly se zasouvají do bočních krycích důlců
+- jednotlivé díly se zasouvají do bočních krycích dílců
   <br>
   <img class="centered_image" src="/images/pos/4/posun.jpg" />
   <br>

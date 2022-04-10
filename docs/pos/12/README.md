@@ -23,6 +23,7 @@ pageClass: default-page
 <img class="centered_image" src="/images/pos/12/predlozena.jpg" />
 
 ### Terénní schodiště
+
 <br>
 <img class="centered_image" src="/images/pos/12/tereni.jpg" />
 
@@ -39,12 +40,13 @@ pageClass: default-page
 - povrch musí být dostatečně drsný
 - musí být dobře osvětleny
 
->**Maximální dovolený sklon pro pro vozidla**
->- vnitřní
+> **Maximální dovolený sklon pro pro vozidla**
+>
+> - vnitřní
 >   - přímé - **14%**
 >   - zakřivené - **13%**
 >   - vyrovnávací - **17%**
->- vnější - **10%**, ve výjimečných případech **15%**
+> - vnější - **10%**, ve výjimečných případech **15%**
 
 <img class="centered_image" src="/images/pos/12/rampy3.jpg" />
 
@@ -56,14 +58,13 @@ pageClass: default-page
 - u ramp pro osoby se sníženou schopností pohybu je nutná ochrana proti sjetí vozíku, hmatové prvky pro nevidomé a zábranu či sokl sloužící jako zarážka pro slepeckou hůl
 - šířka **min. 1,5m**, u rodinného domu stačí 1,2m
 
->**Maximální dovolený sklon pro pěší provoz**
->- vnitřní se schodištěm - **1:6**
->- vnější - **1:10**
->- pro invalidy - **1:12**
->- pro průmyslové vozíky - **1:12**
+> **Maximální dovolený sklon pro pěší provoz**
+>
+> - vnitřní se schodištěm - **1:6**
+> - vnější - **1:10**
+> - pro invalidy - **1:12**
+> - pro průmyslové vozíky - **1:12**
 
 <img class="centered_image" src="/images/pos/12/rampy1.jpg" />
 <br>
 <img class="centered_image" src="/images/pos/12/rampy2.jpg" />
-
-

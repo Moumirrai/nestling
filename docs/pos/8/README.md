@@ -1,6 +1,7 @@
 ---
 pageClass: default-page
 ---
+
 # 8. STROPY MONTOVANÉ
 
 ## Deskové montované stropy
@@ -12,12 +13,15 @@ pageClass: default-page
 <img class="centered_image" src="/images/pos/8/desky.jpg" />
 
 Vyrábějí se standartě ve dvou variantách:
->**Plné desky**
->- výška 65 a 90 mm
 
->**Dutinové desky**
->- vylehčené čtyřmi podélnými dutinami
->- výška 90 a 140 mm
+> **Plné desky**
+>
+> - výška 65 a 90 mm
+
+> **Dutinové desky**
+>
+> - vylehčené čtyřmi podélnými dutinami
+> - výška 90 a 140 mm
 
 ## Panelové montované stropy
 
@@ -26,15 +30,18 @@ Vyrábějí se standartě ve dvou variantách:
 - Ukládají se na svislé nosné konstrukce
 - Panely mohou být **plné** a **dutinové** nebo **dutinové předpjaté**
 
->**Plné**
->- velká hmotnost
+> **Plné**
+>
+> - velká hmotnost
 
->**Dutinové**
->- pro rozpětí 3-6,6 m
->- minimální uložení 80 mm
+> **Dutinové**
+>
+> - pro rozpětí 3-6,6 m
+> - minimální uložení 80 mm
 
->**Dutinové předpjaté**
->- díky předpjaté výztuži je nižší tloušťka panelu
+> **Dutinové předpjaté**
+>
+> - díky předpjaté výztuži je nižší tloušťka panelu
 
 <img class="centered_image" src="/images/pos/8/panely.jpg" />
 
@@ -90,60 +97,67 @@ Vyrábějí se standartě ve dvou variantách:
 - bylo zaznamenáno několik případů havárie těchto stropů
 
 Vyrábí se ve dvou variantách:
->**CSD HURDIS 1**
->- kolmé čela
->- ukládají se přímo na vápenocementovou maltu na spodní přírubu nosníku
->- spodní přírubu je v podhledu opatřit pletivem pod omítkou
->
-><img class="centered_image" src="/images/pos/8/hurdis1.jpg" />
-><br>
->1 - Deska HURDIS s rovným čelem
 
->**CSD HURDIS 2**
->- skosené čela
->- ukládají se do keramických patek navlečených na spodní přírubu nosníku
->- patky umožňují snazší vložení desek, a slouží jako ochrana proti korozi
+> **CSD HURDIS 1**
 >
-><img class="centered_image" src="/images/pos/8/hurdis2.jpg" />
-><br>
->1 - Válcovaný nosník tvaru I, 2 - tvárnice patky, 3 - Deska HURDIS se skoseným čelem
+> - kolmé čela
+> - ukládají se přímo na vápenocementovou maltu na spodní přírubu nosníku
+> - spodní přírubu je v podhledu opatřit pletivem pod omítkou
+>
+> <img class="centered_image" src="/images/pos/8/hurdis1.jpg" />
+> <br>
+> 1 - Deska HURDIS s rovným čelem
+
+> **CSD HURDIS 2**
+>
+> - skosené čela
+> - ukládají se do keramických patek navlečených na spodní přírubu nosníku
+> - patky umožňují snazší vložení desek, a slouží jako ochrana proti korozi
+>
+> <img class="centered_image" src="/images/pos/8/hurdis2.jpg" />
+> <br>
+> 1 - Válcovaný nosník tvaru I, 2 - tvárnice patky, 3 - Deska HURDIS se skoseným čelem
 
 :::warning DOPORUČENÁ SKLADBA
+
 1. Konstrukce podlahy
 2. Betonová mazanina
 3. Tepelně izolační vrstva (kladena přímo na keramické desky)
 4. CSD HURDIS + CSD 2Pa (keram. patka)
 5. Omítka
-:::
+   :::
 
 ## Výhody a nevýhody montovaných stropů
 
 :::tip VÝHODY
+
 - rychlá a snadná montáž
 - kratší doba výstavby
 - menší pracnost
 - úspora materiálu (není třeba bednění)
 - okamžitá únosnost
-:::
+  :::
 
 :::danger NEVÝHODY
+
 - velká hmotnost dílců
 - nižší tuhost stavby v příčném směru
 - pevně dané rozměry dílců
 - horší zvuková izolačnost
 - jsou citlivé na sedání stavby
-:::
+  :::
 
 ## Montovaná nadpraží
 
 - pro otvory světlosti do 2900 mm (s tepelnou izolací 2100 mm)
 
 :::tip VÝHODY
+
 - nižší hmotnost prvku
 - nižší cena než u keram. nadpraží
 - dutiny možno využít při manipulaci
 - vysoká únosnost
-:::
+  :::
 
 ### Montáž
 

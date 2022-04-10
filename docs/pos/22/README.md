@@ -33,26 +33,31 @@ pageClass: default-page
 **Podle konstukce oken rozlišujeme:**
 
 ### Jednoduchá okna
+
 - používají se jen v prostorech nevyžadující tepelnou izolaci
 
 <img class="centered_image" src="/images/pos/22/jednoduche.jpg" />
 
 ### Dvojitě zasklená okna
+
 - jedná se o jednoduchá okna, jejichž křídla mají osazena dvě skla, mezi nimiž je vzduchová mezera, která plní funkci tepelné izolace (patří sem i okna zasklená izolačními dvojskly)
 
 <img class="centered_image" src="/images/pos/22/dvojite2.jpg" />
 
 ### Okna se sdruženými křídly
+
 - konstrukce je shodná jako u oken jednoduchých, navíc je doplněno o tzv. čistící křídlo, které se připevňuje k vlastnímu křídlu buď z vnější nebo vnitřní strany
 
 <img class="centered_image" src="/images/pos/22/sdruzene.jpg" />
 
 ### Zdvojená okna
+
 - konstrukce je shodná jako u oken jednoduchých, avšak na jejich okenní křídla jsou pevně připojená druhá křídla v takové vzdálenosti, aby vznikla vzduchová mezera 40 až 50 mm
 
 <img class="centered_image" src="/images/pos/22/zdvojene.jpg" />
 
 ### Dvojitá okna
+
 - mají vnitřní a vnější samostatně otevíravá a samostatně k rámu dosedající křídla, otevírají se ven a dovnitř
 
 <img class="centered_image" src="/images/pos/22/dvojite1.jpg" />

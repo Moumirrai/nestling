@@ -1,44 +1,44 @@
-const path = require('path')
+const path = require("path");
 module.exports = {
   // site config
   lang: "cs",
   title: "Nestling",
   description: "Maturitní otázky",
   head: [
-    ['link', { rel: 'icon', href: `/images/icons/logo.png` }],
-    ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
-    ['meta', { name: 'theme-color', content: '#22272e' }],
-    ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+    ["link", { rel: "icon", href: `/images/icons/logo.png` }],
+    ["link", { rel: "manifest", href: "/manifest.webmanifest" }],
+    ["meta", { name: "theme-color", content: "#22272e" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
-      'meta',
-      { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }
+      "meta",
+      { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
     [
-      'link',
-      { rel: 'apple-touch-icon', href: `/images/icons/apple-touch-icon.png` }
+      "link",
+      { rel: "apple-touch-icon", href: `/images/icons/apple-touch-icon.png` },
     ],
     [
-      'link',
+      "link",
       {
-        rel: 'mask-icon',
-        href: '/images/icons/safari-pinned-tab.svg',
-        color: '#ffcc00'
-      }
+        rel: "mask-icon",
+        href: "/images/icons/safari-pinned-tab.svg",
+        color: "#ffcc00",
+      },
     ],
     [
-      'meta',
+      "meta",
       {
-        name: 'msapplication-TileImage',
-        content: '/images/icons/android-chrome-192x192.png'
-      }
+        name: "msapplication-TileImage",
+        content: "/images/icons/android-chrome-192x192.png",
+      },
     ],
-    ['meta', { name: 'msapplication-TileColor', content: '#ffcc00' }]
+    ["meta", { name: "msapplication-TileColor", content: "#ffcc00" }],
   ],
 
   // theme and its config
-  theme: path.resolve(__dirname, './theme'),
+  theme: path.resolve(__dirname, "./theme"),
   themeConfig: {
-    logo: '/images/icons/logo.png',
+    logo: "/images/icons/logo.png",
     lastUpdated: false,
     sidebar: {
       "/pos/": [
@@ -48,7 +48,7 @@ module.exports = {
             "/pos/1/",
             "/pos/2/",
             "/pos/3/",
-            "/pos/4/", 
+            "/pos/4/",
             "/pos/5/",
             /*
             "/pos/6/",
@@ -127,14 +127,14 @@ module.exports = {
     displayAllHeaders: false,
     editLink: true,
     editLinkText: "Upravit stránku",
-    docsRepo: 'https://github.com/Moumirrai/nestling',
-    docsBranch: 'master',
-    docsDir: 'docs',
-    editLinkPattern: ':repo/edit/:branch/:path',
+    docsRepo: "https://github.com/Moumirrai/nestling",
+    docsBranch: "master",
+    docsDir: "docs",
+    editLinkPattern: ":repo/edit/:branch/:path",
     contributors: true,
     themePlugins: {
       mediumZoom: true,
-    }
+    },
   },
   plugins: [
     [
@@ -150,14 +150,19 @@ module.exports = {
       },
     ],
     ["@renovamen/vuepress-plugin-katex"],
-    ["@vuepress/plugin-medium-zoom", {
-      zoomOptions: {
-        scrollOffset: 40,
-      }
-    }],
-    ['@vuepress/pwa',
-    {
-      skipWaiting: true,
-    }],
+    [
+      "@vuepress/plugin-medium-zoom",
+      {
+        zoomOptions: {
+          scrollOffset: 40,
+        },
+      },
+    ],
+    [
+      "@vuepress/pwa",
+      {
+        skipWaiting: true,
+      },
+    ],
   ],
 };

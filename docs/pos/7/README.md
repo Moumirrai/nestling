@@ -1,6 +1,7 @@
 ---
 pageClass: default-page
 ---
+
 # 7. STROPNÍ KCE ŽELEZOBETONOVÉ MONOLITICKÉ
 
 ## Deskové stropy
@@ -11,4 +12,4 @@ pageClass: default-page
 
 ## Žebírkový strop - Simplex
 
-## 
+##

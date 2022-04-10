@@ -1,24 +1,9 @@
 :root {
-
   --c-brand: #3eaf7c;
   --c-brand-light: #51c792;
-
-  scroll-behavior: smooth;
-
-
-  --pwa-popup-z-index: 10;
-
-  --pwa-popup-text-color: #2c3e50;
-  --pwa-popup-bg-color: #ffffff;
-  --pwa-popup-border-color: #ffcc00;
-  --pwa-popup-shadow: 0 4px 16px var(--pwa-popup-border-color);
-
-  --pwa-popup-btn-text-color: #ffffff;
-  --pwa-popup-btn-bg-color: #ffcc00;
-  --pwa-popup-btn-hover-bg-color: #ffdb4a;
-
   --c-text-quote: #2c3e50;
 
+  //containers
   --c-warning: #e7c000;
   --c-warning-bg: #f3f4f5;
   --c-warning-title: #2c3e50;
@@ -29,6 +14,7 @@
   --c-danger-text: #2c3e50;
   --c-danger-text-accent: var(--c-text);
   --c-details-bg: #eeeeee;
+  //
 
   ::-webkit-scrollbar {
     width: 8px;
@@ -50,22 +36,13 @@
   .badge.warning {
     color: var(--c-text);
   }
-  
 
+  .site-name {
+    display: none;
+  }
 }
 
 html.dark {
-  
-  --pwa-popup-z-index: 10;
-
-  --pwa-popup-text-color: #2c3e50;
-  --pwa-popup-bg-color: #ffffff;
-  --pwa-popup-border-color: #ffcc00;
-  --pwa-popup-shadow: 0 4px 16px var(--pwa-popup-border-color);
-
-  --pwa-popup-btn-text-color: #ffffff;
-  --pwa-popup-btn-bg-color: #ffcc00;
-  --pwa-popup-btn-hover-bg-color: #ffdb4a;
   // brand colors
   --c-brand: #ffcc00;
   --c-brand-light: #ffdb4a;
@@ -106,15 +83,12 @@ html.dark {
   .badge.warning {
     color: var(--c-bg);
   }
-
 }
 
 .theme-container.default-page {
-
   .customTable {
     .center {
       text-align: center;
-      //allign image to center
       img {
         display: block;
         margin-left: auto;
@@ -129,6 +103,7 @@ html.dark {
     padding-bottom: 56.25%; /* 16:9 */
     height: 0;
   }
+
   .videoWrapper iframe {
     position: absolute;
     top: 0;
@@ -137,31 +112,29 @@ html.dark {
     height: 100%;
     border-radius: 10px;
   }
+
   .centered_image {
     display: block;
     max-height: 500px;
     width: auto;
   }
+
   h1 {
-    color: var(--c-brand)
+    color: var(--c-brand);
   }
+
   h2 {
     color: var(--c-brand);
   }
+
   h3 {
     color: var(--c-brand);
   }
+
   strong {
-    color: var(--c-brand)
+    color: var(--c-brand);
   }
-  /*
-  h4 {
-    color: var(--c-heading-4)
-  }
-  h5 {
-    color: var(--c-heading-5)
-  }
-  */
+
   .upload_button {
     background-color: #ff6464;
     border: 2px solid #ff6464;

@@ -1,6 +1,7 @@
 ---
 pageClass: default-page
 ---
+
 # 10. SCHODIŠTĚ S PLNĚ PODPOROVANÝMY STUPNI
 
 ## Vnější schodiště
@@ -15,6 +16,7 @@ pageClass: default-page
 <img class="centered_image" src="/images/pos/10/pazene2.jpg" />
 
 ### Předsazená schodiště
+
 <br>
 <img class="centered_image" src="/images/pos/10/predsazene1.jpg" />
 <br>

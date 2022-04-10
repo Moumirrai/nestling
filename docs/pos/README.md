@@ -7,45 +7,45 @@ contributors: false
 # Pozemní stavitelství
 
 1. **Zemní práce**
-    - rozdělení stavenišť dle vhodnosti, druhy zemních prací
-    - provádění výkopů svahovaných a pažených, druhy roubení (obr.)
-    - odvodnění stavební jámy
+   - rozdělení stavenišť dle vhodnosti, druhy zemních prací
+   - provádění výkopů svahovaných a pažených, druhy roubení (obr.)
+   - odvodnění stavební jámy
 2. **Základové konstrukce**
-    - druhy plošných a hlubinných základů (obr.)
-    - zásady navrhování, konstrukce, použití
-    - prohlubování, rozšiřování základů
+   - druhy plošných a hlubinných základů (obr.)
+   - zásady navrhování, konstrukce, použití
+   - prohlubování, rozšiřování základů
 3. **Zděné stavby - zdivo cihelné, tvárnicové, smíšené**
-    - základní konstrukční systémy (obr.), moduly
-    - nosné zdi, sloupy, pilíře - druhy zdiva, materiály, zdění, základní vazby zdiva (obr.)
-    - tepelně izolační požadavky pro obvodový plášť, dodatečné zateplování
+   - základní konstrukční systémy (obr.), moduly
+   - nosné zdi, sloupy, pilíře - druhy zdiva, materiály, zdění, základní vazby zdiva (obr.)
+   - tepelně izolační požadavky pro obvodový plášť, dodatečné zateplování
 4. **Příčky**
-    - rozdělení příček dle materiálu a technologie provádění (zděné, monolitické, montované)
-    - příklady příček (obr.) a jejich použití
-    - kotvení příček
+   - rozdělení příček dle materiálu a technologie provádění (zděné, monolitické, montované)
+   - příklady příček (obr.) a jejich použití
+   - kotvení příček
 5. **Stropní konstrukce dřevěné**
-    - rozdělení dřevěných stropů podle konstrukce (obr.)
-    - požární odolnost dřevěných stropů - stropy spalné, polospalné
-    - uložení stropních trámů na nosném zdivu (obr.)
+   - rozdělení dřevěných stropů podle konstrukce (obr.)
+   - požární odolnost dřevěných stropů - stropy spalné, polospalné
+   - uložení stropních trámů na nosném zdivu (obr.)
 6. **Stropní konstrukce z nosníků a vložek nebo desek**
-    - stropy z nosníků a desek Hurdis
-    - stropy z nosníků a vložek Miako, vložkový strop YTONG
-    - konstrukce a navrhování stropů (obr.)
-    - keramobetonová nadpraží
+   - stropy z nosníků a desek Hurdis
+   - stropy z nosníků a vložek Miako, vložkový strop YTONG
+   - konstrukce a navrhování stropů (obr.)
+   - keramobetonová nadpraží
 7. **Stropní konstrukce železobetonové monolitické**
-    - deskový strop z prostě uložené desky, spojité desky a křížem vyztužené desky
-    - trámový monolitický strop
-    - předběžný návrh rozměrů
-    - žebírkový strop, strop Simplex
-    - řešení monolitických věnců a nadpraží
+   - deskový strop z prostě uložené desky, spojité desky a křížem vyztužené desky
+   - trámový monolitický strop
+   - předběžný návrh rozměrů
+   - žebírkový strop, strop Simplex
+   - řešení monolitických věnců a nadpraží
 8. **Stropy montované**
-    - rozdělení deskových a panelových železobetonových stropů
-    - nosníkové stropy, stropy z ocelových nosníků
-    - výhody a nevýhody montovaných stropů
-    - montovaná nadpraží
+   - rozdělení deskových a panelových železobetonových stropů
+   - nosníkové stropy, stropy z ocelových nosníků
+   - výhody a nevýhody montovaných stropů
+   - montovaná nadpraží
 9. **Konstrukce a návrh schodiště**
-    - názvosloví, konstrukční prvky, rozdělení schodišť podle konstrukce a materiálu
-    - výpočet schodiště, zásady návrhu schodišťového prostoru, úpravy stupňů
-    - zásady návrhu schodišťového zábradlí
+   - názvosloví, konstrukční prvky, rozdělení schodišť podle konstrukce a materiálu
+   - výpočet schodiště, zásady návrhu schodišťového prostoru, úpravy stupňů
+   - zásady návrhu schodišťového zábradlí
 10. **Schodiště s plně podporovanými stupni**
     - schodiště desková (monolitická, montovaná), pažená - konstrukce, uložení (obr.)
     - provedení schodišťových stupňů
@@ -62,7 +62,7 @@ contributors: false
     - kotvení zábradlí
 14. **Zastřešení - střechy sklonité**
     - rozdělení krovů podle konstrukce a rozpětí (vaznicová soustava - stojatá stolice,
-    ležatá stolice apod.) - hlavní konstrukční zásady (obr.)
+      ležatá stolice apod.) - hlavní konstrukční zásady (obr.)
     - hambalková soustava - navrhování
     - tesařské spoje dřevěných střešních konstrukcí
 15. **Střechy ploché**
@@ -101,7 +101,7 @@ contributors: false
     - druhy zámečnických výrobků, rozdělení
     - materiál a konstrukce výplní otvorů - konstrukce oken, výkladců, dveří, vrat - obr.
     - konstrukce a osazování zábradlí a jiných výrobků
-24. **Klempířské práce**    
+24. **Klempířské práce**
     - materiály oplechování, spádování
     - připojování a spojování klempířských výrobků (obr.)
 25. **Pokrývačské práce**

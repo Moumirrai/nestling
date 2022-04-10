@@ -1,6 +1,7 @@
 ---
 pageClass: default-page
 ---
+
 # 26. VĚTRÁNÍ A KLIMATIZACE
 
 ## Větrání
@@ -8,6 +9,7 @@ pageClass: default-page
 Účelem je výměna vzduchu v prostorách neboli odvádět hygienicky závadný vzduch mimo prostor a nahrazovat ho čistým
 
 ##### Dělíme na:
+
 - [přirozené](../26/#prirozene-vetrani)
 - [nucené](../26/#nucene-vetrani)
 - [kombinované](../26/#kombinovane-vetrani)
@@ -19,6 +21,7 @@ pageClass: default-page
 Výměna vzduchu založena na rozdílných teplotách interiéru a vnějšího prostředí
 
 ##### Přirozené větrání provádíme:
+
 - [okny a dveřmi](../26/#vetrani-okny-a-dvermi)
 - [ventilačními průduchy](../26/#vetrani-ventilacnimy-pruduchy)
 - [infiltrací](../26/#vetrani-infiltraci)
@@ -70,23 +73,27 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 :::
 
 #### Podle konstrukce dělíme na:
+
 - Centrální (vzduch je rozváděn potrubím ze strojovny)
 - Necentrální (vzduchové jednotky umístěny v místnostech)
 
 #### Využití nuceného větrání
 
 ##### Větrání s nuceným přívodem vzduchu (přetlak)
+
 - v místnosti vzniká přetlak
 - používá se u místností do kterých nemá vnikat vzduch ze sousedních prostor
 - přívod vzduchu zajišťuje vzduchotechnika, zatímco odvod zajišťuje infiltrace
 - použití - obchodní domy, tělocvičny, kina
 
 ##### Větrání s nuceným odvodem vzduchu (podtlak)
+
 - používá se u místností ze kterých se nemá šířit zápach do okolí
 - přívod vzduchu zajištěn infiltrací
 - použití - WC, koupelny, kuchyně
 
 ##### Větrání s nuceným odvodem i přívodem vzduchu (rovnotlaké)
+
 - vzduchotechnika zajištuje odvod i přívod vzduchu
 - často v kombinaci s úpravou vzduchu (filtrace, teplota)
 
@@ -97,6 +104,7 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 :::
 
 #### Hygienické předpisy a normy
+
 - v místnosti se musí vyměnit <Badge type="warning" text="min 1/3" vertical="middle" /> vzduchu za hodinu
 - v bytech by se mělo počítat s přívodem čistého vzduchu <Badge type="warning" text="min 25m3" vertical="middle" />
 
@@ -116,10 +124,10 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 #### Rozdělení podle konstrukce
 
 - centrální klimatizace
-    - nízkotlaké systémy (5-8m/s)
-    - vysokotlaké systémy (12-30m/s)
+  - nízkotlaké systémy (5-8m/s)
+  - vysokotlaké systémy (12-30m/s)
 - jednotková klimatizační jednotka
-    - jednotka je umístěna buď v klimatizované místnosti nebo přilehlé místnosti
+  - jednotka je umístěna buď v klimatizované místnosti nebo přilehlé místnosti
 
 ### Části klimatizačního zařízení
 
@@ -131,7 +139,9 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 :::
 
 #### Filtrace
+
 Podle intenzity úpravy vzduchu dělíme na:
+
 - hrubou
 - střední
 - jemnou

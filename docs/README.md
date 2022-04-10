@@ -1,6 +1,6 @@
 ---
 pageClass: default-page
-layout: FooBar
+layout: CustomHomePage
 home: false
 editLink: false
 contributors: false
