@@ -215,8 +215,8 @@ Náklad v propočtu
 > - M - mzdy
 > - S - stroje
 > - OPN - ostatní přímé náklady
-> - Rv - Režije výrobní
-> - Rs - Režije správní
+> - Rv - Režie výrobní
+> - Rs - Režie správní
 > - Zisk
 >
 > <br>
@@ -262,20 +262,20 @@ Náklad v propočtu
 
 - vedlejší rozpočtové náklady
 
-### Režije výrobní (Rv)
+### Režie výrobní (Rv)
 
 - náklady související přímo s výrobním procesem
 - jsou realizovány přímo na stavbě
 - příklady: spotřeba el. energie, spotřeba vody, vytápění, mzdy mistrů a stavbyvedoucích, úklid stavby, provoz aut pracovních, pracovních telefonů, atd...
   > Rv = % z PZN
 
-### Režije správní (Rs)
+### Režie správní (Rs)
 
 - náklady spojeny se správou (vedení firmy)
 - např: nájmy kanceláří, mzdy vedení, náklady na vodu, vytápění, reklamy, školení
   > Rs = % z (PzN + Rv)
-- náklady u obou typech režijí jsou často obdobné (el. energie na stavbě a el. energie ve správě, auta, atd...), proto je možné je počítat dohromady, což provádí hlavně malé firmy z důvodu pracnosti.
-- procento režijních nákladů určuje dodavatel dle vlastního uvážení, dle dříve realizovaných staveb s ohledem na aktuální situaci (čas a konkrétní zakázka).
+- náklady u obou typech režií jsou často obdobné (el. energie na stavbě a el. energie ve správě, auta, atd...), proto je možné je počítat dohromady, což provádí hlavně malé firmy z důvodu pracnosti.
+- procento režiních nákladů určuje dodavatel dle vlastního uvážení, dle dříve realizovaných staveb s ohledem na aktuální situaci (čas a konkrétní zakázka).
 
 ### Zisk (Z)
 
@@ -289,7 +289,7 @@ Náklad v propočtu
 
 - náklady na projektové a průzkumné práce
 - např:
-  - činost projektanta
+  - činnost projektanta
   - autorský dozor - provádí ho projektant během realizace
   - průzkumné práce
   - geologické průzkumy (únosnost zeminy, hl. podzemní vody)
@@ -326,7 +326,7 @@ Náklad v propočtu
   - náklady zařízení staveniště, provozní vlivy
   - stavba je realizována za provozu investora (když např přistavují druhou halu v továrně)
   - vliv extrémních klimatických podmínek (hory)
-  - mimořádně stížené dopravní podmínky (hory - doprava vrtulníky, historické části měst - doprava vrtulníky a lehčími vozidly)
+  - mimořádně ztížené dopravní podmínky (hory - doprava vrtulníky, historické části měst - doprava vrtulníky a lehčími vozidly)
   - práce na památkových objektech
 
 ### Hlava Ⅶ

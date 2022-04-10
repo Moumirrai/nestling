@@ -9,10 +9,10 @@ POS - OTÁZKY
 
 | Number | Assigned to    | Note     | In progress |  Finished   |
 | :----: | -------------- | -------- | :---------: | :---------: |
-|   1    | @Moumirrai     | hedings  |      X      |      X      |
+|   1    | @Moumirrai     |          |             |      X      |
 |   2    | @Moumirrai     |          |             |      X      |
 |   3    | @lalinek77     |          |             |      X      |
-|   4    | @Fantastyk     |          |             |             |
+|   4    | @Fantastyk     |          |             |      X      |
 |   5    | @Fantastyk     |          |             |      X      |
 |   6    | @Fantastyk     |          |             |             |
 |   7    | @Moumirrai     |          |             |      X      |
@@ -21,18 +21,18 @@ POS - OTÁZKY
 |   10   | @Moumirrai     |          |             |      X      |
 |   11   | @Moumirrai     |          |             |             |
 |   12   | @Moumirrai     |          |             |      X      |
-|   13   | @Moumirrai     |          |             |             |
+|   13   | @Moumirrai     |          |      X      |             |
 |   14   | @Fantastyk     |          |             |             |
 |   15   | @Fantastyk     |          |             |             |
-|   16   | @tomostronos   |          |             |             |
+|   16   | @tomostronos   |          |             |      X      |
 |   17   | @siberiastronk |          |             |             |
 |   18   | @siberiastronk |          |             |      X      |
 |   19   | @Moumirrai     |          |             |             |
-|   20   | @Moumirrai     |          |             |             |
+|   20   | @Moumirrai     |          |      X      |             |
 |   21   | @Moumirrai     |          |             |      X      |
 |   22   | @tomostronos   |          |             |      X      |
 |   23   | @tomostronos   |          |             |      X      |
-|   24   | @Moumirrai     |          |             |             |
+|   24   | @Moumirrai     |          |      X      |             |
 |   25   | @Moumirrai     | hrebenac |             |      X      |
 |   26   | @Moumirrai     |          |             |      X      |
 |   27   | @tomostronos   |          |             |      X      |
@@ -50,7 +50,7 @@ POS - OTÁZKY
 |   39   | @Moumirrai     |          |             |      X      |
 |   40   | @Moumirrai     |          |             |      X      |
 |   41   | @Moumirrai     |          |             |      X      |
-|   42   | @lalinek77     |          |             |             |
+|   42   | @lalinek77     |          |             |      X      |
 |   43   | @lalinek77     |          |             |             |
 |   44   | @lalinek77     |          |             |             |
-|  Sum   | 44/44 (100%)   |          |      2      | 23/44 (52%) |
+|  Sum   | 44/44 (100%)   |          |      4      | 26/44 (59%) |

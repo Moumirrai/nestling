@@ -1,0 +1,5 @@
+---
+pageClass: default-page
+---
+
+# 33. POŽADAVKY NA UŽÍVÁNÍ STAVEB OSOBAMI S OMEZENOU SCHOPNOSTÍ POHYBU

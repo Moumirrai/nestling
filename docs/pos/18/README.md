@@ -44,6 +44,7 @@ pageClass: default-page
 
 ## Rozdělení základních vrstev
 
+<br>
 <img class="centered_image" src="/images/pos/18/rozdeleni-vrstev.jpg" />
 
 #### Nášlapná vrstva
@@ -74,7 +75,7 @@ pageClass: default-page
 * #### Těžká plovoucí podlaha
 * roznášecí a nášlapná vrstva má velkou plošnou hmotnost (nad 75 kg/m2)
 
-::: tip Těžká plovoucí podlaha
+::: warning Těžká plovoucí podlaha
 <br>
 <img class="centered_image" src="/images/pos/18/tezka-plovouci.jpg" />
 
@@ -84,7 +85,7 @@ pageClass: default-page
 - #### Lehká plovoucí podlaha
 - používá nášlapné i roznášecí vrstvy s malou plošnou hmotností (do 15 kg/m2). - Pro splnění požadavků na vzduchovou neprůzvučnost ji lze použít pouze na těžkou stropní konstrukci (nad 350 kg/m2) nebo na stropní konstrukci, kde akustickou funkci plní podhled.
 
-::: tip Lehká plovoucí podlaha
+::: warning Lehká plovoucí podlaha
 <br>
 <img class="centered_image" src="/images/pos/18/lehka-plovouci.jpg" />
 
@@ -95,7 +96,7 @@ pageClass: default-page
 
 - jsou konstrukce, které ve skladbě neobsahují pružnou vložku, která tlumí kročejový hluk. používají se v místnostech, kde není třeba chránit okolní prostory proti tomuto druhu hluku.
 
-::: tip Tuhá podlaha
+::: warning Tuhá podlaha
 <br>
 <img class="centered_image" src="/images/pos/18/tuha-podlaha.jpg" />
 
@@ -106,7 +107,7 @@ pageClass: default-page
 
 - Dvojité podlahy se skládají ze dvou odlišných vrstev, kde je pochůzná vrstva spolu s roznášecí vrstvou umístěna na roštových nebo bodových podpěrách, kterými je přenášeno zatížení do vodorovné konstrukce nebo jiného podkladu.
 
-::: tip Dvojitá podlaha
+::: warning Dvojitá podlaha
 <br>
 <img class="centered_image" src="/images/pos/18/dvojita-podlaha.jpg" />
 
@@ -117,7 +118,7 @@ pageClass: default-page
 
 - Tak zvaná nulová podlaha je tvořena z tenké tuhé nášlapné vrstvy (PVC, linoleum apod.), která je podložena měkkou tlumící vrstvou z pěnové pryže, plsti, textilu apod. tloušťky 2 až 4 mm. - Nulová podlaha se používala hlavně v panelové výstavbě.
 
-::: tip Nulová podlaha
+::: warning Nulová podlaha
 <br>
 <img class="centered_image" src="/images/pos/18/nulova-podlaha.jpg" />
 
@@ -132,7 +133,7 @@ pageClass: default-page
   o šířce 100 až 150 mm, o tloušťce
   22 mm, které se spojují na pero a drážku.
 
-::: tip Palubová podlaha
+::: warning Palubová podlaha
 <br>
 <img class="centered_image" src="/images/pos/18/drevena-podlaha.jpg" />
 
@@ -145,15 +146,13 @@ je nejrozšířenějším druhem dřevěných podlah.
 Spojují se po celém svém obvodu na pero a drážku
 a skládají se obvykle do rybinovitého vzoru.
 
-- čtvercová skladba vlysů - rybinovitá skladba vlysů
-
-::: tip Čtvercová skladba
+::: warning Čtvercová skladba
 <br>
 <img class="centered_image" src="/images/pos/18/ctvercove_vlysy.jpg" />
 <br>
 :::
 
-::: tip Rybinová skladba
+::: warning Rybinová skladba
 <br>
 <img class="centered_image" src="/images/pos/18/rybina_vlysy.jpg" />
 <br>
@@ -163,7 +162,7 @@ a skládají se obvykle do rybinovitého vzoru.
 
 skládá se z tabulí o rozměrech 300 x 300 mm až 600 x 600 mm, o tloušťce 9 až 22 mm, spojovaných na péro a drážku. Parkety jsou prefabrikáty složené z menších dřevěných prvků.
 
-::: tip Parkety
+::: warning Parkety
 <br>
 <img class="centered_image" src="/images/pos/18/parkety.jpg" />
 <br>
@@ -183,7 +182,7 @@ jsou vytvářeny z jednotlivých prvků tvaru lamel o šířce cca 150 mm a dél
 
 - #### Keramické dlažby
 
-::: tip Dlažby
+::: warning Dlažby
 <br>
 <img class="centered_image" src="/images/pos/18/dlazby.jpg" />
 <br>
@@ -198,7 +197,7 @@ rozměry jsou 100 x
 
 používají se v průmyslových objektech ve skladech, výrobních halách a také jako dlažba venkovní. Dlaždice mají rozměry 150 x 150 x 20 mm až 500 x 500 x 70 mm.
 
-::: tip Betonová dlažba
+::: warning Betonová dlažba
 <br>
 <img class="centered_image" src="/images/pos/18/betonova-dlazba.jpg" />
 <br>
@@ -230,7 +229,7 @@ je poloteplá podlahovina, která se uplatňuje v bytové a občanské výstavb�
 
 - #### Cementové potěry
 
-::: tip Mazaniny
+::: warning Mazaniny
 <br>
 <img class="centered_image" src="/images/pos/18/mazaniny.jpg" />
 <br>
@@ -253,7 +252,7 @@ Provádí se ze směsi cementu, různobarevné kamenné drtě, vody a barviva. N
 Provádí se jednovrstvá nebo dvouvrstvá ze vzdušného práškového pojiva (anhydrit). Nanáší
 
 se strojně.
-::: tip Anhydritová mazanina
+::: warning Anhydritová mazanina
 <br>
 <img class="centered_image" src="/images/pos/18/anhydrit-podlaha.jpg" />
 <br>
@@ -261,7 +260,7 @@ se strojně.
 
 ### Povlakové krytiny
 
-::: tip Krytiny
+::: warning Krytiny
 <br>
 <img class="centered_image" src="/images/pos/18/krytiny.jpg" />
 <br>
