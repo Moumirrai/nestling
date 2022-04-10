@@ -9,21 +9,17 @@ pageClass: default-page
 #### Mechanické
 
 - pevnost v tahu
-
 - odolnost proti opotřebení a nárazu
-
 - pružnost
 
 #### Tepelně - technické
 
 - dostatečná odpor „R“
-
 - teplota vnitřního povrchu musí ve vytápěném prostoru převyšovat teplotu rosného bodu
 
 #### Akustické
 
 - vzduchová neprůzvučnost
-
 - kročejová neprůzvučnost
 
 #### Odolnost proti vlhkosti
@@ -53,27 +49,20 @@ pageClass: default-page
 #### Nášlapná vrstva
 
 - Užitková vrstva, která tvoří vlastní povrch podlahy.
-
 - Podle technologie provádění nášlapné vrstvy se
-
-podlahy dělí na podlahy **skládané** (dřevěné, dlažby)
-
-a na podlahy **celistvé** (mazaniny, povlaky).
+  podlahy dělí na podlahy **skládané** (dřevěné, dlažby)
+  a na podlahy **celistvé** (mazaniny, povlaky).
 
 #### Roznášecí vrstva
 
 - leží zpravidla pod nášlapnou vrstvou a roznáší bodové
-
-zatížení z nášlapné vrstvy do větší plochy na měkkou
-
-podložku, tvořenou akustickou nebo tepelnou izolací.
-
+  zatížení z nášlapné vrstvy do větší plochy na měkkou
+  podložku, tvořenou akustickou nebo tepelnou izolací.
 - Ve formě **násypů**, **mazanin** nebo **prefabrikovaných desek**.
 
 #### Izolační vrstva
 
 - dělí podle své funkce na izolace zvukové, tepelné a izolace proti vodě a vlhkosti. - Izolace zvukové se provádějí z pružných nebo z polopružných hmot
-
 - Izolace tepelné jsou obdobné jako zvukové – materiál např.: pěnový polystyrén - Izolace proti vodě se obvykle provádějí ze živičné izolace z asfaltových izolačních pásů kladených na betonový podklad.
 
 ## Rozdělení podle konstrukce
@@ -93,7 +82,6 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
    :::
 
 - #### Lehká plovoucí podlaha
-
 - používá nášlapné i roznášecí vrstvy s malou plošnou hmotností (do 15 kg/m2). - Pro splnění požadavků na vzduchovou neprůzvučnost ji lze použít pouze na těžkou stropní konstrukci (nad 350 kg/m2) nebo na stropní konstrukci, kde akustickou funkci plní podhled.
 
 ::: tip Lehká plovoucí podlaha
@@ -141,10 +129,8 @@ podložku, tvořenou akustickou nebo tepelnou izolací.
 ### Dřevěné podlahy
 
 - #### Palubová podlaha
-
-o šířce 100 až 150 mm, o tloušťce
-
-22 mm, které se spojují na pero a drážku.
+  o šířce 100 až 150 mm, o tloušťce
+  22 mm, které se spojují na pero a drážku.
 
 ::: tip Palubová podlaha
 <br>
@@ -156,9 +142,7 @@ o šířce 100 až 150 mm, o tloušťce
 - #### Vlysová podlaha
 
 je nejrozšířenějším druhem dřevěných podlah.
-
 Spojují se po celém svém obvodu na pero a drážku
-
 a skládají se obvykle do rybinovitého vzoru.
 
 - čtvercová skladba vlysů - rybinovitá skladba vlysů
@@ -206,11 +190,8 @@ jsou vytvářeny z jednotlivých prvků tvaru lamel o šířce cca 150 mm a dél
 :::
 
 Jsou vhodné do mokrých a vlhkých
-
 provozů. Snadno se čistí, Jejich běžné
-
 rozměry jsou 100 x
-
 100 x 8 mm nebo 150 x 150 x 12 mm
 
 - #### Betonové dlažby
@@ -226,11 +207,8 @@ používají se v průmyslových objektech ve skladech, výrobních halách a ta
 - #### Teracové dlažby
 
 se používají v průmyslových objektech, ve skladech a
-
 na chodbách. Dvouvrstvé, kde spodní vrstva je betonová a nášlapná
-
 vrstva je z teracové směsi. Vyrábějí se v
-
 rozměrech od 200 x 200 x 25 mm až 400 x 400 x 50
 
 mm. Kladou se do lože z cementové malty.
@@ -238,7 +216,6 @@ mm. Kladou se do lože z cementové malty.
 - #### Dlažby z přírodního kamene
 
 provádí se buď z kamenných desek nebo z kamenných kostek.
-
 Vyrábějí se z mramoru, žuly apod. Kladou se maltového lože na betonový podklad.
 
 - #### Čedičová dlažba
@@ -292,14 +269,11 @@ se strojně.
 
 - #### Linoleové povlaky
 
-jsou hygienické, snadno čistitelné. Linoleová hmota
+Jsou hygienické a snadno čistitelné
 
-(směs oleje, pryskyřice, korkové a dřevěné
-
+Linoleová hmota (směs oleje, pryskyřice, korkové a dřevěné
 moučky) nanesená na jutové tkanivo, vytváří
-
 povlak o tloušťce 2 až 3 mm, který se k podkladu
-
 lepí.
 
 - #### Plastové, pryžové a korkové povlaky
@@ -308,15 +282,7 @@ Jsou vhodné pro provozy se zvýšenými nároky na hygienu, vzhled a snadnou č
 
 - #### Textilní povlaky
 
-Jsou vhodné pro suché a čisté provozy s nároky
-
-na vzhled, akustiku a tepelnou pohodu
-
-prostředí. Textilní podlahoviny se lepí na
-
-podkladní betonovou mazaninu, vyrovnanou
-
-vyhlazovací a vyrovnávací hmotou.
+Jsou vhodné pro suché a čisté provozy s nároky na vzhled, akustiku a tepelnou pohodu prostředí. Textilní podlahoviny se lepí na podkladní betonovou mazaninu, vyrovnanou vyhlazovací a vyrovnávací hmotou.
 
 - #### Lité podlahy
 

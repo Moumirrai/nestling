@@ -15,7 +15,7 @@ POS - OTÁZKY
 |   4    | @Fantastyk     |          |             |             |
 |   5    | @Fantastyk     |          |             |      X      |
 |   6    | @Fantastyk     |          |             |             |
-|   7    | @Moumirrai     |          |             |             |
+|   7    | @Moumirrai     |          |             |      X      |
 |   8    | @Moumirrai     |          |             |      X      |
 |   9    | @Moumirrai     |          |             |      X      |
 |   10   | @Moumirrai     |          |             |      X      |
@@ -53,4 +53,4 @@ POS - OTÁZKY
 |   42   | @lalinek77     |          |             |             |
 |   43   | @lalinek77     |          |             |             |
 |   44   | @lalinek77     |          |             |             |
-|  Sum   | 44/44 (100%)   |          |      2      | 22/44 (50%) |
+|  Sum   | 44/44 (100%)   |          |      2      | 23/44 (52%) |
