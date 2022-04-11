@@ -61,7 +61,7 @@ pageClass: default-page
 
 #### $R=\frac{d}{\lambda}$ [m²·K/W]
 
-$d$ - tlouštka konstrukce
+$d$ - tloušťka konstrukce
 :::
 
 ### Tepelný odpor při prostupu tepla
@@ -97,12 +97,17 @@ $R_t=(R_{si}+R+R{se})$
 
 - nejnižší vnitřní povrchová teplota má mít jistou rezervu a musí být **vyšší** než je teplota **rosného bodu**
 - teplota vnitřního povrchu se provádí výpočtem
-- dnešní běžné podmínky není nutné výpočet provádět pokud je dodrženo požadované hodnoty U
+- dnešní běžné podmínky není nutné výpočet provádět, pokud je dodrženo požadované hodnoty U
 
 **Hodnoty rosného bodu**
 <img class="centered_image" src="/images/pos/20/rosny-bod.jpg" />
 
-## Tepelné izolce
+## Tepelné izolace
+
+<br>
+<img class="centered_image" src="/images/pos/20/izo1.jpg" />
+<br>
+<img class="centered_image" src="/images/pos/20/izo2.jpg" />
 
 #### Historické materiály
 
@@ -147,31 +152,43 @@ $R_t=(R_{si}+R+R{se})$
 #### Konopí
 
 - velmi využívané technické rostliny
-- největší předností je rychlá obnovitelnost – roste mnohem rychleji, než dřevo, navíc nevyžaduje žádnou velkou péči ani
-ošetřování chemickými látkami
+- největší předností je rychlá obnovitelnost – roste mnohem rychleji než dřevo, navíc nevyžaduje žádnou velkou péči ani
+  ošetřování chemickými látkami
 
 #### Celulóza
 
 - izolační materiály se vyrábějí z recyklovaného novinového papíru
 
 #### Sláma
+
 - nejobvyklejší stavební i tepelně–izolačních materiál našich předků
 - její obliba v současnosti opět roste
+
+## Tepelné mosty
+
+- jsou místa v budově kterými uniká teplo do exteriéru
+- kromě úniku tepla se mohou projevovat také kondenzací vlhkosti -> nebezpečí plísní
+
+<img class="centered_image" src="/images/pos/20/mosty.jpg" />
 
 ## Zvukové izolace
 
 **Zvuk** - mechanické vlnění<br>**Hluk** - nežádoucí obtěžující zvuk
 
 Zvuk může vznikat:
+
 - chvěním
 - prouděním planu nebo kapaliny
 - kombinací
 
 :::warning Působení zvuku na člověka
-TODO:img
+<br>
+<img class="centered_image" src="/images/pos/20/zvuk.jpg" />
+<br>
 :::
 
 ### Šíření zvuku
+
 - Ve volném prostoru
   - zvuk se rozšiřuje na stále větší plochu
   - intenzita hluku se vlivem vzdálenosti zmenšuje
@@ -194,3 +211,8 @@ TODO:img
 
 ## Izolace proti otřesům
 
+- stoje mohou do konstrukcí přenášet otřesy
+- v přízemních podlažích lze stroje ukotvit na základy které jsou odděleny mezerou od ostatních konstrukcí, tyto základy je třeba zaizolovat izolační vanou
+- ve vyšší patrech lze stroje uložit na pružiny nebo gumové válečky
+
+<img class="centered_image" src="/images/pos/20/otresy.jpg" />
