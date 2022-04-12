@@ -6,8 +6,7 @@ pageClass: default-page
 
 Tepelná pohoda prostředí závisí na teplotě, rychlosti proudění a vlhkosti vzduchu, na povrchové teplotě okolních ploch ve vytápěných prostorech a na čistotě vzduchu. Teplo se šíří prouděním a sáláním.
 
-
-druhy vytápění podle umístění zdroje teplna:
+Druhy vytápění podle umístění zdroje tepla:
 
 - **místní (lokální)** - přeměna energie v teplo se děje přímo ve vytápěné místnosti
 
@@ -19,7 +18,7 @@ druhy vytápění podle umístění zdroje teplna:
 
 paliva dělíme na: tuhá, kapalná a plynná
 
-- **tuhá p.** - hnědé uhlí, černé uhlí, koks, dřevo, dřevěné brykety, dřevěné/rostlinné pelety, štěpka (vzniká jako odpad při zpracování dřeva)
+- **tuhá p.** - hnědé uhlí, černé uhlí, koks, dřevo, dřevěné brikety, dřevěné/rostlinné pelety, štěpka (vzniká jako odpad při zpracování dřeva)
 
 - **kapalná p.** - lehké topné oleje, nafta (drahá - v současnosti se nepoužívá)
 
@@ -29,80 +28,77 @@ paliva dělíme na: tuhá, kapalná a plynná
 
 ## Místní vytápění
 
-Zdroj tepla (topidlo) je umístěn přímo ve vytápěné místnosti. Učinnost malých lokálních topidel je obvykle menší než účinnost kotlů pro ústřední vytápění 
+Zdroj tepla (topidlo) je umístěn přímo ve vytápěné místnosti. Účinnost malých lokálních topidel je obvykle menší než účinnost kotlů pro ústřední vytápění.
 
-topidla topící plynem musí mít odtah spalin buď do komína nebo do venkovního prostoru skrze obvodový plášt budovy
+Topidla topící plynem musí mít odtah spalin buď do komína nebo do venkovního prostoru skrze obvodový plášť budovy
 
 <img class="centered_image" src="/images/pos/29/plynovetopidlo.jpg" />
 
-**elektrická akumulační kamna** - slouží k vytápění místností převážně nočním elektrickým proudem, kdy je určitý přebytek proudu.
+**Elektrická akumulační kamna** - slouží k vytápění místností převážně nočním elektrickým proudem, kdy je určitý přebytek proudu.
 
 <img class="centered_image" src="/images/pos/29/akumulacnikamna.jpg" />
 
 ## Ústřední vytápění
 
-Pro ústřední vytápění je charakteristické to, že se potřebné teplo k vytápění vyrábí ve společném zdroji tepla a teplonosnou látkou se rozvádí do jednotlivých místností trubním rozvodem. 
+Pro ústřední vytápění je charakteristické to, že se potřebné teplo k vytápění vyrábí ve společném zdroji tepla a teplonosnou látkou se rozvádí do jednotlivých místností trubním rozvodem.
 
 Otopné soustavy, které se dnes používají, rozdělujeme...
 
-### podle druhu teplonosné látky:
+### Dělení podle druhu teplonosné látky
 
--  teplovodní soustavy - s teplotou otopné vody do 115 °C 
+- teplovodní soustavy - s teplotou otopné vody **do 115 °C**
+- horkovodní soustavy – s teplotou topné vody **vyšší** než 115 °C
+- parní soustavy nízkotlaké – pracují s přetlakem páry **do 70 kPa**
+- parní soustavy středotlaké – pracují s přetlakem páry **přes** 70 kPa do 1,6 kPa
+- parní soustavy podtlakové
 
--  horkovodní soustavy – s teplotou topné vody vyšší než 115 °C 
+### Dělení podle oběhu teplonosné látky
 
--  parní soustavy nízkotlaké – pracují s přetlakem páry do 70 kPa  
+#### Soustavy s přirozeným oběhem topné vody
 
--  parní soustavy středotlaké – pracují s přetlakem páry přes 70 kPa do 1,6 kPa
+**Přirozený oběh** otopné vody je způsoben rozdílem měrných hmotností teplé a studené vody. Ve zdroji tepla se voda ohřívá, hmotnost vody se zmenšuje a voda v přívodním potrubí svislé větve stoupá vzhůru. V otopných tělesech otopná voda předává teplo, její měrná hmotnost se zvětšuje a ve svislých větvích vratného potrubí voda klesá zpět ke zdroji tepla. Přirozený oběh je vhodný zejména pro menší půdorysně nepříliš rozlehlé budovy
 
--  parní soustavy podtlakové
-
-### podle oběhu teplonosné látky:
-
-- soustavy s přirozeným oběhem topné vody
-
-Přirozený oběh** otopné vody je způsoben rozdílem měrných hmotností teplé a studené vody. Ve zdroji tepla se voda ohřívá, hmotnost vody se zmenšuje a voda v přívodním potrubí svislé větve stoupá vzhůru. V otopných tělesech otopná voda předává teplo, její měrná hmotnost se zvětšuje a ve svislých větvích vratného potrubí voda klesá zpět ke zdroji tepla. Přirozený oběh je vhodný zejména pro menší půdorysně nepříliš rozlehlé budovy
-
--  soustavy s nuceným oběhem topné vody
+#### Soustavy s nuceným oběhem topné vody
 
 **Nucený oběh** otopné vody zajišťuje čerpadlo zařazené do potrubní sítě. Zpravidla se umísťuje do vratného potrubí, kde je otopná voda studenější. V soustavě má být ještě jedno čerpadlo umístěné jako 100 % rezerva.
 
 <img class="centered_image" src="/images/pos/29/obehvody.jpg" />
 
-### podle uspořádání trubního rozvodu:
+### Dělení podle uspořádání trubního rozvodu:
 
--  systém s horizontálním rozvodem (se spodním nebo s horním napojením stoupacích potrubí) 
-  
-  - **Spodní rozvod** je u nás nejpoužívanější soustavou teplovodního ústředního vytápění, a to se zřetelem na jednoduché provádění a na přístupnost rozvodů pro údržbu a opravy. 
-  
-  - **Horní rozvod** se liší od soustavy se spodním rozvodem tím, že přívodní ohřátá voda se vede od kotle hlavním svislým potrubím nahoru, tj. na půdu nebo pod strop nejvyššího podlaží, kde se ležatým přívodním potrubím rozvádí k jednotlivým stoupacím větvím s přípojkami k otopným tělesům.
+- systém s horizontálním rozvodem (se spodním nebo s horním napojením stoupacích potrubí)
 
-<img class="centered_image" src="/images/pos/29/rozvod1.jpg" />
+- **Spodní rozvod** je u nás nejpoužívanější soustavou teplovodního ústředního vytápění, a to se zřetelem na jednoduché provádění a na přístupnost rozvodů pro údržbu a opravy.
 
--  systém s vertikálním rozvodem, na který jsou v jednotlivých podlažích napojeny horizontální okruhy
+- **Horní rozvod** se liší od soustavy se spodním rozvodem tím, že přívodní ohřátá voda se vede od kotle hlavním svislým potrubím nahoru, tj. na půdu nebo pod strop nejvyššího podlaží, kde se ležatým přívodním potrubím rozvádí k jednotlivým stoupacím větvím s přípojkami k otopným tělesům.
 
-### podle připojení otopných těles:
+> <img class="centered_image" src="/images/pos/29/rozvod1.jpg" />
 
-- dvoutrubkové soustavy 
+- systém s vertikálním rozvodem, na který jsou v jednotlivých podlažích napojeny horizontální okruhy
 
--  jednotrubkové soustavy průtočné
+### Dělení podle připojení otopných těles:
 
--  jednotrubkové soustavy s odtokem 
+- dvoutrubkové soustavy
+- jednotrubkové soustavy průtočné
+- jednotrubkové soustavy s odtokem
 
 Jednotrubkové teplovodní vytápěcí soustavy se u nás dosud uplatňují v malém procentu výstavby. Výhodou je jednoduchý rozvod otopné vody a jeho snadná předvýroba. Nevýhodou je nutnost je zvětšování otopných těles ve směru toku otopné vody rozvodným potrubím, protože její teplota se směrem ke konci rozvodu postupně snižuje.
 
 <img class="centered_image" src="/images/pos/29/rozvod2.jpg" />
+<br>
 <img class="centered_image" src="/images/pos/29/rozvod3.jpg" />
+<br>
 <img class="centered_image" src="/images/pos/29/rozvod4.jpg" />
+<br>
 <img class="centered_image" src="/images/pos/29/rozvod5.jpg" />
 
 ### Teplovodní vytápění
 
-rozlišujeme soustavy s přirozeným a nuceným oběhem vody
+Rozlišujeme soustavy s [přirozeným](#soustavy-s-prirozenym-obehem-topne-vody) a [nuceným](#soustavy-s-nucenym-obehem-topne-vody) oběhem vody
 
 Se změnou teploty otopné vody se mění její objem v soustavě, který se vyrovnává v expanzní nádobě. Při použití otevřené expanzní nádoby, spojené s vnějším prostředím, nesmí teplota vody přestoupit 95 °C. Jde o otevřenou otopnou soustavu. Při použití uzavřené (tlakové) expanzní nádoby může voda přesáhnout teplotu 100 °C. Jde o uzavřenou otopnou soustavu.
 
-rozvod teplovodního vytápění je nutné **vyspádovat** jak z důvodu správné funkce zařízení, tak i se zřetelem na možnost vypouštění vody ze soustavy při opravách zařízení nebo při delším přerušení provozu v zimním období, aby zařízení nezamrzlo.
+Rozvod teplovodního vytápění je **nutné vyspádovat** jak z důvodu správné funkce zařízení, tak i se zřetelem na možnost vypouštění vody ze soustavy při opravách zařízení nebo při delším přerušení provozu v zimním období, aby zařízení nezamrzlo.
 
 ### Horkovodní vytápění
 
@@ -112,44 +108,42 @@ Horkovodní otopné soustavy se nepoužívají vzhledem k vysokým tlakům a tep
 
 ### Parní vytápění
 
-taktéž je potřeba **vyspádování** potrubí, kvůli riziku výskytu tkzv. vodních pytlů
+Taktéž je potřeba **vyspádování** potrubí, kvůli riziku výskytu tzv. vodních pytlů
 
 <img class="centered_image" src="/images/pos/29/vodnipytel.jpg" />
 
-rozdělujeme na:
+Rozdělujeme na:
 
--  nízkotlaké parní vytápění (pracovní přetlak do 70 kPa)
-
--  středotlaké parní vytápění (pracovní přetlak přes 70 kPa do 1,6 MPa)
-
--  podtlakové parní vytápění (tlak nižší než atmosférický)
+- nízkotlaké parní vytápění (pracovní přetlak do 70 kPa)
+- středotlaké parní vytápění (pracovní přetlak přes 70 kPa do 1,6 MPa)
+- podtlakové parní vytápění (tlak nižší než atmosférický)
 
 <img class="centered_image" src="/images/pos/29/rozvod6.jpg" />
 
-## Otopné tělesa
+## Otopná tělesa
 
-Otopná teělesa slouží k předávání tepla ve vytápěných místnostech.
+Otopná tělesa slouží k předávání tepla ve vytápěných místnostech.
 
-podle konstrukce rozeznáváme otopná tělesa:
+Podle konstrukce rozeznáváme otopná tělesa
 
-- ČLÁNKOVÁ ocelová nebo litinová (radiátory)
-
+#### Článková - ocelová nebo litinová (radiátory)
+<br>
 <img class="centered_image" src="/images/pos/29/clankove.jpg" />
 
-- DESKOVÁ ocelová
-
+#### Desková - ocelová
+<br>
 <img class="centered_image" src="/images/pos/29/deskove.jpg" />
 
-- SKŘÍŃKOVÁ (tzv. konvektory)
-
+#### Skříňková - tzv. konvektory
+<br>
 <img class="centered_image" src="/images/pos/29/konvektor.jpg" />
 
-- ŽEBROVÁ
-
+#### Žebrová
+<br>
 <img class="centered_image" src="/images/pos/29/zebrove.jpg" />
 
-- TRUBKOVÁ
-
+#### Trubková
+<br>
 <img class="centered_image" src="/images/pos/29/trubkove.jpg" />
 
 ## Podlahové vytápění
