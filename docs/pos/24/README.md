@@ -47,7 +47,7 @@ Cílem klempířských prací je zabránit zatékání vody do stavby, tedy ochr
 > 2. stojatá plechová příponka dvojitá symetrická
 > 3. drátěná příponka symetrická
 
-## Klempýřské prvky a konstrukce
+## Klempířské prvky a konstrukce
 
 ### Zděře
 
@@ -70,15 +70,15 @@ Cílem klempířských prací je zabránit zatékání vody do stavby, tedy ochr
 
 > <img class="centered_image" src="/images/pos/24/image6.jpg" />
 > 
-> 1. podokapní,
-> 2. nadřímsový,
-> 3. nástřešní,
-> 4. zaatikový,
+> 1. podokapní
+> 2. nadřímsový
+> 3. nástřešní
+> 4. zaatikový
 > 5. mezistřešní
 
 ### Žlabové kotlíky
 
-- Kotlíky slouží pro převedení vody ze žlabu do odpadních trub.Kotlíky se zavěšují na návalky žlabů a a připevňují se ke žlabu nýtováním.
+- Kotlíky slouží pro převedení vody ze žlabu do odpadních trub. Kotlíky se zavěšují na návalky žlabů a připevňují se ke žlabu nýtováním.
 
 > <img class="centered_image" src="/images/pos/24/image7.jpg" />
 > 
@@ -90,7 +90,7 @@ D - průměr hrdla kotlíku podle průměru odpadní trouby
 
 ### Odpadní potrubí
 
-- Odpadní trouby slouží k odvádění dešťové vody ze žlabů na taková místa, na nichž voda nemůže způsobovat škody na zdivu budovy ani na jejich základech.Odpadní trouby se osazují na zdivo s hotovou omítkou nebo s obkladem. Drážky vytvořené ve zdivu pro odpadní trouby, musí být nejméně o 40 mm větší než průřez trouby.
+- Odpadní trouby slouží k odvádění dešťové vody ze žlabů na taková místa, na nichž voda nemůže způsobovat škody na zdivu budovy ani na jejich základech. Odpadní trouby se osazují na zdivo s hotovou omítkou nebo s obkladem. Drážky vytvořené ve zdivu pro odpadní trouby, musí být nejméně o 40 mm větší než průřez trouby.
 
 > <img class="centered_image" src="/images/pos/24/image8.jpg" />
 > 
@@ -106,7 +106,7 @@ D - průměr hrdla kotlíku podle průměru odpadní trouby
 
 ### Hladké plechové krytiny
 
-- Hladké plechové krytiny se používají pro krytí střech v horských a drsných klimatických podmínkách.Krytina se klade nejčastěji z tabulí 660 x 2000 mm nebo 1000 x 2000 mm.
+- Hladké plechové krytiny se používají pro krytí střech v horských a drsných klimatických podmínkách. Krytina se klade nejčastěji z tabulí 660 x 2000 mm nebo 1000 x 2000 mm.
 
 > <img class="centered_image" src="/images/pos/24/image9.jpg" />
 > 
@@ -114,7 +114,7 @@ D - průměr hrdla kotlíku podle průměru odpadní trouby
 
 ## Oplechování
 
-Oplechování se na přední straně zpravidla ukončuje okapnicí a na zadní straně úpravou pro napojení na souvisící konstrukci.Přesah okapnice musí být u oplechování okapů střech, balkónů a teras alespoň 50 mm, u ostatních oplechování alespoň 30 mm.
+Oplechování se na přední straně zpravidla ukončuje okapnicí a na zadní straně úpravou pro napojení na souvisící konstrukci. Přesah okapnice musí být u oplechování okapů střech, balkónů a teras alespoň 50 mm, u ostatních oplechování alespoň 30 mm.
 
 > #### **Oplechování okapu s nástřešním žlabem**
 >
