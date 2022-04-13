@@ -37,7 +37,7 @@ POS - OTÁZKY
 |   26   | @Moumirrai     |          |             |      X      |
 |   27   | @tomostronos   |          |             |      X      |
 |   28   | @siberiastronk |          |             |      X      |
-|   29   | @tomostronos   |          |             |             |
+|   29   | @tomostronos   |          |             |      X      |
 |   30   | @Fantastyk     |          |             |      X      |
 |   31   | @Richard       |          |             |             |
 |   32   | @Fantastyk     |          |             |             |
@@ -53,4 +53,4 @@ POS - OTÁZKY
 |   42   | @lalinek77     |          |             |      X      |
 |   43   | @lalinek77     |          |             |             |
 |   44   | @lalinek77     |          |             |             |
-|  Sum   | 44/44 (100%)   |          |      3      | 27/44 (61%) |
+|  Sum   | 44/44 (100%)   |          |      3      | 28/44 (63%) |
