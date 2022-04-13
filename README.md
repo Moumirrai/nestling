@@ -21,7 +21,7 @@ POS - OTÁZKY
 |   10   | @Moumirrai     |          |             |      X      |
 |   11   | @Moumirrai     |          |             |             |
 |   12   | @Moumirrai     |          |             |      X      |
-|   13   | @Moumirrai     |          |      X      |             |
+|   13   | @Moumirrai     |          |             |      X      |
 |   14   | @Fantastyk     |          |             |             |
 |   15   | @Fantastyk     |          |             |             |
 |   16   | @tomostronos   |          |             |      X      |
@@ -32,7 +32,7 @@ POS - OTÁZKY
 |   21   | @Moumirrai     |          |             |      X      |
 |   22   | @tomostronos   |          |             |      X      |
 |   23   | @tomostronos   |          |             |      X      |
-|   24   | @Moumirrai     |          |      X      |             |
+|   24   | @Moumirrai     |          |             |      X      |
 |   25   | @Moumirrai     | hrebenac |             |      X      |
 |   26   | @Moumirrai     |          |             |      X      |
 |   27   | @tomostronos   |          |             |      X      |
@@ -53,4 +53,4 @@ POS - OTÁZKY
 |   42   | @lalinek77     |          |             |      X      |
 |   43   | @lalinek77     |          |             |             |
 |   44   | @lalinek77     |          |             |             |
-|  Sum   | 44/44 (100%)   |          |      3      | 28/44 (63%) |
+|  Sum   | 44/44 (100%)   |          |      1      | 30/44 (68%) |
