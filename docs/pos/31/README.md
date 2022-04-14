@@ -22,19 +22,22 @@ po roce 1980 se vývoj a používání panelových domů u nás téměř zastavi
 
 boky dílců stěnových panelů jsou profilovány tak, aby byly schopné úřenášet smyková namáhání a do styčných spár je vkládána zálivková výztuž.
 
-(OBRÁZEK - profistena)
+<img class="centered_image" src="/images/pos/31/profistena.jpg" />
 
 styky mezi stěnovými panely
 
-(OBRÁZEK - mocstyku)
+<img class="centered_image" src="/images/pos/31/mocstyku.jpg" />
+
 
 osazení panelu se provádí na stevěcí (rektifikační) šrouby, které jsou umístěné ve vzdálenosti 300mm od okrajů panelu
 
-(OBRÁZEK - stavecisrouby)
+<img class="centered_image" src="/images/pos/31/stavecisrouby.jpg" />
+
 
 obvodový plášť je celostěnový, vrstvený, tloušťky 300mm. Nosná vrstva je ŽB tl. 150mm, vnitřní TI vrstva je z pěnového polystyrenu tl. 80mm, vnější ochranná vrstva je z vodotěsného betonu tl. 70mm. Ochraná vrstva s tepelnou izolací přesahují ve spodní části o 300mm přes spodní panel.
 
-(OBRÁZEK - obvodový panel)
+<img class="centered_image" src="/images/pos/31/obvodovypanel.jpg" />
+
 
 ## MONTOVANÉ SKELETOVÉ STAVBY
 
@@ -50,13 +53,15 @@ obvodový plášť je celostěnový, vrstvený, tloušťky 300mm. Nosná vrstva 
 
 - deskové průvlaky
 
-(OBRÁZEK - typypruvlaku)
+<img class="centered_image" src="/images/pos/31/typypruvlaku.jpg" />
+
 
 **STROPNÍ PANELY** - uloženy buď na průvlaky nebo přímo na sloupy
 
 **DESKOVÉ HLAVICE** - jen v případě že stropní panely jsou uloženy bodově přímo na sloupech s absencí stropních průvlaků 
 
-(OBRÁZEK - hlavice)
+<img class="centered_image" src="/images/pos/31/hlavice.jpg" />
+
 
 ### ZTUŽENÍ KONSTRUKCE
 
@@ -64,7 +69,8 @@ sloupové systém mají v porovnání se stěnami malou ohybovou tuhost.
 
 U vyšších sloupovích kcí. se prostorová tuhost zajišťuje výztužnými prvky ve formě ztužujících stěn, diagonálních ztužidel nebo výztužnými výplněmi zámů.
 
-(OBRÁZEK - ztuzeni)
+<img class="centered_image" src="/images/pos/31/ztuzeni.jpg" />
+
 
 ### KONSTRUKČNÍ SYSTÉMY
 
@@ -74,7 +80,8 @@ sloupový skelet s deskovými průvlaky
 
 modulové rozpětí 2,4 - 7,2m, v krajním poli možnost průvlak vykonzolovat modulově o 1,2m
 
- (OBRÁZEK - MS71)
+ <img class="centered_image" src="/images/pos/31/ms71.jpg" />
+
 
 **INTEGRO**
 
@@ -82,7 +89,8 @@ otevřený prefabrikovaný sloupoví system (vetší variabilita při navrhován
 
 hlavní nosný systém skeletu INTEGRO je tvořen sloupy průřezu H nebo průběžnámi vícepodlažními sloupy čtvercového průřezu a stropními zdvojenými lichoběžníkovými nosníky
 
-(OBRÁZEK - integro)
+<img class="centered_image" src="/images/pos/31/integro.jpg" />
+
 
 **PREMO**
 
@@ -96,16 +104,19 @@ systém PREMO umožňuje použití prefabrikovaných, kombinovaných i monolitic
 
 spřažení obdélníkového průvlaku v prefa-monolitickém systému
 
-(OBRÁZEK prefapruvlak)
+<img class="centered_image" src="/images/pos/31/prefapruvlak.jpg" />
+
 
 čapkův spoj - stykovací výztuž vycházející ze spodního sloupu prochází průvlakem a svaří se s vrchních sloupem, poté se styk vyplní betonovou zálivkou
 
-(OBRÁZEK - capek)
+<img class="centered_image" src="/images/pos/31/capek.jpg" />
+
 
 řez sloupem H průřezu
 
-(OBRÁZEK - Hprůřez)
+<img class="centered_image" src="/images/pos/31/hprurez.jpg" />
+
 
 sloupy H průřezu mají v sobě čtyři svislé průběžné dutiny pro vložení výztužných prutů, které se dodatečně zainjektují expanzní zálivkou. Tím je dosaženo zmonolitnění jednotlivích dílců sloupů a zároveň propojení se stropními nosníky
 
-(OBRÁZEK - stykH)
+<img class="centered_image" src="/images/pos/31/stykh.jpg" />
