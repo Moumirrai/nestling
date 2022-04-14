@@ -3,6 +3,8 @@
   --c-brand-light: #51c792;
   --c-text-quote: #2c3e50;
 
+  --c-bg-opacity: #ffffffa9;
+
   //containers
   --c-warning: #e7c000;
   --c-warning-bg: #f3f4f5;
@@ -17,6 +19,10 @@
   //
 
   scroll-behavior: smooth;
+
+  //-webkit-tap-highlight-color: transparent
+
+  -webkit-tap-highlight-color: transparent;
 
   ::-webkit-scrollbar {
     width: 8px;
@@ -53,6 +59,7 @@ html.dark {
   --c-bg: #22272e;
   --c-bg-light: #2b313a;
   --c-bg-lighter: #262c34;
+  --c-bg-opacity: #22272ed8;
 
   // text colors
   --c-text: #adbac7;
@@ -84,6 +91,29 @@ html.dark {
 
   .badge.warning {
     color: var(--c-bg);
+  }
+}
+
+.navbar {
+  backdrop-filter: blur(20px);
+  background-color: var(--c-bg-opacity);
+  border-bottom: 0px solid var(--c-border);
+  //create shadow under navbar
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+  .search-box input{
+    background-color: var(--c-bg-opacity);
+    //filter: brightness(125%);
+    border: none;
+    //create inset shadow
+    box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+  }
+  .toggle-dark-button {
+    transition: transform 0.2s ease-in-out;
+    &:hover {
+      transform: rotate(180deg);
+      //when hovering ends, smoothly return to original rotation
+      transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
   }
 }
 
