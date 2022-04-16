@@ -18,7 +18,7 @@ jsou to samonosné nosné konstrukce
 
 konstruce komínu se skládá z komínových průduchů (otvory jimiž se vede kouř), komínového pláště (vnější povrch komínu), vybíracích a vymetacích otvorů, soupouchů(propojení spotřebičů generující kouř s komínovým průduchem), komínové hlavy(zakončení komína nad střechou), komínové stříšky, popřípadě komínového nádstavce (prodloužení komína nad střechou).
 
-(OBR. - nazvoslovykomina)
+<img class="centered_image" src="/images/pos/17/nazvoslovykomina.jpg" />
 
 ### ROZDĚLENÍ
 
@@ -26,7 +26,7 @@ konstrukce komína může být buď **jednovrstvá** nebo **dvouvrstvá** (s kom
 
 **TRADIČNÍ ZDĚNÝ JEDNOVRSTVÝ KOMÍN**
 
-(OBR. - zdenykomin)
+<img class="centered_image" src="/images/pos/17/zdenykomin.jpg" />
 
 jednovrstvé zděné komíny byly určeny pro spotřebiče na pevná paliva a nelze je v současnosti využívat bez speciálních úprav (vyvložkováním) pro plynná a kapalná paliva
 
@@ -34,7 +34,7 @@ jednovrstvé zděné komíny byly určeny pro spotřebiče na pevná paliva a ne
 
 vícevrstvé komíny se skládají z komínové tvárnice, tepelné izolace (na bázi minerálních vláken) a keramické šamotové (žáruvzdorné) vložky. Lze je použít pro všechny druhy paliv
 
-(OBR. - vicevrstvy)
+<img class="centered_image" src="/images/pos/17/vicevrstvy.jpg" />
 
 vícevrstvé komínové těleso nesmí být zatížené od stropní kce. Proto je otvor ve stropní kci. pro průchod komínu zvětšen o 20 až 30mm a vyplněn deskami z minerálních vláken. Tím jsou zajištěny dilatační pohyby komínového tělesa v důsledku změn teploty komínového tělesa při přerušovaném provozu tepelného spotřebiče.
 
@@ -46,9 +46,9 @@ komíny podle uspořádání komínových průdochů:
 
 - **se společným sběračem (přepažené)** - společný sběrač má půdnici v nejnižším podlaží a od něho postubně odbočují komínové průduchy pro jednotlicá podlaží (v současnosti se **nesmí navrhovat**)
 
-(OBR. - rozdeleni1)
+<img class="centered_image" src="/images/pos/17/rozdeleni1.jpg" />
 
-(OBR. - rozdeleni2)
+<img class="centered_image" src="/images/pos/17/rozdeleni2.jpg" />
 
 podle připojování spotřebičů:
 
@@ -84,13 +84,13 @@ maximální povolená teplota povrchového pláště komína procházejícího v
 
 dřevěné a jiné hořlavé prvky musí být vzdáleny od vnějšího líce komínu minimálně 50mm, nebo musí byt hořlavý prvek chráněn např. obkladem. Hořlavé kční. prvky zapuštěné do zdiva v blízkosti komínových průduchů (např. dřevěné trámy) musí být od nich vzdáleny nejméně 300mm
 
-(OBR. - tramy)
+<img class="centered_image" src="/images/pos/17/tramy.jpg" />
 
 **STATICKÉ POŽADAVKY**
 
 Část komína nad střechou objektu je zatížena větrem. Čím je komín nad střešní rovinou víš, tím je větší namáhání jeho průřezu od působení větru. U sklonitých střech je proto výhodné, když je komín umístěn v blízkosti hřebenu a jeho výška nad střešní rovinou je tak nejmenší.
 
-(OBR. - vyskakomina)
+<img class="centered_image" src="/images/pos/17/vyskakomina.jpg" />
 
 **POŽADAVKY NA VYMETACÍ, VYBÍRACÍ A ČISTÍCÍ OTVORY**
 
