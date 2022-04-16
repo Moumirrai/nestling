@@ -105,3 +105,5 @@ vymetací, vybírací a čistící otvory musí být uzavřeny **plynotěsnými 
 ### KOMÍNOVÁ LÁVKA
 
 Komínové lávky se na střeše zřizují za účelem přístupu ke komínovému tělesu pro jeho vymetání a údržbu. Při vymetání komínu na střeše se komínová lávka zřizuje 650 - 750mm pod ústím komínového průchodu.
+
+<img class="centered_image" src="/images/pos/17/lavka.jpg" />
