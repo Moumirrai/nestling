@@ -62,8 +62,8 @@ module.exports = {
             */
             "/pos/12/",
             "/pos/13/",
-            /*
             "/pos/14/",
+            /*
             "/pos/15/",
             */
             "/pos/16/",
@@ -85,6 +85,7 @@ module.exports = {
             "/pos/28/",
             "/pos/29/",
             "/pos/30/",
+            "/pos/31/",
             /*
             "/pos/36/",
             */
@@ -94,6 +95,7 @@ module.exports = {
             "/pos/40/",
             "/pos/41/",
             "/pos/42/",
+            "/pos/43/",
           ],
         },
       ],
