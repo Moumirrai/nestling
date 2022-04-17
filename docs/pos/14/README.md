@@ -4,11 +4,11 @@ pageClass: default-page
 
 # 14. STŘECHY SKLONITÉ
 
-střešní konstrukce je stavební kce. nad chráněným (vnitřním) porstředím vystavěná přímému působení atmosférickcý vlivů, podílející se na zabezpěčení požadovaného stavu prostředí v objektu.
+Střešní konstrukce je stavební kce. nad chráněným (vnitřním) prostředím vystavěná přímému působení atmosférických vlivů, podílející se na zabezpečení požadovaného stavu prostředí v objektu.
 
 skládá se ze střešního pláště a nosné kce.
 
-**NÁZVOSLOVÍ STŘECHY**
+**Názvosloví střechy**
 
 <img class="centered_image" src="/images/pos/14/nazvoslovy.jpg" />
 
@@ -24,37 +24,33 @@ podle tvaru střešní kce. se dělí na: pultové, sedlové, valbové, polovalb
 
 <img class="centered_image" src="/images/pos/14/tvar.jpg" />
 
-## TYPY KROVOVÝCH KONSTRUKCÍ
+## Typy krovových konstrukcí
 
-### TRADIČNÍ SOUSTAVY KROVŮ
+### Tradiční soustavy krovů
 
 **HAMBÁLKOVÁ SOUSTAVA**
 
-tvoří ji ,,trojúhelníky'' skládající se z krokví a vodorovných výztuh - hambálků
+- tvoří ji ,,trojúhelníky'' skládající se z krokví a vodorovných výztuh - hambálků
+- vzdálenost vazeb je 0,9 - 1,2m, přičemž každá vazba je vazbou plnou
 
-vzdálenost vazeb je 0,9 - 1,2m, přičemž každá vazba je vazbou plnou
-
-u teté soustavy je důležité zachycení značných vodorovných sil, dociluje se toho zapomocí šikmo přibitých prken, plnících funkci ztužidel nebo využitím vrcholové vaznice.
+O této soustavy je důležité zachycení značných vodorovných sil, dociluje se toho zapomocí šikmo přibitých prken, plnících funkci ztužidel nebo využitím vrcholové vaznice.
 
 <img class="centered_image" src="/images/pos/14/hambalek1.jpg" />
-
-
+<br>
 <img class="centered_image" src="/images/pos/14/hambalek2.jpg" />
 
 
 **VLAŠSKÁ SOUSTAVA**
 
-zastaralá
-
-zatížení střechy zde nenesou krokve kolmé k okapu ale krokve vodorovné s okapem - vazničky po vzdálecca 1m
+- zastaralá
+- zatížení střechy zde nenesou krokve kolmé k okapu ale krokve vodorovné s okapem - vazničky po vzdálenosti cca 1m
 
 <img class="centered_image" src="/images/pos/14/vlasak.jpg" />
 
 **ARDANTOVA SOUSTAVA**
 
-vychází z principu vzpěr a věšadel
-
-pro zastřešení větčích rozponů (20m a více)
+- vychází z principu vzpěr a věšadel
+- pro zastřešení větších rozponů (20m a více)
 
 <img class="centered_image" src="/images/pos/14/ardant.jpg" />
 
@@ -64,17 +60,16 @@ pro zastřešení větčích rozponů (20m a více)
 
 ### VAZNICOVÁ SOUSTAVA
 
-NÁZVOSLOVÝ:
+NÁZVOSLOVÍ:
 
-**krokve**
+**KROKVE**
 
-šikmé prvky které jsou osedlány na vaznice
-
-krokve přenáší zatížení od střešní krytiny
+- šikmé prvky které jsou osedlány na vaznice
+- krokve přenáší zatížení od střešní krytiny
 
 **vaznice**
 
-vodorovné prvky, které jsou podporovány v plných vazbách svislými nebo šikmými sloupky, u štítu je vaznice uložena na štítové stěně pokud je nosná
+Vodorovné prvky, které jsou podporovány v plných vazbách svislými nebo šikmými sloupky, u štítu je vaznice uložena na štítové stěně pokud je nosná
 
 podle umístění v krovu se dělí na:
 
@@ -118,13 +113,13 @@ osazují se vždy ve dvojici v místech vaznic, podle umístění se dělí na d
 
 VAZNICOVÁ KONSTRUKCE:
 
-základním nosním prvkem je vodorovný trám - vaznice
+Základním nosním prvkem je vodorovný trám - **vaznice**
 
-zatížení ze střešního pláště nesou krokve, které jsou podporovány vaznicemi a pozdnicemi, vaznice přeníší zatížení do sloupků, od sloupků a šikmích vzpěr se přenáší do vazného trámu, z toho poté do obvodového zdiva
+Zatížení ze střešního pláště nesou krokve, které jsou podporovány vaznicemi a pozednicemi, vaznice přenáší zatížení do sloupků, od sloupků a šikmých vzpěr se přenáší do vazného trámu, z toho poté do obvodového zdiva
 
-vaznice jsou podepřeny ve vzdálenosti max. 4000 až 4500mm sloupky = plné vazby
+Vaznice jsou podepřeny ve vzdálenosti max. 4000 až 4500mm sloupky = plné vazby
 
-mezi jednotlivími plnými vazbami jsou tzv. vazby prázdné (jalové), v nichž jsou krokve vynášeny pouze vaznicí
+Mezi jednotlivými plnými vazbami jsou tzv. vazby prázdné (jalové), v nichž jsou krokve vynášeny pouze vaznicí
 
 vzdálenost jednotlivých vazeb se pohybuje kolem 0,8 až 1,2m
 
@@ -162,23 +157,21 @@ podle typu a polohy sloupku se dělí na:
 
 spočívají ve **využití obestavěného prostoru** pod nosnou kcí. krovu pro vytvoření obytného podkroví.
 
-konstrukce krovu to musí umožnit s minimálním počtem konstrukčních prvků. (u tradišních krovových kcí. je problém s plnými vazbami - vazné trámy, sloupky, šikmé vzpěry, pásky - zavazí)
+konstrukce krovu to musí umožnit s minimálním počtem konstrukčních prvků. (u tradičních krovových kcí. je problém s plnými vazbami - vazné trámy, sloupky, šikmé vzpěry, pásky - zavazí)
 
-novodobé nosné soustavy lze rozdelit do třech základních typů kce:
+novodobé nosné soustavy lze rozdělit do třech základních typů kce:
 
 - hambálkové soustavy
-
 - vaznicové soustavy
-
 - vazníkové soustavy
 
 **HAMBÁLKOVÁ SOUSTAVA**
 
-je konstrukčně nejjednoduší. Vytváří nejvýhodnější podmínky pro využití obestavěného podkrovního prostoru (nejmíň zavazejících prvků)
+je konstrukčně nejjednodušší. Vytváří nejvýhodnější podmínky pro využití obestavěného podkrovního prostoru (nejmíň zavazejících prvků)
 
 užívají se zejména při výstavbě rodinných domů s obytným podkrovním prostorem **do rozponu zhruba 10m**
 
-OMEZENÍ: nelze vytvářet půdorysy tvaru L, vikýře, apod. (složitější konstrukční prvky)
+OMEZENÍ: nelze vytvářet půdorysy tvaru L, vikýře apod. (složitější konstrukční prvky)
 
 hambálek se umisťuje do 2/3 výšky krokve (staticky nejvýhodnější)
 
@@ -191,7 +184,7 @@ zesílení podpor (sloupků) a minimalizace jejich počtu (např. využitím obv
 OMEZENÍ: využití **do rozponu asi 12m** (při větších rozponech jsou výhodnější jiné konstrukční soustavy)
 
 <img class="centered_image" src="/images/pos/14/vazsou1.jpg" />
-
+<br>
 <img class="centered_image" src="/images/pos/14/vazsou2.jpg" />
 
 **VAZNÍKOVÉ SOUSTAVY**
@@ -231,6 +224,7 @@ podle materiálu:
   - nutno zajistit styčníkovou deskou
 
   <img class="centered_image" src="/images/pos/14/lipnuti.jpg" />
+  <br>
   <img class="centered_image" src="/images/pos/14/stycnikovadeska.jpg" />
 
 - **kompování**
@@ -246,9 +240,9 @@ podle materiálu:
   - nutno zajistit tesařskou skobou
 
   <img class="centered_image" src="/images/pos/14/srazbocni.jpg" />
-
+  <br>
   <img class="centered_image" src="/images/pos/14/srazcelni.jpg" />
-
+  <br>
   <img class="centered_image" src="/images/pos/14/skoba.jpg" />
 
 - **plátování**
