@@ -14,7 +14,7 @@ Světelná **šířka dveří min. 800 mm**
 
 kuchyňská linka musí být řešena tak, aby byl umožněn podjezd vozíku a zajištěna dosažitelnost ovládacích prvků z vozíku
 
-(OBR. - linka)
+<img class="centered_image" src="/images/pos/33/linka.jpg" />
 
 v každém nově zřizovaném WC pro veřejnost musí být min. jedna bezbatiérová kabina v oddělení pro muže a v oddělení pro ženy
 
@@ -36,7 +36,7 @@ Sedátko mísy ve výši 500 mm nad podlahou
 
 Po obou stranách mísy musí být **sklopná madla** (sklopné musí být jen to ze které strany bude vozíčkář nasedat, druhé může být pevné) ve výši 780 mm a ve vzájemné rozteči 600 mm.
 
-(OBR. - wc)
+<img class="centered_image" src="/images/pos/33/wc.jpg" />
 
 záchod s koupelnou vždy v jedné místnosti
 
@@ -52,7 +52,7 @@ naklopení zrcadla nad umyvadlem o 10°
 
 výška horního povrchu umyvadla 800 až 850mm, podjezd 650 až 700mm, přední hrana 600 až 660mm od zdi
 
-(OBR. - umyvadlo)
+<img class="centered_image" src="/images/pos/33/umyvadlo.jpg" />
 
 ### VANY
 
@@ -66,7 +66,7 @@ horní hrana vany smí být max. 500 mm nad podlahou
 
 výtoková baterie musí být páková, osazená na podélné straně vany v dosahu sedící osoby
 
-(OBR. - vana)
+<img class="centered_image" src="/images/pos/33/vana.jpg" />
 
 ### SPRCHOVÉ BOXY A KOUTY
 
@@ -78,4 +78,4 @@ na stěně kolmé ke stěně se sedátkem a v dosahu ze sedátka: ruční sprcha
 
 výškový rozdíl podlahy a sprchového boxu nebo koutu max. 20 mm
 
-(OBR. - sprchovykout)
+<img class="centered_image" src="/images/pos/33/sprchovykout.jpg" />
