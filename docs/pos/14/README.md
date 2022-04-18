@@ -6,21 +6,23 @@ pageClass: default-page
 
 Střešní konstrukce je stavební kce. nad chráněným (vnitřním) prostředím vystavěná přímému působení atmosférických vlivů, podílející se na zabezpečení požadovaného stavu prostředí v objektu.
 
-skládá se ze střešního pláště a nosné kce.
+Skládá se ze střešního pláště a nosné konstrukce
 
-**Názvosloví střechy**
+### Názvosloví střechy
 
 <img class="centered_image" src="/images/pos/14/nazvoslovy.jpg" />
 
-střechy se dělí podle skonu na:
+### Dělní polde sklonu
 
-- ploché (0° - 5°)
+- **ploché** (0° - 5°)
 
-- šikmé (5° - 45°)
+- **šikmé** (5° - 45°)
 
-- strmé (více jak 45°)
+- **strmé** (více jak 45°)
 
-podle tvaru střešní kce. se dělí na: pultové, sedlové, valbové, polovalbové s horní nebo dolní valbou, stanové, mansardové, pilové
+### Dělní polde tvaru
+
+Podle tvaru střešní kce. se dělí na: pultové, sedlové, valbové, polovalbové s horní nebo dolní valbou, stanové, mansardové, pilové
 
 <img class="centered_image" src="/images/pos/14/tvar.jpg" />
 
@@ -33,12 +35,11 @@ podle tvaru střešní kce. se dělí na: pultové, sedlové, valbové, polovalb
 - tvoří ji ,,trojúhelníky'' skládající se z krokví a vodorovných výztuh - hambálků
 - vzdálenost vazeb je 0,9 - 1,2m, přičemž každá vazba je vazbou plnou
 
-O této soustavy je důležité zachycení značných vodorovných sil, dociluje se toho zapomocí šikmo přibitých prken, plnících funkci ztužidel nebo využitím vrcholové vaznice.
+U této soustavy je důležité zachycení značných vodorovných sil, dociluje se toho zapomocí šikmo přibitých prken, plnících funkci ztužidel nebo využitím vrcholové vaznice.
 
 <img class="centered_image" src="/images/pos/14/hambalek1.jpg" />
 <br>
 <img class="centered_image" src="/images/pos/14/hambalek2.jpg" />
-
 
 **VLAŠSKÁ SOUSTAVA**
 
@@ -67,7 +68,7 @@ NÁZVOSLOVÍ:
 - šikmé prvky které jsou osedlány na vaznice
 - krokve přenáší zatížení od střešní krytiny
 
-**vaznice**
+**VAZNICE**
 
 Vodorovné prvky, které jsou podporovány v plných vazbách svislými nebo šikmými sloupky, u štítu je vaznice uložena na štítové stěně pokud je nosná
 
@@ -79,23 +80,23 @@ podle umístění v krovu se dělí na:
 
 - vrcholová v. - umístěna v hřebeni krovu
 
-**sloupky**
+**SLOUPKY**
 
 jsou začepovány do vaznic, přenášejí svislá zatížení od vaznic do vazných trámů, případně rovnou do nosných zdí (do stropu a pod ním se nachází nosná zeď)
 
-**pásky**
+**PÁSKY**
 
 mezi vaznicí a slopupkem je do obou prvků začepovaný šikmý prvek - pásek
 
 spolupůsobí při přenášení zatížení z vaznic do sloupků (zkracují rozpětí vaznic)
 
-**šikmé vzpěry**
+**ŠIKMÉ VZPĚRY**
 
 mezi sloupkem a vazným trámem, spolupůsobí při roznášení zatížení a ztužují plnou vazbu v příčném směru
 
 <img class="centered_image" src="/images/pos/14/spsv.jpg" />
 
-**vazné trámy**
+**VAZNÉ TRÁMY**
 
 uloženy na obvodových zdech
 
@@ -103,7 +104,7 @@ přenáší zatížení od svyslých konstrukcí (do obvodových zdí)
 
 <img class="centered_image" src="/images/pos/14/vaznytram.jpg" />
 
-**kleštiny**
+**KLEŠTINY**
 
 základní prvek příčného vyztužení - svazují vaznice, sloupky a krokve v plných vazbách
 
@@ -127,30 +128,23 @@ vzdálenost jednotlivých vazeb se pohybuje kolem 0,8 až 1,2m
 
 VAZNICOVÉ SOUSTAVY
 
-podle typu a polohy sloupku se dělí na:
+Podle typu a polohy sloupku se dělí na:
 
 - stojatá stolice
-
 <img class="centered_image" src="/images/pos/14/stojata.jpg" />
 
 - ležatá stolice
-
 <img class="centered_image" src="/images/pos/14/lezata.jpg" />
 
 - kombinovaná stolice
-
 <img class="centered_image" src="/images/pos/14/kombinovana.jpg" />
 
-- věšadlo a vzpěradlo 
-  
+- věšadlo a vzpěradlo
   - užívá se při větších rozpětích krovů, kde je nutno odlehčit dlouhý vazný trám, jenž je na věšadle zavěšen
-  
   - věšadlem je sloupek, který působí jako táhlo vynášející vazný trám. Efektu je dosahováno za pomocí vzpěradel a rozpěr, které společně vynášejí sloupek.
-
-<img class="centered_image" src="/images/pos/14/vesadlo.jpg" />
+  <img class="centered_image" src="/images/pos/14/vesadlo.jpg" />
 
 - krov se zkráceným trámem (tzv. bačkora)
-
 <img class="centered_image" src="/images/pos/14/backora.jpg" />
 
 ### NOVODOBÉ SOUSTAVY KROVŮ
@@ -167,21 +161,16 @@ novodobé nosné soustavy lze rozdělit do třech základních typů kce:
 
 **HAMBÁLKOVÁ SOUSTAVA**
 
-je konstrukčně nejjednodušší. Vytváří nejvýhodnější podmínky pro využití obestavěného podkrovního prostoru (nejmíň zavazejících prvků)
-
-užívají se zejména při výstavbě rodinných domů s obytným podkrovním prostorem **do rozponu zhruba 10m**
-
-OMEZENÍ: nelze vytvářet půdorysy tvaru L, vikýře apod. (složitější konstrukční prvky)
-
-hambálek se umisťuje do 2/3 výšky krokve (staticky nejvýhodnější)
+- je konstrukčně nejjednodušší. Vytváří nejvýhodnější podmínky pro využití obestavěného podkrovního prostoru (nejmíň zavazejících prvků)
+- užívají se zejména při výstavbě rodinných domů s obytným podkrovním prostorem **do rozponu zhruba 10m**
+- hambálek se umisťuje do 2/3 výšky krokve (staticky nejvýhodnější)
+- **OMEZENÍ**: nelze vytvářet půdorysy tvaru L, vikýře apod. (složitější konstrukční prvky)
 
 **VAZNICOVÁ SOUSTAVA**
 
-zjednodušení plných vazeb (zejména vypuštěním vazných trámů)
-
-zesílení podpor (sloupků) a minimalizace jejich počtu (např. využitím obvodových, vnitřních nosných, popřípadě schodišťových stěn)
-
-OMEZENÍ: využití **do rozponu asi 12m** (při větších rozponech jsou výhodnější jiné konstrukční soustavy)
+- zjednodušení plných vazeb (zejména vypuštěním vazných trámů)
+- zesílení podpor (sloupků) a minimalizace jejich počtu (např. využitím obvodových, vnitřních nosných, popřípadě schodišťových stěn)
+- **OMEZENÍ**: využití **do rozponu asi 12m** (při větších rozponech jsou výhodnější jiné konstrukční soustavy)
 
 <img class="centered_image" src="/images/pos/14/vazsou1.jpg" />
 <br>
@@ -189,66 +178,50 @@ OMEZENÍ: využití **do rozponu asi 12m** (při větších rozponech jsou výho
 
 **VAZNÍKOVÉ SOUSTAVY**
 
-určeny pro střechy středního a velkého rozpětí s malím sklonem
+Určeny pro střechy středního a velkého rozpětí s malím sklonem
 
-podle kce. vazníku rozlišujeme:
+Podle kce. vazníku rozlišujeme:
 
-- plnostěnné 
-
+- plnostěnné
 <img class="centered_image" src="/images/pos/14/plnostenne.jpg" />
 
 - příhradové
-
 <img class="centered_image" src="/images/pos/14/prihradove.jpg" />
 
 - vylehčené otvory
-
 <img class="centered_image" src="/images/pos/14/sotvory.jpg" />
 
-podle materiálu:
+Podle materiálu:
 
 - dřevěné
-
 - ocelové
-
 - ŽB
 
 ## TESAŘSKÉ SPOJE
 
 - **osedlání**
-
 <img class="centered_image" src="/images/pos/14/osedlani.jpg" />
 
 - **lípnutí**
-  
   - nutno zajistit styčníkovou deskou
-
   <img class="centered_image" src="/images/pos/14/lipnuti.jpg" />
   <br>
   <img class="centered_image" src="/images/pos/14/stycnikovadeska.jpg" />
-
 - **kompování**
-
 <img class="centered_image" src="/images/pos/14/kampovani.jpg" />
 
 - **zapuštěn**
-
 <img class="centered_image" src="/images/pos/14/zapusteni.jpg" />
 
 - **sraz** (boční a čelní)
-  
   - nutno zajistit tesařskou skobou
-
   <img class="centered_image" src="/images/pos/14/srazbocni.jpg" />
   <br>
   <img class="centered_image" src="/images/pos/14/srazcelni.jpg" />
   <br>
   <img class="centered_image" src="/images/pos/14/skoba.jpg" />
-
 - **plátování**
-
 <img class="centered_image" src="/images/pos/14/platovani.jpg" />
 
 - **přeplátování**
-
 <img class="centered_image" src="/images/pos/14/preplatovani.jpg" />
