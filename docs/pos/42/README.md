@@ -208,7 +208,9 @@ Náklad v propočtu
 
 - stanovuje se na základě tzv. **kalkulačního vzorce**
 
-> C = H + M + S + OPN1 + OPN2 + Rv + Rs + Z
+### Kalkulační vzorec
+
+> #### **C = H + M + S + OPN1 + OPN2 + Rv + Rs + Z**
 >
 > - C - jednotková cena
 > - H - hmoty
@@ -226,7 +228,7 @@ Náklad v propočtu
 >
 > M + S + OPN1 + OPN 2 = Přímé zpracovatelské náklady (PZN)
 
-### Hmoty (H)
+#### Hmoty (H)
 
 - náklady na přímý materiál - je přímo obsažen v jedné měrné jednotce
   > - cihly: počet cihel × cena 1 cihly v 1m³ zdiva
@@ -235,7 +237,7 @@ Náklad v propočtu
 - množství materiálu se určuje z norem spotřeby materiálu
 - ceny materiálu se určují podle katalogů - ceníků výrobce, nebo prodejce materiálu
 
-### Mzdy (M)
+#### Mzdy (M)
 
 - jsou to náklady na přímé mzdy
 - náklady na přímé mzdy pracovníků provádějící měrnou jednotku (např zedník)
@@ -243,7 +245,7 @@ Náklad v propočtu
   >
   > - Nh - normohodina (doba práce/měrná jednotka)
 
-### Stroje (S)
+#### Stroje (S)
 
 - jsou to náklady na stroje použité na provedení jedné měrné jednotky
   > Ns = počet Sh × sazba na jednu Sh
@@ -251,25 +253,25 @@ Náklad v propočtu
   > - Sh - Strojhodina
 - počet strojhodin se stanový z "Normy potřeby strojhodin"
 
-### OPN1
+#### OPN1
 
 - náklady na sociální a zdravotní pojištění
 - z vyplácených mezd v předpesané výši dané zákonem.
 - náklady související s nadměrnou dopravou
 - zatěžové zkoušky
 
-### OPN2
+#### OPN2
 
 - vedlejší rozpočtové náklady
 
-### Režie výrobní (Rv)
+#### Režie výrobní (Rv)
 
 - náklady související přímo s výrobním procesem
 - jsou realizovány přímo na stavbě
 - příklady: spotřeba el. energie, spotřeba vody, vytápění, mzdy mistrů a stavbyvedoucích, úklid stavby, provoz aut pracovních, pracovních telefonů, atd...
   > Rv = % z PZN
 
-### Režie správní (Rs)
+#### Režie správní (Rs)
 
 - náklady spojeny se správou (vedení firmy)
 - např: nájmy kanceláří, mzdy vedení, náklady na vodu, vytápění, reklamy, školení
@@ -277,7 +279,7 @@ Náklad v propočtu
 - náklady u obou typech režií jsou často obdobné (el. energie na stavbě a el. energie ve správě, auta, atd...), proto je možné je počítat dohromady, což provádí hlavně malé firmy z důvodu pracnosti.
 - procento režiních nákladů určuje dodavatel dle vlastního uvážení, dle dříve realizovaných staveb s ohledem na aktuální situaci (čas a konkrétní zakázka).
 
-### Zisk (Z)
+#### Zisk (Z)
 
 - zisk je podle zákona přiměřený a oprávněný.
 - ve stavebnictví se počítá něco mezi 10 - 15%
@@ -285,7 +287,7 @@ Náklad v propočtu
 
 ## CELKOVÉ NÁKLADY
 
-### Hlava Ⅰ
+#### Hlava Ⅰ
 
 - náklady na projektové a průzkumné práce
 - např:
@@ -298,27 +300,27 @@ Náklad v propočtu
   - urbanistické průzkumy
   - geodetické a kartografické práce
 
-### Hlava Ⅱ
+#### Hlava Ⅱ
 
 - jsou to provozní soubory (ne každý objekt ho obsahuje)
 - technologie - stroje a zařízení pevně spojené s objektem tvořící na sebe navazující celek. (např. výrobní linka)
 
-### Hlava Ⅲ
+#### Hlava Ⅲ
 
 - stavební objekty
 - náklady na realizaci stavebních objektů
 
-### Hlava Ⅳ
+#### Hlava Ⅳ
 
 - náklady na stroje a zařízení nevyžadující montáž na stavbě
 - jsou to stroje volně se pohybující
 
-### Hlava Ⅴ
+#### Hlava Ⅴ
 
 - náklady na umělecká díla, která jsou nedílnou součástí stavby (pevně spojeny s objektem)
 - např: sochy, mozaika
 
-### Hlava Ⅵ
+#### Hlava Ⅵ
 
 - VRN - vedlejší rozpočtové náklady
 - jsou to zvýšené náklady na stavby se zřetelem k jejich realizaci
@@ -329,27 +331,27 @@ Náklad v propočtu
   - mimořádně ztížené dopravní podmínky (hory - doprava vrtulníky, historické části měst - doprava vrtulníky a lehčími vozidly)
   - práce na památkových objektech
 
-### Hlava Ⅶ
+#### Hlava Ⅶ
 
 - Práce nestavebních organizací
 - zahradnické práce - projekt, výsady porostů, sady
 
-### Hlava Ⅷ
+#### Hlava Ⅷ
 
 - Rezerva
 - náklady na krytí nepředvýdatelných výdajů (např změna ceny materiálu)
 - je to % ze základních rozpočtových nákladů většinou okolo 8 - 10% ze ZRN (ZRN = hl. Ⅱ + Ⅲ)
 
-### Hlava Ⅸ
+#### Hlava Ⅸ
 
 - Ostatní náklady
 - např: náklady na nákup pozemku pro výstavbu, nájemné za pozemky pro zařízení staveniště, poplatek za vyjmutí pozemku ze zemědělského původního fondu
 
-### Hlava Ⅹ
+#### Hlava Ⅹ
 
 - Náklady na vysoké investice
 
-### Hlava Ⅺ
+#### Hlava Ⅺ
 
 - provozní náklady na přípravu a realizaci stavby
 - těmto činnostem se říká tzv. inženýrská činnost - (organizační a přípravná činnost stavebníka)
