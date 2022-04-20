@@ -22,7 +22,7 @@ pageClass: default-page
 
 - terasové
 
-<img class="centered_image" src="/images/pos/32/rodinne.JPG"/>
+<img class="centered_image" src="/images/pos/32/rodinne.jpg"/>
 
 ## Typy bytových domů
 
@@ -30,13 +30,13 @@ pageClass: default-page
   
   - schodiště je vhodné orientovat na sever
 
-<img class="centered_image" src="/images/pos/32/schodistove.JPG"/>
+<img class="centered_image" src="/images/pos/32/schodistove.jpg"/>
 
 - **chodbové** - umožňují přístup do bytů ze společné chodby, která probýhá uprostřed domu 
   
   - vzhledem k úzce omezené orientaci ke světovým stranám, výhodné jen pro malé byty
 
-<img class="centered_image" src="/images/pos/32/chodba.JPG"/>
+<img class="centered_image" src="/images/pos/32/chodba.jpg"/>
 
 - **pavlačové** - mají byty přístupné z komunikační pavlače, která probíhá téměř po celé délce jednoho průčelí pavlačového domu
   
@@ -44,13 +44,13 @@ pageClass: default-page
 
 - **sendvičové** - kombinace schodišťových a chodbových domů (střídají se po patrech)
 
-<img class="centered_image" src="/images/pos/32/sedvic.JPG"/> 
+<img class="centered_image" src="/images/pos/32/sedvic.jpg"/> 
 
 - **mezonetové** - mezonety jsou byty ve dvou nebo třech úrovních v chodbovém nebo pavlačovém domě
   
   - dobře se řeší pro velké, mnohopokojové byty
 
-<img class="centered_image" src="/images/pos/32/mezonet.JPG"/>
+<img class="centered_image" src="/images/pos/32/mezonet.jpg"/>
 
 - **terasové** (pyramidy) - vytváření terasových ploch různým ustupováním kce. od přízemí směrem k vyšším podlažím, přičemž objekt je situovám v rovině
 
