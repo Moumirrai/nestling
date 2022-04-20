@@ -9,11 +9,13 @@ pageClass: default-page
 - objednavatel protokolárně (písemně) předává staveniště zhotoviteli před započetím výstavby. V době realizace za veškeré dění na staveništi odpovídá zhotovitel (stavbyvedoucí).
 - po skončení výstavby je staveniště protokolárně předáno zpět objednavateli.
 ## DĚLENÍ ZAŘÍZENÍ STAVENIŠTĚ
+
 ### Podle účelu:
 - sociální 
 - výrobní 
 - provozní
 ### Podle nákladů
+
 #### Globální zařízení staveniště (GZS)
 - náklady se stanoví procentem ze ZRN
 - % ze ZRN
@@ -34,19 +36,28 @@ pageClass: default-page
 ### Podle užívání 
 - více zhotoviteli (oplocení, inženýrské sítě, staveništní komunikace), (vybuduje hlavní zhotovitel - používáno všemy)
 - vlastní - slouží pouze jednomu zhotoviteli (zámečníci, instalatéři)
+
 ## OBJEKTY KTERÉ MOHOU PLNIT FUNKCI ZAŘÍZENÍ STAVENIŠTĚ 
+
 ### Dočasné objekty
+
 - vybudované a užívané pouze na dobu výstavby (např unimobuňky, kontejnery)
 - nejšastěji používané 
+
 ### Využití stávajících objektů
+
 - objednavatele 
 - jiného vlastníka (pronájem)
+
 ### Objekty trvalého charakteru 
+
 - se vybudují v předstihu (před vlastní realizací)
 - slouží během realizace pro zařízení staveniště 
 - po skončení realizace slouží objekty ZS svému původně stanovenému účelu
 - používá se u velkých investičních staveb (jaderná elektrárna, vodní díla, rozsáhlá bytová výstavba)
+
 ## 1) SOCIÁLNÍ ZAŘÍZENÍ STAVENIŠTĚ
+
 - slouží k sociálním účelům 
 - řadíme sem WC, umývárny, sprchy, šatny, výdejny, jídel, umývárny nádobí, na velkých stavbách např: kuchyně, jídelny, kantýny
 - umístění na staveništi:
@@ -57,7 +68,9 @@ pageClass: default-page
   - k objektům ZS je potřeba vybudovat zpevněný chodníček, nebo zpevněnou plochu od vstupu k sociálním objektům
   - v blýzkosti inženýrských sítí (přípojka vody, kanalizace, elektřina) 
   - dnes nejčastěji se používají dočasné objekty pro sociální zařízení
+
 ### Dočasné kontejnery a UNIMO buňky
+
 - UNIMO buňky - dřevo, aglomerované dřevo
 - kontejnery - kovové
 - vyrábí se různých konstrukčních variant a jsou vybaveny dle účelu (zařízovacími předměty, rozvody)
@@ -70,6 +83,7 @@ Osazení kontejneru na stavbě
 <img class="centered_image" src="/images/pos/43/pic_4.jpg" />
 
 ### Počet pracovníků na stavbě
+
 - na počtu pracovníků je závislá velikost objektů
   - šatna: min. plocha 1,25m²/1prac
   - jedno umyvadlo na 5 osob 
@@ -80,14 +94,16 @@ Osazení kontejneru na stavbě
 >počet pracovníků = náklady hl. Ⅱ + Ⅲ + Ⅵ / doba výstavby [měsících] × produktivita na jednoho pracovníka za jeden měsíc 
 
 ## 2) VÝROBNÍ ZAŘÍZENÍ STAVENIŠTĚ
+
 ### Betonárny
+
 - dělení podle výkonu:
   - malé < 25m³ BS / 1 směnu
   - střední 25 - 100m³ BS / 1 směnu
   - velké > 100m³ BS / 1 směnu 
-  
-  <br>
 
+  <br>
+  
 - dle umístění:
   - objektové (nachází se přímo na staveništi)
   - centrální (umístěny mimo staveniště), (nejčastější)
@@ -120,6 +136,7 @@ Míchací centrum betonárny
   - autodomýchavač (vodorovný směr, pokud obsahuje čerpadlo - svislý směr)
 
 ## 3) PROVOZNÍ ZAŘÍZENÍ STAVENIŠTĚ
+
 ### 1) Skládky 
 - volné (otevřené)
 - je to vyhrazená plocha na staveništi, je srovnaná v mírném spádu 
@@ -132,27 +149,34 @@ Míchací centrum betonárny
 > - hmotnost = OP × koeficient hmotnosti (0,5 - 0,55)
 - min. plocha skládky PSV
 >20 - 30% z plochy skládky HSV
+
 ### 2) Přístřešky
+
 - částečně chrání proti povětrnostním vlivům (ocelové trubky)
 
 <img class="centered_image" src="/images/pos/43/pic_6.jpg" />
 
 ### 3) Sklady
+
 - chrání před povětrnostními vlivy a odcizení
 - např: armatury, stroje, pytle cementu
 - jsou zřizovány v kontejnerech, unimo buňkách, lehké ocelové sklady 
 - přístup má: mistr, skladník
 
 ### 4) Kanceláře
+
 - zřizují se na stavbě pro mistra (10 - 16 m²) a stavbyvedoucího (20 - 26 m²)
 - zřizují se poblíž vstupu (vjezdu) na stavbu - rychlá a bezpečná dostupnost pro třetí strany
 - osazení na zpevněný povrch
 
 ### 5) Stavební komunikace 
+
 - navrhují se uvnitř staveniště a od staveniště k veřejné komunikaci
+
 #### a) dočasné 
+
 - zřizují se pouze na dobu výstavby 
-- po dokončení realizace je komunikace odstraněna ¨
+- po dokončení realizace je komunikace odstraněna
 
 <br>
 
