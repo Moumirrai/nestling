@@ -72,4 +72,9 @@ TODO:Žb
 - poloha stupňů se zajištuje distančními trubkami nebo rektifičními šrouby
 - výhodou je relativně jednoduchá konstrukce a nezávislost na nosných prvcích objektu
 
+## Žebříková/strmá schodiště
+
+- nemají podstupnice
+- nječastěji dřevěné nebo ocelové
+
 <!--IMAGE-->
