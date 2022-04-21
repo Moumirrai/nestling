@@ -20,8 +20,6 @@
 
   scroll-behavior: smooth;
 
-  //-webkit-tap-highlight-color: transparent
-
   -webkit-tap-highlight-color: transparent;
 
   ::-webkit-scrollbar {
@@ -95,14 +93,10 @@ html.dark {
 }
 
 .navbar {
-  //backdrop-filter: blur(20px);
-  //background-color: var(--c-bg-opacity);
   border-bottom: 0px solid var(--c-border);
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.35);
   .search-box input{
-    //background-color: var(--c-bg-opacity);
     border: none;
-    //create inset shadow
     box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
   }
   .toggle-dark-button {

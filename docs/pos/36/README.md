@@ -4,126 +4,135 @@ pageClass: default-page
 
 # 36. ANTIKA
 
+<!--
+- stavební řády, časové období, srovnání řádů
+- popis a schéma jónského, dórského a korintského sloupu včetně hlavice
+-->
+
+- základem klasické řádové architektury je systém sloupů či pilířů
+- stavby mají v průčelí vždy sudý počet sloupů
+
 ## Řecká Antika
+
+Antické Řecko se dělí na 3 základní řády
+
+### Dórský řád
+
+> **7-5. stol. př. n. l.**
+
+- nejstarší
+- vznikl v podstatě opisem tehdejší dřevěné architektury do kamenného materiálu
+- trojúhelníková průčelí
+- vyznačuje se monumentálností, střízlivostí a jednoduchostí
+
+> <img class="centered_image" src="/images/pos/36/pantheon.jpg" />
+> *Pantheon na Akropoli*
+
+:::warning DÓRSKÝ SLOUP
+<!--IMAGE-->
+<br>
+<!--popis-->
+:::
+
+### Iónský řád
+
+<!--čas-->
+
+- z části vychází z dórského
+- je štíhlejší a zdobnější a elegantní
+- dórskému se říkalo mužský, iónskému ženský
+- vznikl a šířil se především v malé Asii
+- ne rozdíl od dórského sloupy počínají patkou
+
+<!--nejaka stavba obrazek-->
+
+:::warning IÓNSKÝ SLOUP
+
+<img class="centered_image" src="/images/pos/36/ionska_hlavice.jpg" />
+<br>
+<img class="centered_image" src="/images/pos/36/ionsky_sloup.jpg" />
+<br>
+
+1. tympanon (svislá plocha ve štítu)
+2. akroterion (ozdobný prvek)
+3. sima
+4. římsa
+7. vlys
+16. třikrát odstupněný architráv (násloupí)
+14. hlavice
+17. dřík
+18. kanelování (drážkování)
+19. stylobat (poslední stupeň podnože)
+20. voluta (spirálový motiv vycházející z Archimédovy spirály)
+21. echinus
+23. patka
+24. torus
+:::
+
+### Korintský řád
+
+<!--čas-->
+
+- nejmladší
+- jméno po antickém městu Korintu
+- podobá se iónskému, ale je zdobnější
+- dekorované sloupové hlavice
+- hlavice často dekorovány tvary listů (akant)
+
+<!--IMAGE-->
+
+:::warning KORINTSKÝ SLOUP
+<img class="centered_image" src="/images/pos/36/korint_hlavice.jpg" />
+<br>
+<img class="centered_image" src="/images/pos/36/korint_sloup.jpg" />
+<br>
+
+1. tympanon (svislá plocha ve štítu)
+2. akroterion (ozdobný prvek)
+3. sima
+4. římsa
+6. zubořez (ozdobný pás pravidelných kostek)
+7. vlys
+13. třikrát odstupněný architráv (násloupí)
+14. hlavice
+17. dřík
+18. kanelování (drážkování)
+19. stylobat (poslední stupeň podnože)
+20. voluta (spirálový motiv vycházející z Archimédovy spirály)
+22. akant (dekor ve tvary listů)
+23. patka
+24. torus
+:::
+
+---
+
+<img class="centered_image" src="/images/pos/36/antika_recko.jpg" />
+
+<br>
+
+<div class="videoWrapper">
+  <iframe width="560" height="349" src="https://www.youtube.com/embed/15vilcnw3BI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
 ## Římská antika
 
+Římská architektura obohacuje antiku o 2 další řády
+
+### Toskánský řád
+
+- vychází z etruské architektury
+- používal se ve starověkém Římě
+- sloupy mají hladké dříky bez kanelování (svislého drážkování)
+
+### Kompozitní řád
+
+- vznikl kombinací prvků ze tří základních řeckých řádů
+- vznik pravděpodobně za vlády císaře Augusta v Římě (27 př.n.l. - 14. n.l.)
+
+---
+
 <img class="centered_image" src="/images/pos/36/antika_rim.jpg" />
 
 ---
-
-## Řecká Antika
-
-- 11 - 13. století
-- vznik ve Francii
-- ovlivněno byzantským stylem
-- navazuje na kulturu antického Říma
-
-:::tip TYPICKÉ ZNAKY
-
-- **NE**lomený oblouk
-- Masivní kamenné zdi (řádkové zdivo)
-- Kvůli masivním zdem menší okna - méně světla
-- Silné podpěrné sloupy - hlavice napodobují korintské sloupy
-- Zpočátku rovné dřevěné stropy, později klenby
-- Vchodové portály
-- Složité vnější systémy pilířů a oblouků
-  :::
-
-:::warning TYPICKÉ STAVBY
-
-- Rotundy
-  - kruhový půdorys
-  - kuželovité střechy
-- Kostely
-- Baziliky
-  - obdélníkové stavby
-  - na východě ukončeny apsidou (polokruhovým výklenkem)
-
-<img class="centered_image" src="/images/pos/37/bazilika.jpg" />
-<br>
-:::
-
-:::danger PAMÁTKY
-V EVROPĚ
-
-- katedrála v Pise
-- kampanila (šikmá věž) v Pise
-
----
-
-V ČR
-
-- rotunda sv. Jiří na Řípu
-  :::
-
-<img class="centered_image" src="/images/pos/37/rotunda.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/37/bazilika_1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/36/antika_recko.jpg" />
-<br>
-
----
-
-## Gotická architektura
-
-- 12 - 15. století
-- navazuje na Románskou architekturu
-- vznik ve Francii
-- období vrcholného a pozdního středověku
-- Název „gotika“ zavedli italští humanisté, kteří ji mylně spojovali s Góty, jejichž umění bylo považováno za barbarské
-
-:::tip TYPICKÉ ZNAKY
-
-- Lomený oblouk - představuje sepnuté ruce
-- Slabé (méně hmotné) zdi
-- Křížová a klášterní klenba
-  <img class="centered_image" src="/images/pos/37/krizova_klenba.jpg" />
-  <br>
-- Složité vnější systémy pilířů a oblouků
-  :::
-
-:::warning TYPICKÉ STAVBY
-
-- Katedrály
-  - 3-7 lodí
-  - příčná loď se nazývá transept
-  - presbytář s oltářem je na úrovni podlahy lodi
-- Kostely
-- Mosty
-- Radnice
-- Hrady
-  :::
-
-:::danger PAMÁTKY
-V EVROPĚ
-
-- Noter-Dame - Paříž
-- papežský palác v Avignone
-
----
-
-V ČR
-
-- Katedrála sv. Víta v Praze
-- Kostel sv. Jakuba v Brně
-- Karlův most v Praze
-  :::
-
-<img class="centered_image" src="/images/pos/37/noterdame.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/37/gotika.jpg" />
-<br>
-
-TEST
-
----
-
-<br>
-
-<div class="videoWrapper">
-  <iframe width="560" height="349" src="https://www.youtube.com/embed/5ji6SRd54Do" frameborder="0" allowfullscreen></iframe>
-</div>
