@@ -103,8 +103,6 @@ Rozeznávám 5 skupin příjmu:
 - vedení je **povinnost** podnikatelských subjektů (fyz. a práv. osoby), kteří prokazují pro daňové účely své náklady a výdaje vynaložené na dosažení a udržení příjmu
 
 <br>
-<br>
-<br>
 
 ## Daňová evidence
 
