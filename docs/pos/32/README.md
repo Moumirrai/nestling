@@ -60,23 +60,15 @@ podlaha obytných místnosí má být nejméně 30cm nad povrchem přilehlého t
 podle zajištovaní denních nebo občasných potřeb obyvatelstva:
 
 - **základní občanské vybavení** jež složí denním potřebám obyvatel (jesle, základní škola, zdravotní středisko, prodejny potravin a průmyslového zboží, okrsek policie, hřiště, garáže, domy služeb s holičstvím, kadeřnictvím...)
-
 - **vyšší občanské vybavení** jež slouží k uspokojování všech ostatních občanských potřeb obyvatelstva (střední školy, polikliniky, kina, kulturní domy, stadiony, hotely, banky, obchodní centra)
 
 podle účelu staveb:
 
 - **výchova a školství** (školy všech stupňů)
-
 - **zdravotnictví** (jesle, zdravotní střediska, nemocnice)
-
 - **věda, kultura a vzdělání** (kina, divadla, kulturní domy)
-
 - **správa a administrativa** (budovy ministerstev, pošty, banky, soudy)
-
 - **obchod a veřejné stravování** (prodejny, obchodní centra, restaurace)
-
 - **tělovýchova** (hřiště, tělocvičny, kryté plovárny, stadiony)
-
 - **společné ubytování a rekreace** (hotely, internáty)
-
 - **služby** (čistírny, opravny, holičství, kadeřnictví)
