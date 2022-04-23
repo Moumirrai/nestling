@@ -21,3 +21,35 @@ principi opatření ke snížení vlhkosti v konstrukcích:
 - porvedení **vhodných parotěsných povrchových úprav** zabraňující vnikání vlhkosti a její kondenzaci uvnitř kcí. (parotěsná zábrana **na vnitřní straně** lehké obvodové kce.)
 
 - zajištění **odvádění vody** mimo objekt (drenáže, nepoškozené vedení kanalizačního potrubí)
+
+Z uvedených principů vyplývají základní metody pro snižování vlhkosti ve stavbách:
+
+- vkládání dodatečných **hydroizolačních vložek** (pásů, fólií, plechů a desek)
+
+- vytváření infuzních chemických clon (**injektáž**)
+
+- **vzduchové izolace** s odvětráním do vnějšího prostoru
+
+- **elektroosmóza** 
+
+- realizace vhodných povrchových úprav (např. **sanační omítka**)
+
+- zajištění kvalitního a **bezporuchového odvodnění a odkanalizovaní** objektu (spravit prasklou trubku pod objektem)
+
+### Vložení hydroizolační vložky
+
+Dodatěčná vodorovná izolace stávajícího zdiva se provádí třemi způsoby: 
+
+- vložením izolace do proříznuté spráry
+
+- vložením izolace do vybouraných otvorů
+
+- zarážením desek z nerezových plechů
+
+**prořezávání zdiva** - 
+
+### Chemická injektáž
+
+### Povrchová úprava - sanační omítka
+
+Sanační omítka je speciální druh omítky s nízkou nasákavostí a vysokou paropropustností. Od obyčejné omítky se liší také tím, že je mnohem poréznější (pórovitější). Právě díky vysoké poréznosti odvádí sanační omítka vlhkost z vnitřku zdiva na povrch, kde se může volně odpařovat.
