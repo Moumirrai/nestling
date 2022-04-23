@@ -46,9 +46,27 @@ Dodatěčná vodorovná izolace stávajícího zdiva se provádí třemi způsob
 
 - zarážením desek z nerezových plechů
 
-**prořezávání zdiva** - 
+**prořezávání zdiva** - Řez se provádá na délku cca 700 - 1200mm podle kvality zdiva. Do vyřezané spáry se vloží izolační pásy a prostor nad izo. vložkou se vyplní cementovou maltou. Po skončení jednoho řezu se nepokračuje s podřezáváním hned vedle, ale ponechá se cementová malta zatvrdnout a práce zatím pokračuje jinde (např. na druhém ruhu). Tímto způsobem se postupně střídají pracoviště až se dokončí celá stěna. Prořezávání zdiva lze provádět ručně (velmi pracné - už se nepoužívá), řetězovou pilou nebo lanovou pilou s diamantovým lanem.
+
+(OBR. - rezani)
+
+**probourání zdiva** - Všude tam, kde nelze k provedení nové vodorovné izolace použít metody prořezávání spáry, to je například u staveb, kde nelze zajistit pojezd řezacího stroje nebo u malých staveb, kde de drahá technologie řezání kamenných nebo smíšených zdí nevyplatí, lze novou izolaci vkládat do postupně vybouraných otvorů, které se po jejím položení znovu zazdí. Délka vybouraných úseků cca 700 až 1200mm podle kvality zdiva. Mezi otvory se ponechají pilíře 600 až 900mm dlouhé. K vybourání dalšího otvoru se přistupuje až po položení izolace a dozdění předcházejícího úseku. Hydroizolace se položí tak, aby po vložení do otvoru přesahovala na každé straně o 100mm pro napojení dalšího úseku HI.
+
+(OBR. - bourani)
+
+**zarážení desek z nerezového plechu** - Desky jsou vyrobeny z nerezavějící ocely o vysoké pevnosti umožňující mechanické zarážení (vybrování) do spár zdiva. Desky se zarážejí strojně tak, aby se výsledně ve zdi překrývaly o 2 až 3 vlny.
 
 ### Chemická injektáž
+
+Princip je v tom, že se do zavlhlého pórovitého marteriálu zdiva napouští látka, která vytvoří nepropustnou bariéru bránící vzlínavosti (stoupání) zemní vlhkosti. Do zdiva se vyvrtají šikmé otvory o průměrech 10-40mm **ve sklonu 15-45° od vodorovné roviny**, do kterých se napouští infuzní roztok. Ten se pak vsakuje do zdiva a vytváří nepropustnou vrstvu.
+
+### Vzduchová izolace
+
+Se vzduchovými hydroizolačními systémy se můžeme setkat u řady historickéch staveb. V současnosti se používají převížně při rekonstrukcích a sanacích poruch. Princip vzduchové izolace je vytvoření vzduchové dutiny (příčkou), zpravidla **odvětrávané**, nebo použití různých druhů provětrávaných drenážních systémů a kanálků
+
+### Elektroosmóza
+
+Princip spočívá ve slabých elektrických proudech, které vznikají při vzlínání zemní vlhkosti zdivem. Uzemní-li se část vlhkého zdiva, vznikne uzavřený elektrický obvod, který obrací původní směr vzlnínaní v kapiláře.
 
 ### Povrchová úprava - sanační omítka
 

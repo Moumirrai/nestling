@@ -7,19 +7,12 @@ pageClass: default-page
 ## Typy rodinných domů
 
 - Izolované
-
-- dvojdomy 
-
+- dvojdomy
 - řadové
-
 - řetězové
-
 - domy ve dvojnásobné řadě
-
 - čtyřdomy
-
-- atriové 
-
+- atriové
 - terasové
 
 <img class="centered_image" src="/images/pos/32/rodinne.jpg"/>
@@ -27,27 +20,27 @@ pageClass: default-page
 ## Typy bytových domů
 
 - **shodišťové** - mají byty přístupné přímo ze schodišťové podesty
-  
+
   - schodiště je vhodné orientovat na sever
 
 <img class="centered_image" src="/images/pos/32/schodistove.jpg"/>
 
-- **chodbové** - umožňují přístup do bytů ze společné chodby, která probýhá uprostřed domu 
-  
+- **chodbové** - umožňují přístup do bytů ze společné chodby, která probýhá uprostřed domu
+
   - vzhledem k úzce omezené orientaci ke světovým stranám, výhodné jen pro malé byty
 
 <img class="centered_image" src="/images/pos/32/chodba.jpg"/>
 
 - **pavlačové** - mají byty přístupné z komunikační pavlače, která probíhá téměř po celé délce jednoho průčelí pavlačového domu
-  
+
   - pro situování obytných místností se využívá průčelí bez pavlače
 
 - **sendvičové** - kombinace schodišťových a chodbových domů (střídají se po patrech)
 
-<img class="centered_image" src="/images/pos/32/sedvic.jpg"/> 
+<img class="centered_image" src="/images/pos/32/sedvic.jpg"/>
 
 - **mezonetové** - mezonety jsou byty ve dvou nebo třech úrovních v chodbovém nebo pavlačovém domě
-  
+
   - dobře se řeší pro velké, mnohopokojové byty
 
 <img class="centered_image" src="/images/pos/32/mezonet.jpg"/>
