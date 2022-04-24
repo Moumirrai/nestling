@@ -66,6 +66,8 @@ TODO:popisky
 - dveře se vyrábí ocelové avšak některé části dveří, např. zasklívací lišty, mohoui být z hliníkových slitin, popřípadě z jiných materiálů.
 - výplně dveří jsou z ocelového drátového plechu, z průhledného skla, žebrového plechu nebo s izolační vložkou
 
+<div class='table'>
+
 <div class=customTable style="overflow-x:auto;">
 <table border=0 cellpadding=0 cellspacing=0 width=498 style='border-collapse:
  collapse;table-layout:fixed;width:373pt'>
@@ -132,6 +134,8 @@ TODO:popisky
   <td colspan=2 class=center><img class="centered_image" src="/images/pos/23/5_14.jpg" /></td>
  </tr>
 </table>
+</div>
+
 </div>
 
 ## Stavební kování

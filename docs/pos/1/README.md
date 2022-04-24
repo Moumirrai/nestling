@@ -76,17 +76,11 @@ Patří sem:
 - pod svahem musí být odvodňovací rýha
 - při hloubce více než 2m musí být provedeny lavice o min. šířce 600mm
 
-:::warning SVAHOVÁNÍ V 1. FÁZI
-<br>
+**SVAHOVÁNÍ V 1. FÁZI**
 <img class="centered_image" src="/images/pos/1/svahovany_vykop1.jpg" />
-<br>
-:::
 
-:::warning SVAHOVÁNÍ NA VÍCE FÁZÍ
-<br>
+**SVAHOVÁNÍ NA VÍCE FÁZÍ**
 <img class="centered_image" src="/images/pos/1/svahovany_vykop2.jpg" />
-<br>
-:::
 
 ##### Roubení
 
@@ -96,27 +90,22 @@ Patří sem:
   2. Systémová (ocelová)
   3. Kombinovaná
 
-###### **Roubení s příložným pažením**
+##### **Roubení s příložným pažením**
 
-:::warning U RÝHY
-<br>
+**U RÝHY**
 <img class="centered_image" src="/images/pos/1/roubeni_u_ryhy.jpg" />
-<br>
-:::
 
-:::warning U JÁMY
+**U JÁMY**
 <br>
 <img class="centered_image" src="/images/pos/1/roubeni_u_jamy.jpg" />
-<br>
-:::
 
-###### **Roubení s pažením do zápor**
+##### **Roubení s pažením do zápor**
 
 - u hlubokých jam v soudržných zeminách
 
 <img class="centered_image" src="/images/pos/1/pazeni_do_zapor.jpg" />
 
-###### **Roubeni s pažením do zápor s kořenovými pilotami**
+##### **Roubeni s pažením do zápor s kořenovými pilotami**
 
 - používá se v případě, že hloubka výkopu je větší než 3,5m
 
@@ -124,14 +113,14 @@ Patří sem:
 <br>
 <img class="centered_image" src="/images/pos/1/koren_pudorys.jpg" />
 
-###### **Roubení se spouštěným pažením**
+##### **Roubení se spouštěným pažením**
 
 <br>
 <img class="centered_image" src="/images/pos/1/spoustene_pazeni.jpg" />
 
 **1** - vodorovný rám, **2** - svislý sloupek, **3** - svislá pažina, **4** - klin, **5** - závěs z kruhové oceli nebo rádlovacího drátu, **6** - tesařská skoba
 
-###### **Roubení s hnaným pažením**
+##### **Roubení s hnaným pažením**
 
 <br>
 <img class="centered_image" src="/images/pos/1/hnane_pazeni.jpg" />

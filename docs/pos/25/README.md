@@ -57,60 +57,51 @@ TODO: dodělat speciální tašky, např hřebenáč
 :::danger NEVÝHODY
 
 - hmotnost
-  :::
+:::
 
 <img class="centered_image" src="/images/pos/25/tasky.jpg" />
 
-:::warning BOBROVKA
-
-- tradiční hladká taška
-- většinou se klade ve dvou vrstvách
-- rozměry jsou 180x380 mm
-
-<img class="centered_image" src="/images/pos/25/bobrovka.jpg" />
-<br>
-
-> #### Jednoduchá bobrovka
+> **BOBROVKA**
+> - tradiční hladká taška
+> - většinou se klade ve dvou vrstvách
+> - rozměry jsou 180x380 mm
 >
-> <img class="centered_image" src="/images/pos/25/bobrovka_jednoducha.jpg" />
-
-> #### Dvojitá bobrovka
+> <img class="centered_image" src="/images/pos/25/bobrovka.jpg" />
 >
-> <img class="centered_image" src="/images/pos/25/bobrovka_dvojita.jpg" />
-> :::
+>> #### Jednoduchá bobrovka
+>>
+>> <img class="centered_image" src="/images/pos/25/bobrovka_jednoducha.jpg" />
+>
+>> #### Dvojitá bobrovka
+>>
+>> <img class="centered_image" src="/images/pos/25/bobrovka_dvojita.jpg" />
+---
+> **TAŠKY RAŽENÉ**
+>- drážkované
+>- pokládají se v jedné vrstvě
+>- kladou se na sucho, přičemž ložné spáry se zatírají z půdy pokrývačskou maltou
+>- např falcovka
+>
+><img class="centered_image" src="/images/pos/25/falcovka.jpg" />
+---
+> **TAŠKY TAŽENÉ**
+> - po obvodu se kladou do malty
+> - není vhodné do oblastí s vyšším spádem popílku
+> - pro menším sklonu než 25° se provádí pojistná izolace
+> - do sklonu 50° se neprovádí úpravy
+> - při sklonu více než 50° se přivazuje každá druhá a třetí taška
+> - při sklonu více než 70° se přivazuje každá taška
 
-:::warning TAŠKY RAŽENÉ
-
-- drážkované
-- pokládají se v jedné vrstvě
-- kladou se na sucho, přičemž ložné spáry se zatírají z půdy pokrývačskou maltou
-- např falcovka
-
-<img class="centered_image" src="/images/pos/25/falcovka.jpg" />
-<br>
-  :::
-
-:::warning TAŠKY TAŽENÉ
-
-- po obvodu se kladou do malty
-- není vhodné do oblastí s vyšším spádem popílku
-- pro menším sklonu než 25° se provádí pojistná izolace
-- do sklonu 50° se neprovádí úpravy
-- při sklonu více než 50° se přivazuje každá druhá a třetí taška
-- při sklonu více než 70° se přivazuje každá taška
-  :::
-
-:::warning PREJZOVÁ KRYTINA
-
-- PREJZ - dvojice prvků - korýtko (hák) a kůrka (prejz)
-- stykování se provádí překrytím dvou korýtek
-- často u památkových objektů
-- klade se do malty
-- provedení je velmi náročné, nutno svěřit odborné firmě
-
-<img class="centered_image" src="/images/pos/25/prejz.jpg" />
-<br>
-  :::
+> **PREJZOVÁ KRYTINA**
+>
+> - PREJZ - dvojice prvků - korýtko (hák) a kůrka (prejz)
+> - stykování se provádí překrytím dvou korýtek
+> - často u památkových objektů
+> - klade se do malty
+> - provedení je velmi náročné, nutno svěřit odborné firmě
+>
+> <img class="centered_image" src="/images/pos/25/prejz.jpg" />
+---
 
 #### Kameninová bobrovka
 

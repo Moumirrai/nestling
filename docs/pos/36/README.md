@@ -102,6 +102,9 @@ Antické Řecko se dělí na 3 základní řády
 :::
 
 :::danger ROZDÍLY
+
+<div class='table'>
+
 | | **Dórský řád** | **Iónský řád** |
 | --------------------------- | --------------------------- | ------------------------------------------ |
 | Tvar sloupů a kladí | Přísně daný | Uvolněnější, lehčí, vznosnější a zdobnější |
@@ -113,6 +116,8 @@ Antické Řecko se dělí na 3 základní řády
 | Vlys | Střídání triglyfů a metop | Souvislý reliéf |
 | Výskyt | Peloponnés, Itálie, Sicílie | Malá Asie |
 | Označení | mužský | ženský |
+
+</div>
 :::
 
 ### Korintský řád

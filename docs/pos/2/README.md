@@ -24,9 +24,13 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 #### Podle průřezu se patky dělí na:
 
+<div class='table'>
+
 | Jednostupňové                         | Dvoustupňové                         | Tvaru komolého jehlanu                     |
 | ------------------------------------- | ------------------------------------ | ------------------------------------------ |
 | ![jednostupnove](/images/pos/2/1.jpg) | ![dvoustupnove](/images/pos/2/2.jpg) | ![tvar-komol-jehlanu](/images/pos/2/3.jpg) |
+
+</div>
 
 #### Podle technologie provádění se dělí na:
 
