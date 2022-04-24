@@ -60,7 +60,7 @@ Cílem klempířských prací je zabránit zatékání vody do stavby, tedy ochr
 - Slouží k upevnění žlabů ke stavbě. připevňujeme ke krokvím, na střešní bednění, nebo vruty do zabetonovaných špalíků. Tvar háků je dán druhem žlabu, způsobem připevnění háků a sklonem žlabu.
 
 > <img class="centered_image" src="/images/pos/24/image5.jpg" />
-> 
+>
 > a) rovné
 > b) přetočené
 
@@ -69,7 +69,7 @@ Cílem klempířských prací je zabránit zatékání vody do stavby, tedy ochr
 - Žlaby jsou buď zavěšené, nebo jsou opřené, i částečně, o kamenné či železobetonové římsy a ukotvené pomocí táhel k nosné konstrukci střechy. Žlaby jsou na koncích upraveny návalkem, půlnávalkem nebo ohybem. Důvodem úpravy je zpevnění konstrukce žlabu.
 
 > <img class="centered_image" src="/images/pos/24/image6.jpg" />
-> 
+>
 > 1. podokapní
 > 2. nadřímsový
 > 3. nástřešní
@@ -81,7 +81,7 @@ Cílem klempířských prací je zabránit zatékání vody do stavby, tedy ochr
 - Kotlíky slouží pro převedení vody ze žlabu do odpadních trub. Kotlíky se zavěšují na návalky žlabů a připevňují se ke žlabu nýtováním.
 
 > <img class="centered_image" src="/images/pos/24/image7.jpg" />
-> 
+>
 > 1. kotlík
 > 2. žlab
 > 3. otvor na dně žlabu
@@ -93,7 +93,7 @@ D - průměr hrdla kotlíku podle průměru odpadní trouby
 - Odpadní trouby slouží k odvádění dešťové vody ze žlabů na taková místa, na nichž voda nemůže způsobovat škody na zdivu budovy ani na jejich základech. Odpadní trouby se osazují na zdivo s hotovou omítkou nebo s obkladem. Drážky vytvořené ve zdivu pro odpadní trouby, musí být nejméně o 40 mm větší než průřez trouby.
 
 > <img class="centered_image" src="/images/pos/24/image8.jpg" />
-> 
+>
 > 1. žlabový kotlík
 > 2. horní koleno
 > 3. zděř
@@ -109,7 +109,7 @@ D - průměr hrdla kotlíku podle průměru odpadní trouby
 - Hladké plechové krytiny se používají pro krytí střech v horských a drsných klimatických podmínkách. Krytina se klade nejčastěji z tabulí 660 x 2000 mm nebo 1000 x 2000 mm.
 
 > <img class="centered_image" src="/images/pos/24/image9.jpg" />
-> 
+>
 > 1. dvojitá ležatá drážka, 2) dvojitá stojatá drážka
 
 ## Oplechování

@@ -13,7 +13,7 @@ pageClass: default-page
 ## Funkční požadavky:
 
 1. ### Statické
-   
+
    - (u konzoly dostatečná nadezdívka)
    - rozhodující druhy zatížení:
      - zatížení vlastní hmotností
@@ -23,32 +23,32 @@ pageClass: default-page
      - zatížení teplotními změnami
 
 2. ### Dispozičně provozní
-   
+
    - požadavek na bezpečnost provozu --> požadavky na zábradlí, požadavky na povrchy podah, prostorové požadavky
 
 <img class="centered_image" src="/images/pos/16/vyskazabradli.jpg" />
 
 3. ### Izolační
-   
+
    - zvuková izolace
    - tepelná izolace (nutné řešit tkzv. tepelné mosty)
-   
+
    Tři základní způsoby přerušení tepelných mostů u převislých kcí:
-   
+
    1. **obložení**
-   
+
    <img class="centered_image" src="/images/pos/16/oblozeni.jpg" />
-   
+
    2. **částečné přerušení tepelné izolace**
       - nosným prvkem je žebro/trám, tepelná izo. je umístěna mezi žebry a v místě přerušené desky nad žebry
       - nevýhodou je vysoká pravděpodobnost že v zimním období může dojít ke kondenzaci vodních par --> výskyt plísně
-   
+
    <img class="centered_image" src="/images/pos/16/castecnepreruseni.jpg" />
-   
+
    3. **vložení TI do přerušené ŽB kce. (ISO nosníky)**
-      
+
       - ŽB deska je přerušena TI (ISO nosníkem), který má v sobě zakotvenou skze TI betonářskou výztuž na obě strany a po zabetonování spolupůsobí se stropní konstrukcí
-   
+
    <br>
    <img class="centered_image" src="/images/pos/16/isonosnik1.jpg" />
    <br>
@@ -59,11 +59,11 @@ pageClass: default-page
 4. ### Odolnost proti požáru
 
 5. ### Architektonické
-   
+
    - (převislé konstrukce jsou často výrazný prvek u historických slohů)
 
 6. ### Odolnost vůči povětrnostním vlivům
-   
+
    - ochrana před dešťovou vodou
      - okapní nosy
      - okapní drážky
@@ -71,7 +71,7 @@ pageClass: default-page
 <img class="centered_image" src="/images/pos/16/okapninos.jpg" />
 
 7. ### Odolnost vůči účinkům objemových změn
-   
+
    - vlivem: teplotních změn, změn vlhkosti
    - nutno řešit dilatacemi
 

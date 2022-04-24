@@ -60,7 +60,7 @@ podle počtu průduchů v komíně:
 
 - **JEDNOTLIVÉ** - s jedním průduchem
 
-- **SDRUŽENÉ** - s více průduchy 
+- **SDRUŽENÉ** - s více průduchy
 
 podle průběhu podélné osy komínových průduchů:
 
@@ -100,7 +100,7 @@ dřevěné a jiné hořlavé prvky musí být vzdáleny od vnějšího líce kom
 
 **ČISTÍCÍ OTVORY** slouží k čištění nebo vypalování kouřovodu nebo průduchu komína.
 
-vymetací, vybírací a čistící otvory musí být uzavřeny **plynotěsnými nehořlavými dvojitými** komínovými dvířky 
+vymetací, vybírací a čistící otvory musí být uzavřeny **plynotěsnými nehořlavými dvojitými** komínovými dvířky
 
 ### KOMÍNOVÁ LÁVKA
 

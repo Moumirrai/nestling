@@ -46,11 +46,11 @@ pageClass: default-page
 - protilehlou schodnici spínáme ocelí, pokud je jejich vzdálenost větší než 1200mm užijeme mezilehlou stupnici
 - nejmenší přípustná šířka ramene je 900mm
 - dřevo:
-    - smrk
-    - borovice
-    - modřín
-    - dub
-    - z tvrdého dřeva se také vyrábějí stupnice, které musí odolávat vnějším vlivům
+  - smrk
+  - borovice
+  - modřín
+  - dub
+  - z tvrdého dřeva se také vyrábějí stupnice, které musí odolávat vnějším vlivům
 
 TODO:Žb
 

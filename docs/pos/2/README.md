@@ -172,8 +172,8 @@ Při hlubinném zakládání se zatížení stavby přenáší do hlubších ún
 
 <div class='table'>
 
-| PILOTY                                 | ŠACHOTVÉ PILÍŘE                        |
-| -------------------------------------- | -------------------------------------- |
+| PILOTY                                                    | ŠACHOTVÉ PILÍŘE                                           |
+| --------------------------------------------------------- | --------------------------------------------------------- |
 | <img class="centered_image" src="/images/pos/2/11.jpg" /> | <img class="centered_image" src="/images/pos/2/12.jpg" /> |
 | ZÁKLADOVÉ STUDNY                                          | KESONY                                                    |
 | <img class="centered_image" src="/images/pos/2/13.jpg" /> | <img class="centered_image" src="/images/pos/2/14.jpg" /> |

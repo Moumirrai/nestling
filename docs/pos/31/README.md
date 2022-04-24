@@ -10,7 +10,7 @@ pageClass: default-page
 
 panelové systémi u nás byly v obdobý 50-80 let nejrozšířenější systémy pro výstavbu bytových domů
 
-první prototyp panelového domu v ČR (1953) byl typ G-40, postupně byly navrženy systémi G-55, G-56,...  G59
+první prototyp panelového domu v ČR (1953) byl typ G-40, postupně byly navrženy systémi G-55, G-56,... G59
 
 počátkem 60. let byly vivinuty systémy T-06B, T07B, T08B. Typy T-06B a T-08B se rozšířily a používaly v různých modifikaích až do konce 80. let.
 
@@ -28,16 +28,13 @@ styky mezi stěnovými panely
 
 <img class="centered_image" src="/images/pos/31/mocstyku.jpg" />
 
-
 osazení panelu se provádí na stevěcí (rektifikační) šrouby, které jsou umístěné ve vzdálenosti 300mm od okrajů panelu
 
 <img class="centered_image" src="/images/pos/31/stavecisrouby.jpg" />
 
-
 obvodový plášť je celostěnový, vrstvený, tloušťky 300mm. Nosná vrstva je ŽB tl. 150mm, vnitřní TI vrstva je z pěnového polystyrenu tl. 80mm, vnější ochranná vrstva je z vodotěsného betonu tl. 70mm. Ochraná vrstva s tepelnou izolací přesahují ve spodní části o 300mm přes spodní panel.
 
 <img class="centered_image" src="/images/pos/31/obvodovypanel.jpg" />
-
 
 ## MONTOVANÉ SKELETOVÉ STAVBY
 
@@ -45,7 +42,7 @@ obvodový plášť je celostěnový, vrstvený, tloušťky 300mm. Nosná vrstva 
 
 **SLOUPY**
 
-**PRŮVLAKY** 
+**PRŮVLAKY**
 
 - obdélníkové průvlaky
 
@@ -55,13 +52,11 @@ obvodový plášť je celostěnový, vrstvený, tloušťky 300mm. Nosná vrstva 
 
 <img class="centered_image" src="/images/pos/31/typypruvlaku.jpg" />
 
-
 **STROPNÍ PANELY** - uloženy buď na průvlaky nebo přímo na sloupy
 
-**DESKOVÉ HLAVICE** - jen v případě že stropní panely jsou uloženy bodově přímo na sloupech s absencí stropních průvlaků 
+**DESKOVÉ HLAVICE** - jen v případě že stropní panely jsou uloženy bodově přímo na sloupech s absencí stropních průvlaků
 
 <img class="centered_image" src="/images/pos/31/hlavice.jpg" />
-
 
 ### ZTUŽENÍ KONSTRUKCE
 
@@ -71,17 +66,15 @@ U vyšších sloupovích kcí. se prostorová tuhost zajišťuje výztužnými p
 
 <img class="centered_image" src="/images/pos/31/ztuzeni.jpg" />
 
-
 ### KONSTRUKČNÍ SYSTÉMY
 
-**MS71** 
+**MS71**
 
 sloupový skelet s deskovými průvlaky
 
 modulové rozpětí 2,4 - 7,2m, v krajním poli možnost průvlak vykonzolovat modulově o 1,2m
 
  <img class="centered_image" src="/images/pos/31/ms71.jpg" />
-
 
 **INTEGRO**
 
@@ -90,7 +83,6 @@ otevřený prefabrikovaný sloupoví system (vetší variabilita při navrhován
 hlavní nosný systém skeletu INTEGRO je tvořen sloupy průřezu H nebo průběžnámi vícepodlažními sloupy čtvercového průřezu a stropními zdvojenými lichoběžníkovými nosníky
 
 <img class="centered_image" src="/images/pos/31/integro.jpg" />
-
 
 **PREMO**
 
@@ -106,16 +98,13 @@ spřažení obdélníkového průvlaku v prefa-monolitickém systému
 
 <img class="centered_image" src="/images/pos/31/prefapruvlak.jpg" />
 
-
 čapkův spoj - stykovací výztuž vycházející ze spodního sloupu prochází průvlakem a svaří se s vrchních sloupem, poté se styk vyplní betonovou zálivkou
 
 <img class="centered_image" src="/images/pos/31/capek.jpg" />
 
-
 řez sloupem H průřezu
 
 <img class="centered_image" src="/images/pos/31/hprurez.jpg" />
-
 
 sloupy H průřezu mají v sobě čtyři svislé průběžné dutiny pro vložení výztužných prutů, které se dodatečně zainjektují expanzní zálivkou. Tím je dosaženo zmonolitnění jednotlivích dílců sloupů a zároveň propojení se stropními nosníky
 

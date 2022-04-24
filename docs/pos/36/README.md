@@ -29,6 +29,7 @@ Antické Řecko se dělí na 3 základní řády
 > *Pantheon na Akropoli*
 
 :::warning DÓRSKÝ SLOUP
+
 <!--IMAGE-->
 <br>
 <!--popis-->
@@ -57,17 +58,17 @@ Antické Řecko se dělí na 3 základní řády
 2. akroterion (ozdobný prvek)
 3. sima
 4. římsa
-7. vlys
-16. třikrát odstupněný architráv (násloupí)
-14. hlavice
-17. dřík
-18. kanelování (drážkování)
-19. stylobat (poslední stupeň podnože)
-20. voluta (spirálový motiv vycházející z Archimédovy spirály)
-21. echinus
-23. patka
-24. torus
-:::
+5. vlys
+6. třikrát odstupněný architráv (násloupí)
+7. hlavice
+8. dřík
+9. kanelování (drážkování)
+10. stylobat (poslední stupeň podnože)
+11. voluta (spirálový motiv vycházející z Archimédovy spirály)
+12. echinus
+13. patka
+14. torus
+    :::
 
 ### Korintský řád
 
@@ -91,18 +92,18 @@ Antické Řecko se dělí na 3 základní řády
 2. akroterion (ozdobný prvek)
 3. sima
 4. římsa
-6. zubořez (ozdobný pás pravidelných kostek)
-7. vlys
-13. třikrát odstupněný architráv (násloupí)
-14. hlavice
-17. dřík
-18. kanelování (drážkování)
-19. stylobat (poslední stupeň podnože)
-20. voluta (spirálový motiv vycházející z Archimédovy spirály)
-22. akant (dekor ve tvary listů)
-23. patka
-24. torus
-:::
+5. zubořez (ozdobný pás pravidelných kostek)
+6. vlys
+7. třikrát odstupněný architráv (násloupí)
+8. hlavice
+9. dřík
+10. kanelování (drážkování)
+11. stylobat (poslední stupeň podnože)
+12. voluta (spirálový motiv vycházející z Archimédovy spirály)
+13. akant (dekor ve tvary listů)
+14. patka
+15. torus
+    :::
 
 ---
 

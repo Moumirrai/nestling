@@ -171,8 +171,8 @@ V prostorech s volným pohybem dětí musí být zábradlí se soklem hlubokým 
 <br>
 <img class="centered_image" src="/images/pos/13/image16.jpg" />
 
-
 #### Kotvení z boku do zdiva
+
 <br>
 <img class="centered_image" src="/images/pos/13/image17.jpg" />
 

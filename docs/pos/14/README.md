@@ -140,10 +140,10 @@ podle typu a polohy sloupku se dělí na:
 
 <img class="centered_image" src="/images/pos/14/kombinovana.jpg" />
 
-- věšadlo a vzpěradlo 
-  
+- věšadlo a vzpěradlo
+
   - užívá se při větších rozpětích krovů, kde je nutno odlehčit dlouhý vazný trám, jenž je na věšadle zavěšen
-  
+
   - věšadlem je sloupek, který působí jako táhlo vynášející vazný trám. Efektu je dosahováno za pomocí vzpěradel a rozpěr, které společně vynášejí sloupek.
 
 <img class="centered_image" src="/images/pos/14/vesadlo.jpg" />
@@ -192,7 +192,7 @@ určeny pro střechy středního a velkého rozpětí s malím sklonem
 
 podle kce. vazníku rozlišujeme:
 
-- plnostěnné 
+- plnostěnné
 
 <img class="centered_image" src="/images/pos/14/plnostenne.jpg" />
 
@@ -219,9 +219,9 @@ podle materiálu:
 <img class="centered_image" src="/images/pos/14/osedlani.jpg" />
 
 - **lípnutí**
-  
+
   - nutno zajistit styčníkovou deskou
-  
+
   <img class="centered_image" src="/images/pos/14/lipnuti.jpg" />
   <br>
   <img class="centered_image" src="/images/pos/14/stycnikovadeska.jpg" />
@@ -235,9 +235,9 @@ podle materiálu:
 <img class="centered_image" src="/images/pos/14/zapusteni.jpg" />
 
 - **sraz** (boční a čelní)
-  
+
   - nutno zajistit tesařskou skobou
-  
+
   <img class="centered_image" src="/images/pos/14/srazbocni.jpg" />
   <br>
   <img class="centered_image" src="/images/pos/14/srazcelni.jpg" />

@@ -28,9 +28,11 @@ pageClass: default-page
 #### Podle izolované části objektu
 
 > **Hydroizolace spodní stavby**
+>
 > - může být vodorovná nebo svislá
 >
 > **Hydroizolace horní stavby**
+>
 > - střecha, obvodový pás
 
 #### Podle izolační metody

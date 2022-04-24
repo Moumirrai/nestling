@@ -123,7 +123,6 @@ pageClass: default-page
 > 2. upevňovací kotvy
 > 3. základní vrsva zalitá cementovou maltou
 
-
 #### Sádrokartonové obklady
 
 - velkoformátové desky tl. 8-12 mm

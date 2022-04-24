@@ -1,3 +1,9 @@
+git/
+pdf/
+.gitignore
+.package.json
+.package-lock.json
+
 docs/.vuepress/.temp/
 docs/.vuepress/.cache/
 docs/.vuepress/dist/
@@ -7,9 +13,7 @@ node_modules/
 
 lib/
 
-node_modules
 .temp
 .cache
 
 *.log
-

@@ -127,22 +127,27 @@ Otopná tělesa slouží k předávání tepla ve vytápěných místnostech.
 Podle konstrukce rozeznáváme otopná tělesa
 
 #### Článková - ocelová nebo litinová (radiátory)
+
 <br>
 <img class="centered_image" src="/images/pos/29/clankove.jpg" />
 
 #### Desková - ocelová
+
 <br>
 <img class="centered_image" src="/images/pos/29/deskove.jpg" />
 
 #### Skříňková - tzv. konvektory
+
 <br>
 <img class="centered_image" src="/images/pos/29/konvektor.jpg" />
 
 #### Žebrová
+
 <br>
 <img class="centered_image" src="/images/pos/29/zebrove.jpg" />
 
 #### Trubková
+
 <br>
 <img class="centered_image" src="/images/pos/29/trubkove.jpg" />
 
