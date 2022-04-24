@@ -13,13 +13,13 @@ Kromě statického posouzení je potřeba provést **stavebněhistorický průzk
 
 Je-li třeba probourat otvor v místě kde působí veliké zatížení, je třeba nejdříve toto zatížení "přemístit" mimo oblast budoucího otvoru.
 
-(OBR. - premisteni)
+<img class="centered_image" src="/images/pos/35/premisteni.jpg" />
 
 Je třeba zajistit podepření stropní kce. po obou staních zdi. Podepření lze provést dřevěnou kcí. **ve vzdálenosti 600 až 700mm od zdi**, tak aby bylo dost místa pro vlastní bourání
 
 Na podlahu se po obouch stranách zdi uloží hranol nebo tlustá fošna (tkzv. bačkora/podkladek), na kterou se vztyčí sloupky podepírající horní rám z hranolu. Horní rám přenáší zatížení stropu. Stabilita se zajistí zavětrováním prkny, přibitýmu křížem na sloupky.
 
-(OBR. - probourani)
+<img class="centered_image" src="/images/pos/35/probourani.jpg" />
 
 Je-li místnost podsklepená, je nutno podpěrnou kci. provést i ve sklepě
 
@@ -31,11 +31,11 @@ U zdí se dvěma nebo čtyřmi nosníky v překladu vysekáme na jedné straně 
 
 V případě zdí se třemi nosníky v překaldu se postupně vybourávají rýhy pro oba krajní nosníky při vnitřním a při vnějším líci, která se osadí a dobře zaklínují. Pak se vybourá celý otvor pod nimi a také prostor pro třetí prostřední nosník. 
 
-(OBR. - traverzi)
+<img class="centered_image" src="/images/pos/35/traverzi.jpg" />
 
 Kapsu pro uložení prostředního nosníku vylámeme z jedné strany na dvojnásobnou hloubku uložení, aby se traverza dala zasunout do zdi a posunutím správně uložit na obou stranách.
 
-(OBR. - prostredni)
+<img class="centered_image" src="/images/pos/35/prostredni.jpg" />
 
 ## Typy trhlin ve svislých konstrukcích a jejich příčina
 
@@ -43,36 +43,36 @@ Trhliny v cihelných zdech vznikají njčastěji z důvodu nerovnoměrného sed�
 
 Kolmice vedené k průběhu trhliny ukazují zpravidla na stranu, na které dochází k poklesu základů.
 
-(OBR. - trhlina) 
+<img class="centered_image" src="/images/pos/35/trhlina.jpg" /> 
 
 Při pomalém poklesání základů vznikají trhliny obvykle schodovitě jen ve spárách. Při rychlejším poklesu vzniká trhlina zpravidla i ve vlastní cihle.
 
-(OBR. - trhlina2)
+<img class="centered_image" src="/images/pos/35/trhlina2.jpg" />
 
 ### Druhy příčin vzniku trhlin
 
 V přídpadě že základy nejsou dostatečně hluboké (nedosahují nezámrzné hloubky), půda pod nimi zamrzává, zvětšuje svůj objem a základy nadzvedává. Ty pak po rozmrtnutí půdy opět klesnou. Dochází tak k nerovnoměrnému, vertikálnímu pohybu který je příčinou trhlin ve zdivu. (trhliny zpravidla procházejí okny)
 
-(OBR. - hloubka)
+<img class="centered_image" src="/images/pos/35/hloubka.jpg" />
 
 V případě že část základové spáry je uložena na méně únosné půdě
 
-(OBR. - unosnost)
+<img class="centered_image" src="/images/pos/35/unosnost.jpg" />
 
-(OBR. - unosnost2)
+<img class="centered_image" src="/images/pos/35/unosnost2.jpg" />
 
 V případě že je podsklepený barák založen na různě pevných základových půdách (PP je založeno na únosnější půdě nežli NP), dochází k nerovnoměrnému poklesu částí budovy.
 
-(OBR. - unosnost3)
+<img class="centered_image" src="/images/pos/35/unosnost3.jpg" />
 
 V případě že (např. při adaptacích) je zanedbáno **kvalitní provázání vazby nosných stěn**, mezi novou a starou zdí
 
-(OBR. - provazani)
+<img class="centered_image" src="/images/pos/35/provazani.jpg" />
 
 Ve styku atiky a obvodové nosné stěny, kde ve střešní kci. dochází (důsledkem teplotního zatížení) k objemovým změná. Jestliže není detail napojení atiky se střešní kcí. správně vyřešen. (např. betonová spádová vrstva není od atiky oddilatována)
 
-(OBR. - atika)
+<img class="centered_image" src="/images/pos/35/atika.jpg" />
 
 ## Zesilování konstrukcí
 
-**Zesilování základů** - viz mat. otázka 2, oprava základů:
+**Zesilování základů** - viz mat. otázka 2, oprava základů: ... (ODKAZ)
