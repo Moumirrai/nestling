@@ -7,8 +7,7 @@
     "start": "vuepress dev docs",
     "test": "vuepress build docs",
     "serve": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "lint": "prettier --write ./ --ignore-path .prettierignore --config .prettierrc.json"
+    "docs:build": "vuepress build docs"
   },
   "author": "",
   "license": "ISC",

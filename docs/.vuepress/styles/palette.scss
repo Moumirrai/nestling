@@ -142,6 +142,24 @@ html.dark {
     width: auto;
   }
 
+  .centered_image_long {
+    display: block;
+    max-height: 1000px;
+    width: auto;
+  }
+
+  .inline_block {
+    display:inline-block;
+    vertical-align:top;
+    margin-right: 40px;
+  }
+
+  .inline_text {
+    display:inline-block;
+    //if text box is wider than 100px, squeeze it to fit
+    max-width: calc(100% - 40px);
+  }
+
   h1 {
     color: var(--c-brand);
   }

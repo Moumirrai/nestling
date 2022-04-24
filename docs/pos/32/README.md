@@ -19,13 +19,13 @@ pageClass: default-page
 
 ## Typy bytových domů
 
-- **shodišťové** - mají byty přístupné přímo ze schodišťové podesty
+- **schodišťové** - mají byty přístupné přímo ze schodišťové podesty
 
   - schodiště je vhodné orientovat na sever
 
 <img class="centered_image" src="/images/pos/32/schodistove.jpg"/>
 
-- **chodbové** - umožňují přístup do bytů ze společné chodby, která probýhá uprostřed domu
+- **chodbové** - umožňují přístup do bytů ze společné chodby, která probíhá uprostřed domu
 
   - vzhledem k úzce omezené orientaci ke světovým stranám, výhodné jen pro malé byty
 
@@ -45,24 +45,24 @@ pageClass: default-page
 
 <img class="centered_image" src="/images/pos/32/mezonet.jpg"/>
 
-- **terasové** (pyramidy) - vytváření terasových ploch různým ustupováním kce. od přízemí směrem k vyšším podlažím, přičemž objekt je situovám v rovině
+- **terasové** (pyramidy) - vytváření terasových ploch různým ustupováním kce. od přízemí směrem k vyšším podlažím, přičemž objekt je situován v rovině
 
 ## Osazení budou do terénu
 
-U obytných budov požadujeme, aby byly všechny byty prosluňeny. proto je nutno orientovan na slunnou stranu alespoň 1/3 z celkové plochy obytných místností.
+U obytných budov požadujeme, aby byly všechny byty prosluněny. proto je nutno orientován na slunnou stranu alespoň 1/3 z celkové plochy obytných místností.
 
-Za sluné strany považujeme východní, jihovýchodní, jižní, jihozápadní a západní stranu.
+Za slunné strany považujeme východní, jihovýchodní, jižní, jihozápadní a západní stranu.
 
-podlaha obytných místnosí má být nejméně 30cm nad povrchem přilehlého terénu
+Podlaha obytných místností má být nejméně 30cm nad povrchem přilehlého terénu
 
 ## Typologie staveb občanského vybavení
 
-podle zajištovaní denních nebo občasných potřeb obyvatelstva:
+Podle zajišťovaní denních nebo občasných potřeb obyvatelstva:
 
 - **základní občanské vybavení** jež složí denním potřebám obyvatel (jesle, základní škola, zdravotní středisko, prodejny potravin a průmyslového zboží, okrsek policie, hřiště, garáže, domy služeb s holičstvím, kadeřnictvím...)
 - **vyšší občanské vybavení** jež slouží k uspokojování všech ostatních občanských potřeb obyvatelstva (střední školy, polikliniky, kina, kulturní domy, stadiony, hotely, banky, obchodní centra)
 
-podle účelu staveb:
+Podle účelu staveb:
 
 - **výchova a školství** (školy všech stupňů)
 - **zdravotnictví** (jesle, zdravotní střediska, nemocnice)

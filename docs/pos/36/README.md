@@ -24,86 +24,144 @@ Antické Řecko se dělí na 3 základní řády
 - vznikl v podstatě opisem tehdejší dřevěné architektury do kamenného materiálu
 - trojúhelníková průčelí
 - vyznačuje se monumentálností, střízlivostí a jednoduchostí
+- hlavice bývaly nezdobené
 
 > <img class="centered_image" src="/images/pos/36/pantheon.jpg" />
-> *Pantheon na Akropoli*
+> <a href="https://cs.wikipedia.org/wiki/Parthen%C3%B3n"><em>Pantheon na Akropoli</em></a>
 
 :::warning DÓRSKÝ SLOUP
 
-<!--IMAGE-->
 <br>
-<!--popis-->
+<img class="centered_image" src="/images/pos/36/dorska_hlavice.jpg" />
+<br>
+
+<div class="inline_block">
+<img class="centered_image_long" style="max-height:700px" src="/images/pos/36/dorsky_sloup.jpg" />
+</div>
+<div class="inline_text">
+<p>
+1 - tympanon (svislá plocha ve štítu)<br>
+2 - akroterion (ozdobný prvek)<br>
+3 - šikmá římsa (sima)<br>
+4 - vodorovná římsa (geison)<br>
+5 - mutulus (deska na spodní straně římsy)<br>
+7 - vlys<br>
+8 - triglyf (dekorativní prvek)<br>
+11 - klapky<br>
+13 - architráv (násloupí)<br>
+14 - hlavice<br>
+15 - abakus (čtyřhranná deska, <br>součást hlavice)<br>
+16 - echinus (část hlavice<br> pod abakusem<br>tvarem připomínající talíř)<br>
+17 - dřík<br>
+18 - kanelování (drážkování)<br>
+19 - stylobat (poslední stupeň podnože)<br>
+</p>
+</div>
 :::
 
 ### Iónský řád
 
-<!--čas-->
 
 - z části vychází z dórského
 - je štíhlejší a zdobnější a elegantní
-- dórskému se říkalo mužský, iónskému ženský
+- měl symbolizovat ženské tělo
 - vznikl a šířil se především v malé Asii
 - ne rozdíl od dórského sloupy počínají patkou
 
-<!--nejaka stavba obrazek-->
+> <img class="centered_image" src="/images/pos/36/erechtheion.jpg" />
+> <a href="https://cs.wikipedia.org/wiki/Erechtheion"><em>Erechtheion</em></a>
 
 :::warning IÓNSKÝ SLOUP
 
-<img class="centered_image" src="/images/pos/36/ionska_hlavice.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/36/ionsky_sloup.jpg" />
 <br>
 
-1. tympanon (svislá plocha ve štítu)
-2. akroterion (ozdobný prvek)
-3. sima
-4. římsa
-5. vlys
-6. třikrát odstupněný architráv (násloupí)
-7. hlavice
-8. dřík
-9. kanelování (drážkování)
-10. stylobat (poslední stupeň podnože)
-11. voluta (spirálový motiv vycházející z Archimédovy spirály)
-12. echinus
-13. patka
-14. torus
-    :::
+<img class="centered_image" src="/images/pos/36/ionska_hlavice.jpg" />
+<br>
+
+<div class="inline_block">
+<img class="centered_image_long" src="/images/pos/36/ionsky_sloup.jpg" />
+</div>
+<div class="inline_text">
+<p>
+1 - tympanon (svislá plocha ve štítu)<br>
+2 - akroterion (ozdobný prvek)<br>
+3 - šikmá římsa (sima)<br>
+4 - římsa<br>
+7 - vlys<br>
+16 - třikrát odstupněný architráv (násloupí)<br>
+14 - hlavice<br>
+17 - dřík<br>
+18 - kanelování (drážkování)<br>
+19 - stylobat (poslední stupeň podnože)<br>
+20 - voluta (spirálový motiv vycházející <br>z Archimédovy spirály)<br>
+21 - echinus<br>
+23 - patka<br>
+24 - torus
+</p>
+</div>
+:::
+
+:::danger ROZDÍLY
+| | **Dórský řád** | **Iónský řád** |
+| --------------------------- | --------------------------- | ------------------------------------------ |
+| Tvar sloupů a kladí | Přísně daný | Uvolněnější, lehčí, vznosnější a zdobnější |
+| Sloup v poměru ke své výšce | Širší (1:6) | Štíhlejší (1:8) |
+| Žlábky (kanely) | Mělké, oddělené hranou | Hluboké, oddělené páskem |
+| Patka | Chybí | Ano, členitá |
+| Echinos | Zaoblený | S volutami |
+| Architráv | Nerozdělený | Členěný na tři horizontální pásy |
+| Vlys | Střídání triglyfů a metop | Souvislý reliéf |
+| Výskyt | Peloponnés, Itálie, Sicílie | Malá Asie |
+| Označení | mužský | ženský |
+:::
 
 ### Korintský řád
 
-<!--čas-->
-
 - nejmladší
+- v Řecku byl používán velmi zřídka, své obliby dospěl až v Římě
 - jméno po antickém městu Korintu
 - podobá se iónskému, ale je zdobnější
 - dekorované sloupové hlavice
 - hlavice často dekorovány tvary listů (akant)
 
-<!--IMAGE-->
+> **Příklady staveb**
+> - Chrám Dia Olympského v Athénách
+> - Pantheon v Římě
+>   <img class="centered_image" src="/images/pos/36/pantheon_rim.jpg" />
+> - La Madeleine v Paříži
+> - Kapitol Spojených států amerických
+> - Budova Říšského sněmu v Berlíně
+>   <img class="centered_image" src="/images/pos/36/berlin.jpg" />
 
 :::warning KORINTSKÝ SLOUP
+<br>
 <img class="centered_image" src="/images/pos/36/korint_hlavice.jpg" />
 <br>
-<img class="centered_image" src="/images/pos/36/korint_sloup.jpg" />
-<br>
 
-1. tympanon (svislá plocha ve štítu)
-2. akroterion (ozdobný prvek)
-3. sima
-4. římsa
-5. zubořez (ozdobný pás pravidelných kostek)
-6. vlys
-7. třikrát odstupněný architráv (násloupí)
-8. hlavice
-9. dřík
-10. kanelování (drážkování)
-11. stylobat (poslední stupeň podnože)
-12. voluta (spirálový motiv vycházející z Archimédovy spirály)
-13. akant (dekor ve tvary listů)
-14. patka
-15. torus
-    :::
+<div class="inline_block">
+<img class="centered_image_long" src="/images/pos/36/korint_sloup.jpg" />
+</div>
+<div class="inline_text">
+<p>
+1 - tympanon (svislá plocha ve štítu)<br>
+2 - akroterion (ozdobný prvek)<br>
+3 - šikmá římsa (sima)<br>
+4 - římsa<br>
+6 - zubořez (ozdobný pás pravidelných kostek)<br>
+7 - vlys<br>
+13 - třikrát odstupněný architráv (násloupí)<br>
+14 - hlavice<br>
+17 - dřík<br>
+18 - kanelování (drážkování)<br>
+19 - stylobat (poslední stupeň podnože)<br>
+20 - voluta (spirálový motiv <br>vycházející z Archimédovy spirály)<br>
+22 - akant (dekor ve tvary listů)<br>
+23 - patka<br>
+24 - torus
+</p>
+</div>
+
+:::
 
 ---
 
