@@ -125,6 +125,8 @@ pageClass: default-page
 - kordonová (pásová)
 - štítová
 
+<img class="centered_image" src="/images/pos/16/druhyrims2.jpg" />
+
 **stabilita se zajišťuje**:
 
 - kotvením
