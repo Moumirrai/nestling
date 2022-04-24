@@ -6,37 +6,21 @@ pageClass: default-page
 
 do skupiny jednostranně a oboustranně podporovaných schodišť patří:
 
-- schodnicové schodiště
-  
-  - s jednou schodnicí
-  
+- schodnicové schodiště  
+  - s jednou schodnicí  
   - se dvěmi schodnicemi 
-
 - vřetenové schodiště
-  
   - jednostrnně podporovaná
-  
   - oboustranně podporovaná - uložená na zdivu
-
 - zavěšená schodiště 
-
 - visutá schodiště
 
 dle materiálu je můžeme rozdělit na:
 
 - dřevěná
-
 - ocelová
-
 - železobetonová
-
 - kombinovaná
-
-<!--
-- konstrukce schodišť visutých, vřetenových, schodnicových, zavěšených (obr.)
-- rozdělení schodišť podle materiálu (železobetonová, dřevěná, ocelová)
-- uložení, řešení konstrukce schod. stupňů
--->
 
 ## Schodnicové schodiště
 
@@ -46,23 +30,19 @@ Nosnou část, která přenáší zatížení do podpor (podestových nosníků/
 
 Schodnice ve schodišti může být bud jedna nebo více
 
-(OBR. - schodnice)
+<img class="centered_image" src="/images/pos/11/schodnice.jpg" />
 
-(OBR. - schodnice2)
+<img class="centered_image" src="/images/pos/11/schodnice2.jpg" />
 
 druhy (dřevěných) schodnicových schodišt podle osazení stupnu:
 
 - se zadlabanými stupni
-
 - se zapuštěnými stupni
-
 - sedlové
 
-(OBR. - druhystupnu)
+<img class="centered_image" src="/images/pos/11/druhystupnu.jpg" />
 
-(OBR. - druhystupnu2)
-
-<img class="centered_image" src="/images/pos/11/jednostranne.jpg" />
+<img class="centered_image" src="/images/pos/11/druhystupnu2.jpg" />
 
 ## Vřetenové schodiště
 
@@ -70,7 +50,7 @@ druhy (dřevěných) schodnicových schodišt podle osazení stupnu:
 
 Nosnou kci. zde tvoří sloup (vřeteno), na který jsou připevněny stupně nebo stupnice. Většinou jsou ze dřeva nebo kovu. Používají se pro velké výškové rozdíly
 
-(OBR. - vreteno)
+<img class="centered_image" src="/images/pos/11/vreteno.jpg" />
 
 ### Uložené na zdivu
 
@@ -78,13 +58,13 @@ V historii se často používala v provedení s kamennými stupni jako točitá 
 
 Stupně byly zkosené, širším koncem zazděné do schodišťové zdi a užší konec měl válcovou hlavu (buben). Hlavy stupňů na sebe dosedaly a vytvářely sloupové vřeteno kruhového průřezu.
 
-(OBR. - vreteno2)
+<img class="centered_image" src="/images/pos/11/vreteno2.jpg" />
 
 ## Zavěšená schodiště
 
 Stupně jsou zavěšeny na táhlech nebo lanech které se kotví na stropní konstrukci. Poloha stupňů se zajištuje distančními trubkami nebo rektifičními šrouby. Výhodou je nezávislost na nosných prvcích objektu
 
-(ORB. - zevesene)
+<img class="centered_image" src="/images/pos/11/zavesene.jpg" />
 
 ## Visutá schodiště
 
@@ -94,13 +74,11 @@ Jsou pracná, neboď jednotlivé stupně se osazují současně s vyzdíváním 
 
 Stupně se zazdívají na hloubku min. 300mm
 
-(OBR - FREDOM)
+<img class="centered_image" src="/images/pos/11/jednostranne.jpg" />
 
 ## Žebříková/strmá schodiště
 
 - jednoramenné schodiště se dvěmu schodnicemi, nemající podstupnice
 - nejčastěji dřevěné nebo ocelové
 
-(OBR. - zebrik)
-
-<!--IMAGE-->
+<img class="centered_image" src="/images/pos/11/zebrik.jpg" />
