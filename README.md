@@ -43,7 +43,7 @@ POS - OTÁZKY
 |   32   | @tomostronos   |          |             |      X      |
 |   33   | @tomostronos   | rampy    |      X      |             |
 |   34   | @tomostronos   |          |             |      X      |
-|   35   | @tomostronos   |          |      X      |             |
+|   35   | @tomostronos   |          |             |      X      |
 |   36   | @Moumirrai     |          |             |      X      |
 |   37   | @Moumirrai     |          |             |      X      |
 |   38   | @Moumirrai     |          |             |      X      |
@@ -53,4 +53,4 @@ POS - OTÁZKY
 |   42   | @lalinek77     |          |             |      X      |
 |   43   | @lalinek77     |          |             |      X      |
 |   44   | @lalinek77     |          |             |             |
-|  Sum   | 44/44 (100%)   |          |      4      | 39/44 (89%) |
+|  Sum   | 44/44 (100%)   |          |      3      | 40/44 (89%) |

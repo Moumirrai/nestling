@@ -75,4 +75,4 @@ Ve styku atiky a obvodové nosné stěny, kde ve střešní kci. dochází (důs
 
 ## Zesilování konstrukcí
 
-**Zesilování základů** - viz mat. otázka 2, oprava základů: ... (ODKAZ)
+[Zesilování základů](/pos/2/#opravy-zakladu) (viz. otázka č. 2)
