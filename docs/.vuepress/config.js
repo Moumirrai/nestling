@@ -93,6 +93,7 @@ module.exports = {
             "/pos/41/",
             "/pos/42/",
             "/pos/43/",
+            "/pos/44/",
           ],
         },
       ],
