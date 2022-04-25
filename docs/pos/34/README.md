@@ -22,11 +22,11 @@ Principy opatření ke snížení vlhkosti v konstrukcích:
 
 Z uvedených principů vyplývají základní metody pro snižování vlhkosti ve stavbách:
 
-- vkládání dodatečných **hydroizolačních vložek** (pásů, fólií, plechů a desek)
-- vytváření infuzních chemických clon (**injektáž**)
-- **vzduchové izolace** s odvětráním do vnějšího prostoru
-- **elektroosmóza**
-- realizace vhodných povrchových úprav (např. **sanační omítka**)
+- vkládání dodatečných [hydroizolačních vložek](#vlozeni-hydroizolacni-vlozky) (pásů, fólií, plechů a desek)
+- vytváření infuzních chemických clon ([injektáž](#chemicka-injektaz))
+- [vzduchové izolace](#vzduchova-izolace) s odvětráním do vnějšího prostoru
+- [elektroosmóza](#elektroosmoza)
+- realizace vhodných povrchových úprav (např. [sanační omítka](#povrchova-uprava-sanacni-omitka))
 - zajištění kvalitního a **bezporuchového odvodnění a odkanalizovaní** objektu (spravit prasklou trubku pod objektem)
 
 ### Vložení hydroizolační vložky
