@@ -20,6 +20,18 @@ v každém nově zřizovaném WC pro veřejnost musí být min. jedna bezbatiér
 
 u budov s administrativním a obdobným provozem stačí upravené hygienické zařízení min. jedno pro dvě podlaží
 
+### Rampy
+
+maximální sklon rampy je 1:12, mimořádně lze použít sklon 1:8 jestliže délka rampy není delší než 3 metry
+
+minimální šířka rampy je 1300mm
+
+v případě, že je rampa delží jak 9 metrů je nutná mezipodesta min. délky 1500mm
+
+rampy musí být opatřeny madly ve výšce 300mm nad podlahou
+
+
+
 ## ŘEŠENÍ PŘÍSTUPU DO STAVEB
 
 v bytových domech s více než čtyřmi nadzemními podlažími je dána povinnost zřizovat výtah
