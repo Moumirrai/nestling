@@ -30,7 +30,7 @@ v případě, že je rampa delží jak 9 metrů je nutná mezipodesta min. délk
 
 rampy musí být opatřeny madly ve výšce 300mm nad podlahou
 
-
+<img class="centered_image" src="/images/pos/33/rampa.jpg" />
 
 ## ŘEŠENÍ PŘÍSTUPU DO STAVEB
 
