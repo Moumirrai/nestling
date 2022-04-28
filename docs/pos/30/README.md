@@ -9,35 +9,25 @@ pageClass: default-page
 
 ### Dle konstrukčního uspořádání
 
-:::warning Řadové
-<br>
+#### Řadové
+---
 <img class="centered_image" src="/images/pos/30/radove.jpg" />
-<br>
-:::
 
-:::warning Prostorové
-<br>
+#### Prostorové
+---
 <img class="centered_image" src="/images/pos/30/prostor.jpg" />
-<br>
-:::
 
-:::warning Vysunuté
-<br>
+#### Vysunuté
+---
 <img class="centered_image" src="/images/pos/30/vysunuta.jpg" />
-<br>
-:::
 
-:::warning Zavěšené
-<br>
+#### Zavěšené
+---
 <img class="centered_image" src="/images/pos/30/zavesena.jpg" />
-<br>
-:::
 
-:::warning Volně stojící
-<br>
+#### Volně stojící
+---
 <img class="centered_image" src="/images/pos/30/zebrikove.jpg" />
-<br>
-:::
 
 :::warning Kozové
 

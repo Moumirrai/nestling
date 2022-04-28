@@ -4,8 +4,6 @@ pageClass: default-page
 
 # 44. PŘÍPRAVA A REALIZACE STAVBY PODLE STAVEBNÍHO ZÁKONA
 
--předmět stavebního zákona
-
 ## Územní plánování
 
 #### **Cíle územního plánování**

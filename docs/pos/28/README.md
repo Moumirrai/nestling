@@ -25,44 +25,44 @@ pageClass: default-page
 
 ### Části vnitřní kanalizace
 
-:::warning Řez svislé kanalizace
-<br>
-<img class="centered_image" src="/images/pos/28/rez_svisla_kanalizace.jpg" />
-
-**1** – uliční stoka, **2** – hlavní svod, **3** – revizní šachta, **4** – dvorní vpust, **5** – vedlejší svody, **6** – odpadní potrubí, **7** –připojovací potrubí, **8** – větrací potrubí, **9** – větrací nástavec, **10** – čistící tvarovka, **11** – lapač splavenin, **12** – napojení dešťového odpadu, **13** – dešťový odpad
+> **Řez svislé kanalizace**
+>
+> <img class="centered_image" src="/images/pos/28/rez_svisla_kanalizace.jpg" />
+>
+><br>
+>
+> **1** – uliční stoka, **2** – hlavní svod, **3** – revizní šachta, **4** – dvorní vpust, **5** – vedlejší svody, **6** – odpadní potrubí, **7** –připojovací potrubí, **8** – větrací potrubí, **9** – větrací nástavec, **10** – čistící tvarovka, **11** – lapač splavenin, **12** – napojení dešťového odpadu, **13** – dešťový odpad
 :::
 
 ### Ležatá kanalizace
 
 - Ležaté potrubí má být vedeno v jednotném spádu minimálně 2 %, pokud by spád překračoval hodnotu 5 %, doporučuje se vybudovat tzv. spádový stupeň
 
-:::warning Ležatá kanalizace
-<br>
-<img class="centered_image" src="/images/pos/28/lezeta_kanalizace.jpg" />
+> **Ležatá kanalizace**
+>
+><img class="centered_image" src="/images/pos/28/lezeta_kanalizace.jpg" />
+>
+> <br>
+>
+> **1** – vyústění z budovy, **2** – hlavní svod, **3** – odbočky k připojení vedlejších svodů, **4** – čistící tvarovka, **5** – oblouky pro změny směru, **6**-**8** – vedlejší svody
 
-**1** – vyústění z budovy, **2** – hlavní svod, **3** – odbočky k připojení vedlejších svodů, **4** – čistící tvarovka, **5** – oblouky pro změny směru, **6**-**8** – vedlejší svody
-:::
+**Hlavní svod** – bývá zpravidla nejdelší a prochází přibližně půdorysným středem budovy. Končí přechodem do kanalizační přípojky nebo napojením do domovní čistírny.
 
-Hlavní svod – bývá zpravidla nejdelší a prochází přibližně půdorysným středem budovy. Končí přechodem do kanalizační přípojky nebo napojením do domovní čistírny.
-
-Vedlejší svody – jsou kratší než svod hlavní a spojují jednotlivá odpadní potrubí s hlavním svodem.
+**Vedlejší svody** – jsou kratší než svod hlavní a spojují jednotlivá odpadní potrubí s hlavním svodem.
 
 ### Kanalizační přípojka
 
 Kanalizační přípojka je podzemní potrubí spojující vnitřní kanalizaci a kanalizační stoku. Jejím úkolem je odvádět z připojené nemovitosti odpadní vodu. Začíná jeden metr za vyústěním ležatého rozvodu z budovy a končí napojením na uliční stoku.
 
-:::warning Přípojka
-<br>
-<img class="centered_image" src="/images/pos/28/pripojka_schema.jpg" />
+> <img class="centered_image" src="/images/pos/28/pripojka_schema.jpg" />
+> 
+> <br>
+>
+> **1** – uliční stoka, **2** – kanalizační přípojka, **3** – vnitřní kanalizace, **4** – revizní šachta, **5** – hranice pozemku
 
-**1** – uliční stoka, **2** – kanalizační přípojka, **3** – vnitřní kanalizace, **4** – revizní šachta, **5** – hranice pozemku
-:::
-
-:::warning Detail přípojky
-<br>
-<img class="centered_image" src="/images/pos/28/pripojka_detail.jpg" />
-<br>
-:::
+> **Detail přípojky**
+>
+> <img class="centered_image" src="/images/pos/28/pripojka_detail.jpg" />
 
 ### Domovní čistírny odpadních vod
 

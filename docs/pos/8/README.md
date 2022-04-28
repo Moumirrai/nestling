@@ -60,23 +60,17 @@ Vyrábějí se standartě ve dvou variantách:
 - průřezy průvlaků bývají nejčastěji tvaru obdélníku, I nebo T
 - průvlaky mohou mít ozub pro uložení panelů
 
-:::warning KONSTRUKČNÍ TVARY PRŮVLAKŮ
-<br>
-<img class="centered_image" src="/images/pos/8/pruvlak1.jpg" />
-<br>
-:::
+> **KONSTRUKČNÍ TVARY PRŮVLAKŮ**
+>
+><img class="centered_image" src="/images/pos/8/pruvlak1.jpg" />
 
-:::warning ULOŽENÍ PRLŮVLAKU NA PRŮBĚŽNÝ SLOUP
-<br>
-<img class="centered_image" src="/images/pos/8/pruvlak2.jpg" />
-<br>
-:::
+> **ULOŽENÍ PRLŮVLAKU NA PRŮBĚŽNÝ SLOUP**
+>
+> <img class="centered_image" src="/images/pos/8/pruvlak2.jpg" />
 
-:::warning POŽADAVKY NA STYK PANELŮ
-<br>
-<img class="centered_image" src="/images/pos/8/pruvlak3.jpg" />
-<br>
-:::
+> **POŽADAVKY NA STYK PANELŮ**
+>
+> <img class="centered_image" src="/images/pos/8/pruvlak3.jpg" />
 
 ## Nosníkové stropy
 
@@ -164,20 +158,18 @@ Vyrábí se ve dvou variantách:
 - překlady se osazují na navlhčenou plochu na 15 mm malty minimální třídy MC 15
 - překlady musí být omítnuty cementovou nebo vápenocementovou omítkou min. tloušťky 10 mm
 
-:::warning PŘEKLADY NA NOSNÉ ZDI
-<br>
-<img class="centered_image" src="/images/pos/8/preklad_nosne.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/8/preklad_nosne1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/8/preklad_nosne2.jpg" />
-<br>
-:::
+> **PŘEKLADY NA NOSNÉ ZDI**
+>
+> <br>
+> <img class="centered_image" src="/images/pos/8/preklad_nosne.jpg" />
+> <br>
+> <img class="centered_image" src="/images/pos/8/preklad_nosne1.jpg" />
+> <br>
+> <img class="centered_image" src="/images/pos/8/preklad_nosne2.jpg" />
 
-:::warning PŘEKLADY NA PŘÍČCE
-<br>
-<img class="centered_image" src="/images/pos/8/preklad_pricky.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/8/preklad_pricky1.jpg" />
-<br>
-:::
+> **PŘEKLADY NA PŘÍČCE**
+>
+> <br>
+> <img class="centered_image" src="/images/pos/8/preklad_pricky.jpg" />
+> <br>
+> <img class="centered_image" src="/images/pos/8/preklad_pricky1.jpg" />

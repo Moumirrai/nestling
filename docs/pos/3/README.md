@@ -7,93 +7,62 @@ pageClass: default-page
 - používají malé kusové dílce, které se dají osazovat ručně
 - většinou se vyzdívá na maltu, někdy lze provést i suché zdění bez malty
 
-## Konstrukční systémy:
+## Konstrukční systémy
 
-### Konstrukční systémy vícepodlažních budov:
+### Konstrukční systémy vícepodlažních budov
 
 #### Stěnové
 
-::: warning Podélný stěnový systém
-<br>
-<img class="centered_image" src="/images/pos/3/image1.jpg" />
-<br>
-:::
+> **Podélný stěnový systém**
+> <img class="centered_image" src="/images/pos/3/image1.jpg" />
 
-::: warning Příčný stěnový systém
-<br>
-<img class="centered_image" src="/images/pos/3/image2.jpg" />
-<br>
-:::
+> **Příčný stěnový systém**
+> <img class="centered_image" src="/images/pos/3/image2.jpg" />
 
-::: warning Obousměrný stěnový systém (buňkový)
-<br>
-<img class="centered_image" src="/images/pos/3/image3.jpg" />
-<br>
-:::
+> **Obousměrný stěnový systém (buňkový)**
+> <img class="centered_image" src="/images/pos/3/image3.jpg" />
 
 #### Sloupové
 
-::: warning S podélnými rámy
-<br>
-<img class="centered_image" src="/images/pos/3/image4.jpg" />
-<br>
-:::
+> **S podélnými rámy**
+> <img class="centered_image" src="/images/pos/3/image4.jpg" />
 
-::: warning S příčnými rámy
-<br>
-<img class="centered_image" src="/images/pos/3/image5.jpg" />
-<br>
-:::
+> **S příčnými rámy**
+> <img class="centered_image" src="/images/pos/3/image5.jpg" />
 
-::: warning Hřibový konstrukční systém
-<br>
-<img class="centered_image" src="/images/pos/3/image6.jpg" />
-<br>
-:::
+> **Hřibový konstrukční systém**
+> <img class="centered_image" src="/images/pos/3/image6.jpg" />
 
 - Sloupový bezprůvlakový konstrukční systém
 
 #### Kombinované
 
-::: warning Sloupový konstrukční systém kombinovaný příčnými nosnými stěnami
-<br>
-<img class="centered_image" src="/images/pos/3/image7.jpg" />
-<br>
-:::
+> **Sloupový konstrukční systém kombinovaný příčnými nosnými stěnami**
+> <img class="centered_image" src="/images/pos/3/image7.jpg" />
 
-::: warning Sloupový konstrukční systém kombinovaný s nosnými stěnovými jádry
-<br>
-<img class="centered_image" src="/images/pos/3/image8.jpg" />
-<br>
-:::
+> **Sloupový konstrukční systém kombinovaný s nosnými stěnovými jádry**
+> <img class="centered_image" src="/images/pos/3/image8.jpg" />
 
-### Konstrukční systémy jednopodlažních budov:
+### Konstrukční systémy jednopodlažních budov
 
 #### Nosníkové
 
-::: warning Zastřešení vazníky a deskami
-<br>
-<img class="centered_image" src="/images/pos/3/image9.jpg" />
-
-**1**. sloupy, **2**. jeřábová dráha, **3**. vazníky
-:::
+> **Zastřešení vazníky a deskami**
+> <img class="centered_image" src="/images/pos/3/image9.jpg" />
+> <br>
+>
+> **1**. sloupy, **2**. jeřábová dráha, **3**. vazníky
 
 #### Deskové
 
-- Zastřešení rovinnými deskami
+> **Zastřešení rovinnými deskami**
+> <img class="centered_image" src="/images/pos/3/image10.jpg" />
 
-::: warning Zastřešení rovinnými deskami
-<br>
-<img class="centered_image" src="/images/pos/3/image10.jpg" />
-<br>
-:::
-
-::: warning Zastřešení zakřivenými deskami
-<br>
-<img class="centered_image" src="/images/pos/3/image11.jpg" />
-
-**1**. sloupy, **2**. příčné průvlaky, **3**. podélné obvodové průvlaky, **4**. zakřivená střešní plocha
-:::
+> **Zastřešení zakřivenými deskami**
+> <img class="centered_image" src="/images/pos/3/image11.jpg" />
+> <br>
+>
+> **1**. sloupy, **2**. příčné průvlaky, **3**. podélné obvodové průvlaky, **4**. zakřivená střešní plocha
 
 ## Modulová koordinace
 
@@ -101,7 +70,7 @@ pageClass: default-page
 
 - ZÁKLADNÍ ROZMĚROVÁ JEDNOTKA = <Badge type="warning" text="MODUL - M = 100 mm" vertical="middle" />
 
-### Odvozené jednotky:
+### Odvozené jednotky
 
 #### Zvětšené
 
@@ -121,7 +90,7 @@ pageClass: default-page
 - 1/5 M = 20 mm
 - ½ M = 50 mm
 
-### Unifikace:
+### Unifikace
 
 - vybrané sjednocené rozměry
 - doporučené hodnoty pro půdorysné a skladebné parametry jsou 2400, 3000, 3600, 4800, 6000, 9000, 12000, 18000 a dále n x 6000 mm
@@ -145,105 +114,64 @@ pageClass: default-page
 
 ### Kamenné zdivo
 
-::: warning Režné zdivo
-<br>
-<img class="centered_image" src="/images/pos/3/image13.jpg" />
-<br>
-:::
+> **Režné zdivo**
+> <img class="centered_image" src="/images/pos/3/image13.jpg" />
 
-::: warning Kyklopské zdivo
-<br>
-<img class="centered_image" src="/images/pos/3/image14.jpg" />
-<br>
-:::
+> **Kyklopské zdivo**
+> <img class="centered_image" src="/images/pos/3/image14.jpg" />
 
-::: warning Řádkové zdivo hrubé (z hrubých kopáků)
-<br>
-<img class="centered_image" src="/images/pos/3/image15.jpg" />
-<br>
-:::
+> **Řádkové zdivo hrubé (z hrubých kopáků)**
+> <img class="centered_image" src="/images/pos/3/image15.jpg" />
 
-::: warning Řádkové zdivo čisté (z čistých kopáků)
-<br>
-<img class="centered_image" src="/images/pos/3/image16.jpg" />
-<br>
-:::
+> **Řádkové zdivo čisté (z čistých kopáků)**
+> <img class="centered_image" src="/images/pos/3/image16.jpg" />
 
-::: warning Haklíkové zdivo
-<br>
-<img class="centered_image" src="/images/pos/3/image17.jpg" />
-<br>
-:::
+> **Haklíkové zdivo**
+> <img class="centered_image" src="/images/pos/3/image17.jpg" />
 
-::: warning Smíšené zdivo s cihel a lomového kamene
-<br>
-<img class="centered_image" src="/images/pos/3/image18.jpg" />
-<br>
-:::
+> **Smíšené zdivo s cihel a lomového kamene**
+> <img class="centered_image" src="/images/pos/3/image18.jpg" />
 
 ### Cihelné zdivo
 
 #### Druhy vazeb zdiva:
 
-::: warning Vazáková vazba
-<br>
-<img class="centered_image" src="/images/pos/3/image19.jpg" />
-<br>
-:::
+> **Vazáková vazba**
+> <img class="centered_image" src="/images/pos/3/image19.jpg" />
 
-::: warning Polokřížová vazba
-<br>
-<img class="centered_image" src="/images/pos/3/image20.jpg" />
-<br>
-:::
+> **Polokřížová vazba**
+> <img class="centered_image" src="/images/pos/3/image20.jpg" />
 
-::: warning Křížová vazba
-<br>
-<img class="centered_image" src="/images/pos/3/image21.jpg" />
-<br>
-:::
+> **Křížová vazba**
+> <img class="centered_image" src="/images/pos/3/image21.jpg" />
 
 #### Druhy vazeb zdiva v půdoryse:
 
-::: warning Zeď tloušťky 300 a 450 mm
-<br>
-<img class="centered_image" src="/images/pos/3/image22.jpg" />
+> **Zeď tloušťky 300 a 450 mm**
+> <img class="centered_image" src="/images/pos/3/image22.jpg" />
+>
+>**1**. vazáková vrstva, **2**. běhounová vazba
 
-**1**. vazáková vrstva, **2**. běhounová vazba
-:::
+> **Ukončení zdi tloušťky 450 mm pomocí tříčtvrtečních cihel**
+> <img class="centered_image" src="/images/pos/3/image23.jpg" />
 
-::: warning Ukončení zdi tloušťky 450 mm pomocí tříčtvrtečních cihel
-<br>
-<img class="centered_image" src="/images/pos/3/image23.jpg" />
-<br>
-:::
+> **Křížení zdí tloušťky 450 a 300 mm**
+> <img class="centered_image" src="/images/pos/3/image24.jpg" />
+>
+>**1**. první vrstva, **2**. druhá vrstva
 
-::: warning Křížení zdí tloušťky 450 a 300 mm
-<br>
-<img class="centered_image" src="/images/pos/3/image24.jpg" />
+> **Vazba rohu zdi tloušťky 450 mm**
+><img class="centered_image" src="/images/pos/3/image25.jpg" />
 
-**1**. první vrstva, **2**. druhá vrstva
-:::
+> **Vazba připojení zdi tloušťky 450 mm**
+> <img class="centered_image" src="/images/pos/3/image26.jpg" />
+>
+> **1**. první vrstva, **2**. druhá vrstva
 
-::: warning Vazba rohu zdi tloušťky 450 mm
-<br>
-<img class="centered_image" src="/images/pos/3/image25.jpg" />
-<br>
-:::
-
-::: warning Vazba připojení zdi tloušťky 450 mm
-<br>
-<img class="centered_image" src="/images/pos/3/image26.jpg" />
-
-**1**. první vrstva, **2**. druhá vrstva
-:::
-
-::: warning Zalomené ostění
-<br>
-<img class="centered_image" src="/images/pos/3/image27.jpg" />
-
-**1**. první vrstva, **2**. druhá vrstva
-:::
+> **Zalomené ostění**
+> <img class="centered_image" src="/images/pos/3/image27.jpg" />
+>
+> **1**. první vrstva, **2**. druhá vrstva
 
 ### Zdivo z keramických tvárnic
 

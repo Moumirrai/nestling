@@ -14,15 +14,11 @@ Dřevěné stropy jsou lehké a přitom únosné, mají dobré tepelně a zvukov
 
 Povaly jsou většinou ze tří stran hraněné trámy, někdy lze použít i povaly z kulatiny. Na horní líc povalů může být provedena vrstva hliněné mazaniny nebo násyp s podlahou na polštářích. Spodní líc povalů je bez omítky nebo je opatřen rákosovou omítkou. Povalové stropy se používají do rozponu 4,5m
 
-::: warning Povalový strop
-<br>
-
-<img class="centered_image" src="/images/pos/5/1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/5/2.jpg" />
-
-**1** - dřevěné povaly, **2** – ocelové skoby
-:::
+> <img class="centered_image" src="/images/pos/5/1.jpg" />
+> 
+> **1** - dřevěné povaly, **2** – ocelové skoby
+> <br>
+> <img class="centered_image" src="/images/pos/5/2.jpg" />
 
 ### Stropy trámové
 
@@ -31,12 +27,12 @@ Povaly jsou většinou ze tří stran hraněné trámy, někdy lze použít i po
 - zhlaví trámů a jejich podložka se impregnují, v kapse musí být vzduchová mezera na ochranu proti vlhkosti
 
 Pro výšení stability nosných zdí se některé trámy kotví ocelovými kotvami do zdi. V minulosti se používaly trámové kleštiny, které se osazovaly obvykle u krajních trámů, nad meziokenními pilíři ve vzdálenosti max. 3 až 4 m. Záklop tvoří desky spojené na pero a drážku nebo překryté lištami. Násyp ze škváry nebo pórobetonové drti působí částečně jako protipožární ochrana a slouží k uložení podlahy. Podhled trámových stropů tvoří buď omítka na pletivu, na rákosové rohoži nebo dřevocementové a sádrokartonové desky, které zvyšují požární odolnost stropů. Dřevěné trámové stropy se používají na rozpětí do 5 - 6,5 m.
-:::warning Jednoduchý trámový strop s viditelnými trámy
-<br>
-<img class="centered_image" src="/images/pos/5/3.jpg" />
 
-**1** – fošny, **2** – trám, **3** - podlahová lišta, **4** - podkladní prkno, **5** - trámová klešť
-:::
+> **Jednoduchý trámový strop s viditelnými trámy**
+>
+><img class="centered_image" src="/images/pos/5/3.jpg" />
+>
+>**1** – fošny, **2** – trám, **3** - podlahová lišta, **4** - podkladní prkno, **5** - trámová klešť
 
 #### Rozdělení trámových stropů
 
@@ -147,20 +143,19 @@ Stropy polospalné jsou při horním líci opatřeny násypem ve vrstvě min. 80
 
 ## Řešení výměn a dalších problémů
 
-:::warning Výměna u komínu
-<br>
-
-<img class="centered_image" src="/images/pos/5/9.jpg" />
-
-**1** - normální stropní trám, **2** - zkrácený stropní trám, **3** - trámová výměna
-
-Spojení trámu s výměnnou
-
-<img class="centered_image" src="/images/pos/5/10.jpg" />
-
-**1** – zkrácený stropní trám, **2** – trámová výměna, **3** – skoby
-
-:::
+> **Výměna u komínu**
+>
+> <img class="centered_image" src="/images/pos/5/9.jpg" />
+>
+> **1** - normální stropní trám, **2** - zkrácený stropní trám, **3** - trámová výměna
+>
+> <br>
+>
+> **Spojení trámu s výměnnou**
+>
+><img class="centered_image" src="/images/pos/5/10.jpg" />
+> 
+> **1** – zkrácený stropní trám, **2** – trámová výměna, **3** – skoby
 
 :::warning Uložení příček a jejich podporování stropní konstrukcí
 <br>
