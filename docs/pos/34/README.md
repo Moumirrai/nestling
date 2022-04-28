@@ -14,20 +14,20 @@ Metoda sanace a způsobu ochrany budovy před vnikáním vlhkosti do kce. se mus
 
 Principy opatření ke snížení vlhkosti v konstrukcích:
 
-- **vybudování "hydroizolačních clon"** zamezující prostup vlhkosti do materiálu stavby (vodorovná a svislá hydroizolace podzemní, hydroizolace střešního pláště)
-- **účinné větrání** vnitřního vzduchu, umožňující prostup vlhkosti z konstrukce do suššího venkovního vzduchu
-- provedení **vhodných difúzně prostupných povrchových úprav** kcí. umožňujících vysušování zdiva (především difúzně propustná povrchová úprava **na vnější straně** obvodové kce.)
-- porvedení **vhodných parotěsných povrchových úprav** zabraňující vnikání vlhkosti a její kondenzaci uvnitř kcí. (parotěsná zábrana **na vnitřní straně** lehké obvodové kce.)
-- zajištění **odvádění vody** mimo objekt (drenáže, nepoškozené vedení kanalizačního potrubí)
+- **VYBUDOVÁNÍ "HYDROIZOLAČNÍCH CLON"** zamezující prostup vlhkosti do materiálu stavby (vodorovná a svislá hydroizolace podzemní, hydroizolace střešního pláště)
+- **ÚČINNÉ VĚTRÁNÍ** vnitřního vzduchu, umožňující prostup vlhkosti z konstrukce do suššího venkovního vzduchu
+- **PROVEDENÍ VHODNÝCH DIFÚZNĚ PROSTUPNÝCH POVRCHOVÝCH ÚPRAV** kcí. umožňujících vysušování zdiva (především difúzně propustná povrchová úprava **na vnější straně** obvodové kce.)
+- **PROVEDENÍ VHODNÝCH PAROTĚSNÝCH POVRCHOVÝCH ÚPRAV** zabraňující vnikání vlhkosti a její kondenzaci uvnitř kcí. (parotěsná zábrana **na vnitřní straně** lehké obvodové kce.)
+- **ZAJIŠTĚNÍ ODVÁDĚNÍ VODY** mimo objekt (drenáže, nepoškozené vedení kanalizačního potrubí)
 
 Z uvedených principů vyplývají základní metody pro snižování vlhkosti ve stavbách:
 
-- vkládání dodatečných [hydroizolačních vložek](#vlozeni-hydroizolacni-vlozky) (pásů, fólií, plechů a desek)
+- [vkládání dodatečných hydroizolačních vložek](#vlozeni-hydroizolacni-vlozky) (pásů, fólií, plechů a desek)
 - vytváření infuzních chemických clon ([injektáž](#chemicka-injektaz))
 - [vzduchové izolace](#vzduchova-izolace) s odvětráním do vnějšího prostoru
 - [elektroosmóza](#elektroosmoza)
 - realizace vhodných povrchových úprav (např. [sanační omítka](#povrchova-uprava-sanacni-omitka))
-- zajištění kvalitního a **bezporuchového odvodnění a odkanalizovaní** objektu (spravit prasklou trubku pod objektem)
+- **zajištění kvalitního a bezporuchového odvodnění a odkanalizovaní** objektu (spravit prasklou trubku pod objektem)
 
 ### Vložení hydroizolační vložky
 
