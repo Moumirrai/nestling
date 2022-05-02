@@ -10,7 +10,7 @@ pageClass: default-page
 - nosníky - POT systém MIAKO (Wienerberger, Heluz) a nosníky firem (Ytong, Porfix), ocelové nosníky profilu I
 - vložky - MIAKO (keramické), pórobetonové (Ytong, Porfix), Hurdis (keramické)
 
-## Stropy Hurdis
+## Stropy HURDIS
 
 - na desky Hurdis se pokládá separační vrstva, na kterou se následně klade výplňový materiál do 900kg/m² (škvára, polystyren,), po urověň nosníků, a poté se strop zalije beton, který tvoří roznášecí vrstvu budoucí podlahy
 - tloušťka stropu Hurdis je 240mm a více
@@ -44,10 +44,11 @@ pageClass: default-page
 ## Stropy MIAKO
 
 - výrobci - Wienerberger(Porotherm), Heluz
-- **nosník** - prefabrikovaný POT nosník, skládá se z kerabmické patky do které je zabetonovaná hlavní nosná příhradová výztuž typu filigram, po osazení se musí podepřít, až potom se může pokračovat v konstrukci, uložení min. 125mm
+- **nosník** - prefabrikovaný POT nosník, skládá se z keramické patky do které je zabetonovaná hlavní nosná příhradová výztuž typu filigram, po osazení se musí podepřít, až potom se může pokračovat v konstrukci, uložení min. 125mm
 - **osová vzdálenost** - 500mm nebo 625mm
 - světlost stropu až 8m
 - strop plní funkci až po nabytí pevnosti nadbetonávky, či zálivky u stropů bez nadbetonávky
+- pro stropy bez nadbetonávky se používají zvýšené vložky MIAKO 25 BNK
 
 :::warning Nosníky POT
 <br>
@@ -80,3 +81,56 @@ pageClass: default-page
 <br>
 
 :::
+
+:::warning Detaily uložení
+<br>
+<img class="centered_image" src="/images/pos/6/det1.jpg" />
+<br>
+<img class="centered_image" src="/images/pos/6/det2.jpg" />
+<br>
+:::
+
+## Stropy YTONG
+
+- výrobce - Xella
+- **nosník** - výztuž typu filigram zabetonovaná do betonové patky, výšky 40mm, typ A, celková výška 205mm(pro kce 250mm), typ C, celková výška 175mm(pro kce 200mm)
+- min. uložení nosníků je 150 mm 
+- **osová vzdálenost** - 680 mm 
+- stropy Klasik a Ekonom - Klasik má nadbetonávku min. 50mm, Ekonom je bez nadbetonávky
+- **vložky** - pórobetonové, výšek 200mm, 250mm a vložka snížená 100mm
+- stropy se dají využít i jako střešní konstrukce
+
+:::warning Vložky
+<br>
+<img class="centered_image" src="/images/pos/6/Y.jpg" />
+<br>
+
+:::
+
+:::warning Strop Klasik
+<br>
+<img class="centered_image" src="/images/pos/6/klasik.jpg" />
+<br>
+
+:::
+
+:::warning Strop Ekonom
+<br>
+-    každá pátá vložka je snížená s přidanou výztuží, kvůli statice
+
+-   pro akustickou normu se musí přidávat kročejová izolace
+<br>
+<br>
+<img class="centered_image" src="/images/pos/6/eko.jpg" />
+<br>
+
+:::
+
+## Kontrukce a navrhování stropů
+
+- 1. uložení nosníků
+- 2. podepření nosníků, max v rastru 1500 x 1500 mm
+- 3. položení vložek
+- 4. vyztužení, věnec, věncovka, izolace, položení kari sítě
+- 5. vylití betonu pro zálivky a popřípadě nadbetonávky
+- podpěry se oddělávají až po nabytí pevnosti betonu nadbetonávky
