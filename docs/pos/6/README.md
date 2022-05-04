@@ -5,14 +5,14 @@ pageClass: default-page
 # 6. STROPNÍ KCE Z NOSNÍKŮ A VLOŽEK
 
 - stropní konstrukce rozdělují objekt po výšce na podlaží a vytváří nosnou konstrukci pro uvažovaný provoz a další konstrukce nutné k jeho zajištění
-- musí plnit funkci statickou, akustickou, protipožární a  tepelnětechnickou
+- musí plnit funkci statickou, akustickou, protipožární a  tepelně-technickou
 - vložky a nosníky tvoří ztracené bednění pro dodatečné betonování
 - nosníky - POT systém MIAKO (Wienerberger, Heluz) a nosníky firem (Ytong, Porfix), ocelové nosníky profilu I
 - vložky - MIAKO (keramické), pórobetonové (Ytong, Porfix), Hurdis (keramické)
 
 ## Stropy HURDIS
 
-- na desky Hurdis se pokládá separační vrstva, na kterou se následně klade výplňový materiál do 900kg/m² (škvára, polystyren,), po urověň nosníků, a poté se strop zalije beton, který tvoří roznášecí vrstvu budoucí podlahy
+- na desky Hurdis se pokládá separační vrstva, na kterou se následně klade výplňový materiál do 900kg/m² (škvára, polystyren,), po úrověň nosníků, a poté se strop zalije beton, který tvoří roznášecí vrstvu budoucí podlahy
 - tloušťka stropu Hurdis je 240mm a více
 - **nosníky** - válcované ocelové nosníky profilu I č.180, nebo prefabrikované nosníky HF výšky 180 nebo 225
 - **vložky** - CSD Hurdis I - deska s kolmým čelem, CSD Hurdis II + CSD Hurdis pa - deska s šikmým čelem
@@ -29,7 +29,7 @@ pageClass: default-page
 <img class="centered_image" src="/images/pos/6/1.jpg" />
 <br>
 
-**Desky s šíkmým čelem**
+**Desky s šikmým čelem**
 <br>
 <img class="centered_image" src="/images/pos/6/2.jpg" />
 <br>
@@ -126,7 +126,7 @@ pageClass: default-page
 
 :::
 
-## Kontrukce a navrhování stropů
+## Konstrukce a navrhování stropů
 
 - 1. uložení nosníků
 - 2. podepření nosníků, max v rastru 1500 x 1500 mm
@@ -186,7 +186,7 @@ Nadpraží je tvořeno železobetonovými překlady vybetonovanými do keramick�
 <img class="centered_image" src="/images/pos/6/podepreni.jpg" />
 <br>
 
-- **Použití v přičkách**
+- **Použití v příčkách**
 <br>
 <img class="centered_image" src="/images/pos/6/pricky.jpg" />
 <br>
@@ -202,7 +202,7 @@ Nadpraží je tvořeno železobetonovými překlady vybetonovanými do keramick�
 
 - Překlady pro větší světlost otvorů
 - délka 3750 - 6500mm - uložení 250mm 
-- tvoří je díly KP Vario a obnažená hlavvní výztuž, KP Vario tvoří ztracené bednění
+- tvoří je díly KP Vario a obnažená hlavní výztuž, KP Vario tvoří ztracené bednění
 
 :::warning KP XL
 <br>
