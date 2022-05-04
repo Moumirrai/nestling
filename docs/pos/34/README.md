@@ -55,6 +55,8 @@ Princip je v tom, že se do zavlhlého pórovitého materiálu zdiva napouští 
 
 Se vzduchovými hydroizolačními systémy se můžeme setkat u řady historických staveb. V současnosti se používají převážně při rekonstrukcích a sanacích poruch. Princip vzduchové izolace je vytvoření vzduchové dutiny (příčkou), zpravidla **odvětrávané**, nebo použití různých druhů provětrávaných drenážních systémů a kanálků
 
+<img class="centered_image" src="/images/pos/34/izolace-pomoci-predsteny.jpg" />
+
 ### Elektroosmóza
 
 Princip spočívá ve slabých elektrických proudech, které vznikají při vzlínání zemní vlhkosti zdivem. Uzemní-li se část vlhkého zdiva, vznikne uzavřený elektrický obvod, který obrací původní směr vzlínání v kapiláře.
