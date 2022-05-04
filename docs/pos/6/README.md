@@ -134,3 +134,101 @@ pageClass: default-page
 - 4. vyztužení, věnec, věncovka, izolace, položení kari sítě
 - 5. vylití betonu pro zálivky a popřípadě nadbetonávky
 - podpěry se oddělávají až po nabytí pevnosti betonu nadbetonávky
+
+
+## Keramobetonová nadpraží
+
+Nadpraží je tvořeno železobetonovými překlady vybetonovanými do keramických tvarovek, v betonové výplni se nachází ocelová výztuž, mohou být i spřažené - spolupůsobící s nadezdívkou nebo nadbetonávkou. Nadpraží v obvodových stěnách jsou skládaná s vloženou vrstvou tepelné izolace nebo dodatečně izolované kontaktní vrstvou tepelné izolace.
+
+### Nosné keramické překlady z tvaru U (Heluz, Porotherm KP7)
+
+- tvoří je keramické bednění ve tvaru U, výztuž a betonová výplň
+- délky 1000 až 3500mm 
+- není nutné podepření před zděním - je ihned účinný
+
+:::warning KP 7 
+<br>
+<img class="centered_image" src="/images/pos/6/roz.jpg" />
+<br>
+
+- **Uložení**
+<br>
+<img class="centered_image" src="/images/pos/6/uloz.jpg" />
+<br>
+
+- **Nadpraží odlišných tlouštěk zdí**
+<br>
+<img class="centered_image" src="/images/pos/6/skladba.jpg" />
+<br>
+
+- **Detail nadpraží**
+<img class="centered_image" src="/images/pos/6/zed.jpg" />
+<br>
+
+:::
+
+### Ploché překlady (Heluz, Porotherm KP 11,5 a KP 14,5)
+
+- tvoří je keramické tvarovky délky 250mm, šířky 115 nebo 145mm a jsou vysoké 71mm
+- při provádění je nutno je podepřít, nosné je až po nadezdění
+- délky 1000 až 3000mm
+- min. uložení je u všech rozměrů 120mm
+
+:::warning KP 11,5 a KP 14,5
+
+- **Rozměry**
+<br>
+<img class="centered_image" src="/images/pos/6/kp.jpg" />
+<br>
+
+- **Podepření překladů**
+<br>
+<img class="centered_image" src="/images/pos/6/podepreni.jpg" />
+<br>
+
+- **Použití v přičkách**
+<br>
+<img class="centered_image" src="/images/pos/6/pricky.jpg" />
+<br>
+
+- **Použití v obvodovém zdivu**
+<br>
+<img class="centered_image" src="/images/pos/6/obvod.jpg" />
+<br>
+
+:::
+
+### Prefamonolitický překlad KP XL (Porotherm)
+
+- Překlady pro větší světlost otvorů
+- délka 3750 - 6500mm - uložení 250mm 
+- tvoří je díly KP Vario a obnažená hlavvní výztuž, KP Vario tvoří ztracené bednění
+
+:::warning KP XL
+<br>
+<img class="centered_image" src="/images/pos/6/xl.jpg" />
+<br>
+
+<img class="centered_image" src="/images/pos/6/xl1.jpg" />
+<br>
+
+:::
+
+### Keramické překlady roletové (Heluz, Porotherm KP Vario)
+
+- Keramické tvarovky pro nadokenní a dveřní nadpraží s roletovým truhlíkem pro vnější žaluzie
+
+:::warning KP Vario
+<br>
+<img class="centered_image" src="/images/pos/6/UNI.jpg" />
+<br>
+
+<br>
+<img class="centered_image" src="/images/pos/6/vario.jpg" />
+<br>
+
+<br>
+<img class="centered_image" src="/images/pos/6/varo.jpg" />
+<br>
+
+:::
