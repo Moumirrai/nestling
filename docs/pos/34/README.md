@@ -8,7 +8,7 @@ pageClass: default-page
 
 ### Sanace
 
-- odstranění příčiny vzniku škodu + napravení škod
+- odstranění příčiny vzniku škody + napravení škod
 
 Metoda sanace a způsobu ochrany budovy před vnikáním vlhkosti do kce. se musí vybrat na základě podrobného odborného průzkumu, který má najít zdroj vlhkosti.
 

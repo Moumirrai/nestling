@@ -4,18 +4,18 @@ pageClass: default-page
 
 # 11. SCHODIŠTĚ S JEDNOSTRANNĚ A OBOUSTRANNĚ PODPOROVANÝMI STUPNI
 
-do skupiny jednostranně a oboustranně podporovaných schodišť patří:
+Do skupiny jednostranně a oboustranně podporovaných schodišť patří:
 
 - schodnicové schodiště  
   - s jednou schodnicí  
   - se dvěmi schodnicemi 
 - vřetenové schodiště
-  - jednostrnně podporovaná
+  - jednostranně podporovaná
   - oboustranně podporovaná - uložená na zdivu
 - zavěšená schodiště 
 - visutá schodiště
 
-dle materiálu je můžeme rozdělit na:
+Dle materiálu je můžeme rozdělit na:
 
 - dřevěná
 - ocelová
@@ -24,7 +24,7 @@ dle materiálu je můžeme rozdělit na:
 
 ## Schodnicové schodiště
 
-Schodnicová schodiště jsou nejčastějším typem dřevěných a kovových schodišt
+Schodnicová schodiště jsou nejčastějším typem dřevěných a kovových schodišť
 
 Nosnou část, která přenáší zatížení do podpor (podestových nosníků/stropů), tvoří tkzv. **schodnice**.
 
@@ -34,7 +34,7 @@ Schodnice ve schodišti může být bud jedna nebo více
 
 <img class="centered_image" src="/images/pos/11/schodnice2.jpg" />
 
-druhy (dřevěných) schodnicových schodišt podle osazení stupnu:
+Druhy (dřevěných) schodnicových schodišť podle osazení stupňů:
 
 - se zadlabanými stupni
 - se zapuštěnými stupni
@@ -70,7 +70,7 @@ Stupně jsou zavěšeny na táhlech nebo lanech které se kotví na stropní kon
 
 Schodišťové stupně jsou jednostranně vetknuté do schodišťových stěn. Stupně mají volné konce krakorcově vyložené
 
-Jsou pracná, neboď jednotlivé stupně se osazují současně s vyzdíváním schodišťových zdí.
+Jsou pracná, neboť jednotlivé stupně se osazují současně s vyzdíváním schodišťových zdí.
 
 Stupně se zazdívají na hloubku min. 300mm
 
@@ -78,7 +78,7 @@ Stupně se zazdívají na hloubku min. 300mm
 
 ## Žebříková/strmá schodiště
 
-- jednoramenné schodiště se dvěmu schodnicemi, nemající podstupnice
+- jednoramenné schodiště se dvěma schodnicemi, nemající podstupnice
 - nejčastěji dřevěné nebo ocelové
 
 <img class="centered_image" src="/images/pos/11/zebrik.jpg" />

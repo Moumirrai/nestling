@@ -10,15 +10,15 @@ Střecha - střešní kce. odděluje vnitřní (chráněné) prostředí budovy 
 
 pode sklonu dělíme střechy:
 
-- poloché (sklon ≤ 5°)
+- ploché (sklon ≤ 5°)
 - sklonité  
   - šikmé (sklon 5° -  45°)  
   - strmé (sklon ≥ 45°)
 
 podle využití:
 
-- bez provozu (vstup je umožněň pouze pro kontrolu a údržbu konstrukce)
-- s provozem (prosor je využíván pro účely dopravy, rekreace, technologického provozu...)
+- bez provozu (vstup je umožněn pouze pro kontrolu a údržbu konstrukce)
+- s provozem (prostor je využíván pro účely dopravy, rekreace, technologického provozu...)
 
 podle počtu střešních plášťů:
 
@@ -44,10 +44,10 @@ vzduchová mezera (prostor mezi plášti střechy) může být:
 
 ## Skladby plochých střech
 
-rozličujeme dva základní typy skladby u jednoplášťové střechy:
+Rozlišujeme dva základní typy skladby u jednoplášťové střechy:
 
 - s klasickým pořadím vrstev
-- s obráceným pozadím vrstev (tkzv. inverzní)
+- s obráceným pozadím vrstev (tzv. inverzní)
 
 **SKLADBA S KLASICKÝM POŘADÍM VRSTEV** - Hydroizolace se nachází nad tepelnou izolací
 
@@ -69,7 +69,7 @@ rozličujeme dva základní typy skladby u jednoplášťové střechy:
 
 Místo pro odvod vody z ploché střechy
 
-Vždy **minimálně 2 vtoky** na káždé střeše
+Vždy **minimálně 2 vtoky** na každé střeše
 
 Maximální vzdálenost vtoků od atiky je 15m. Vtoky je nutno umisťovat min. 0,5m od konstrukcí vystupjící nad rovinu střechy (komíny, atiky...)
 
@@ -99,6 +99,6 @@ Výška min. 150mm nad rovinou střechy. Nutno dilatačně oddělit 20 - 30mm od
 
 - asfaltové pásy (tl. 3 - 5mm)
 - fólie (tl. 1,2 - 2mm)
-- stěrky (tkzv. tekuté folie)
+- stěrky (tzv. tekuté folie)
 
 <img class="centered_image" src="/images/pos/15/schema.jpg" />

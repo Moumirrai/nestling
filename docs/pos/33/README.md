@@ -16,7 +16,7 @@ kuchyňská linka musí být řešena tak, aby byl umožněn podjezd vozíku a z
 
 <img class="centered_image" src="/images/pos/33/linka.jpg" />
 
-v každém nově zřizovaném WC pro veřejnost musí být min. jedna bezbatiérová kabina v oddělení pro muže a v oddělení pro ženy
+v každém nově zřizovaném WC pro veřejnost musí být min. jedna bezbariérová kabina v oddělení pro muže a v oddělení pro ženy
 
 u budov s administrativním a obdobným provozem stačí upravené hygienické zařízení min. jedno pro dvě podlaží
 
@@ -26,7 +26,7 @@ maximální sklon rampy je 1:12, mimořádně lze použít sklon 1:8 jestliže d
 
 minimální šířka rampy je 1300mm
 
-v případě, že je rampa delží jak 9 metrů je nutná mezipodesta min. délky 1500mm
+v případě, že je rampa delší jak 9 metrů je nutná mezipodesta min. délky 1500mm
 
 rampy musí být opatřeny madly ve výšce 300mm nad podlahou
 

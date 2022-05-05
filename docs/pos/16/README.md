@@ -24,14 +24,14 @@ pageClass: default-page
 
 2. ### Dispozičně provozní
 
-   - požadavek na bezpečnost provozu --> požadavky na zábradlí, požadavky na povrchy podah, prostorové požadavky
+   - požadavek na bezpečnost provozu --> požadavky na zábradlí, požadavky na povrchy podlah, prostorové požadavky
 
 <img class="centered_image" src="/images/pos/16/vyskazabradli.jpg" />
 
 3. ### Izolační
 
    - zvuková izolace
-   - tepelná izolace (nutné řešit tkzv. tepelné mosty)
+   - tepelná izolace (nutné řešit tzv. tepelné mosty)
 
    Tři základní způsoby přerušení tepelných mostů u převislých kcí:
 
@@ -47,7 +47,7 @@ pageClass: default-page
 
    3. **vložení TI do přerušené ŽB kce. (ISO nosníky)**
 
-      - ŽB deska je přerušena TI (ISO nosníkem), který má v sobě zakotvenou skze TI betonářskou výztuž na obě strany a po zabetonování spolupůsobí se stropní konstrukcí
+      - ŽB deska je přerušena TI (ISO nosníkem), který má v sobě zakotvenou srkze TI betonářskou výztuž na obě strany a po zabetonování spolupůsobí se stropní konstrukcí
 
    <br>
    <img class="centered_image" src="/images/pos/16/isonosnik1.jpg" />
@@ -162,6 +162,6 @@ Nutno řešit:
 
 ## Pavlače
 
-chodba vně budovy
+Chodba vně budovy
 
 <img class="centered_image" src="/images/pos/16/pavlac.jpg" />
