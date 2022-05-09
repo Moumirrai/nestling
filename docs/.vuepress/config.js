@@ -77,6 +77,7 @@ module.exports = {
             "/pos/30/",
             "/pos/31/",
             "/pos/32/",
+            "/pos/33/",
             "/pos/34/",
             "/pos/35/",
             "/pos/36/",
