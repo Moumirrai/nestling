@@ -1,11 +1,8 @@
 ## NESTLING
 
-- cílem tohoto projektu je vytvořit jednoduchou a intuitivní platformu na učení a opakování maturitních otázek pro Střední školy stavebného zaměření.
-- pokud chcete přispět svým časem či vědomostmi můžete nahrát materiály do níže uvedené složky
-
 [![upload](https://i.postimg.cc/vBFCNyGj/button-nahrat.png)](https://mega.nz/megadrop/kqKInvroV94)
 
-POS - OTÁZKY
+POS
 
 | Number | Assigned to    | Note     | In progress |  Finished   |
 | :----: | -------------- | -------- | :---------: | :---------: |
@@ -14,7 +11,7 @@ POS - OTÁZKY
 |   3    | @lalinek77     |          |             |      X      |
 |   4    | @Fantastyk     |          |             |      X      |
 |   5    | @Fantastyk     |          |             |      X      |
-|   6    | @Fantastyk     |          |             |             |
+|   6    | @Fantastyk     |          |             |      X      |
 |   7    | @Moumirrai     |          |             |      X      |
 |   8    | @Moumirrai     |          |             |      X      |
 |   9    | @Moumirrai     |          |             |      X      |
