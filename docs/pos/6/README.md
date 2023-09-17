@@ -25,19 +25,16 @@ pageClass: default-page
 <br>
 
 **Desky s kolmým čelem**
-<br>
-<img class="centered_image" src="/images/pos/6/1.jpg" />
-<br>
+
+![](/images/pos/6/1.jpg =800x)
 
 **Desky s šikmým čelem**
-<br>
-<img class="centered_image" src="/images/pos/6/2.jpg" />
-<br>
+
+![](/images/pos/6/2.jpg)
 
 **Prefabrikovaný nosník HF**
-<br>
-<img class="centered_image" src="/images/pos/6/3.jpg" />
-<br>
+
+![](/images/pos/6/3.jpg =800x)
 
 :::
 
@@ -51,78 +48,69 @@ pageClass: default-page
 - pro stropy bez nadbetonávky se používají zvýšené vložky MIAKO 25 BNK
 
 :::warning Nosníky POT
-<br>
-<img class="centered_image" src="/images/pos/6/nos.jpg" />
-<br>
+
+![](/images/pos/6/nos.jpg)
+
 :::
 
 :::warning Vložky
-<br>
-<img class="centered_image" src="/images/pos/6/v4.jpg" />
-<br>
+
+![](/images/pos/6/v4.jpg =800x)
 
 :::
 
 :::warning Postup prací
-<br>
-<img class="centered_image" src="/images/pos/6/strop.jpg" />
-<br>
+
+![](/images/pos/6/strop.jpg)
+
 :::
 
 :::warning Řešení výměn
 
-- nosníky POT u výměn budou zdvojené 
+- nosníky POT u výměn budou zdvojené
 - pro výměny se využívají snížené vložky a dodatečná výztuž betonářská výztuž, nebo často se využívají nosníky profilu HEA, HEB
 
-<br>
-<img class="centered_image" src="/images/pos/6/vymena.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/6/vymena2.jpg" />
-<br>
+![](/images/pos/6/vymena.jpg)
+
+![](/images/pos/6/vymena2.jpg)
 
 :::
 
 :::warning Detaily uložení
-<br>
-<img class="centered_image" src="/images/pos/6/det1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/6/det2.jpg" />
-<br>
+
+![](/images/pos/6/det1.jpg)
+
+![](/images/pos/6/det2.jpg)
+
 :::
 
 ## Stropy YTONG
 
 - výrobce - Xella
 - **nosník** - výztuž typu filigram zabetonovaná do betonové patky, výšky 40mm, typ A, celková výška 205mm(pro kce 250mm), typ C, celková výška 175mm(pro kce 200mm)
-- min. uložení nosníků je 150 mm 
-- **osová vzdálenost** - 680 mm 
+- min. uložení nosníků je 150 mm
+- **osová vzdálenost** - 680 mm
 - stropy Klasik a Ekonom - Klasik má nadbetonávku min. 50mm, Ekonom je bez nadbetonávky
 - **vložky** - pórobetonové, výšek 200mm, 250mm a vložka snížená 100mm
 - stropy se dají využít i jako střešní konstrukce
 
 :::warning Vložky
-<br>
-<img class="centered_image" src="/images/pos/6/Y.jpg" />
-<br>
+
+![](/images/pos/6/Y.jpg =800x)
 
 :::
 
 :::warning Strop Klasik
-<br>
-<img class="centered_image" src="/images/pos/6/klasik.jpg" />
-<br>
+
+![](/images/pos/6/klasik.jpg)
 
 :::
 
 :::warning Strop Ekonom
-<br>
--    každá pátá vložka je snížená s přidanou výztuží, kvůli statice
+- každá pátá vložka je snížená s přidanou výztuží, kvůli statice
+- pro akustickou normu se musí přidávat kročejová izolace
 
--   pro akustickou normu se musí přidávat kročejová izolace
-<br>
-<br>
-<img class="centered_image" src="/images/pos/6/eko.jpg" />
-<br>
+![](/images/pos/6/eko.jpg)
 
 :::
 
@@ -143,27 +131,25 @@ Nadpraží je tvořeno železobetonovými překlady vybetonovanými do keramick�
 ### Nosné keramické překlady z tvaru U (Heluz, Porotherm KP7)
 
 - tvoří je keramické bednění ve tvaru U, výztuž a betonová výplň
-- délky 1000 až 3500mm 
+- délky 1000 až 3500mm
 - není nutné podepření před zděním - je ihned účinný
 
-:::warning KP 7 
-<br>
-<img class="centered_image" src="/images/pos/6/roz.jpg" />
-<br>
+:::warning KP 7
+
+![KP7](/images/pos/6/roz.jpg =400x)
+
 
 - **Uložení**
-<br>
-<img class="centered_image" src="/images/pos/6/uloz.jpg" />
-<br>
+
+![](/images/pos/6/uloz.jpg =400x)
 
 - **Nadpraží odlišných tlouštěk zdí**
-<br>
-<img class="centered_image" src="/images/pos/6/skladba.jpg" />
-<br>
+
+![](/images/pos/6/skladba.jpg =400x)
 
 - **Detail nadpraží**
-<img class="centered_image" src="/images/pos/6/zed.jpg" />
-<br>
+
+![](/images/pos/6/zed.jpg =800x)
 
 :::
 
@@ -177,40 +163,36 @@ Nadpraží je tvořeno železobetonovými překlady vybetonovanými do keramick�
 :::warning KP 11,5 a KP 14,5
 
 - **Rozměry**
-<br>
-<img class="centered_image" src="/images/pos/6/kp.jpg" />
-<br>
+
+![](/images/pos/6/kp.jpg)
+
 
 - **Podepření překladů**
-<br>
-<img class="centered_image" src="/images/pos/6/podepreni.jpg" />
-<br>
+
+![](/images/pos/6/podepreni.jpg)
 
 - **Použití v příčkách**
-<br>
-<img class="centered_image" src="/images/pos/6/pricky.jpg" />
-<br>
+
+![](/images/pos/6/pricky.jpg)
+
 
 - **Použití v obvodovém zdivu**
-<br>
-<img class="centered_image" src="/images/pos/6/obvod.jpg" />
-<br>
+
+![](/images/pos/6/obvod.jpg)
 
 :::
 
 ### Prefamonolitický překlad KP XL (Porotherm)
 
 - Překlady pro větší světlost otvorů
-- délka 3750 - 6500mm - uložení 250mm 
+- délka 3750 - 6500mm - uložení 250mm
 - tvoří je díly KP Vario a obnažená hlavní výztuž, KP Vario tvoří ztracené bednění
 
 :::warning KP XL
-<br>
-<img class="centered_image" src="/images/pos/6/xl.jpg" />
-<br>
 
-<img class="centered_image" src="/images/pos/6/xl1.jpg" />
-<br>
+![](/images/pos/6/xl.jpg)
+
+![](/images/pos/6/xl1.jpg)
 
 :::
 
@@ -219,16 +201,11 @@ Nadpraží je tvořeno železobetonovými překlady vybetonovanými do keramick�
 - Keramické tvarovky pro nadokenní a dveřní nadpraží s roletovým truhlíkem pro vnější žaluzie
 
 :::warning KP Vario
-<br>
-<img class="centered_image" src="/images/pos/6/UNI.jpg" />
-<br>
 
-<br>
-<img class="centered_image" src="/images/pos/6/vario.jpg" />
-<br>
+![](/images/pos/6/UNI.jpg)
 
-<br>
-<img class="centered_image" src="/images/pos/6/varo.jpg" />
-<br>
+![](/images/pos/6/vario.jpg)
+
+![](/images/pos/6/varo.jpg)
 
 :::

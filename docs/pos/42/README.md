@@ -28,13 +28,13 @@ pageClass: default-page
 - mohou se vyjadřovat k zamyšlené investiční výstavbě
   <br> např.:
 
-  - vlastníci sousedních nemovitostí
-  - správci inženýrských sítí
-  - památková péče
-  - inspektorát požární ochrany
-  - inspektorát hygieny práce
-  - dopravní inspektorát
-  - likvidace odpadu
+    - vlastníci sousedních nemovitostí
+    - správci inženýrských sítí
+    - památková péče
+    - inspektorát požární ochrany
+    - inspektorát hygieny práce
+    - dopravní inspektorát
+    - likvidace odpadu
 
 - je nutné získat kladné vyjádření
 
@@ -43,14 +43,14 @@ pageClass: default-page
 - Vlastní zdroje
 - Úvěr (u banky)
 - Dotace - poskytuje: (stát, kraj, EU,)
-  - jsou poskytovány na určitý typ výstavby (sítě kanalizační, čističky odpadních vod, komunikace)
+    - jsou poskytovány na určitý typ výstavby (sítě kanalizační, čističky odpadních vod, komunikace)
 
 ### Části investiční výstavby
 
 - příprava - připravuje se objednavatel i zhotovitel
 - realizace:
-  - dodavatelsky (na klíč)
-  - na vlastní režim (svépomoci)
+    - dodavatelsky (na klíč)
+    - na vlastní režim (svépomoci)
 
 ### Části objektu
 
@@ -61,14 +61,14 @@ pageClass: default-page
 
 - je ucelená funkční část stavby
 - jeho projektová dokumentace obsahuje:
-  - stavební část
-  - statická část
-  - projekt vody
-  - projekt kanalizace
-  - projekt plynu
-  - projekt elektřiny
-  - vzduchotechnika
-  - kalkulace
+    - stavební část
+    - statická část
+    - projekt vody
+    - projekt kanalizace
+    - projekt plynu
+    - projekt elektřiny
+    - vzduchotechnika
+    - kalkulace
 
 ### Stavba
 
@@ -76,7 +76,7 @@ pageClass: default-page
 - každý jednotlivý objekt má svoji projektovou dokumentaci a kalkulaci
 - náklady na stavbu jsou součty rozpočtů objektů
 
-<img class="centered_image" src="/images/pos/42/pic_1.jpg" />
+![](/images/pos/42/pic_1.jpg)
 
 ### Zhotovitel
 
@@ -86,7 +86,7 @@ pageClass: default-page
 ### Fáze investiční výstavby dle stavebního zákona
 
 <br>
-<img class="centered_image" src="/images/pos/42/pic_2.jpg" />
+![](/images/pos/42/pic_2.jpg)
 
 ## PROPOČET
 
@@ -98,7 +98,7 @@ pageClass: default-page
 > - N - náklad [Kč]
 > - THU - technicko-hospodářský ukazatel [Kč/1m.j.]
 > - měrné jednotky:
->   - obestavěný prostor (OP) [m³] - je to kubatura objektu, která vznikne vymezením objektu obalovými plochami z vnějšku.
+    >   - obestavěný prostor (OP) [m³] - je to kubatura objektu, která vznikne vymezením objektu obalovými plochami z vnějšku.
 >   - plocha objektu [m²] - (např. plocha bytu, plocha haly)
 >   - liniové objekty [m] - ukazatel zahrnuje náklad na kompletní provedení (např. vozovky, plynovod, vodovod)
 >   - KS - náklad stanoven na kusy (počet) (např. garážové domy)
@@ -120,10 +120,10 @@ pageClass: default-page
 > - OPv - Kubatura nadzemní části (vrchní stavba)
 > - OPt - Kubatura zatřešení
 >
-> <img class="centered_image" src="/images/pos/42/pic_3.jpg" />
-> <br>
-> <img class="centered_image" src="/images/pos/42/pic_4.jpg" />
-> <br>
+> ![](/images/pos/42/pic_3.jpg)
+> 
+> ![](/images/pos/42/pic_4.jpg)
+> 
 >
 > OPs = a × b × Vs
 >
@@ -134,10 +134,9 @@ pageClass: default-page
 > <br>
 > OP dílčí
 >
-> <br>
-> <img class="centered_image" src="/images/pos/42/pic_5.jpg" />
-> <br>
-> <img class="centered_image" src="/images/pos/42/pic_6.jpg" />
+> ![](/images/pos/42/pic_5.jpg)
+> 
+> ![](/images/pos/42/pic_6.jpg)
 
 ## ROZPOČET
 
@@ -168,16 +167,16 @@ obsahuje záhlaví, identifikační údaje stavby, přehled nákladů na jeden s
 - obsahuje popis prací a dodávek + jejich ocenění
 - práce se oceňují v tzv. "oddílech stavebních prací" vzestupně dle pořadí, dle **třídníku stavebních konstrukcí a prací - TSKD**
 - oddíly TSKP
-  - 1. Zemní práce
-  - 2. Základy
-  - 3. Svislé nosné konstrukce + příčky
-  - 4. Vodorovné kce
-  - 5. komunikace
-  - 6. úpravy povrchů a konstrukce podlah
-  - 7. PSV - řemesla
-  - 8. Trubní vedení
-  - 9. ostatní kce a práce
-  - 10. všeobecné kce a práce
+    - 1. Zemní práce
+    - 2. Základy
+    - 3. Svislé nosné konstrukce + příčky
+    - 4. Vodorovné kce
+    - 5. komunikace
+    - 6. úpravy povrchů a konstrukce podlah
+    - 7. PSV - řemesla
+    - 8. Trubní vedení
+    - 9. ostatní kce a práce
+    - 10. všeobecné kce a práce
 
 #### 4) výkaz výměr
 
@@ -196,7 +195,7 @@ obsahuje záhlaví, identifikační údaje stavby, přehled nákladů na jeden s
 
 u PSV možno stanovit náklady na přesun hmot procentuální sazbou z nákladů na daný oddíl.
 
-<img class="centered_image" src="/images/pos/42/pic_7.jpg" />
+![](/images/pos/42/pic_7.jpg)
 
 ## JEDNOTKOVÁ CENA
 
@@ -291,14 +290,14 @@ Náklad v propočtu
 
 - náklady na projektové a průzkumné práce
 - např:
-  - činnost projektanta
-  - autorský dozor - provádí ho projektant během realizace
-  - průzkumné práce
-  - geologické průzkumy (únosnost zeminy, hl. podzemní vody)
-  - technické průzkumy
-  - historický průzkum
-  - urbanistické průzkumy
-  - geodetické a kartografické práce
+    - činnost projektanta
+    - autorský dozor - provádí ho projektant během realizace
+    - průzkumné práce
+    - geologické průzkumy (únosnost zeminy, hl. podzemní vody)
+    - technické průzkumy
+    - historický průzkum
+    - urbanistické průzkumy
+    - geodetické a kartografické práce
 
 #### Hlava Ⅱ
 
@@ -325,11 +324,11 @@ Náklad v propočtu
 - VRN - vedlejší rozpočtové náklady
 - jsou to zvýšené náklady na stavby se zřetelem k jejich realizaci
 - např:
-  - náklady zařízení staveniště, provozní vlivy
-  - stavba je realizována za provozu investora (když např přistavují druhou halu v továrně)
-  - vliv extrémních klimatických podmínek (hory)
-  - mimořádně ztížené dopravní podmínky (hory - doprava vrtulníky, historické části měst - doprava vrtulníky a lehčími vozidly)
-  - práce na památkových objektech
+    - náklady zařízení staveniště, provozní vlivy
+    - stavba je realizována za provozu investora (když např přistavují druhou halu v továrně)
+    - vliv extrémních klimatických podmínek (hory)
+    - mimořádně ztížené dopravní podmínky (hory - doprava vrtulníky, historické části měst - doprava vrtulníky a lehčími vozidly)
+    - práce na památkových objektech
 
 #### Hlava Ⅶ
 
@@ -385,8 +384,7 @@ Náklad v propočtu
 
 ### Zálohy
 
-<br>
-<img class="centered_image" src="/images/pos/42/pic_8.jpg" />
+![](/images/pos/42/pic_8.jpg)
 
 ## SPLÁTKOVÁNÍ
 

@@ -44,8 +44,7 @@ pageClass: default-page
 
 ## Rozdělení základních vrstev
 
-<br>
-<img class="centered_image" src="/images/pos/18/rozdeleni-vrstev.jpg" />
+![](/images/pos/18/rozdeleni-vrstev.jpg)
 
 #### Nášlapná vrstva
 
@@ -75,40 +74,41 @@ pageClass: default-page
 #### Těžká plovoucí podlaha
 ---
 - roznášecí a nášlapná vrstva má velkou plošnou hmotnost (nad 75 kg/m2)
-><img class="centered_image" src="/images/pos/18/tezka-plovouci.jpg" />
->
+
+![](/images/pos/18/tezka-plovouci.jpg =500x)
+
 > **1.** keramická dlažba, **2.** cementová malta, **3.** keramický sokl, **4.** cementový potěr se sítí, **5.** rohož z minerálních vláken, **6.** ochrana zvukové izolace
 
 #### Lehká plovoucí podlaha
 ---
 - používá nášlapné i roznášecí vrstvy s malou plošnou hmotností (do 15 kg/m2). - Pro splnění požadavků na vzduchovou neprůzvučnost ji lze použít pouze na těžkou stropní konstrukci (nad 350 kg/m2) nebo na stropní konstrukci, kde akustickou funkci plní podhled.
 
-> <img class="centered_image" src="/images/pos/18/lehka-plovouci.jpg" />
-> 
+![](/images/pos/18/lehka-plovouci.jpg =500x)
+
 > **1.** dřevěné vlysy, **2.** lepidlo, **3.** dřevěná ukončovací lišta, **4.** dřevotřísková deska, **5.** rohož z minerálních vláken
 
 ### Tuhé podlahy
 
 - jsou konstrukce, které ve skladbě neobsahují pružnou vložku, která tlumí kročejový hluk. používají se v místnostech, kde není třeba chránit okolní prostory proti tomuto druhu hluku.
 
-> <img class="centered_image" src="/images/pos/18/tuha-podlaha.jpg" />
-> 
+![](/images/pos/18/tuha-podlaha.jpg =500x)
+
 > **1.** keramická dlažba, **2.** tmel, **3.** keramický obklad, **4.** cementový potěr se sítí, **5.** hydroizolace
 
 ### Dvojité podlahy
 
 - Dvojité podlahy se skládají ze dvou odlišných vrstev, kde je pochůzná vrstva spolu s roznášecí vrstvou umístěna na roštových nebo bodových podpěrách, kterými je přenášeno zatížení do vodorovné konstrukce nebo jiného podkladu.
 
-> <img class="centered_image" src="/images/pos/18/dvojita-podlaha.jpg" />
->
+![](/images/pos/18/dvojita-podlaha.jpg =500x)
+
 > **1.** pružná podložka, **2.** roznášecí lať, **3.** palubky
 
 ### Nulové podlahy
 
 - Tak zvaná nulová podlaha je tvořena z tenké tuhé nášlapné vrstvy (PVC, linoleum apod.), která je podložena měkkou tlumící vrstvou z pěnové pryže, plsti, textilu apod. tloušťky 2 až 4 mm. - Nulová podlaha se používala hlavně v panelové výstavbě.
 
-> <img class="centered_image" src="/images/pos/18/nulova-podlaha.jpg" />
-> 
+![](/images/pos/18/nulova-podlaha.jpg =500x)
+
 > **1.** PVC povlak, **2.** textilní podložka, **3.** samonivelační vyrovnávací stěrka, **4.** PVC lišta
 
 ## Rozdělení podle druhu a materiálu
@@ -121,8 +121,8 @@ pageClass: default-page
 - tloušťka 22 mm
 - spojují se na pero a drážku
 
-> <img class="centered_image" src="/images/pos/18/drevena-podlaha.jpg" />
->
+![](/images/pos/18/drevena-podlaha.jpg =500x)
+
 > **1.** dvě vrstvy prken, **2.** násyp, **3.** polštář, **4.** záklop, **5.** stropní trám, **6.** podhled
 
 #### Vlysová podlaha
@@ -131,23 +131,21 @@ pageClass: default-page
 - spojují se po celém svém obvodu na pero a drážku
 - skládají se obvykle do rybinovitého vzoru
 
-> **Čtvercová skladba**
->
-> <img class="centered_image" src="/images/pos/18/ctvercove_vlysy.jpg" />
->
-> <br>
->
-> **Rybinová skladba**
->
-> <img class="centered_image" src="/images/pos/18/rybina_vlysy.jpg" />
+**Čtvercová skladba**
+
+![](/images/pos/18/ctvercove_vlysy.jpg =400x)
+
+**Rybinová skladba**
+
+![](/images/pos/18/rybina_vlysy.jpg =400x)
 
 #### Parketová podlaha
 ---
 - skládá se z tabulí o rozměrech 300 x 300 mm až 600 x 600 mm, o tloušťce 9 až 22 mm, spojovaných na péro a drážku
 - parkety jsou prefabrikáty složené z menších dřevěných prvků
 
-> <img class="centered_image" src="/images/pos/18/parkety.jpg" />
->
+![](/images/pos/18/parkety.jpg =800x)
+
 > **1.** parketa vlysová **2.** parketa mozaiková **3.** parketa překližková
 
 #### Panelová podlaha
@@ -166,7 +164,7 @@ pageClass: default-page
 
 #### Keramické dlažby
 ---
-<img class="centered_image" src="/images/pos/18/dlazby.jpg" />
+![](/images/pos/18/dlazby.jpg)
 
 - jsou vhodné do mokrých a vlhkých provozů
 - snadno se čistí
@@ -177,15 +175,15 @@ pageClass: default-page
 - používají se v průmyslových objektech ve skladech, výrobních halách a také jako dlažba venkovní
 - dlaždice mají rozměry 150 x 150 x 20 mm až 500 x 500 x 70 mm
 
-<img class="centered_image" src="/images/pos/18/betonova-dlazba.jpg" />
+![](/images/pos/18/betonova-dlazba.jpg)
 
 #### Teracové dlažby
 ---
 - používají se v průmyslových objektech, ve skladech a
-na chodbách
+  na chodbách
 - dvouvrstvé, kde spodní vrstva je betonová a nášlapná
-vrstva je z teracové směsi
-- vyrábějí se v rozměrech od 200 x 200 x 25 mm až 400 x 400 x 50 mm. 
+  vrstva je z teracové směsi
+- vyrábějí se v rozměrech od 200 x 200 x 25 mm až 400 x 400 x 50 mm.
 - Kladou se do lože z cementové malty.
 
 #### Dlažby z přírodního kamene
@@ -206,7 +204,7 @@ vrstva je z teracové směsi
 
 #### Cementové potěry
 ---
-<img class="centered_image" src="/images/pos/18/mazaniny.jpg" />
+![](/images/pos/18/mazaniny.jpg)
 
 - mohou tvořit nášlapnou vrstvu v podružných místnostech jako jsou sklady, kotelny apod
 - jejich povrch se stírá ocelových hladítkem
@@ -229,11 +227,11 @@ vrstva je z teracové směsi
 - provádí se jednovrstvá nebo dvouvrstvá ze vzdušného práškového pojiva (anhydrit)
 - nanáší se strojně
 
-<img class="centered_image" src="/images/pos/18/anhydrit-podlaha.jpg" />
+![](/images/pos/18/anhydrit-podlaha.jpg)
 
 ### Povlakové krytiny
 ---
-<img class="centered_image" src="/images/pos/18/krytiny.jpg" />
+![](/images/pos/18/krytiny.jpg)
 
 #### Linoleové povlaky
 ---

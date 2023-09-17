@@ -52,9 +52,9 @@ pageClass: default-page
 
 - vymezuje stavební pozemek
 - umisťuje navrhovanou stavbu a stanovuje:
-  - druh a účel
-  - podmínky pro umístění
-  - zpracování projektové dokumentace pro vydání stavebního povolení
+    - druh a účel
+    - podmínky pro umístění
+    - zpracování projektové dokumentace pro vydání stavebního povolení
 
 ### Rozhodnutí o změně využití území
 
@@ -64,9 +64,9 @@ pageClass: default-page
 
 - stanoví podmínky pro požadovanou změnu stavby a její nové využití nebo podmínky upravující vliv na životní prostředí
 - rozhodnutí o změně stavby **vyžadují**:
-  - nástavby
-  - přístavby
-  - změny ve způsobu užívání stavby, které podstatně mění nároky stavby na okolí
+    - nástavby
+    - přístavby
+    - změny ve způsobu užívání stavby, které podstatně mění nároky stavby na okolí
 
 ### Rozhodnutí o ochranném pásmu
 
@@ -92,10 +92,10 @@ pageClass: default-page
 
 - Stavební úřad může rozhodnout ve zjednodušeném řízení jestliže:
 
-  - záměr je v zastavěné ploše/oblasti
-  - záměr nevyžaduje posouzení vlivů na životní prostředí
-  - žádost má všechny náležitosti
-  - žádost je doložena závaznými stanovisky dotčených orgánů a souhlasem účastníků řízení kteří mají vlastnická nebo jiná práva k sousedícím pozemkům
+    - záměr je v zastavěné ploše/oblasti
+    - záměr nevyžaduje posouzení vlivů na životní prostředí
+    - žádost má všechny náležitosti
+    - žádost je doložena závaznými stanovisky dotčených orgánů a souhlasem účastníků řízení kteří mají vlastnická nebo jiná práva k sousedícím pozemkům
 
 - žadatel musí zajistit, aby byl návrh výkonu vyvěšen na veřejně přístupném místě stavby/pozemku. Součástí je grafické vyjádření návrhu
 

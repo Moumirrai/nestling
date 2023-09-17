@@ -31,7 +31,7 @@ pageClass: default-page
 ##### K těmto daním patří
 
 - **daň z přidané hodnoty** - připočítána k produktu
-  - základní je **21%** a snížená **15%**
+    - základní je **21%** a snížená **15%**
 - **spotřební daň** - speciální druh daně, stát se snaží spotřebu těchto produktů omezit
 - **celní daň** - importované zboží
 
@@ -43,8 +43,8 @@ pageClass: default-page
 
 - daně vybírá tzv. **správce daně**
 - správcem daně je:
-  1. **finanční úřad** - spravuje téměř všechny daně kromě spotřební
-  2. **celní úřad** - spravuje spotřební daně a v případě dovozu vybírá cla
+    1. **finanční úřad** - spravuje téměř všechny daně kromě spotřební
+    2. **celní úřad** - spravuje spotřební daně a v případě dovozu vybírá cla
 
 Zejména pro nepřímé daně je typické, že daň sice platí kupující, ale odvádí ji za něj prodávající.
 
@@ -122,7 +122,7 @@ Rozeznávám 5 skupin příjmu:
 
 > Každý podnik potřebuje ke své činnosti peněžní a nepeněžní prostředek → **majetek**
 
-<img class="centered_image" src="/images/pos/41/majetek.jpg" />
+![](/images/pos/41/majetek.jpg)
 
 ## Evidence příjmů a výdajů
 

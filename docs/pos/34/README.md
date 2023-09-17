@@ -39,11 +39,11 @@ Dodatečná vodorovná izolace stávajícího zdiva se provádí třemi způsoby
 
 **PROŘEZÁVÁNÍ ZDIVA** - Řez se provádí na délku cca 700 - 1200mm podle kvality zdiva. Do vyřezané spáry se vloží izolační pásy a prostor nad izo. vložkou se vyplní cementovou maltou. Po skončení jednoho řezu se nepokračuje s podřezáváním hned vedle, ale ponechá se cementová malta zatvrdnout a práce zatím pokračuje jinde (např. na druhém rohu). Tímto způsobem se postupně střídají pracoviště až se dokončí celá stěna. Prořezávání zdiva lze provádět ručně (velmi pracné - už se nepoužívá), řetězovou pilou nebo lanovou pilou s diamantovým lanem.
 
-<img class="centered_image" src="/images/pos/34/rezani.jpg" />
+![](/images/pos/34/rezani.jpg =400x)
 
 **PROBOURÁNÍ ZDIVA** - Všude tam, kde nelze k provedení nové vodorovné izolace použít metody prořezávání spáry, to je například u staveb, kde nelze zajistit pojezd řezacího stroje nebo u malých staveb, kde de drahá technologie řezání kamenných nebo smíšených zdí nevyplatí, lze novou izolaci vkládat do postupně vybouraných otvorů, které se po jejím položení znovu zazdí. Délka vybouraných úseků cca 700 až 1200mm podle kvality zdiva. Mezi otvory se ponechají pilíře 600 až 900mm dlouhé. K vybourání dalšího otvoru se přistupuje až po položení izolace a dozdění předcházejícího úseku. Hydroizolace se položí tak, aby po vložení do otvoru přesahovala na každé straně o 100mm pro napojení dalšího úseku HI.
 
-<img class="centered_image" src="/images/pos/34/bourani.jpg" />
+![](/images/pos/34/bourani.jpg =800x)
 
 **ZARÁŽENÍ DESEK Z NEREZOVÉHO PLECHU** - Desky jsou vyrobeny z nerezavějící oceli o vysoké pevnosti umožňující mechanické zarážení (vibrování) do spár zdiva. Desky se zarážejí strojně tak, aby se výsledně ve zdi překrývaly o 2 až 3 vlny.
 
@@ -55,7 +55,7 @@ Princip je v tom, že se do zavlhlého pórovitého materiálu zdiva napouští 
 
 Se vzduchovými hydroizolačními systémy se můžeme setkat u řady historických staveb. V současnosti se používají převážně při rekonstrukcích a sanacích poruch. Princip vzduchové izolace je vytvoření vzduchové dutiny (příčkou), zpravidla **odvětrávané**, nebo použití různých druhů provětrávaných drenážních systémů a kanálků
 
-<img class="centered_image" src="/images/pos/34/izolace-pomoci-predsteny.jpg" />
+![](/images/pos/34/izolace-pomoci-predsteny.jpg)
 
 ### Elektroosmóza
 

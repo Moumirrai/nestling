@@ -53,8 +53,8 @@ Patří sem bourání objektů, sejmutí ornice nebo odstranění porostu
 
 Patří sem:
 
-- [Výkopové práce a rozpojování hornin](/pos/1/#vykopove-prace-a-rozpojovani-hornin)
-- [Zajišťování stěn výkopů](/pos/1/#zajistovani-sten-vykopu)
+- [Výkopové práce a rozpojování hornin](#vykopove-prace-a-rozpojovani-hornin)
+- [Zajišťování stěn výkopů](#zajistovani-sten-vykopu)
 
 #### Výkopové práce a rozpojování hornin
 
@@ -68,7 +68,7 @@ Patří sem:
 - max. výška bez zabezpečení je 1,5m
 - možno pouze u soudržných zemin
 
-<img class="centered_image" src="/images/pos/1/svisly_vykop.jpg" />
+![](/images/pos/1/svisly_vykop.jpg)
 
 ##### Zajištění svahováním
 
@@ -77,10 +77,12 @@ Patří sem:
 - při hloubce více než 2m musí být provedeny lavice o min. šířce 600mm
 
 **SVAHOVÁNÍ V 1. FÁZI**
-<img class="centered_image" src="/images/pos/1/svahovany_vykop1.jpg" />
+
+![](/images/pos/1/svahovany_vykop1.jpg)
 
 **SVAHOVÁNÍ NA VÍCE FÁZÍ**
-<img class="centered_image" src="/images/pos/1/svahovany_vykop2.jpg" />
+
+![](/images/pos/1/svahovany_vykop2.jpg)
 
 ##### Roubení
 
@@ -93,37 +95,43 @@ Patří sem:
 ##### **Roubení s příložným pažením**
 
 **U RÝHY**
-<img class="centered_image" src="/images/pos/1/roubeni_u_ryhy.jpg" />
+
+![](/images/pos/1/roubeni_u_ryhy.jpg)
 
 **U JÁMY**
 <br>
-<img class="centered_image" src="/images/pos/1/roubeni_u_jamy.jpg" />
+
+![](/images/pos/1/roubeni_u_jamy.jpg)
 
 ##### **Roubení s pažením do zápor**
 
 - u hlubokých jam v soudržných zeminách
 
-<img class="centered_image" src="/images/pos/1/pazeni_do_zapor.jpg" />
+![](/images/pos/1/pazeni_do_zapor.jpg)
 
 ##### **Roubeni s pažením do zápor s kořenovými pilotami**
 
 - používá se v případě, že hloubka výkopu je větší než 3,5m
 
-<img class="centered_image" src="/images/pos/1/koren_rez.jpg" />
+![](/images/pos/1/koren_rez.jpg)
+
 <br>
-<img class="centered_image" src="/images/pos/1/koren_pudorys.jpg" />
+
+![](/images/pos/1/koren_pudorys.jpg)
 
 ##### **Roubení se spouštěným pažením**
 
 <br>
-<img class="centered_image" src="/images/pos/1/spoustene_pazeni.jpg" />
+
+![](/images/pos/1/spoustene_pazeni.jpg =x700)
 
 **1** - vodorovný rám, **2** - svislý sloupek, **3** - svislá pažina, **4** - klin, **5** - závěs z kruhové oceli nebo rádlovacího drátu, **6** - tesařská skoba
 
 ##### **Roubení s hnaným pažením**
 
 <br>
-<img class="centered_image" src="/images/pos/1/hnane_pazeni.jpg" />
+
+![](/images/pos/1/hnane_pazeni.jpg =x700)
 
 **1** - vodorovný rám, **2** - svislý sloupek, **3** - pažina, **4** - malý klín, **5** - odstavnice, **6** - závěs z kruhové oceli nebo rádlovacího drátu, **7** - tesařská skoba, **8** - velký klín, **9** - ležina, **10** - práh
 
@@ -131,7 +139,7 @@ Patří sem:
 
 - kovové konstrukce
 
-<img class="centered_image" src="/images/pos/1/stetova_stena.jpg" />
+![](/images/pos/1/stetova_stena.jpg)
 
 ##### Podzemní stěny
 
@@ -140,7 +148,7 @@ Patří sem:
 - prováděny do rýh šířky 600-1000mm
 - obvykle používány v hlubokých výkopech
 
-<img class="centered_image" src="/images/pos/1/pilotove_steny.jpg" />
+![](/images/pos/1/pilotove_steny.jpg)
 
 ###### **Milánské stěny**
 
@@ -151,21 +159,21 @@ Patří sem:
 - převládá plošný rozměr
 - rozšíření min. 1200 mm
 
-<img class="centered_image" src="/images/pos/1/jama.jpg" />
+![](/images/pos/1/jama.jpg)
 
 ### Stavební rýha
 
 - převládá délkový rozměr
 - šířka max. 2000 mm
 
-<img class="centered_image" src="/images/pos/1/ryha.jpg" />
+![](/images/pos/1/ryha.jpg)
 
 ### Stavební šachta
 
 - převládá hloubkový rozměr
 - max. půdorys 6000x6000 mm
 
-<img class="centered_image" src="/images/pos/1/sachta.jpg" />
+![](/images/pos/1/sachta.jpg)
 
 ## Odvodnění stavební jámy
 
@@ -174,7 +182,7 @@ Patří sem:
 - používá se u soudržných zemin nebo skalnatých půd
 - odvádí se voda která se vsakuje na dno ze stěn nebo stéká po jejich povrchu
 
-<img class="centered_image" src="/images/pos/1/odvodneni_povrch.jpg" />
+![](/images/pos/1/odvodneni_povrch.jpg)
 
 ### Hloubkové odvodnění
 
@@ -182,4 +190,4 @@ Patří sem:
 - používá systém studní vybudovaných po obvodu stavby
 - hloubka studní musí být taková, aby hladina spodní vody klesla <Badge type="warning" text="min 0,5 m" vertical="middle" /> pod úroveň dna výkopu
 
-<img class="centered_image" src="/images/pos/1/odvodneni_hloubkove.jpg" />
+![](/images/pos/1/odvodneni_hloubkove.jpg)

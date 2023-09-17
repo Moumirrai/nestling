@@ -24,11 +24,9 @@ pageClass: default-page
 - kyvná okna
 - posuvná okna
 
-<img class="centered_image" src="/images/pos/22/otevirani.jpg" />
+![](/images/pos/22/otevirani.jpg =600x)
 
-<br>
-
-<img class="centered_image" src="/images/pos/22/otevirani_pohled.jpg" />
+![](/images/pos/22/otevirani_pohled.jpg =600x)
 
 **Podle konstukce oken rozlišujeme:**
 
@@ -36,31 +34,31 @@ pageClass: default-page
 
 - používají se jen v prostorech nevyžadující tepelnou izolaci
 
-<img class="centered_image" src="/images/pos/22/jednoduche.jpg" />
+![](/images/pos/22/jednoduche.jpg =400x)
 
 ### Dvojitě zasklená okna
 
 - jedná se o jednoduchá okna, jejichž křídla mají osazena dvě skla, mezi nimiž je vzduchová mezera, která plní funkci tepelné izolace (patří sem i okna zasklená izolačními dvojskly)
 
-<img class="centered_image" src="/images/pos/22/dvojite2.jpg" />
+![](/images/pos/22/dvojite2.jpg =400x)
 
 ### Okna se sdruženými křídly
 
 - konstrukce je shodná jako u oken jednoduchých, navíc je doplněno o tzv. čistící křídlo, které se připevňuje k vlastnímu křídlu buď z vnější nebo vnitřní strany
 
-<img class="centered_image" src="/images/pos/22/sdruzene.jpg" />
+![](/images/pos/22/sdruzene.jpg =200x)
 
 ### Zdvojená okna
 
 - konstrukce je shodná jako u oken jednoduchých, avšak na jejich okenní křídla jsou pevně připojená druhá křídla v takové vzdálenosti, aby vznikla vzduchová mezera 40 až 50 mm
 
-<img class="centered_image" src="/images/pos/22/zdvojene.jpg" />
+![](/images/pos/22/zdvojene.jpg =400x)
 
 ### Dvojitá okna
 
 - mají vnitřní a vnější samostatně otevíravá a samostatně k rámu dosedající křídla, otevírají se ven a dovnitř
 
-<img class="centered_image" src="/images/pos/22/dvojite1.jpg" />
+![](/images/pos/22/dvojite1.jpg =600x)
 
 ## Dřevěné dveře
 
@@ -154,20 +152,17 @@ pageClass: default-page
 
 #### Rámová zárubeň
 
-<br>
-<img class="centered_image" src="/images/pos/22/ramovazaruben.jpg" />
+![](/images/pos/22/ramovazaruben.jpg =600x)
 
 #### Hrubá tesařská zárubeň
 
-<br>
-<img class="centered_image" src="/images/pos/22/tesarskazaruben.jpg" />
+![](/images/pos/22/tesarskazaruben.jpg =600x)
 
 #### Obložková zárubeň
 
-<br>
-<img class="centered_image" src="/images/pos/22/oblozka1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/22/oblozka2.jpg" />
+![](/images/pos/22/oblozka1.jpg =600x)
+
+![](/images/pos/22/oblozka2.jpg =600x)
 
 ## Zabudovaný nábytek
 
@@ -182,6 +177,6 @@ Zabudovaný nábytek nahrazuje nábytek přenosný. Je součástí stavby a je p
   - volné
   - příčkové
 
-<img class="centered_image" src="/images/pos/22/zabudovaneskrine.jpg" />
+![](/images/pos/22/zabudovaneskrine.jpg =600x)
 
 Podle účelu dělíme zabudované skříně na šatní, spížní a předsíňové

@@ -2,6 +2,7 @@
 pageClass: default-page
 editLink: false
 contributors: false
+sidebar: false
 ---
 
 # Pomoct s projektem

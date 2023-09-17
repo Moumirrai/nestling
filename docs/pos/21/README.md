@@ -30,20 +30,18 @@ pageClass: default-page
 > **Hydroizolace spodní stavby**
 >
 > - může být vodorovná nebo svislá
->
+
 > **Hydroizolace horní stavby**
 >
 > - střecha, obvodový pás
 
 #### Podle izolační metody
 
-> ##### Přímé
->
-> - použitím nepropustného materiálu nebo izolační vrstvy
->
-> ##### Nepřímé
->
-> - odstraněním škodlivého prostředí, např. výběrem vhodného staveniště, tvarem objektu
+##### Přímé
+- použitím nepropustného materiálu nebo izolační vrstvy
+
+##### Nepřímé
+- odstraněním škodlivého prostředí, např. výběrem vhodného staveniště, tvarem objektu
 
 #### Podle materiálu
 
@@ -82,8 +80,7 @@ pageClass: default-page
 
 ### Přechod mezi vodorovnou a svislou izolací
 
-<br>
-<img class="centered_image" src="/images/pos/21/prechod.jpg" />
+![](/images/pos/21/prechod.jpg =700x)
 
 ## Radonová ochrana
 
@@ -134,8 +131,8 @@ pageClass: default-page
 
 Výjimkou jsou asfaltové pásy s kovovými výztužnými vložkami, plastové profilované (nopové) fólie a vodotěsná železobetonová konstrukce (bílá vana)
 
-<img class="centered_image" src="/images/pos/21/radon1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/21/radon2.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/21/radon3.jpg" />
+![](/images/pos/21/radon1.jpg =500x)
+
+![](/images/pos/21/radon2.jpg =500x)
+
+![](/images/pos/21/radon3.jpg =500x)

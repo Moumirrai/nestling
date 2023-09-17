@@ -35,7 +35,7 @@ Podle půdorysného uspořádání veřejné vodovodní rozeznáváme síť:
 
 Vodovodní přípojka je část potrubí mezi veřejným a vnitřním vodovodem. Začíná navrtávkou nebo odbočkou na veřejném řádu a končí vodoměrnou sestavou uvnitř objektu. Každý objekt musí mít samostatnou vodovodní přípojku.
 
-<img class="centered_image" src="/images/pos/27/1.jpg" />
+![](/images/pos/27/1.jpg =800x)
 
 **Přípojka má být:**
 
@@ -47,13 +47,11 @@ Vodovodní přípojka je část potrubí mezi veřejným a vnitřním vodovodem.
 - označená orientační tabulkou
 - navržena z jednoho druhu materiálu (např. ocelové závitové trubky asfaltované)
 
-<img class="centered_image" src="/images/pos/27/2.jpg" />
+![](/images/pos/27/2.jpg =800x)
 
 Norma doporučuje především plastové přípojky. Od DN 80 doporučuje provést přípojku z ocelové tlakové hrdlové trubky. Jestli-že je potrubí přípojky navržené plastové (PE,PP), musí být přípojka provedena z jednoho kusu.
 
-<div class="videoWrapper">
-  <iframe width="560" height="349" src="https://www.youtube.com/embed/67ox25ZUqS0" frameborder="0" allowfullscreen></iframe>
-</div>
+<YouTube id="67ox25ZUqS0"/>
 
 #### Hlavní uzávěr vnitřního vodovodu
 
@@ -67,7 +65,7 @@ Vodoměr musí být instalován na každé přípojce společně s ostatními ar
 
 Vodoměr v podsklepených objektech se umísťuje v suterénu za obvodovou zeď do vzdálenosti 2m. Nad podlahou musí být nejméně 0,2m a nejvíce 1,2m. Vzdálenost od souběžného zdiva s potrubím je min. 0,2m.
 
-<img class="centered_image" src="/images/pos/27/3.jpg" />
+![](/images/pos/27/3.jpg =700x)
 
 U nepodsklepených objektu se vodoměr umísťuje ve vodoměrné šachtě, nebo ve výklenku,nebo ve skřínce na zdivu. Umístění vodoměru mimo objekt jen výjimečné, např.v případě, že je objekt vzdálen od hranice pozemku víc než 10m.
 
@@ -90,8 +88,8 @@ Vnitřní vodovod může být :
 Vnitřní vodovod může být zásobovaný vodou z veřejného vodovodu, nebo z domácí vodárny. Tyto dva zdroje vody nesmí být vzájemně svedeny do společného rozvodu.
 
 :::warning SCHÉMA VNITŘNÍHO VODOVODU
-<br>
-<img class="centered_image" src="/images/pos/27/4.jpg" />
+
+![](/images/pos/27/4.jpg =700x)
 
 **1** - vodovodní přípojka, **2** - uzavírací ventil před vodoměrem, **3** - vodoměr, **4** - nástavec, **5** - redukce, **6** - uzavírací ventil s odvodněním, **7** - vnitřní rozvod studené vody, **8** - uzavírací ventil s odvodněním, **9** - zpětný ventil, **10** - přivdušňopvací a odvzušňovací ventil, **11** - přepad do odvzduš. ventilu
 :::
@@ -156,7 +154,7 @@ Každý zařizovací předmět je součástí sestavy, která kromě něho zahrn
 
 - domácí vodárna čerpající vodu ze studní
 
-<img class="centered_image" src="/images/pos/27/5.jpg" />
+![](/images/pos/27/5.jpg =700x)
 
 ## Požární vodovod
 
@@ -187,8 +185,8 @@ Stabilní samočinná hasící zařízení se dělíme na:
 - jsou samočinná stabilní zařízení, která se skládají z rozvodné sítě a ze sprinklerových hlavic
 - Princip je založen na ampuli s tekutinou (případně tavném kovovém článku), která při určité teplotě reaguje, následkem čehož ampule praskne a uvolní se voda v hlavici. Hasí pouze ty hlavice, u kterých bylo dosaženo nutné teploty
 
-<img class="centered_image" src="/images/pos/27/sprinkler.jpg" />
-<br>
+![](/images/pos/27/sprinkler.jpg)
+
 :::
 
 :::warning DRENČEROVÁ SOUSTAVA
@@ -203,8 +201,8 @@ Stabilní samočinná hasící zařízení se dělíme na:
 - umísťují se ve výšce 1,3m nad podlahou
 - musí být chráněny proti zamrznutí
 
-<img class="centered_image" src="/images/pos/27/hydrant.jpg" />
-<br>
+![](/images/pos/27/hydrant.jpg)
+
 :::
 
 ## Domovní plynovod
@@ -218,16 +216,16 @@ Slouží k přivedení zemního plynu, dříve i svítiplynu, do objektu ke spo
 - ve zdivu je potrubí v chráničce
 - vzdálenost od vodovodního, kanalizačního, elektroinstalací řádu je **min 400mm**, v místě křížení s uvedenými sítěmi je vzdálenost **min 100mm**
 
-<img class="centered_image" src="/images/pos/27/7.jpg" />
+![](/images/pos/27/7.jpg =600x)
 
 #### Uložení přípojky
 
 - potrubí lze ukládat pouze na podsyp výšky **min 100mm**
 - dno výkopu musí být vyrovnáno a zhutněno aby na něm leželo potrubí po celé své délce
 
-<img class="centered_image" src="/images/pos/27/9.jpg" />
+![](/images/pos/27/9.jpg =700x)
 
-Názvosloví:
+**Názvosloví:**
 
 - výstražná fólie - pás z plastu upozorňující na přítomnost vedení v zemi
 - podsyp - je sypaná konstrukce z předepsaného materiálu(písku)na dně rýhy
@@ -244,7 +242,7 @@ uloženo ve větším spádu jak 20% musí být navrženo opatření proti posun
 - při ochraně proti uniku plynu
 - při ochraně před poškozením potrubí
 
-<img class="centered_image" src="/images/pos/27/8.jpg" />
+![](/images/pos/27/8.jpg)
 
 ### Části domovního plynovodu
 
@@ -272,13 +270,13 @@ plynovod nesmí být veden:
 - na půdách
 - obecně tam kde může dojít k ohřátí plynovodu
 
-<img class="centered_image" src="/images/pos/27/10.jpg" />
+![](/images/pos/27/10.jpg =700x)
 
 #### Stoupací vedení
 
 Stoupací vedení se v budovách pro bydlení umisťuje do nebytových dobře větratelných místností (do bytových jader,do instalačních šachet). Stoupací vedení nesmí být vedeno obytnými prostory. Při prostupu stropem musí být vedeno v ocelové chráničce. S ležatým potrubím je spojeno pomocí T kusů s možným čištěním a odvodněním. Stoupací vedení se odvodňuje v nejnižší části.
 
-<img class="centered_image" src="/images/pos/27/11.jpg" />
+![](/images/pos/27/11.jpg =700x)
 
 #### Umístění HUP
 
@@ -288,7 +286,7 @@ Hlavní uzávěr plynu nesmí být podle nových předpisů umístěn v budově
 
 Plynoměrem se odměřuje množství spotřebovaného plynu. Každý odběratel musí mít samostatný plynoměr. Před a za plynoměrem má být uzavírací kohout. Plynovod se k potrubí připojuje šroubením. Plynoměr musí mít přívod vždy na levé straně plynoměru.
 
-<img class="centered_image" src="/images/pos/27/12.jpg" />
+![](/images/pos/27/12.jpg =500x)
 
 **Plynoměry musí být umístěné** na přístupném a větratelném místě, nejlépe ve výklenku o rozměrech 500 x 500 x 350. Na veřejném místě musí být uzamčen ve skřínce. V obytných budovách se umisťují do schodišťových prostor
 a na chodby.

@@ -1,29 +1,26 @@
 {
-  "name": "nestling",
+  "name": "nestlingv2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "vuepress dev docs",
-    "test": "vuepress build docs",
-    "serve": "vuepress dev docs",
+    "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@vuepress/plugin-active-header-links": "^2.0.0-beta.36",
-    "@vuepress/plugin-google-analytics": "^2.0.0-beta.35",
-    "@vuepress/plugin-medium-zoom": "^2.0.0-beta.35",
-    "@vuepress/plugin-pwa": "^2.0.0-beta.35",
-    "@vuepress/plugin-pwa-popup": "^2.0.0-beta.36",
-    "@vuepress/plugin-register-components": "^2.0.0-beta.35",
-    "@vuepress/plugin-search": "^2.0.0-beta.35",
-    "vuepress": "^2.0.0-beta.35",
-    "vuepress-plugin-smooth-scroll": "^0.0.10"
+    "@vuepress/plugin-search": "^2.0.0-beta.67",
+    "vuepress": "^2.0.0-beta.67",
+    "vuepress-plugin-components": "^2.0.0-beta.237",
+    "vuepress-plugin-full-text-search2": "^0.4.0",
+    "vuepress-plugin-photo-swipe": "^2.0.0-beta.237",
+    "vuepress-plugin-pwa2": "^2.0.0-beta.237",
+    "vuepress-plugin-remove-pwa": "^2.0.0-beta.237",
+    "vuepress-plugin-search-pro": "^2.0.0-beta.237"
   },
   "dependencies": {
-    "@renovamen/vuepress-plugin-katex": "^2.0.0-alpha.10",
-    "dotenv": "^16.0.0"
+    "@traptitech/markdown-it-katex": "^3.6.0",
+    "vuepress-plugin-md-enhance": "^2.0.0-beta.237"
   }
 }

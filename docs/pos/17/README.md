@@ -18,7 +18,7 @@ Jsou to samonosné nosné konstrukce
 
 Konstrukce komínu se skládá z komínových průduchů (otvory jimiž se vede kouř), komínového pláště (vnější povrch komínu), vybíracích a vymetacích otvorů, sopouchů (propojení spotřebičů generující kouř s komínovým průduchem), komínové hlavy (zakončení komína nad střechou), komínové stříšky, popřípadě komínového nádstavce (prodloužení komína nad střechou).
 
-<img class="centered_image" src="/images/pos/17/nazvoslovykomina.jpg" />
+![](/images/pos/17/nazvoslovykomina.jpg =700x)
 
 #### ROZDĚLENÍ
 
@@ -26,15 +26,15 @@ Konstrukce komína může být buď **jednovrstvá** nebo **dvouvrstvá** (s kom
 
 ### TRADIČNÍ ZDĚNÝ JEDNOVRSTVÝ KOMÍN
 
-<img class="centered_image" src="/images/pos/17/zdenykomin.jpg" />
+![](/images/pos/17/zdenykomin.jpg =700x)
 
-jednovrstvé zděné komíny byly určeny pro spotřebiče na pevná paliva a nelze je v současnosti využívat bez speciálních úprav (vyvložkováním) pro plynná a kapalná paliva
+Jednovrstvé zděné komíny byly určeny pro spotřebiče na pevná paliva a nelze je v současnosti využívat bez speciálních úprav (vyvložkováním) pro plynná a kapalná paliva.
 
 ### VÍCEVRSTVÝ KOMÍN
 
-Vícevrstvé komíny se skládají z komínové tvárnice, tepelné izolace (na bázi minerálních vláken) a keramické šamotové (žáruvzdorné) vložky. Lze je použít pro všechny druhy paliv
+Vícevrstvé komíny se skládají z komínové tvárnice, tepelné izolace (na bázi minerálních vláken) a keramické šamotové (žáruvzdorné) vložky. Lze je použít pro všechny druhy paliv.
 
-<img class="centered_image" src="/images/pos/17/vicevrstvy.jpg" />
+![](/images/pos/17/vicevrstvy.jpg =700x)
 
 Vícevrstvé komínové těleso nesmí být zatížené od stropní kce. Proto je otvor ve stropní kci. pro průchod komínu zvětšen o 20 až 30mm a vyplněn deskami z minerálních vláken. Tím jsou zajištěny dilatační pohyby komínového tělesa v důsledku změn teploty komínového tělesa při přerušovaném provozu tepelného spotřebiče.
 
@@ -46,11 +46,11 @@ komíny podle uspořádání komínových průduchů:
 
 - **SE SPOLEČNÝM SBĚRAČEM (přepažené)** - společný sběrač má půdnici v nejnižším podlaží a od něho postupně odbočují komínové průduchy pro jednotlivá podlaží (v současnosti se **nesmí navrhovat**)
 
-<img class="centered_image" src="/images/pos/17/rozdeleni1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/17/rozdeleni2.jpg" />
+![](/images/pos/17/rozdeleni1.jpg =700x)
 
-podle připojování spotřebičů:
+![](/images/pos/17/rozdeleni2.jpg =700x)
+
+Podle připojování spotřebičů:
 
 - **SAMOSTATNÉ** - spaliny se odvádí jedním průchodem od spotřebičů z jednoho podlaží
 
@@ -84,13 +84,13 @@ maximální povolená teplota povrchového pláště komína procházejícího v
 
 dřevěné a jiné hořlavé prvky musí být vzdáleny od vnějšího líce komínu minimálně 50mm, nebo musí byt hořlavý prvek chráněn např. obkladem. Hořlavé konstrukční prvky zapuštěné do zdiva v blízkosti komínových průduchů (např. dřevěné trámy) musí být od nich vzdáleny nejméně 300mm
 
-<img class="centered_image" src="/images/pos/17/tramy.jpg" />
+![](/images/pos/17/tramy.jpg)
 
 #### **STATICKÉ POŽADAVKY**
 
 Část komína nad střechou objektu je zatížena větrem. Čím je komín nad střešní rovinou víš, tím je větší namáhání jeho průřezu od působení větru. U sklonitých střech je proto výhodné, když je komín umístěn v blízkosti hřebenu a jeho výška nad střešní rovinou je tak nejmenší.
 
-<img class="centered_image" src="/images/pos/17/vyskakomina.jpg" />
+![](/images/pos/17/vyskakomina.jpg =700x)
 
 #### **POŽADAVKY NA VYMETACÍ, VYBÍRACÍ A ČISTÍCÍ OTVORY**
 
@@ -106,4 +106,4 @@ vymetací, vybírací a čistící otvory musí být uzavřeny **plynotěsnými 
 
 Komínové lávky se na střeše zřizují za účelem přístupu ke komínovému tělesu pro jeho vymetání a údržbu. Při vymetání komínu na střeše se komínová lávka zřizuje 650 - 750mm pod ústím komínového průchodu.
 
-<img class="centered_image" src="/images/pos/17/lavka.jpg" />
+![](/images/pos/17/lavka.jpg)

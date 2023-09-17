@@ -27,7 +27,7 @@ pageClass: default-page
 - zpravidla se jedná o objekty uvnitř staveniště
   <br>
 
-<img class="centered_image" src="/images/pos/43/pic_1.jpg" />
+![](/images/pos/43/pic_1.jpg)
 
 #### Mimoglobální zařízení staveniště (MGZS)
 
@@ -36,7 +36,7 @@ pageClass: default-page
 - náklady se stanovují formou rozpočtu na každý objekt
   <br>
 
-<img class="centered_image" src="/images/pos/43/pic_2.jpg" />
+![](/images/pos/43/pic_2.jpg)
 
 ### Podle užívání
 
@@ -81,11 +81,11 @@ pageClass: default-page
 - vyrábí se různé varianty s různým vybavením
 - na stavbě se pouze osadí a připojí k rozvodům
 
-<img class="centered_image" src="/images/pos/43/pic_3.jpg" />
+![](/images/pos/43/pic_3.jpg)
 
 Osazení kontejneru na stavbě
 
-<img class="centered_image" src="/images/pos/43/pic_4.jpg" />
+![](/images/pos/43/pic_4.jpg)
 
 ### Výpočet sociálních zařízení
 
@@ -111,35 +111,35 @@ Osazení kontejneru na stavbě
 >
 > - objektové (nachází se přímo na staveništi)
 > - centrální (umístěny mimo staveniště), (nejčastější)
->   - cena 1m³ betonové směsy závisí na: (druhu betonu, doprava, čekání na stavbě - nutnost mít vše připraveno pro betonáž)
+    >   - cena 1m³ betonové směsy závisí na: (druhu betonu, doprava, čekání na stavbě - nutnost mít vše připraveno pro betonáž)
 >   - výhody: (kvalita, plynulý přísun betonu, plynulá betonáž - malé množství stavebních spar)
 >   - nevýhody: (dopravní vzdálenost)
 
 Míchací centrum betonárny
 
-<img class="centered_image" src="/images/pos/43/pic_5.jpg" />
+![](/images/pos/43/pic_5.jpg)
 
 - Skladování kameniva
 
-  - zpevněný povrch
-  - oddělené frakce
-  - např: buňky, hromady
+    - zpevněný povrch
+    - oddělené frakce
+    - např: buňky, hromady
 
 - Skladování cementu
 
-  - pytle
-    - na podlaze (paleta), (zafoliované)
-    - uzavřené (sklady)
-  - sila
-    - předzásobení - 1-4 týdny
-    - dle objektních podmínek
+    - pytle
+        - na podlaze (paleta), (zafoliované)
+        - uzavřené (sklady)
+    - sila
+        - předzásobení - 1-4 týdny
+        - dle objektních podmínek
 
 - Doprava betonové směsi
-  - kolečka (vodorovný směr)
-  - japonka (vodorovný směr)
-  - stavební výtah (svislý směr)
-  - jeřáb (vodorovný a svislý směr)
-  - autodomýchavač (vodorovný směr, pokud obsahuje čerpadlo - svislý směr)
+    - kolečka (vodorovný směr)
+    - japonka (vodorovný směr)
+    - stavební výtah (svislý směr)
+    - jeřáb (vodorovný a svislý směr)
+    - autodomýchavač (vodorovný směr, pokud obsahuje čerpadlo - svislý směr)
 
 ## PROVOZNÍ ZAŘÍZENÍ STAVENIŠTĚ
 
@@ -148,8 +148,8 @@ Míchací centrum betonárny
 - volné (otevřené)
 - je to vyhrazená plocha na staveništi, je srovnaná v mírném spádu
 - plocha je zpevněná:
-  - štěrkopískem
-  - silničními panely
+    - štěrkopískem
+    - silničními panely
 - zřizuje se pro materiály odolné proti povětrnosti - např: kamenivo, betonové prefabrikáty,...
 - min. plocha skládky HSV
   > Hsv pl. skl. = 100m² + 0,16m²/1tuna hmotnosti
@@ -162,7 +162,7 @@ Míchací centrum betonárny
 
 - částečně chrání proti povětrnostním vlivům (ocelové trubky)
 
-<img class="centered_image" src="/images/pos/43/pic_6.jpg" />
+![](/images/pos/43/pic_6.jpg)
 
 ### Sklady
 
@@ -190,25 +190,25 @@ Míchací centrum betonárny
 
 - panelové
 
-  - ze silničních železobetonových panelů
-  - osazení jeřábem na štěrkopískové lože
-  - použití panelů je několikanásobné
-  - po stavbě odvezeny na jinou stavbu, nebo na stavební dvůr
-  - navrhují se pro těžkou techniku - těžkou dopravu (autodomýchávače, nakladní auta, bagry)
+    - ze silničních železobetonových panelů
+    - osazení jeřábem na štěrkopískové lože
+    - použití panelů je několikanásobné
+    - po stavbě odvezeny na jinou stavbu, nebo na stavební dvůr
+    - navrhují se pro těžkou techniku - těžkou dopravu (autodomýchávače, nakladní auta, bagry)
 
 - štěrkové
 
-  - je tvořen zhutněným štěrkopískem - tl. 150 mm
-  - navrhují se pro lehčí automobilovou dopravu
-  - navrhují se jako obslužné
-  - návrh - zásady stejné jako u panelových
+    - je tvořen zhutněným štěrkopískem - tl. 150 mm
+    - navrhují se pro lehčí automobilovou dopravu
+    - navrhují se jako obslužné
+    - návrh - zásady stejné jako u panelových
 
 - Návrh komunikace
-  - šířky vozovky jsou min:
-    - 3m - při jednosměrném provozu
-    - 6m - při obousměrném provozu
+    - šířky vozovky jsou min:
+        - 3m - při jednosměrném provozu
+        - 6m - při obousměrném provozu
 
-<img class="centered_image" src="/images/pos/43/pic_7.jpg" />
+![](/images/pos/43/pic_7.jpg)
 
 #### Trvalého charakteru
 
@@ -234,15 +234,15 @@ Míchací centrum betonárny
 - veřejný vodovodní řád - nutné kladné vyjádření správce
 - studny - vodu nutno zkontrolovat
 - povrchové zdroje
-  - řeky, rybníky
-  - nutno zjistit kvalitu vody
-  - nutné kladné vyjádření správce povodí
+    - řeky, rybníky
+    - nutno zjistit kvalitu vody
+    - nutné kladné vyjádření správce povodí
 - cisterny - velmi drahé, většiunou pouze jako pitná voda
-  - používá se jako doplňkový zdroj pitné vody
+    - používá se jako doplňkový zdroj pitné vody
 
 Staveništní rozvod vody musí být zakreslen do situace zařízení staveniště. Provádí se jako podzemní vedení v nezámrzné hloubce
 
-<img class="centered_image" src="/images/pos/43/pic_8.jpg" />
+![](/images/pos/43/pic_8.jpg)
 
 ### Zásobování staveniště elektrickou energii
 
@@ -258,7 +258,7 @@ Staveništní rozvod vody musí být zakreslen do situace zařízení staveništ
 
 - připojení elektřiny z veřejného vedení pomocí přípojky nízkého napětí, nebo z vysokého napětí (musí se transformovat na nízké)
 
-<img class="centered_image" src="/images/pos/43/pic_9.jpg" />
+![](/images/pos/43/pic_9.jpg)
 
 ### Zásobování staveniště teplem
 
@@ -285,13 +285,13 @@ Staveništní rozvod vody musí být zakreslen do situace zařízení staveništ
 - při návrhu zohledníme maximální tíhu výrobku
 - druhy jeřábu:
 
-  - autojeřáby (kolové)
-  - věžové (pojizdné po kolejnicích)
-  - šplhavé
+    - autojeřáby (kolové)
+    - věžové (pojizdné po kolejnicích)
+    - šplhavé
 
-<img class="centered_image" src="/images/pos/43/pic_10.jpg" />
+![](/images/pos/43/pic_10.jpg)
 
 - dosah na:
-  - 1. OBJ.
-  - 2. komunikace
-  - 3. část skládky (1/3)
+    - 1. OBJ.
+    - 2. komunikace
+    - 3. část skládky (1/3)

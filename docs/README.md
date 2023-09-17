@@ -1,7 +1,6 @@
 ---
 pageClass: default-page
-layout: CustomHomePage
-home: false
+sidebar: false
 editLink: false
 contributors: false
 ---

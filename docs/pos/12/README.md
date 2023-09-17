@@ -20,19 +20,18 @@ pageClass: default-page
 - v jednom rameni mají **max 7** stupňů
 - pokud má schodiště vice než 3 stupně, je nutné oboustranné zábradlí
 
-<img class="centered_image" src="/images/pos/12/predlozena.jpg" />
+![](/images/pos/12/predlozena.jpg =800x)
 
 ### Terénní schodiště
 
-<br>
-<img class="centered_image" src="/images/pos/12/tereni.jpg" />
+![](/images/pos/12/tereni.jpg =800x)
 
 ### Pažená schodiště
 
 - tvořeny úpravou a pažením sklonitého terénu (v zahradách, parcelách atd.)
 - jsou to zejména terénní schodiště, v kombinaci se zásypem nebo rostlou zeminou
 
-<img class="centered_image" src="/images/pos/12/pazena.jpg" />
+![](/images/pos/12/pazena.jpg =800x)
 
 ## Rampy
 
@@ -40,15 +39,14 @@ pageClass: default-page
 - povrch musí být dostatečně drsný
 - musí být dobře osvětleny
 
-> **Maximální dovolený sklon pro pro vozidla**
->
-> - vnitřní
->   - přímé - **14%**
->   - zakřivené - **13%**
->   - vyrovnávací - **17%**
-> - vnější - **10%**, ve výjimečných případech **15%**
+**Maximální dovolený sklon pro pro vozidla**
+- vnitřní
+      - přímé - **14%**
+  - zakřivené - **13%**
+  - vyrovnávací - **17%**
+- vnější - **10%**, ve výjimečných případech **15%**
 
-<img class="centered_image" src="/images/pos/12/rampy3.jpg" />
+![](/images/pos/12/rampy3.jpg =800x)
 
 ### Rampy pro pěší provoz
 
@@ -58,13 +56,13 @@ pageClass: default-page
 - u ramp pro osoby se sníženou schopností pohybu je nutná ochrana proti sjetí vozíku, hmatové prvky pro nevidomé a zábranu či sokl sloužící jako zarážka pro slepeckou hůl
 - šířka **min. 1,5m**, u rodinného domu stačí 1,2m
 
-> **Maximální dovolený sklon pro pěší provoz**
->
-> - vnitřní se schodištěm - **1:6**
-> - vnější - **1:10**
-> - pro invalidy - **1:12**
-> - pro průmyslové vozíky - **1:12**
+**Maximální dovolený sklon pro pěší provoz**
 
-<img class="centered_image" src="/images/pos/12/rampy1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/12/rampy2.jpg" />
+- vnitřní se schodištěm - **1:6**
+- vnější - **1:10**
+- pro invalidy - **1:12**
+- pro průmyslové vozíky - **1:12**
+
+![](/images/pos/12/rampy1.jpg)
+
+![](/images/pos/12/rampy2.jpg)

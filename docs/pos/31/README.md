@@ -22,19 +22,19 @@ po roce 1980 se vývoj a používání panelových domů u nás téměř zastavi
 
 Boky dílců stěnových panelů jsou profilovány tak, aby byly schopné přenášet smyková namáhání a do styčných spár je vkládána zálivková výztuž.
 
-<img class="centered_image" src="/images/pos/31/profistena.jpg" />
+![](/images/pos/31/profistena.jpg =700x)
 
-STYKY MEZI STĚNOVÝMI PANELY
+**STYKY MEZI STĚNOVÝMI PANELY**
 
-<img class="centered_image" src="/images/pos/31/mocstyku.jpg" />
+![](/images/pos/31/mocstyku.jpg =700x)
 
 Osazení panelu se provádí na stavěcí (rektifikační) šrouby, které jsou umístěné ve vzdálenosti 300mm od okrajů panelu
 
-<img class="centered_image" src="/images/pos/31/stavecisrouby.jpg" />
+![](/images/pos/31/stavecisrouby.jpg =700x)
 
 Obvodový plášť je celostěnový, vrstvený, tloušťky 300mm. Nosná vrstva je ŽB tl. 150mm, vnitřní TI vrstva je z pěnového polystyrenu tl. 80mm, vnější ochranná vrstva je z vodotěsného betonu tl. 70mm. Ochranná vrstva s tepelnou izolací přesahují ve spodní části o 300mm přes spodní panel.
 
-<img class="centered_image" src="/images/pos/31/obvodovypanel.jpg" />
+![](/images/pos/31/obvodovypanel.jpg =700x)
 
 ## MONTOVANÉ SKELETOVÉ STAVBY
 
@@ -50,13 +50,13 @@ Obvodový plášť je celostěnový, vrstvený, tloušťky 300mm. Nosná vrstva 
 
 - deskové průvlaky
 
-<img class="centered_image" src="/images/pos/31/typypruvlaku.jpg" />
+![](/images/pos/31/typypruvlaku.jpg =600x)
 
 **STROPNÍ PANELY** - uloženy buď na průvlaky nebo přímo na sloupy
 
 **DESKOVÉ HLAVICE** - jen v případě že stropní panely jsou uloženy bodově přímo na sloupech s absencí stropních průvlaků
 
-<img class="centered_image" src="/images/pos/31/hlavice.jpg" />
+![](/images/pos/31/hlavice.jpg =600x)
 
 ### ZTUŽENÍ KONSTRUKCE
 
@@ -64,27 +64,27 @@ Sloupové systém mají v porovnání se stěnami malou ohybovou tuhost.
 
 U vyšších sloupovích kcí. se prostorová tuhost zajišťuje výztužnými prvky ve formě ztužujících stěn, diagonálních ztužidel nebo výztužnými výplněmi rámů.
 
-<img class="centered_image" src="/images/pos/31/ztuzeni.jpg" />
+![](/images/pos/31/ztuzeni.jpg =600x)
 
 ### KONSTRUKČNÍ SYSTÉMY
 
-**MS71**
+#### **MS71**
 
 Sloupový skelet s deskovými průvlaky
 
 Modulové rozpětí 2,4 - 7,2m, v krajním poli možnost průvlak vykonzolovat modulově o 1,2m
 
-<img class="centered_image" src="/images/pos/31/ms71.jpg" />
+![](/images/pos/31/ms71.jpg =700x)
 
-**INTEGRO**
+#### **INTEGRO**
 
 Otevřený prefabrikovaný sloupový systém (vetší variabilita při navrhování)
 
 Hlavní nosný systém skeletu INTEGRO je tvořen sloupy průřezu H nebo průběžnými vícepodlažními sloupy čtvercového průřezu a stropními zdvojenými lichoběžníkovými nosníky
 
-<img class="centered_image" src="/images/pos/31/integro.jpg" />
+![](/images/pos/31/integro.jpg =700x)
 
-**PREMO**
+#### **PREMO**
 
 - Otevřený středně-rozponový systém
 
@@ -94,18 +94,18 @@ Systém PREMO umožňuje použití prefabrikovaných, kombinovaných i monolitic
 
 ### STYKY SLOUPŮ A PRŮVLAKŮ
 
-spřažení obdélníkového průvlaku v prefa-monolitickém systému
+Spřažení obdélníkového průvlaku v prefa-monolitickém systému
 
-<img class="centered_image" src="/images/pos/31/prefapruvlak.jpg" />
+![](/images/pos/31/prefapruvlak.jpg =600x)
 
 **ČAPKŮV SPOJ** - stykovací výztuž vycházející ze spodního sloupu prochází průvlakem a svaří se s vrchních sloupem, poté se styk vyplní betonovou zálivkou
 
-<img class="centered_image" src="/images/pos/31/capek.jpg" />
+![](/images/pos/31/capek.jpg =600x)
 
-řez sloupem H průřezu
+Řez sloupem H průřezu
 
-<img class="centered_image" src="/images/pos/31/hprurez.jpg" />
+![](/images/pos/31/hprurez.jpg =300x)
 
-sloupy H průřezu mají v sobě čtyři svislé průběžné dutiny pro vložení výztužných prutů, které se dodatečně zainjektují expanzní zálivkou. Tím je dosaženo zmonolitnění jednotlivých dílců sloupů a zároveň propojení se stropními nosníky
+Sloupy H průřezu mají v sobě čtyři svislé průběžné dutiny pro vložení výztužných prutů, které se dodatečně zainjektují expanzní zálivkou. Tím je dosaženo zmonolitnění jednotlivých dílců sloupů a zároveň propojení se stropními nosníky.
 
-<img class="centered_image" src="/images/pos/31/stykh.jpg" />
+![](/images/pos/31/stykh.jpg =300x)

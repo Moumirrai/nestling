@@ -15,12 +15,12 @@ pageClass: default-page
 - **montované** (z celostěnových panelů, sádrokartonové, lehké montované příčky přemístitelné, skříňové, pohyblivé)
 
 **Rozdělení dle statického uložení**
-<img class="centered_image" src="/images/pos/4/ulozeni1.jpg" />
+
+![](/images/pos/4/ulozeni1.jpg)
 
 ## Kotvení
 
-<br>
-<img class="centered_image" src="/images/pos/4/35.jpg" />
+![](/images/pos/4/35.jpg)
 
 - a pomocí kotevní výztuže
 
@@ -38,13 +38,13 @@ pageClass: default-page
 
 **1/4 příčka**
 
-> <img class="centered_image" src="/images/pos/4/12.jpg" />
-> <br>
-> <img class="centered_image" src="/images/pos/4/why.jpg" />
+![](/images/pos/4/12.jpg =500x)
+
+![](/images/pos/4/why.jpg =500x)
 
 **Kotvení pomocí pásové oceli**
 
-> <img class="centered_image" src="/images/pos/4/pasek.jpg" />
+![](/images/pos/4/pasek.jpg =500x)
 
 ### **Dvojité příčky**
 
@@ -52,24 +52,24 @@ pageClass: default-page
 - používá se jako mezibytová příčka
 - kotví se obdobně jako jednoduchá - do ozubů, kapes, drážek či kotevní výztuží
 
-> <img class="centered_image" src="/images/pos/4/31.jpg" />
+![](/images/pos/4/31.jpg)
 
 ### **Příčky keramické a pórobetonové**
 
 #### Porotherm
-> <img class="centered_image" src="/images/pos/4/7.jpg" />
-> <br>
-> <img class="centered_image" src="/images/pos/4/therm.jpg" /> 
-> <br>
-> <img class="centered_image" src="/images/pos/4/6.jpg" />
+![](/images/pos/4/7.jpg)
+
+![](/images/pos/4/therm.jpg =800x)
+
+![](/images/pos/4/6.jpg)
 
 #### Pórobetonové (Ytong, Porfix)
 
 - kotví se ocelovými příponkami
 
-> <img class="centered_image" src="/images/pos/4/ytong.jpg" /> 
-> <br>
-> <img class="centered_image" src="/images/pos/4/ytong2.jpg" /> 
+![](/images/pos/4/ytong.jpg =500x)
+
+![](/images/pos/4/ytong2.jpg =500x)
 
 ### **Sklobetonové příčky**
 
@@ -77,9 +77,10 @@ pageClass: default-page
 - musejí být od všech konstrukcí dilatačně odděleny
 
 **Prvky a kotvení**
-> <img class="centered_image" src="/images/pos/4/sklo.jpg" />
-> <br>
-> <img class="centered_image" src="/images/pos/4/sklokotva.jpg" />
+
+![](/images/pos/4/sklo.jpg)
+
+![](/images/pos/4/sklokotva.jpg)
 
 ## Monolitické příčky
 
@@ -93,7 +94,7 @@ pageClass: default-page
 - výztuž se kotví do kapes nebo do drážky ve zdivu, ke stropu se připevňuje úchytkami, sponami, nebo se zavěsí na páskovou ocel
 - tloušťka 6 až 10 cm
 
-<img class="centered_image" src="/images/pos/4/monierka.jpg" />
+![](/images/pos/4/monierka.jpg)
 
 ### Rabicka (Vápenosádrová)
 
@@ -102,7 +103,7 @@ pageClass: default-page
 - na dráty se připevní pozinkované pletivo 0,8 mm, oka 15 x 15 až 30 x 30 mm a na pletivo se nahazuje hustá vápenosádrová malta
 - celková tloušťka i s omítkou je 50 mm
 
-<img class="centered_image" src="/images/pos/4/rabicka.jpg" />
+![](/images/pos/4/rabicka.jpg)
 
 ## Montované příčky
 
@@ -117,7 +118,7 @@ pageClass: default-page
 - **výhody** - rychlost montáže, kompletnost prvku
 - **nevýhody** - přeprava, potřeba těžkého vybavení
 
-<img class="centered_image" src="/images/pos/4/panel.jpg" />
+![](/images/pos/4/panel.jpg)
 
 ### Pevná kostrová příčka (sádrokartonová)
 
@@ -126,22 +127,17 @@ pageClass: default-page
 - do vzniklé mezery v kci se vkládá minerální vata
 - vyrábějí se i desky do vlhkého prostředí a se zvýšenou požární odolností
 
-> **Na dřevěné kci**
->
-> <br>
-> <img class="centered_image" src="/images/pos/4/drevo.jpg" />
-> <br>
-> 
-> **Na ocelovém profilu**
->
-> <br>
-> <img class="centered_image" src="/images/pos/4/ocel.jpg" />
-> <br>
-> 
-> **Spárování**
->
-> <br>
-> <img class="centered_image" src="/images/pos/4/spara.jpg" />
+**Na dřevěné kci**
+
+![](/images/pos/4/drevo.jpg)
+
+**Na ocelovém profilu**
+
+![](/images/pos/4/ocel.jpg)
+
+**Spárování**
+
+![](/images/pos/4/spara.jpg =800x)
 
 ### Další příklady kostrových příček
 
@@ -157,14 +153,14 @@ pageClass: default-page
 - prvky mohou být neprůsvitné, průsvitné, pevné i otevíravé
 - užití nejčastěji v administrativních budovách
 
-<img class="centered_image" src="/images/pos/4/premis.jpg" />
+![](/images/pos/4/premis.jpg)
 
 ### Skříňové příčky
 
 - montované přemístitelné kce, jejichž vnitřní prostor je využitý pro další funkci (skladovací, instalační)
 - základní prvky jsou svislé plošně bočnice rozepřené mezi podlahu
 
-<img class="centered_image" src="/images/pos/4/skrin.jpg" />
+![](/images/pos/4/skrin.jpg)
 
 ### Pohyblivé příčky
 
@@ -172,22 +168,21 @@ pageClass: default-page
 - mohou být shrnovací, posuvné nebo skládací
 
 
-> **Shrnovací**
-> - svislé profily (sloupky) jsou zavěšené v nosném pojezdovém profilu připevněném na stropě
-> - na sloupcích je připevněn poddajný plášťovací materiál
->
-> <img class="centered_image" src="/images/pos/4/shrn.jpg" />
-> <br>
->
-> **Posuvná**
-> - deskové díly jsou zavěšené ve vodící kolejnici, v podlaze jsou díly vedené v drážce
-> - jednotlivé díly se zasouvají do bočních krycích dílců
->
-> <img class="centered_image" src="/images/pos/4/posun.jpg" />
-> <br>
->
-> **Skládací**
-> - obdobně jako posuvná
-> - jednotlivé dílce jsou mezi sebou spojené a při skládání se otáčejí kolem svislé osy
->
-> <img class="centered_image" src="/images/pos/4/sklad.jpg" />
+**Shrnovací**
+- svislé profily (sloupky) jsou zavěšené v nosném pojezdovém profilu připevněném na stropě
+- na sloupcích je připevněn poddajný plášťovací materiál
+
+![](/images/pos/4/shrn.jpg =800x)
+
+
+**Posuvná**
+- deskové díly jsou zavěšené ve vodící kolejnici, v podlaze jsou díly vedené v drážce
+- jednotlivé díly se zasouvají do bočních krycích dílců
+
+![](/images/pos/4/posun.jpg =800x)
+
+**Skládací**
+- obdobně jako posuvná
+- jednotlivé dílce jsou mezi sebou spojené a při skládání se otáčejí kolem svislé osy
+
+![](/images/pos/4/sklad.jpg)

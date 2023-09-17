@@ -135,12 +135,12 @@ pageClass: default-page
 - kombinace osobní a kapitálové společnosti
 - zakládají min. 2 osoby (právnická a fyzická)
 - společníci
-  - **komplementáři**
-    - ručí celým svým majetkem
-    - řídí společnost
-  - **komadisté**
-    - ručí do výše vkladů
-    - mají právo nahlížet a podílet se na zisku
+    - **komplementáři**
+        - ručí celým svým majetkem
+        - řídí společnost
+    - **komadisté**
+        - ručí do výše vkladů
+        - mají právo nahlížet a podílet se na zisku
 
 #### Společnost s ručením omezeným **s.r.o.**
 
@@ -167,9 +167,9 @@ pageClass: default-page
 - vstup je podmíněn vkladem
 - ručí za závazky celým svým majetkem
 - například:
-  - Bytová družstva
-  - Sociální družstva
-  - Spořitelní a úvěrní družstva
+    - Bytová družstva
+    - Sociální družstva
+    - Spořitelní a úvěrní družstva
 
 ### Státní podniky a organizace
 

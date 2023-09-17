@@ -30,21 +30,13 @@ pageClass: default-page
 
 - navrhují se zpravidla v nevytápěných objektech. V obytných budovách se navrhují pouze jako okna sklepní nebo schodišťová
 
-<img class="centered_image" src="/images/pos/23/1.jpg" />
-
-<!--
-TODO:Rozdělit a popisky
--->
+![](/images/pos/23/1.jpg =800x)
 
 ### Zdvojená okna
 
 - uplatňují se zejména v občanských a průmyslových objektech
 
-<img class="centered_image" src="/images/pos/23/3.jpg" />
-
-<!--
-TODO:popisky
--->
+![](/images/pos/23/3.jpg =800x)
 
 ### Výplně otvorů
 
@@ -54,7 +46,7 @@ TODO:popisky
 
 - mají mezi jednostlivými rámy vzduchovou mezeru
 
-<img class="centered_image" src="/images/pos/23/4.jpg" />
+![](/images/pos/23/4.jpg =800x)
 
 ## Kovové dveře
 
@@ -152,11 +144,7 @@ TODO:popisky
 - Ventilační okenní uzávěry pákové nebo lanové (umožňují otevírání a zavírání sklápěcích křídel)
 - Spojky zdvojených křídel (slouží k dočasnému spojení zdvojených okenních křídel
 
-<img class="centered_image" src="/images/pos/23/6.jpg" />¨
-
-<!--
-TODO:rozdělit a popisky
--->
+![](/images/pos/23/6.jpg =800x)
 
 #### Dveřní kování
 
@@ -168,21 +156,18 @@ TODO:rozdělit a popisky
 - Dveřní kliky včetně štítků nebo madla
 - Zadlabávací zámky obyčejné a dozické zámky s bezpečnostní vložkou, válečkovou střelkou, popř. petlice, visací zámky apod.
 
-<img class="centered_image" src="/images/pos/23/7.jpg" />
+![](/images/pos/23/7.jpg =800x)
 
-<!--
-TODO:popisky
--->
 
 ### Kliky
 
 - kliky, koule, olivy, půlolivy
 
-<img class="centered_image" src="/images/pos/23/8.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/23/9.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/23/10.jpg" />
+![](/images/pos/23/8.jpg =300x)
+
+![](/images/pos/23/9.jpg =300x)
+
+![](/images/pos/23/10.jpg =300x)
 
 ### Zábradlí
 
@@ -209,19 +194,14 @@ TODO:popisky
 - podle sklonu máme šikmé a svislé
 - nejčastěji se používají ocelové žebříky
 
-<img class="centered_image" src="/images/pos/23/11.jpg" />
+![](/images/pos/23/11.jpg =300x)
 
 ### Ocelové schodiště
 
 - z ocelových profilů (lisované plechy, válcované profily)
 
-<img class="centered_image" src="/images/pos/23/12.jpg" />
+![](/images/pos/23/12.jpg =600x)
 
 ### Ocelová zárubeň
 
-<br>
-
-<img class="centered_image" src="/images/pos/23/13.jpg" />
-<!--
-TODO:popisky
--->
+![](/images/pos/23/13.jpg =800x)

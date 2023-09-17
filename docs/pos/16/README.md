@@ -14,66 +14,65 @@ pageClass: default-page
 
 1. ### Statické
 
-   - (u konzoly dostatečná nadezdívka)
-   - rozhodující druhy zatížení:
-     - zatížení vlastní hmotností
-     - zatížení od uvažovaného provozu
-     - sníh
-     - vítr
-     - zatížení teplotními změnami
+  - (u konzoly dostatečná nadezdívka)
+  - rozhodující druhy zatížení:
+    - zatížení vlastní hmotností
+    - zatížení od uvažovaného provozu
+    - sníh
+    - vítr
+    - zatížení teplotními změnami
 
 2. ### Dispozičně provozní
 
-   - požadavek na bezpečnost provozu --> požadavky na zábradlí, požadavky na povrchy podlah, prostorové požadavky
+  - požadavek na bezpečnost provozu --> požadavky na zábradlí, požadavky na povrchy podlah, prostorové požadavky
 
-<img class="centered_image" src="/images/pos/16/vyskazabradli.jpg" />
+![](/images/pos/16/vyskazabradli.jpg =600x)
 
 3. ### Izolační
 
-   - zvuková izolace
-   - tepelná izolace (nutné řešit tzv. tepelné mosty)
+  - zvuková izolace
+  - tepelná izolace (nutné řešit tzv. tepelné mosty)
 
    Tři základní způsoby přerušení tepelných mostů u převislých kcí:
 
-   1. **obložení**
+  1. **obložení**
 
-   <img class="centered_image" src="/images/pos/16/oblozeni.jpg" />
+![](/images/pos/16/oblozeni.jpg =600x)
 
-   2. **částečné přerušení tepelné izolace**
-      - nosným prvkem je žebro/trám, tepelná izo. je umístěna mezi žebry a v místě přerušené desky nad žebry
-      - nevýhodou je vysoká pravděpodobnost že v zimním období může dojít ke kondenzaci vodních par --> výskyt plísně
+  2. **částečné přerušení tepelné izolace**
+    - nosným prvkem je žebro/trám, tepelná izo. je umístěna mezi žebry a v místě přerušené desky nad žebry
+    - nevýhodou je vysoká pravděpodobnost že v zimním období může dojít ke kondenzaci vodních par --> výskyt plísně
 
-   <img class="centered_image" src="/images/pos/16/castecnepreruseni.jpg" />
+![](/images/pos/16/castecnepreruseni.jpg =600x)
 
-   3. **vložení TI do přerušené ŽB kce. (ISO nosníky)**
+  3. **vložení TI do přerušené ŽB kce. (ISO nosníky)**
 
-      - ŽB deska je přerušena TI (ISO nosníkem), který má v sobě zakotvenou srkze TI betonářskou výztuž na obě strany a po zabetonování spolupůsobí se stropní konstrukcí
+   - ŽB deska je přerušena TI (ISO nosníkem), který má v sobě zakotvenou srkze TI betonářskou výztuž na obě strany a po zabetonování spolupůsobí se stropní konstrukcí
 
-   <br>
-   <img class="centered_image" src="/images/pos/16/isonosnik1.jpg" />
-   <br>
-   <img class="centered_image" src="/images/pos/16/isonosnik2.jpg" />
-   <br>
-   <img class="centered_image" src="/images/pos/16/isonosnik3.jpg" />
+![](/images/pos/16/isonosnik1.jpg =600x)
+
+![](/images/pos/16/isonosnik2.jpg =600x)
+
+![](/images/pos/16/isonosnik3.jpg =600x)
 
 4. ### Odolnost proti požáru
 
 5. ### Architektonické
 
-   - (převislé konstrukce jsou často výrazný prvek u historických slohů)
+  - (převislé konstrukce jsou často výrazný prvek u historických slohů)
 
 6. ### Odolnost vůči povětrnostním vlivům
 
-   - ochrana před dešťovou vodou
-     - okapní nosy
-     - okapní drážky
+  - ochrana před dešťovou vodou
+    - okapní nosy
+    - okapní drážky
 
-<img class="centered_image" src="/images/pos/16/okapninos.jpg" />
+![](/images/pos/16/okapninos.jpg)
 
 7. ### Odolnost vůči účinkům objemových změn
 
-   - vlivem: teplotních změn, změn vlhkosti
-   - nutno řešit dilatacemi
+  - vlivem: teplotních změn, změn vlhkosti
+  - nutno řešit dilatacemi
 
 ## Balkóny
 
@@ -97,7 +96,7 @@ pageClass: default-page
 - zavěšený prvek
 - podepřený prvek
 
-<img class="centered_image" src="/images/pos/16/balkony.jpg" />
+![](/images/pos/16/balkony.jpg)
 
 ## Lodžie
 
@@ -109,7 +108,7 @@ pageClass: default-page
 - zapuštěné l.
 - polozapuštěné l.
 
-<img class="centered_image" src="/images/pos/16/lodzie.jpg" />
+![](/images/pos/16/lodzie.jpg)
 
 ## Římsy
 
@@ -125,30 +124,30 @@ pageClass: default-page
 - kordonová (pásová)
 - štítová
 
-<img class="centered_image" src="/images/pos/16/druhyrims2.jpg" />
+![](/images/pos/16/druhyrims2.jpg)
 
 **stabilita se zajišťuje**:
 
 - kotvením
 - přitížením nadezdívkou
 
-<img class="centered_image" src="/images/pos/16/rimsy.jpg" />
+![](/images/pos/16/rimsy.jpg)
 
 ## Arkýře a Apsidy
 
 - vyložená kce., která je uzavřená před vnějšími vlivy
 - Apsida - stojící na zemi / Arkýř - ve vzduchu
 
-<img class="centered_image" src="/images/pos/16/apsida.jpg" />
+![](/images/pos/16/apsida.jpg)
 
-<img class="centered_image" src="/images/pos/16/vykyr.jpg" />
+![](/images/pos/16/vykyr.jpg)
 
 ## Markýzy (přístřešky)
 
 - chrání vstupy před nepříznivými vlivy
 - vyložení cca 1 až 3m podle typu objektu
 
-<img class="centered_image" src="/images/pos/16/markyza.jpg" />
+![](/images/pos/16/markyza.jpg)
 
 ## Terasy (ustupující podlaží)
 
@@ -158,10 +157,10 @@ Nutno řešit:
 - tepelně technicky
 - akusticky (kročejový hluk)
 
-<img class="centered_image" src="/images/pos/16/terasa.jpg" />
+![](/images/pos/16/terasa.jpg)
 
 ## Pavlače
 
 Chodba vně budovy
 
-<img class="centered_image" src="/images/pos/16/pavlac.jpg" />
+![](/images/pos/16/pavlac.jpg)

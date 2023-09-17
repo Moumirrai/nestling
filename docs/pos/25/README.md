@@ -16,12 +16,11 @@ TODO: dodělat speciální tašky, např hřebenáč
 - vysoká hořlavost
 - většinou ve formě došků
 
-<img class="centered_image" src="/images/pos/25/dosek.jpg" />
+![](/images/pos/25/dosek.jpg)
 
 ### Dřevěné krytiny
 
-<br>
-<img class="centered_image" src="/images/pos/25/drevo.jpg" />
+![](/images/pos/25/drevo.jpg)
 
 #### Štípaný šindel
 
@@ -38,7 +37,7 @@ TODO: dodělat speciální tašky, např hřebenáč
 - skvělé tepelné a zvukově izolační vlastnosti
 - mohou být štípané nebo řezané
 
-<img class="centered_image" src="/images/pos/25/bridlice.jpg" />
+![](/images/pos/25/bridlice.jpg)
 
 ### Krytiny z pálených tašek
 
@@ -57,32 +56,34 @@ TODO: dodělat speciální tašky, např hřebenáč
 :::danger NEVÝHODY
 
 - hmotnost
-:::
+  :::
 
-<img class="centered_image" src="/images/pos/25/tasky.jpg" />
+![](/images/pos/25/tasky.jpg)
 
-> **BOBROVKA**
-> - tradiční hladká taška
-> - většinou se klade ve dvou vrstvách
-> - rozměry jsou 180x380 mm
->
-> <img class="centered_image" src="/images/pos/25/bobrovka.jpg" />
->
->> #### Jednoduchá bobrovka
->>
->> <img class="centered_image" src="/images/pos/25/bobrovka_jednoducha.jpg" />
->
->> #### Dvojitá bobrovka
->>
->> <img class="centered_image" src="/images/pos/25/bobrovka_dvojita.jpg" />
+#### **BOBROVKA**
+- tradiční hladká taška
+- většinou se klade ve dvou vrstvách
+- rozměry jsou 180x380 mm
+
+![](/images/pos/25/bobrovka.jpg)
+
+##### Jednoduchá bobrovka
+
+![](/images/pos/25/bobrovka_jednoducha.jpg =700x)
+
+##### Dvojitá bobrovka
+
+![](/images/pos/25/bobrovka_dvojita.jpg =700x)
+
 ---
-> **TAŠKY RAŽENÉ**
->- drážkované
->- pokládají se v jedné vrstvě
->- kladou se na sucho, přičemž ložné spáry se zatírají z půdy pokrývačskou maltou
->- např falcovka
->
-><img class="centered_image" src="/images/pos/25/falcovka.jpg" />
+#### **TAŠKY RAŽENÉ**
+- drážkované
+- pokládají se v jedné vrstvě
+- kladou se na sucho, přičemž ložné spáry se zatírají z půdy pokrývačskou maltou
+- např falcovka
+
+![](/images/pos/25/falcovka.jpg =300x)
+
 ---
 > **TAŠKY TAŽENÉ**
 > - po obvodu se kladou do malty
@@ -100,7 +101,7 @@ TODO: dodělat speciální tašky, např hřebenáč
 > - klade se do malty
 > - provedení je velmi náročné, nutno svěřit odborné firmě
 >
-> <img class="centered_image" src="/images/pos/25/prejz.jpg" />
+>![](/images/pos/25/prejz.jpg =300x)
 ---
 
 #### Kameninová bobrovka
@@ -118,7 +119,7 @@ TODO: dodělat speciální tašky, např hřebenáč
 - skládají se stejně jako keramické
 - mohou být z hrubého či jemného betonu
 
-<img class="centered_image" src="/images/pos/25/beton.jpg" />
+![](/images/pos/25/beton.jpg =700x)
 
 ### Plechové krytiny
 
@@ -131,14 +132,14 @@ TODO: dodělat speciální tašky, např hřebenáč
 - velmi vhodné do horských oblastí
 - kotví se k nosným trámcům
 
-<img class="centered_image" src="/images/pos/25/kov.jpg" />
+![](/images/pos/25/kov.jpg =700x)
 
 ### Vláknocementové střešní krytiny
 
 - kdysi se označovaly jako eternit, a obsahovaly azbest
 - nehořlavé, odolné proti mrazu, kapalinám, hnilobě a korozi
 
-<img class="centered_image" src="/images/pos/25/vlakenocement.jpg" />
+![](/images/pos/25/vlakenocement.jpg =700x)
 
 ## Povlakové krytiny
 
@@ -149,4 +150,4 @@ TODO: dodělat speciální tašky, např hřebenáč
   - v jednom kroku - celý pás se nataví naráz
   - ve dvou krocích - nejprve se nataví plocha pásů, a poté přesahy
 
-<img class="centered_image" src="/images/pos/25/asfalt.jpg" />
+![](/images/pos/25/asfalt.jpg =700x)

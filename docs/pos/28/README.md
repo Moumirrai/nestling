@@ -25,25 +25,20 @@ pageClass: default-page
 
 ### Části vnitřní kanalizace
 
-> **Řez svislé kanalizace**
->
-> <img class="centered_image" src="/images/pos/28/rez_svisla_kanalizace.jpg" />
->
-><br>
->
+#### Řez svislé kanalizace
+
+![](/images/pos/28/rez_svisla_kanalizace.jpg =800x)
+
 > **1** – uliční stoka, **2** – hlavní svod, **3** – revizní šachta, **4** – dvorní vpust, **5** – vedlejší svody, **6** – odpadní potrubí, **7** –připojovací potrubí, **8** – větrací potrubí, **9** – větrací nástavec, **10** – čistící tvarovka, **11** – lapač splavenin, **12** – napojení dešťového odpadu, **13** – dešťový odpad
-:::
 
 ### Ležatá kanalizace
 
 - Ležaté potrubí má být vedeno v jednotném spádu minimálně 2 %, pokud by spád překračoval hodnotu 5 %, doporučuje se vybudovat tzv. spádový stupeň
 
-> **Ležatá kanalizace**
->
-><img class="centered_image" src="/images/pos/28/lezeta_kanalizace.jpg" />
->
-> <br>
->
+#### Ležatá kanalizace
+
+![](/images/pos/28/lezeta_kanalizace.jpg =800x)
+
 > **1** – vyústění z budovy, **2** – hlavní svod, **3** – odbočky k připojení vedlejších svodů, **4** – čistící tvarovka, **5** – oblouky pro změny směru, **6**-**8** – vedlejší svody
 
 **Hlavní svod** – bývá zpravidla nejdelší a prochází přibližně půdorysným středem budovy. Končí přechodem do kanalizační přípojky nebo napojením do domovní čistírny.
@@ -54,15 +49,13 @@ pageClass: default-page
 
 Kanalizační přípojka je podzemní potrubí spojující vnitřní kanalizaci a kanalizační stoku. Jejím úkolem je odvádět z připojené nemovitosti odpadní vodu. Začíná jeden metr za vyústěním ležatého rozvodu z budovy a končí napojením na uliční stoku.
 
-> <img class="centered_image" src="/images/pos/28/pripojka_schema.jpg" />
-> 
-> <br>
->
+![](/images/pos/28/pripojka_schema.jpg)
+
 > **1** – uliční stoka, **2** – kanalizační přípojka, **3** – vnitřní kanalizace, **4** – revizní šachta, **5** – hranice pozemku
 
-> **Detail přípojky**
->
-> <img class="centered_image" src="/images/pos/28/pripojka_detail.jpg" />
+#### Detail přípojky
+
+![](/images/pos/28/pripojka_detail.jpg)
 
 ### Domovní čistírny odpadních vod
 
@@ -70,11 +63,11 @@ Kanalizační přípojka je podzemní potrubí spojující vnitřní kanalizaci 
 
 **Žumpa** – vodotěsná jímka bez odtoku, která slouží jen k shromažďovaní odpadních vod, musí se pravidelně vyvážet pomocí fekálního vozu.
 
-<img class="centered_image" src="/images/pos/28/zumpa.jpg" />
+![](/images/pos/28/zumpa.jpg)
 
 **Septik** - zajišťuje biologické a mechanické předčištění kalů. Jedná se o většinou plastovou nepropustnou nádobu s několika přepážkami zpravidla zapuštěnou do terénu. Poté odpadní voda odtéká přepadem do veřejné kanalizace či domácí čistírny.
 
-<img class="centered_image" src="/images/pos/28/septik.jpg" />
+![](/images/pos/28/septik.jpg)
 
 ### Zásady
 
@@ -94,7 +87,7 @@ Kanalizační přípojka je podzemní potrubí spojující vnitřní kanalizaci 
 - V úrovni terénu pak bývá osazen lapač střešních splavenin, ve kterém se zachytávají mechanické nečistoty splavené ze střechy (např.listí, kousky krytiny apod.). Za lapačem splavenin je umístěno ležaté potrubí.
 - Okapové žlaby mají půlkruhový nebo čtyřhranný tvar a k odpadní trubce se připojují pomocí tzv. žlabových hrdel. Vyráběny jsou z ocelového pozinkovaného plechu, mědi nebo plastu.
 
-<img class="centered_image" src="/images/pos/28/odvodneni.jpg" />
+![](/images/pos/28/odvodneni.jpg =500x)
 
 ### Odvodnění plochých střech
 
@@ -102,7 +95,7 @@ Kanalizační přípojka je podzemní potrubí spojující vnitřní kanalizaci 
 - Odvodnění pomocí střešních vtoků na ploše střechy
 - Gravitační systém odvodnění se zpravidla navrhuje tak, že jednotlivé střešní vtoky se odvodňují samostatným svislým dešťovým odpadem.
 
-<img class="centered_image" src="/images/pos/28/odvodneni-plochych.jpg" />
+![](/images/pos/28/odvodneni-plochych.jpg =500x)
 
 ### Retenční nádrže
 
@@ -111,7 +104,7 @@ Kanalizační přípojka je podzemní potrubí spojující vnitřní kanalizaci 
 - Retenční nádrž bývá obvykle vyrobena z laminátu nebo polyethylenu.
 - Mohou mít různý tvar, nejčastěji jde o válec.
 
-<img class="centered_image" src="/images/pos/28/retencni-nadrz.jpg" />
+![](/images/pos/28/retencni-nadrz.jpg)
 
 ## Prostředky pro ochranu domovní kanalizace
 
@@ -123,16 +116,14 @@ Kanalizační přípojka je podzemní potrubí spojující vnitřní kanalizaci 
 - Zápachovými uzávěrkami musí být opatřeny všechny zařizovací předměty a zařízení napojená na vnitřní kanalizaci.
 - Suché, či vodní
 
-Princip vodní zápachové uzávěrky (tzv. Sifon)
-
-<img class="centered_image" src="/images/pos/28/sifon.jpg" />
+![_Princip vodní zápachové uzávěrky (tzv. Sifon)_](/images/pos/28/sifon.jpg =600x)
 
 ### Lapače a odlučovače
 
 - Jsou zařízení určená k zachycení různých látek, které nesmí být do kanalizace vpuštěny, protože by ji ucpávaly, popřípadě znečisťovaly odpadní vodu takovým způsobem, že by pak nesměla být vypuštěna do veřejné kanalizace.
 - Např. Odlučovač tuku, lapač střešních splavenin, lapač škrobu, odlučovač benzinu a oleje
 
-<img class="centered_image" src="/images/pos/28/lapac.jpg" />
+![](/images/pos/28/lapac.jpg =600x)
 
 ## Vpusti
 
@@ -142,13 +133,13 @@ Slouží k odvádění vody z povrchů různých ploch jako jsou podlahy místno
 
 Jsou určeny k odvedení vody z podlah místností (prádelny, kotelny). Jejich součástí je vodní zápachová uzávěrka, proto se nesmí osazovat do místností, kde není zajištěn trvalý přísun vody (např.sklep)
 
-<img class="centered_image" src="/images/pos/28/podlah-vpust.jpg" />
+![](/images/pos/28/podlah-vpust.jpg =600x)
 
 ### Dvorní vpusti
 
 Okolí vpusti nejméně do vzdálenosti 1m od mříže vydlážděno nebo vybetonováno. Vodní zápachová uzávěrka dvorních vpustí musí být osazena v nezámrzné hloubce s hladinou vody alespoň 1 m pod terénem. Musí být opatřeno košem na zachytávání nečistot. V komunikacích s automobilovým provozem nahrazujeme dvorní vpusti uličními nebo žlabovými rošty
 
-<img class="centered_image" src="/images/pos/28/zahradni-vpust.jpg" />
+![](/images/pos/28/zahradni-vpust.jpg =600x)
 
 ## Spojování potrubí
 
@@ -156,7 +147,7 @@ Okolí vpusti nejméně do vzdálenosti 1m od mříže vydlážděno nebo vybeto
 - Každá trubka má jeden konec opatřen hrdlem, do kterého se nasune hladký konec trubky druhé
 - Pro změnu směru či zalomení používáme kolena
 
-<img class="centered_image" src="/images/pos/28/prechod-spojovani.jpg" />
+![](/images/pos/28/prechod-spojovani.jpg)
 
 ## Veřejná kanalizace
 
@@ -170,14 +161,14 @@ Slouží k odvádění odpadních vod z jednotlivých nemovitostí a z veřejné
 
 - v síti je podtlak
 
-<img class="centered_image" src="/images/pos/28/verejna-vakuova.jpg" />
+![](/images/pos/28/verejna-vakuova.jpg =600x)
 
 ### Tlaková kanalizace
 
 - v síti je přetlak
 
-<img class="centered_image" src="/images/pos/28/verejna-tlakova.jpg" />
+![](/images/pos/28/verejna-tlakova.jpg =600x)
 
 ## Dělení podle tvaru
 
-<img class="centered_image" src="/images/pos/28/tvary-kanalizace.jpg" />
+![](/images/pos/28/tvary-kanalizace.jpg)

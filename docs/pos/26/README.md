@@ -40,8 +40,8 @@ Výměna vzduchu založena na rozdílných teplotách interiéru a vnějšího p
 - nevýhodou je proudění teplého vzduchu do místností v létě
 
 :::warning Šachtové větrání bez přívodu vzduchu
-<br>
-<img class="centered_image" src="/images/pos/26/pruduch.jpg" />
+
+![](/images/pos/26/pruduch.jpg =700x)
 
 **a)** patrové větrací průduchy, **b)** patrové větrací průduchy, **c)** schuntový větrací systém, **d)** šachta konstantního průřezu
 :::
@@ -67,9 +67,9 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 - s úpravou vzduchu (s filtrací)
 
 :::warning Nucené větrání bez úpravy vzduchu
-<br>
-<img class="centered_image" src="/images/pos/26/nucene_vetrani.jpg" />
-<br>
+
+![](/images/pos/26/nucene_vetrani.jpg =700x)
+
 :::
 
 #### Podle konstrukce dělíme na:
@@ -98,9 +98,9 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 - často v kombinaci s úpravou vzduchu (filtrace, teplota)
 
 :::warning Větrání s nuceným odvodem i přívodem vzduchu
-<br>
-<img class="centered_image" src="/images/pos/26/rovnotlake.jpg" />
-<br>
+
+![](/images/pos/26/rovnotlake.jpg =700x)
+
 :::
 
 #### Hygienické předpisy a normy
@@ -132,8 +132,8 @@ Navrhujeme tam kde není dostatečné přirozené větrání
 ### Části klimatizačního zařízení
 
 :::warning Schéma klimatizační jednotky v ležatém provedení
-<br>
-<img class="centered_image" src="/images/pos/26/klimatizace.jpg" />
+
+![](/images/pos/26/klimatizace.jpg =700x)
 
 **1.** komora sacího ventilátoru, **2.** rozváděcí komora, **3.** směšovací a filtrační komora, **4.** komora předehřívací, **5.** komora chladiče, **6.** komora pračky vzduchu, **7.** komora dohřívače, **8.** komora vytlačeného vzduchu, **9.** regulační klapky a tlumící vložky, **10.** vzduch odvádění z klimatizovaného prostoru, **11.** cirkulační vzduch, **12.** výfukový vzduch, **13.** čerstvý vzduch, **14.** upravený vzduch
 :::

@@ -28,8 +28,7 @@ pageClass: default-page
 - lázně v Luhačovicích
   :::
 
-<img class="centered_image" src="/images/pos/39/secese.jpg" />
-<br>
+![](/images/pos/39/secese.jpg)
 
 ## Individuální moderna
 
@@ -60,8 +59,7 @@ pageClass: default-page
 - Pavilon umění v Brně
   :::
 
-<img class="centered_image" src="/images/pos/39/kubismus.jpg" />
-<br>
+![](/images/pos/39/kubismus.jpg)
 
 ## Dekorativismus
 
@@ -69,10 +67,7 @@ pageClass: default-page
 
 ---
 
-<img class="centered_image" src="/images/pos/39/20_stol.jpg" />
-<br>
-
----
+![](/images/pos/39/20_stol.jpg)
 
 ## Moderní architektura
 
@@ -94,14 +89,11 @@ pageClass: default-page
 - vila Tugendhat (Brno)
   :::
 
-<img class="centered_image" src="/images/pos/39/opera.jpg" />
-<br>
+![](/images/pos/39/opera.jpg)
 
-<img class="centered_image" src="/images/pos/39/tugendhat.jpg" />
-<br>
+![](/images/pos/39/tugendhat.jpg =800x)
 
-<img class="centered_image" src="/images/pos/39/soudoba_architektura.jpg" />
-<br>
+![](/images/pos/39/soudoba_architektura.jpg)
 
 ## Funkcionalismus
 

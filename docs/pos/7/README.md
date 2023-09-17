@@ -17,10 +17,13 @@ Uložení desek na podporách může být kloubové (desky prostě uložené) ne
 
 - prostě (kloubově) uložené, se používají pro rozpětí do **3,0m**, vetknuté do **4,5m**
 
-> <br>
-> <img class="centered_image" src="/images/pos/7/deska1.jpg" />
-> <br>
-> a) deska prostě uložená, b) deska vetknutá
+![](/images/pos/7/deska1.jpg)
+
+::: center
+
+a) deska prostě uložená, b) deska vetknutá
+
+:::
 
 ### Desky obousměrně vyztužené
 
@@ -28,10 +31,13 @@ Uložení desek na podporách může být kloubové (desky prostě uložené) ne
 - přenášejí zatížení oběma směry
 - používají se pro pole až **9x9m**, o poměru 1:1 až 1:2
 
-> <br>
-> <img class="centered_image" src="/images/pos/7/deska2.jpg" />
-> <br>
-> a) deska prostě uložená po celém obvodu, b) deska vetknutá po celém obvodu
+![](/images/pos/7/deska2.jpg)
+
+::: center
+
+a) deska prostě uložená po celém obvodu, b) deska vetknutá po celém obvodu
+
+:::
 
 ## Trámový monolitický strop
 
@@ -52,7 +58,7 @@ Uložení desek na podporách může být kloubové (desky prostě uložené) ne
 - používají se tam kde není nutný rovný podhled
 - rozpětí až 7,5m
 
-<img class="centered_image" src="/images/pos/7/vtram1.jpg" />
+![](/images/pos/7/vtram1.jpg)
 
 ### Stropy kazetové
 
@@ -64,7 +70,7 @@ Uložení desek na podporách může být kloubové (desky prostě uložené) ne
 - rovný podhled trámových a žebrových stropů se provádí buď dodatečně nebo současně s nosnou konstrukcí
 - podhled může být vytvořen omítkou na podbití nebo na maltonosném pletivu (keramidovém, rabicovém), častěji se však provádí montážním systémem např. ze sádrokartonových desek
 
-<img class="centered_image" src="/images/pos/7/vtram2.jpg" />
+![](/images/pos/7/vtram2.jpg =800x)
 
 ### Stropy bedničkové
 
@@ -74,7 +80,7 @@ Uložení desek na podporách může být kloubové (desky prostě uložené) ne
 - mají značnou spotřebu dřeva, jsou pracné a nákladné
 - dnes se používají ojediněle, většinou pouze u rekonstrukcí
 
-<img class="centered_image" src="/images/pos/7/vtram3.jpg" />
+![](/images/pos/7/vtram3.jpg =800x)
 
 ## Žebírkový strop - Simplex
 
@@ -98,7 +104,7 @@ Uložení desek na podporách může být kloubové (desky prostě uložené) ne
 - možnost zatížit až po dosažení únosnosti betonu
   :::
 
-<img class="centered_image" src="/images/pos/7/simplex1.jpg" />
+![](/images/pos/7/simplex1.jpg)
 
 ## Monolitické věnce a nadpraží
 
@@ -110,11 +116,11 @@ Uložení desek na podporách může být kloubové (desky prostě uložené) ne
 - u obvodové stěny musí být doplněny o tepelnou izolaci
 - izolace se často obezdívá cihelnou obezdívkou (věncovka)
 
-<img class="centered_image" src="/images/pos/7/venec1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/7/venec2.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/7/venec3.jpg" />
+![](/images/pos/7/venec1.jpg)
+
+![](/images/pos/7/venec2.jpg)
+
+![](/images/pos/7/venec3.jpg)
 
 ### Monolitické překlady
 
@@ -136,14 +142,14 @@ Uložení desek na podporách může být kloubové (desky prostě uložené) ne
 - zatížit lze až po nabytí pevnosti betonu
   :::
 
-> **Minimální rozměry**
->
-> Výška - 1/20 délky
->
-> Uložení - 7,5% ze světlé šířky
+**Minimální rozměry**
 
-<img class="centered_image" src="/images/pos/7/preklad1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/7/preklad2.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/7/preklad3.jpg" />
+Výška - 1/20 délky
+
+Uložení - 7,5% ze světlé šířky
+
+![](/images/pos/7/preklad1.jpg =500x)
+
+![](/images/pos/7/preklad2.jpg =400x)
+
+![](/images/pos/7/preklad3.jpg =400x)

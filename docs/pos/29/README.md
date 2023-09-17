@@ -32,11 +32,11 @@ Zdroj tepla (topidlo) je umístěn přímo ve vytápěné místnosti. Účinnost
 
 Topidla topící plynem musí mít odtah spalin buď do komína nebo do venkovního prostoru skrze obvodový plášť budovy
 
-<img class="centered_image" src="/images/pos/29/plynovetopidlo.jpg" />
+![](/images/pos/29/plynovetopidlo.jpg)
 
 **Elektrická akumulační kamna** - slouží k vytápění místností převážně nočním elektrickým proudem, kdy je určitý přebytek proudu.
 
-<img class="centered_image" src="/images/pos/29/akumulacnikamna.jpg" />
+![](/images/pos/29/akumulacnikamna.jpg)
 
 ## Ústřední vytápění
 
@@ -62,7 +62,7 @@ Otopné soustavy, které se dnes používají, rozdělujeme...
 
 **Nucený oběh** otopné vody zajišťuje čerpadlo zařazené do potrubní sítě. Zpravidla se umísťuje do vratného potrubí, kde je otopná voda studenější. V soustavě má být ještě jedno čerpadlo umístěné jako 100 % rezerva.
 
-<img class="centered_image" src="/images/pos/29/obehvody.jpg" />
+![](/images/pos/29/obehvody.jpg)
 
 ### Dělení podle uspořádání trubního rozvodu:
 
@@ -72,7 +72,7 @@ Otopné soustavy, které se dnes používají, rozdělujeme...
 
 - **Horní rozvod** se liší od soustavy se spodním rozvodem tím, že přívodní ohřátá voda se vede od kotle hlavním svislým potrubím nahoru, tj. na půdu nebo pod strop nejvyššího podlaží, kde se ležatým přívodním potrubím rozvádí k jednotlivým stoupacím větvím s přípojkami k otopným tělesům.
 
-> <img class="centered_image" src="/images/pos/29/rozvod1.jpg" />
+![](/images/pos/29/rozvod1.jpg)
 
 - systém s vertikálním rozvodem, na který jsou v jednotlivých podlažích napojeny horizontální okruhy
 
@@ -84,13 +84,13 @@ Otopné soustavy, které se dnes používají, rozdělujeme...
 
 Jednotrubkové teplovodní vytápěcí soustavy se u nás dosud uplatňují v malém procentu výstavby. Výhodou je jednoduchý rozvod otopné vody a jeho snadná předvýroba. Nevýhodou je nutnost je zvětšování otopných těles ve směru toku otopné vody rozvodným potrubím, protože její teplota se směrem ke konci rozvodu postupně snižuje.
 
-<img class="centered_image" src="/images/pos/29/rozvod2.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/29/rozvod3.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/29/rozvod4.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/29/rozvod5.jpg" />
+![](/images/pos/29/rozvod2.jpg)
+
+![](/images/pos/29/rozvod3.jpg)
+
+![](/images/pos/29/rozvod4.jpg)
+
+![](/images/pos/29/rozvod5.jpg)
 
 ### Teplovodní vytápění
 
@@ -110,7 +110,7 @@ Horkovodní otopné soustavy se nepoužívají vzhledem k vysokým tlakům a tep
 
 Taktéž je potřeba **vyspádování** potrubí, kvůli riziku výskytu tzv. vodních pytlů
 
-<img class="centered_image" src="/images/pos/29/vodnipytel.jpg" />
+![](/images/pos/29/vodnipytel.jpg)
 
 Rozdělujeme na:
 
@@ -118,7 +118,7 @@ Rozdělujeme na:
 - středotlaké parní vytápění (pracovní přetlak přes 70 kPa do 1,6 MPa)
 - podtlakové parní vytápění (tlak nižší než atmosférický)
 
-<img class="centered_image" src="/images/pos/29/rozvod6.jpg" />
+![](/images/pos/29/rozvod6.jpg)
 
 ## Otopná tělesa
 
@@ -128,31 +128,26 @@ Podle konstrukce rozeznáváme otopná tělesa
 
 #### Článková - ocelová nebo litinová (radiátory)
 
-<br>
-<img class="centered_image" src="/images/pos/29/clankove.jpg" />
+![](/images/pos/29/clankove.jpg =500x)
 
 #### Desková - ocelová
 
-<br>
-<img class="centered_image" src="/images/pos/29/deskove.jpg" />
+![](/images/pos/29/deskove.jpg =500x)
 
 #### Skříňková - tzv. konvektory
 
-<br>
-<img class="centered_image" src="/images/pos/29/konvektor.jpg" />
+![](/images/pos/29/konvektor.jpg)
 
 #### Žebrová
 
-<br>
-<img class="centered_image" src="/images/pos/29/zebrove.jpg" />
+![](/images/pos/29/zebrove.jpg)
 
 #### Trubková
 
-<br>
-<img class="centered_image" src="/images/pos/29/trubkove.jpg" />
+![](/images/pos/29/trubkove.jpg)
 
 ## Podlahové vytápění
 
 Podlahové topení je tvořeno potrubím, rohožemi nebo fóliemi, které jsou instalovány pod podlahovou krytinou. Vzniká tzv. sálavé teplo, které ohřívá plochu podlahy, poté okolní předměty a teprve nakonec vzduch v místnosti. To zajišťuje rovnoměrnější prohřátí místnosti než s klasickými radiátory. Podlahové vytápění se používá v kombinaci s nízkoteplotním zdrojem, nejčastěji s tepelným čerpadlem nebo kondenzačním plynovým kotlem. Pro optimální tepelný komfort se podlaha vyhřívá obvykle na 22–25 °C. Nejvyšší povolená teplota nášlapné vrstvy je stanovena hygienickou normou na 29 °C, v místnostech s krátkodobým pobytem osob (např. koupelna) je povolené maximum 33 °C.
 
-<img class="centered_image" src="/images/pos/29/podlahovevytapeni.jpg" />
+![](/images/pos/29/podlahovevytapeni.jpg =600x)

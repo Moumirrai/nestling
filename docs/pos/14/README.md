@@ -10,9 +10,9 @@ skládá se ze střešního pláště a nosné kce.
 
 **Názvosloví střechy**
 
-<img class="centered_image" src="/images/pos/14/nazvoslovy.jpg" />
+![](/images/pos/14/nazvoslovy.jpg =600x)
 
-střechy se dělí podle skonu na:
+Střechy se dělí podle skonu na:
 
 - ploché (0° - 5°)
 
@@ -22,7 +22,7 @@ střechy se dělí podle skonu na:
 
 podle tvaru střešní kce. se dělí na: pultové, sedlové, valbové, polovalbové s horní nebo dolní valbou, stanové, mansardové, pilové
 
-<img class="centered_image" src="/images/pos/14/tvar.jpg" />
+![](/images/pos/14/tvar.jpg =600x)
 
 ## Typy krovových konstrukcí
 
@@ -35,23 +35,23 @@ podle tvaru střešní kce. se dělí na: pultové, sedlové, valbové, polovalb
 
 O této soustavy je důležité zachycení značných vodorovných sil, dociluje se toho zapomocí šikmo přibitých prken, plnících funkci ztužidel nebo využitím vrcholové vaznice.
 
-<img class="centered_image" src="/images/pos/14/hambalek1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/14/hambalek2.jpg" />
+![](/images/pos/14/hambalek1.jpg)
+
+![](/images/pos/14/hambalek2.jpg)
 
 **VLAŠSKÁ SOUSTAVA**
 
 - zastaralá
 - zatížení střechy zde nenesou krokve kolmé k okapu ale krokve vodorovné s okapem - vazničky po vzdálenosti cca 1m
 
-<img class="centered_image" src="/images/pos/14/vlasak.jpg" />
+![](/images/pos/14/vlasak.jpg =400x)
 
 **ARDANTOVA SOUSTAVA**
 
 - vychází z principu vzpěr a věšadel
 - pro zastřešení větších rozponů (20m a více)
 
-<img class="centered_image" src="/images/pos/14/ardant.jpg" />
+![](/images/pos/14/ardant.jpg =400x)
 
 **SOUSTAVA VĚŽNÍCH KROVŮ**
 
@@ -66,51 +66,46 @@ NÁZVOSLOVÍ:
 - šikmé prvky které jsou osedlány na vaznice
 - krokve přenáší zatížení od střešní krytiny
 
-**vaznice**
+**VAZNICE**
 
 Vodorovné prvky, které jsou podporovány v plných vazbách svislými nebo šikmými sloupky, u štítu je vaznice uložena na štítové stěně pokud je nosná
 
-podle umístění v krovu se dělí na:
+Podle umístění v krovu se dělí na:
 
 - pozední v. (tzv. pozednice) - plně uložené na obvodové stěně
-
 - střední v. - mezi okapek a hřebenem střechy (zpravidla zhruba ve 2/3 výšky střešní kce.)
-
 - vrcholová v. - umístěna v hřebeni krovu
 
-**sloupky**
+**SLOUPKY**
 
-jsou začepovány do vaznic, přenášejí svislá zatížení od vaznic do vazných trámů, případně rovnou do nosných zdí (do stropu a pod ním se nachází nosná zeď)
+- jsou začepovány do vaznic, přenášejí svislá zatížení od vaznic do vazných trámů, případně rovnou do nosných zdí (do stropu a pod ním se nachází nosná zeď)
 
-**pásky**
+**PÁSKY**
 
-mezi vaznicí a slopupkem je do obou prvků začepovaný šikmý prvek - pásek
+- mezi vaznicí a slopupkem je do obou prvků začepovaný šikmý prvek - pásek
+- spolupůsobí při přenášení zatížení z vaznic do sloupků (zkracují rozpětí vaznic)
 
-spolupůsobí při přenášení zatížení z vaznic do sloupků (zkracují rozpětí vaznic)
-
-**šikmé vzpěry**
+**ŠIKMÉ VZPĚRY**
 
 mezi sloupkem a vazným trámem, spolupůsobí při roznášení zatížení a ztužují plnou vazbu v příčném směru
 
-<img class="centered_image" src="/images/pos/14/spsv.jpg" />
+![](/images/pos/14/spsv.jpg =250x)
 
-**vazné trámy**
+**VAZNÉ TRÁMY**
 
-uloženy na obvodových zdech
+- uloženy na obvodových zdech
+- přenáší zatížení od svyslých konstrukcí (do obvodových zdí)
 
-přenáší zatížení od svyslých konstrukcí (do obvodových zdí)
+![](/images/pos/14/vaznytram.jpg =250x)
 
-<img class="centered_image" src="/images/pos/14/vaznytram.jpg" />
+**KLEŠTINY**
 
-**kleštiny**
+- základní prvek příčného vyztužení - svazují vaznice, sloupky a krokve v plných vazbách
+- osazují se vždy ve dvojici v místech vaznic, podle umístění se dělí na dolní/horní/vrcholové
 
-základní prvek příčného vyztužení - svazují vaznice, sloupky a krokve v plných vazbách
+![](/images/pos/14/klestiny.jpg =250x)
 
-osazují se vždy ve dvojici v místech vaznic, podle umístění se dělí na dolní/horní/vrcholové
-
-<img class="centered_image" src="/images/pos/14/klestiny.jpg" />
-
-VAZNICOVÁ KONSTRUKCE:
+### VAZNICOVÁ KONSTRUKCE:
 
 Základním nosním prvkem je vodorovný trám - **vaznice**
 
@@ -122,7 +117,7 @@ Mezi jednotlivými plnými vazbami jsou tzv. vazby prázdné (jalové), v nichž
 
 vzdálenost jednotlivých vazeb se pohybuje kolem 0,8 až 1,2m
 
-<img class="centered_image" src="/images/pos/14/vaznice1.jpg" />
+![](/images/pos/14/vaznice1.jpg)
 
 VAZNICOVÉ SOUSTAVY
 
@@ -130,15 +125,15 @@ podle typu a polohy sloupku se dělí na:
 
 - stojatá stolice
 
-<img class="centered_image" src="/images/pos/14/stojata.jpg" />
+![](/images/pos/14/stojata.jpg)
 
 - ležatá stolice
 
-<img class="centered_image" src="/images/pos/14/lezata.jpg" />
+![](/images/pos/14/lezata.jpg)
 
 - kombinovaná stolice
 
-<img class="centered_image" src="/images/pos/14/kombinovana.jpg" />
+![](/images/pos/14/kombinovana.jpg)
 
 - věšadlo a vzpěradlo
 
@@ -146,11 +141,11 @@ podle typu a polohy sloupku se dělí na:
 
   - věšadlem je sloupek, který působí jako táhlo vynášející vazný trám. Efektu je dosahováno za pomocí vzpěradel a rozpěr, které společně vynášejí sloupek.
 
-<img class="centered_image" src="/images/pos/14/vesadlo.jpg" />
+![](/images/pos/14/vesadlo.jpg)
 
 - krov se zkráceným trámem (tzv. bačkora)
 
-<img class="centered_image" src="/images/pos/14/backora.jpg" />
+![](/images/pos/14/backora.jpg)
 
 ### NOVODOBÉ SOUSTAVY KROVŮ
 
@@ -182,9 +177,9 @@ zesílení podpor (sloupků) a minimalizace jejich počtu (např. využitím obv
 
 OMEZENÍ: využití **do rozponu asi 12m** (při větších rozponech jsou výhodnější jiné konstrukční soustavy)
 
-<img class="centered_image" src="/images/pos/14/vazsou1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/14/vazsou2.jpg" />
+![](/images/pos/14/vazsou1.jpg)
+
+![](/images/pos/14/vazsou2.jpg)
 
 **VAZNÍKOVÉ SOUSTAVY**
 
@@ -194,15 +189,15 @@ podle kce. vazníku rozlišujeme:
 
 - plnostěnné
 
-<img class="centered_image" src="/images/pos/14/plnostenne.jpg" />
+![](/images/pos/14/plnostenne.jpg)
 
 - příhradové
 
-<img class="centered_image" src="/images/pos/14/prihradove.jpg" />
+![](/images/pos/14/prihradove.jpg)
 
 - vylehčené otvory
 
-<img class="centered_image" src="/images/pos/14/sotvory.jpg" />
+![](/images/pos/14/sotvory.jpg)
 
 podle materiálu:
 
@@ -216,38 +211,38 @@ podle materiálu:
 
 - **osedlání**
 
-<img class="centered_image" src="/images/pos/14/osedlani.jpg" />
+![](/images/pos/14/osedlani.jpg =500x)
 
 - **lípnutí**
 
   - nutno zajistit styčníkovou deskou
 
-  <img class="centered_image" src="/images/pos/14/lipnuti.jpg" />
-  <br>
-  <img class="centered_image" src="/images/pos/14/stycnikovadeska.jpg" />
+![](/images/pos/14/lipnuti.jpg =500x)
+
+![](/images/pos/14/stycnikovadeska.jpg =500x)
 
 - **kompování**
 
-<img class="centered_image" src="/images/pos/14/kampovani.jpg" />
+![](/images/pos/14/kampovani.jpg =500x)
 
 - **zapuštění**
 
-<img class="centered_image" src="/images/pos/14/zapusteni.jpg" />
+![](/images/pos/14/zapusteni.jpg =500x)
 
 - **sraz** (boční a čelní)
 
   - nutno zajistit tesařskou skobou
 
-  <img class="centered_image" src="/images/pos/14/srazbocni.jpg" />
-  <br>
-  <img class="centered_image" src="/images/pos/14/srazcelni.jpg" />
-  <br>
-  <img class="centered_image" src="/images/pos/14/skoba.jpg" />
+![](/images/pos/14/srazbocni.jpg =500x)
+
+![](/images/pos/14/srazcelni.jpg =500x)
+
+![](/images/pos/14/skoba.jpg =500x)
 
 - **plátování**
 
-<img class="centered_image" src="/images/pos/14/platovani.jpg" />
+![](/images/pos/14/platovani.jpg =500x)
 
 - **přeplátování**
 
-<img class="centered_image" src="/images/pos/14/preplatovani.jpg" />
+![](/images/pos/14/preplatovani.jpg =500x)

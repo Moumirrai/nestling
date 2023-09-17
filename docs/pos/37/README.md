@@ -25,15 +25,15 @@ pageClass: default-page
 :::warning TYPICKÉ STAVBY
 
 - Rotundy
-  - kruhový půdorys
-  - kuželovité střechy
+    - kruhový půdorys
+    - kuželovité střechy
 - Kostely
 - Baziliky
-  - obdélníkové stavby
-  - na východě ukončeny apsidou (polokruhovým výklenkem)
+    - obdélníkové stavby
+    - na východě ukončeny apsidou (polokruhovým výklenkem)
 
-<img class="centered_image" src="/images/pos/37/bazilika.jpg" />
-<br>
+![](/images/pos/37/bazilika.jpg)
+
 :::
 
 :::danger PAMÁTKY
@@ -49,12 +49,11 @@ V ČR
 - rotunda sv. Jiří na Řípu
   :::
 
-<img class="centered_image" src="/images/pos/37/rotunda.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/37/bazilika_1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/37/romanska.jpg" />
-<br>
+![](/images/pos/37/rotunda.jpg =500x)
+
+![](/images/pos/37/bazilika_1.jpg =800x)
+
+![](/images/pos/37/romanska.jpg)
 
 ---
 
@@ -71,17 +70,18 @@ V ČR
 - Lomený oblouk - představuje sepnuté ruce
 - Slabé (méně hmotné) zdi
 - Křížová a klášterní klenba
-  <img class="centered_image" src="/images/pos/37/krizova_klenba.jpg" />
-  <br>
+
+![](/images/pos/37/krizova_klenba.jpg =300x)
+
 - Složité vnější systémy pilířů a oblouků
   :::
 
 :::warning TYPICKÉ STAVBY
 
 - Katedrály
-  - 3-7 lodí
-  - příčná loď se nazývá transept
-  - presbytář s oltářem je na úrovni podlahy lodi
+    - 3-7 lodí
+    - příčná loď se nazývá transept
+    - presbytář s oltářem je na úrovni podlahy lodi
 - Kostely
 - Mosty
 - Radnice
@@ -103,15 +103,10 @@ V ČR
 - Karlův most v Praze
   :::
 
-<img class="centered_image" src="/images/pos/37/noterdame.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/37/gotika.jpg" />
-<br>
+![](/images/pos/37/noterdame.jpg)
+
+![](/images/pos/37/gotika.jpg)
 
 ---
 
-<br>
-
-<div class="videoWrapper">
-  <iframe width="560" height="349" src="https://www.youtube.com/embed/5ji6SRd54Do" frameborder="0" allowfullscreen></iframe>
-</div>
+<YouTube id="5ji6SRd54Do" />

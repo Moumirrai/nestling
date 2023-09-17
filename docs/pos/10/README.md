@@ -11,16 +11,15 @@ pageClass: default-page
 - stupně tvoří upravený zapažený sklonitý terén
 - převážně venkovní vyrovnávací schodiště
 
-<img class="centered_image" src="/images/pos/10/pazene1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/pazene2.jpg" />
+![](/images/pos/10/pazene1.jpg =800x)
+
+![](/images/pos/10/pazene2.jpg =800x)
 
 ### Předsazená schodiště
 
-<br>
-<img class="centered_image" src="/images/pos/10/predsazene1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/predsazene2.jpg" />
+![](/images/pos/10/predsazene1.jpg =800x)
+
+![](/images/pos/10/predsazene2.jpg =800x)
 
 ## Vnitřní schodiště
 
@@ -30,47 +29,45 @@ pageClass: default-page
 - deska je buď vetknuta do podesty nebo spolupůsobí s podestou
 - mohou být monolitická nebo prefabrikovaná
 
-<img class="centered_image" src="/images/pos/10/deska1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/deska2.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/deska3.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/deska4.jpg" />
+![](/images/pos/10/deska1.jpg =700x)
+
+![](/images/pos/10/deska2.jpg =700x)
+
+![](/images/pos/10/deska3.jpg =700x)
+
+![](/images/pos/10/deska4.jpg =700x)
 
 ### Schodiště s přímou deskou
 
 - deska je podepřena dvěma podestovýmy nosníky
 - podestové nosníky mohou být skryté nebo viditelné
 
-<img class="centered_image" src="/images/pos/10/primadeska1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/primadeska2.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/primadeska3.jpg" />
-<br>
+![](/images/pos/10/primadeska1.jpg =700x)
+
+![](/images/pos/10/primadeska2.jpg =700x)
+
+![](/images/pos/10/primadeska3.jpg =700x)
+
 
 ### Schodiště se zalomenou deskou
 
-<img class="centered_image" src="/images/pos/10/zalomene1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/zalomene2.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/zalomene3.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/zalomene4.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/zalomene5.jpg" />
-<br>
+![](/images/pos/10/zalomene1.jpg)
+
+![](/images/pos/10/zalomene2.jpg =700x)
+
+![](/images/pos/10/zalomene3.jpg =700x)
+
+![](/images/pos/10/zalomene4.jpg =700x)
+
+![](/images/pos/10/zalomene5.jpg =700x)
 
 ### Schodiště desková prefabrikovaná
 
 - můžou být provedena z přímých dílců, nebo se zalomených panelů které tvoří celek
 
-<img class="centered_image" src="/images/pos/10/prefab1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/10/prefab2.jpg" />
-<br>
+![](/images/pos/10/prefab1.jpg =700x)
+
+![](/images/pos/10/prefab2.jpg =700x)
 
 ## Schodišťové stupně
 

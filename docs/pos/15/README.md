@@ -11,8 +11,8 @@ Střecha - střešní kce. odděluje vnitřní (chráněné) prostředí budovy 
 pode sklonu dělíme střechy:
 
 - ploché (sklon ≤ 5°)
-- sklonité  
-  - šikmé (sklon 5° -  45°)  
+- sklonité
+  - šikmé (sklon 5° -  45°)
   - strmé (sklon ≥ 45°)
 
 podle využití:
@@ -22,17 +22,17 @@ podle využití:
 
 podle počtu střešních plášťů:
 
-- jednoplášťová s. 
+- jednoplášťová s.
 - dvouplášťová s.
 - víceplášťová s.
 
 **JEDNOPLÁŠŤOVÁ STŘECHA** - odděluje vnitřní prostředí budov od prostředí jen jedním střešním pláštěm, ve kterém jsou všechny vrstvy kladeny bezprostředně na sebe
 
-<img class="centered_image" src="/images/pos/15/jednoplast.jpg" />
+![](/images/pos/15/jednoplast.jpg)
 
 **DVOUPLÁŠŤOVÁ STŘECHA** - odděluje vnitřní prostředí od vnějšího dvěma plášti, mezi nimiž je **větraná vzduchová mezera**. Přičemž vrchní plášť plní funkci hydroizolační a spodní plášť funkci tepelněizolační
 
-<img class="centered_image" src="/images/pos/15/dvouplast.jpg" />
+![](/images/pos/15/dvouplast.jpg)
 
 **VÍCEPLÁŠŤOVÁ STŘECHA** - (zcela výjimečně používaná)
 
@@ -51,17 +51,17 @@ Rozlišujeme dva základní typy skladby u jednoplášťové střechy:
 
 **SKLADBA S KLASICKÝM POŘADÍM VRSTEV** - Hydroizolace se nachází nad tepelnou izolací
 
-<img class="centered_image" src="/images/pos/15/skladbaklasik.jpg" />
+![](/images/pos/15/skladbaklasik.jpg)
 
-<img class="centered_image" src="/images/pos/15/skladbaklasik2.jpg" />
+![](/images/pos/15/skladbaklasik2.jpg =400x)
 
 **SKLADBA S OBRÁCENÝM POŘADÍM VRSTEV** - Hydroizolace se nachází pod tepelnou izolací. Hydroizolace plní současně funkci parozábrany. Tepelná izolace by měla být od hydroizolace oddělena drenážní vrstvou pro odvod vody protečené mezi spárami tepelné izolace.
 
-<img class="centered_image" src="/images/pos/15/inverze.jpg" />
+![](/images/pos/15/inverze.jpg =400x)
 
-**VEGETAČNÍ STŘECHA** 
+**VEGETAČNÍ STŘECHA**
 
-<img class="centered_image" src="/images/pos/15/vegetace.jpg" />
+![](/images/pos/15/vegetace.jpg =400x)
 
 ## Objekty na ploché střeše
 
@@ -73,9 +73,9 @@ Vždy **minimálně 2 vtoky** na každé střeše
 
 Maximální vzdálenost vtoků od atiky je 15m. Vtoky je nutno umisťovat min. 0,5m od konstrukcí vystupjící nad rovinu střechy (komíny, atiky...)
 
-<img class="centered_image" src="/images/pos/15/atika.jpg" />
+![](/images/pos/15/atika.jpg =700x)
 
-<img class="centered_image" src="/images/pos/15/atika2.jpg" />
+![](/images/pos/15/atika2.jpg =700x)
 
 ### Atika
 
@@ -83,17 +83,22 @@ Svislý prvek ukončující plochou střechu
 
 Výška min. 150mm nad rovinou střechy. Nutno dilatačně oddělit 20 - 30mm od monolitických částí střešního pláště (aby při tepelném rozpínání mon. prvků střešní kce. nedošlo k vytlačení atiky směrem mimo objekt a tím k trhlinám na fasádě budovy). Atika musí být vyspádována do prostoru střechy min. ve sklonu 3°
 
-<img class="centered_image" src="/images/pos/15/vpust.jpg" />
+![](/images/pos/15/vpust.jpg =700x)
 
 ## Odvodnění ploché střechy
 
-- dovnitř dispozice  
-  - bodově do vtoků  
-  <img class="centered_image" src="/images/pos/15/bodove.jpg" />  
+- dovnitř dispozice
+  - bodově do vtoků
+
+  ![](/images/pos/15/bodove.jpg)
+
   - do zaatikového úžlabí  
-  <img class="centered_image" src="/images/pos/15/zaatiku.jpg" />
+
+  ![](/images/pos/15/zaatiku.jpg)
+
 - vně dispozice  
-  <img class="centered_image" src="/images/pos/15/dozlabu.jpg" />
+
+![](/images/pos/15/dozlabu.jpg)
 
 ## Krytiny plochých střech
 
@@ -101,4 +106,4 @@ Výška min. 150mm nad rovinou střechy. Nutno dilatačně oddělit 20 - 30mm od
 - fólie (tl. 1,2 - 2mm)
 - stěrky (tzv. tekuté folie)
 
-<img class="centered_image" src="/images/pos/15/schema.jpg" />
+![](/images/pos/15/schema.jpg)

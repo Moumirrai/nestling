@@ -7,14 +7,14 @@ pageClass: default-page
 Základové konstrikce přenášejí veškeré zatížení z vrchní stavby do podloží (základové spáry).
 Pro navrhnutí základové konstrukce musíme znát fyzikálně mechanické vlastnosti půdy a její reakce na zatížení.
 
-Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme na základy **plošné** a **hlubinné**.
+Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme na základy [plošné](#plosne-zaklady) a [hlubinné](#hlubinne-zaklady).
 
 ## Plošné základy
 
 - jsou nejběžnější
 - mají vodorovnou (horizontální) základovou spáru
 - roznášejí zatížení z vrchní stavby na větší plochu tak, aby byly splněny požadavky I. a II. skupiny mezních stavů
-- Mezi základy plošné patří **základové patky** , **pásy** , **rošty** a **desky**.
+- Mezi základy plošné patří [základové patky](#patky) , [pásy](#pasy) , [rošty](#rosty) a [desky](#desky).
 
 ### Patky
 
@@ -44,7 +44,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - Jednostupňové se zhotovují do výšky kolem 350 mm, ostatní 400mm a více.
 
 <br>
-<img class="centered_image" src="/images/pos/2/4.jpg" />
+
+![](/images/pos/2/4.jpg)
 
 ##### Patky z monolitického železobetonu
 
@@ -57,7 +58,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - betonují se do bednění → rozšíření výkopu o pracovní prostor
 
 <br>
-<img class="centered_image" src="/images/pos/2/5.jpg" />
+
+![](/images/pos/2/5.jpg)
 
 ##### Patky prefabrikované
 
@@ -68,7 +70,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - Kalichové patky mají otvor (kalich), do kterého se osadí a zabetonuje prefa. sloup
 
 <br>
-<img class="centered_image" src="/images/pos/2/6.jpg" />
+
+![](/images/pos/2/6.jpg)
 
 ### Pásy
 
@@ -76,7 +79,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - mohou být obdélníkové, nebo lichoběžníkové ve tvaru obráceného písmene T
 
 <br>
-<img class="centered_image" src="/images/pos/2/7.jpg" />
+
+![](/images/pos/2/7.jpg)
 
 #### Podle materiálu se dělí na:
 
@@ -106,7 +110,8 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - komplikovanější než prosté vylití betonu
 
 <br>
-<img class="centered_image" src="/images/pos/2/8.jpg" />
+
+![](/images/pos/2/8.jpg)
 
 ### Rošty
 
@@ -116,8 +121,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 - jsou vhodné jak pod stěny, tak pod sloupy
 - mají stejné průřezy jako pásy
 
-<br>
-<img class="centered_image" src="/images/pos/2/9.jpg" />
+![[Stavební komunita](http://stavebnikomunita.cz/profiles/blogs/konstrukcni-systemy-vicepodlaznich-budov)](/images/pos/2/9.jpg)
 
 ### Desky
 
@@ -130,9 +134,7 @@ Podle způsobu přenášení zatížení ze stavby do základové půdy dělíme
 
 <br>
 
-<div class="videoWrapper">
-  <iframe width="560" height="349" src="https://www.youtube.com/embed/Hviz46ggQkE" frameborder="0" allowfullscreen></iframe>
-</div>
+<YouTube id="Hviz46ggQkE" />
 
 _V současné době se při výstavbě základových desek u nepodsklepených budov stále více používá samozhutnitelných betonů typu Compacton, které umožňují realizaci základové desky bez vibrování a srovnávání směsi. Na předem připravenou základovou spáru, se nejprve provede štěrkový podsyp a položí PE folie. Zhotoví se bednící konstrukce desky. Na folii se připraví navržená ocelová výztuž, většinou kari síť. Výztuž je umístěna na distančních prvcích, které zajistí její dostatečné krytí a spolupůsobení s betonem. Výztuž nesmí ležet přímo na folii. Betonáž probíhá nalitím tekuté betonové směsi, která se uvede do roviny pouze lehkým natřásáním latí._
 
@@ -153,8 +155,7 @@ _V současné době se při výstavbě základových desek u nepodsklepených bu
 
 - jsou v místě sloupů zesíleny hřibovými hlavicemi
 
-<br>
-<img class="centered_image" src="/images/pos/2/10.jpg" />
+![](/images/pos/2/10.jpg)
 
 ## Hlubinné základy
 
@@ -205,7 +206,8 @@ Při založení do zámrzné hloubky dochází při zmrznutí zeminy k nadzvednu
 - k sousednímu záběru se lze vrátit za 5 – 7 dní
 
 <br>
-<img class="centered_image" src="/images/pos/2/15.jpg" />
+
+![](/images/pos/2/15.jpg)
 
 ### Rozšiřování základů
 
@@ -215,10 +217,8 @@ Příčinou je zvýšení zatížení na základovou spáru. O způsobu zvyšov�
 
 - podezděním a podvlečením ocelových nosníků
 
-<br>
-<img class="centered_image" src="/images/pos/2/16.jpg" />
+![](/images/pos/2/16.jpg)
 
 - pomocí železobetonových příložek
 
-<br>
-<img class="centered_image" src="/images/pos/2/17.jpg" />
+![](/images/pos/2/17.jpg)

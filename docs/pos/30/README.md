@@ -11,36 +11,34 @@ pageClass: default-page
 
 #### Řadové
 ---
-<img class="centered_image" src="/images/pos/30/radove.jpg" />
+![](/images/pos/30/radove.jpg =400x)
 
 #### Prostorové
 ---
-<img class="centered_image" src="/images/pos/30/prostor.jpg" />
+![](/images/pos/30/prostor.jpg =400x)
 
 #### Vysunuté
 ---
-<img class="centered_image" src="/images/pos/30/vysunuta.jpg" />
+![](/images/pos/30/vysunuta.jpg =400x)
 
 #### Zavěšené
 ---
-<img class="centered_image" src="/images/pos/30/zavesena.jpg" />
+![](/images/pos/30/zavesena.jpg =400x)
 
 #### Volně stojící
 ---
-<img class="centered_image" src="/images/pos/30/zebrikove.jpg" />
+![](/images/pos/30/zebrikove.jpg =400x)
 
 :::warning Kozové
 
 **Dřevěné**
-<br>
 
-<img class="centered_image" src="/images/pos/30/12.jpg" />
-<br>
+![](/images/pos/30/12.jpg)
+
 
 **Kovové**
-<br>  
-<img class="centered_image" src="/images/pos/30/kozlikove..jpg" />
-<br>
+
+![](/images/pos/30/kozlikove..jpg)
 
 :::
 
@@ -49,13 +47,12 @@ pageClass: default-page
 :::warning Dřevěné
 
 **Štenýrové**
-<br>
-<img class="centered_image" src="/images/pos/30/6.jpg" />
-<br>
+
+![](/images/pos/30/6.jpg)
+
 **Kozové**
-<br>
-<img class="centered_image" src="/images/pos/30/10.jpg" />
-<br>
+
+![](/images/pos/30/10.jpg)
 
 :::
 
@@ -85,29 +82,29 @@ pageClass: default-page
 - zavětrování - spojují vodorovné prvky úhlopříčně - zavětrování podélné a příčné
 
 ::: warning Lešení
-<br>
-<img class="centered_image" src="/images/pos/30/2.jpg" />  
-<br>
-<img class="centered_image" src="/images/pos/30/35.jpg" />
-<br>
+
+![](/images/pos/30/2.jpg)
+
+![](/images/pos/30/35.jpg)
+
 :::
 
 :::warning Spojky
 
 **Upínací spojka (žabka)** - slouží ke spojení 2 na sebe kolmých prvků
-<br>
-<img class="centered_image" src="/images/pos/30/spojka1.jpg" />
-<br>
+
+![](/images/pos/30/spojka1.jpg =500x)
+
 **Nástavec** - slouží k vodorovným spojům
-<br>
-<img class="centered_image" src="/images/pos/30/nastavec.jpg" />
-<br>
+
+![](/images/pos/30/nastavec.jpg =500x)
+
 :::
 
 :::warning Nánožka
-<br>
-<img class="centered_image" src="/images/pos/30/nanozka.jpg" />
-<br>
+
+![](/images/pos/30/nanozka.jpg =500x)
+
 :::
 
 ## Dílcové lešení HAKI
@@ -139,22 +136,20 @@ pageClass: default-page
 
 :::warning Nepojízdné haki
 
-<br>
-<img class="centered_image" src="/images/pos/30/haki.jpg" />
-<br>
+![](/images/pos/30/haki.jpg =500x)
 
 **Pojízdné haki**
-<br>
-<img class="centered_image" src="/images/pos/30/pojizdne.jpg" />
+
+![](/images/pos/30/pojizdne.jpg =500x)
 
 **Spoj sloupku s podelníkem do třmenů**
-<br>
-<img class="centered_image" src="/images/pos/30/spojhaki.jpg" />
-<br>
+
+![](/images/pos/30/spojhaki.jpg =200x)
 
 **Bajonetový spoj s patkou**
-<img class="centered_image" src="/images/pos/30/bajonet.jpg" />
-<br>
+
+![](/images/pos/30/bajonet.jpg =200x)
+
 :::
 
 ## Rámové lešení
@@ -163,8 +158,7 @@ pageClass: default-page
 - výhody rychlá montáž a demontáž, jednoduchost spojů, málo dílců
 
 :::warning Rámové lešení
-<br>
-<img class="centered_image" src="/images/pos/30/ramove.jpg" />
-<br>
+
+![](/images/pos/30/ramove.jpg =400x)
 
 :::

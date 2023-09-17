@@ -34,8 +34,8 @@ pageClass: default-page
 - provádí se pro zimní období
 - venkovní teplota - všechny navrhované venkovní teploty
 - vnitřní teplota:
-  - pro obytné místnosti a občanské stavby se uvažuje 20-21°C
-  - pro další občanské stavby dle normy ČSN
+    - pro obytné místnosti a občanské stavby se uvažuje 20-21°C
+    - pro další občanské stavby dle normy ČSN
 
 ### Tepelná vodivost
 
@@ -45,11 +45,11 @@ pageClass: default-page
   tloušťky konstrukce 1m
   za 1s při rozdílu teplot 1K
 - Příklady tepelné vodivosti u vybraných materiálů:
-  - PB - 1,23-1,36
-  - ŽB- 1,43-1,74
-  - Ocel - 58
-  - Porobeton - 0,08
-  - EPS - 0,034
+    - PB - 1,23-1,36
+    - ŽB- 1,43-1,74
+    - Ocel - 58
+    - Porobeton - 0,08
+    - EPS - 0,034
 
 ### Tepelný odpor
 
@@ -68,7 +68,7 @@ $d$ - tloušťka konstrukce
 
 - posouzení zahrnuje vliv prostupu tepla ze vzduchu do stavební konstrukce a vliv přestupu tepla z konstrukce do vzduchu
 
-<img class="centered_image" src="/images/pos/20/prostup.jpg" />
+![](/images/pos/20/prostup.jpg =500x)
 
 $R_t$ - odpor při prostupu tepla [m²·K/W]
 
@@ -82,8 +82,8 @@ $R_t=(R_{si}+R+R{se})$
 
 #### $U_t(U)=\frac{1}{R_{si}+R+R{se}}=\frac{1}{R_t}$
 
-<img class="centered_image" src="/images/pos/20/table1.jpg" />
-<br>
+![](/images/pos/20/table1.jpg)
+
 :::
 
 ### Požadavky T.I. na stavební konstrukci
@@ -100,14 +100,14 @@ $R_t=(R_{si}+R+R{se})$
 - dnešní běžné podmínky není nutné výpočet provádět, pokud je dodrženo požadované hodnoty U
 
 **Hodnoty rosného bodu**
-<img class="centered_image" src="/images/pos/20/rosny-bod.jpg" />
+
+![](/images/pos/20/rosny-bod.jpg =700x)
 
 ## Tepelné izolace
 
-<br>
-<img class="centered_image" src="/images/pos/20/izo1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/20/izo2.jpg" />
+![](/images/pos/20/izo1.jpg =400x)
+
+![](/images/pos/20/izo2.jpg =700x)
 
 #### Historické materiály
 
@@ -169,7 +169,7 @@ $R_t=(R_{si}+R+R{se})$
 - jsou místa v budově kterými uniká teplo do exteriéru
 - kromě úniku tepla se mohou projevovat také kondenzací vlhkosti -> nebezpečí plísní
 
-<img class="centered_image" src="/images/pos/20/mosty.jpg" />
+![](/images/pos/20/mosty.jpg =800x)
 
 ## Zvukové izolace
 
@@ -183,22 +183,22 @@ Zvuk může vznikat:
 
 :::warning Působení zvuku na člověka
 <br>
-<img class="centered_image" src="/images/pos/20/zvuk.jpg" />
+![](/images/pos/20/zvuk.jpg)
 <br>
 :::
 
 ### Šíření zvuku
 
 - Ve volném prostoru
-  - zvuk se rozšiřuje na stále větší plochu
-  - intenzita hluku se vlivem vzdálenosti zmenšuje
+    - zvuk se rozšiřuje na stále větší plochu
+    - intenzita hluku se vlivem vzdálenosti zmenšuje
 - V uzavřeném prostoru
-  - akustická energie se odráží od stěn, podlah zpět ke zdroji => zvýšení hladiny akustického tlaku
-  - nábytek, textilie, akustické obklady z pórovitých materiálů, kmitající membrány a desky, dutinové rezonátory - zvuk se neodráží zpět do místnosti
+    - akustická energie se odráží od stěn, podlah zpět ke zdroji => zvýšení hladiny akustického tlaku
+    - nábytek, textilie, akustické obklady z pórovitých materiálů, kmitající membrány a desky, dutinové rezonátory - zvuk se neodráží zpět do místnosti
 - Šíření zvuku mezi místnostmi
-  - při průchodu konstrukcí se zvuk výrazně snižuje
+    - při průchodu konstrukcí se zvuk výrazně snižuje
 - Zvuk šířený konstrukcí
-  - dochází ke chvění konstrukce - vibrace strojů, kročejový hluk
+    - dochází ke chvění konstrukce - vibrace strojů, kročejový hluk
 
 ### Zásady návrhu neprůzvučných konstrukcí
 
@@ -215,4 +215,4 @@ Zvuk může vznikat:
 - v přízemních podlažích lze stroje ukotvit na základy které jsou odděleny mezerou od ostatních konstrukcí, tyto základy je třeba zaizolovat izolační vanou
 - ve vyšší patrech lze stroje uložit na pružiny nebo gumové válečky
 
-<img class="centered_image" src="/images/pos/20/otresy.jpg" />
+![](/images/pos/20/otresy.jpg =800x)

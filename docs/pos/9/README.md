@@ -49,7 +49,7 @@ pageClass: default-page
 
 - čára spojující přední hrany stupňů v ose výstupu
 
-<img class="centered_image" src="/images/pos/9/nazvoslovi.jpg" />
+![](/images/pos/9/nazvoslovi.jpg)
 
 ## Rozdělení
 
@@ -101,7 +101,7 @@ pageClass: default-page
 
 - **KONZOLOVITĚ VETKNUTÁ**
 
-<img class="centered_image" src="/images/pos/9/rozdeleni_konstrukce.jpg" />
+![](/images/pos/9/rozdeleni_konstrukce.jpg)
 
 ### Podle materiálu
 
@@ -130,7 +130,7 @@ pageClass: default-page
 3. Výšku schodiště vydělíme výškou stupně a zaokrouhlíme na celé číslo (u dvouramenného schodiště by měl počet být sudý)
 4. Výšku vydělíme zvoleným číslem a dostaneme tak výšku stupně $v$
 5. S pomocí [Lehmanova vzorce](../9/#navrh-rozmeru-schodistoveho-stupne) vypočítáme šířku stupně $š$
-6. Vypočítáme sklon $tan\alpha = \frac{v}{š}$
+6. Vypočítáme sklon $\large tan\ \alpha = \frac{v}{\text{š}}$
 7. Vypočteme délku schodišťového ramene $L = (n-1) * b$ kde $n$ je počet schodišťových stupňů
 8. Spočítáme a zkontrolujeme jestli vyhovuje [podchodná](../9/#podchodna-vyska) a [průchodná](../9/#pruchodna-vyska) výška
 
@@ -144,21 +144,21 @@ pageClass: default-page
 ### Návrh rozměrů schodišťového stupně
 
 ::: tip LEHMANŮV VZOREC
-$2*v+š = 630mm$
+$\large2*v+\text{š} = 630mm$
 
 $v$ - výška stupně
 
-$š$ - šířka stupně
+$\text{š}$ - šířka stupně
 
 630 mm - průměrná délka kroku
 :::
 
-<img class="centered_image" src="/images/pos/9/navrh_stupne.jpg" />
+![](/images/pos/9/navrh_stupne.jpg)
 
 ### Podchodná výška
 
 ::: tip VZOREC
-$h_p = 1500 + \frac{750}{cos\alpha }$
+$\large h_p = 1500 + \frac{750}{cos\alpha }$
 
 $h_p$ = podchodná výška svisle od přední hrany stupně v mm
 
@@ -167,12 +167,12 @@ $\alpha$ = sklon schodišťového ramene
 
 - **minimální podchodná výška je** <Badge type="warning" text="2100 mm" vertical="middle" />
 
-<img class="centered_image" src="/images/pos/9/podchodna_vyska.jpg" />
+![](/images/pos/9/podchodna_vyska.jpg =400x)
 
 ### Průchodná výška
 
 ::: tip VZOREC
-$h_{pr} = 750 + 1500 × cos\alpha$
+$\large h_{pr} = 750 + 1500 × cos\alpha$
 
 $h_{pr}$ - průchodná výška
 
@@ -181,4 +181,4 @@ $\alpha$ - sklon schodišťového ramene
 
 - **minimální průchodná výška je** <Badge type="warning" text="1900 mm" vertical="middle" />
 
-<img class="centered_image" src="/images/pos/9/pruchodna_vyska.jpg" />
+![](/images/pos/9/pruchodna_vyska.jpg =400x)

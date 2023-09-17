@@ -26,41 +26,33 @@ Antické Řecko se dělí na 3 základní řády
 - vyznačuje se monumentálností, střízlivostí a jednoduchostí
 - hlavice bývaly nezdobené
 
-> <img class="centered_image" src="/images/pos/36/pantheon.jpg" />
-> <a href="https://cs.wikipedia.org/wiki/Parthen%C3%B3n"><em>Pantheon na Akropoli</em></a>
+![_[Pantheon na Akropoli](https://cs.wikipedia.org/wiki/Parthen%C3%B3n)_](/images/pos/36/pantheon.jpg)
 
 :::warning DÓRSKÝ SLOUP
 
-<br>
-<img class="centered_image" src="/images/pos/36/dorska_hlavice.jpg" />
-<br>
+![](/images/pos/36/dorska_hlavice.jpg =400x)
 
-<div class="inline_block">
-<img class="centered_image_long" style="max-height:700px" src="/images/pos/36/dorsky_sloup.jpg" />
-</div>
-<div class="inline_text">
-<p>
-1 - tympanon (svislá plocha ve štítu)<br>
-2 - akroterion (ozdobný prvek)<br>
-3 - šikmá římsa (sima)<br>
-4 - vodorovná římsa (geison)<br>
-5 - mutulus (deska na spodní straně římsy)<br>
-7 - vlys<br>
-8 - triglyf (dekorativní prvek)<br>
-11 - klapky<br>
-13 - architráv (násloupí)<br>
-14 - hlavice<br>
-15 - abakus (čtyřhranná deska, <br>součást hlavice)<br>
-16 - echinus (část hlavice<br> pod abakusem<br>tvarem připomínající talíř)<br>
-17 - dřík<br>
-18 - kanelování (drážkování)<br>
-19 - stylobat (poslední stupeň podnože)<br>
-</p>
-</div>
+![](/images/pos/36/dorsky_sloup.jpg =400x)
+
+**1** - tympanon (svislá plocha ve štítu)<br>
+**2** - akroterion (ozdobný prvek)<br>
+**3** - šikmá římsa (sima)<br>
+**4** - vodorovná římsa (geison)<br>
+**5** - mutulus (deska na spodní straně římsy)<br>
+**7** - vlys<br>
+**8** - triglyf (dekorativní prvek)<br>
+**11** - klapky<br>
+**13** - architráv (násloupí)<br>
+**14** - hlavice<br>
+**15** - abakus (čtyřhranná deska, <br>součást hlavice)<br>
+**16** - echinus (část hlavice<br> pod abakusem<br>tvarem připomínající talíř)<br>
+**17** - dřík<br>
+**18** - kanelování (drážkování)<br>
+**19** - stylobat (poslední stupeň podnože)<br>
+
 :::
 
 ### Iónský řád
-
 
 - z části vychází z dórského
 - je štíhlejší a zdobnější a elegantní
@@ -68,54 +60,46 @@ Antické Řecko se dělí na 3 základní řády
 - vznikl a šířil se především v malé Asii
 - ne rozdíl od dórského sloupy počínají patkou
 
-> <img class="centered_image" src="/images/pos/36/erechtheion.jpg" />
-> <a href="https://cs.wikipedia.org/wiki/Erechtheion"><em>Erechtheion</em></a>
+![_[Erechtheion](https://cs.wikipedia.org/wiki/Erechtheion)_](/images/pos/36/erechtheion.jpg)
 
 :::warning IÓNSKÝ SLOUP
 
-<br>
+![](/images/pos/36/ionska_hlavice.jpg =400x)
 
-<img class="centered_image" src="/images/pos/36/ionska_hlavice.jpg" />
-<br>
+![](/images/pos/36/ionsky_sloup.jpg =200x)
 
-<div class="inline_block">
-<img class="centered_image_long" src="/images/pos/36/ionsky_sloup.jpg" />
-</div>
-<div class="inline_text">
-<p>
-1 - tympanon (svislá plocha ve štítu)<br>
-2 - akroterion (ozdobný prvek)<br>
-3 - šikmá římsa (sima)<br>
-4 - římsa<br>
-7 - vlys<br>
-16 - třikrát odstupněný architráv (násloupí)<br>
-14 - hlavice<br>
-17 - dřík<br>
-18 - kanelování (drážkování)<br>
-19 - stylobat (poslední stupeň podnože)<br>
-20 - voluta (spirálový motiv vycházející <br>z Archimédovy spirály)<br>
-21 - echinus<br>
-23 - patka<br>
-24 - torus
-</p>
-</div>
+**1** - tympanon (svislá plocha ve štítu)<br>
+**2** - akroterion (ozdobný prvek)<br>
+**3** - šikmá římsa (sima)<br>
+**4** - římsa<br>
+**7** - vlys<br>
+**16** - třikrát odstupněný architráv (násloupí)<br>
+**14** - hlavice<br>
+**17** - dřík<br>
+**18** - kanelování (drážkování)<br>
+**19** - stylobat (poslední stupeň podnože)<br>
+**20** - voluta (spirálový motiv vycházející z Archimédovy spirály)<br>
+**21** - echinus<br>
+**23** - patka<br>
+**24** - torus
+
 :::
 
 :::danger ROZDÍLY
 
 <div class='table'>
 
-| | **Dórský řád** | **Iónský řád** |
+|                             | **Dórský řád**              | **Iónský řád**                             |
 | --------------------------- | --------------------------- | ------------------------------------------ |
-| Tvar sloupů a kladí | Přísně daný | Uvolněnější, lehčí, vznosnější a zdobnější |
-| Sloup v poměru ke své výšce | Širší (1:6) | Štíhlejší (1:8) |
-| Žlábky (kanely) | Mělké, oddělené hranou | Hluboké, oddělené páskem |
-| Patka | Chybí | Ano, členitá |
-| Echinos | Zaoblený | S volutami |
-| Architráv | Nerozdělený | Členěný na tři horizontální pásy |
-| Vlys | Střídání triglyfů a metop | Souvislý reliéf |
-| Výskyt | Peloponnés, Itálie, Sicílie | Malá Asie |
-| Označení | mužský | ženský |
+| Tvar sloupů a kladí         | Přísně daný                 | Uvolněnější, lehčí, vznosnější a zdobnější |
+| Sloup v poměru ke své výšce | Širší (1:6)                 | Štíhlejší (1:8)                            |
+| Žlábky (kanely)             | Mělké, oddělené hranou      | Hluboké, oddělené páskem                   |
+| Patka                       | Chybí                       | Ano, členitá                               |
+| Echinos                     | Zaoblený                    | S volutami                                 |
+| Architráv                   | Nerozdělený                 | Členěný na tři horizontální pásy           |
+| Vlys                        | Střídání triglyfů a metop   | Souvislý reliéf                            |
+| Výskyt                      | Peloponnés, Itálie, Sicílie | Malá Asie                                  |
+| Označení                    | mužský                      | ženský                                     |
 
 </div>
 :::
@@ -130,53 +114,49 @@ Antické Řecko se dělí na 3 základní řády
 - hlavice často dekorovány tvary listů (akant)
 
 > **Příklady staveb**
+>
 > - Chrám Dia Olympského v Athénách
 > - Pantheon v Římě
->   <img class="centered_image" src="/images/pos/36/pantheon_rim.jpg" />
+>
+>   ![](/images/pos/36/pantheon_rim.jpg)
+>
 > - La Madeleine v Paříži
 > - Kapitol Spojených států amerických
 > - Budova Říšského sněmu v Berlíně
->   <img class="centered_image" src="/images/pos/36/berlin.jpg" />
+>
+>   ![](/images/pos/36/berlin.jpg)
 
 :::warning KORINTSKÝ SLOUP
-<br>
-<img class="centered_image" src="/images/pos/36/korint_hlavice.jpg" />
-<br>
 
-<div class="inline_block">
-<img class="centered_image_long" src="/images/pos/36/korint_sloup.jpg" />
-</div>
-<div class="inline_text">
-<p>
-1 - tympanon (svislá plocha ve štítu)<br>
-2 - akroterion (ozdobný prvek)<br>
-3 - šikmá římsa (sima)<br>
-4 - římsa<br>
-6 - zubořez (ozdobný pás pravidelných kostek)<br>
-7 - vlys<br>
-13 - třikrát odstupněný architráv (násloupí)<br>
-14 - hlavice<br>
-17 - dřík<br>
-18 - kanelování (drážkování)<br>
-19 - stylobat (poslední stupeň podnože)<br>
-20 - voluta (spirálový motiv <br>vycházející z Archimédovy spirály)<br>
-22 - akant (dekor ve tvary listů)<br>
-23 - patka<br>
-24 - torus
-</p>
-</div>
+![](/images/pos/36/korint_hlavice.jpg =200x)
+
+
+![](/images/pos/36/korint_sloup.jpg =200x)
+
+**1** - tympanon (svislá plocha ve štítu)<br>
+**2** - akroterion (ozdobný prvek)<br>
+**3** - šikmá římsa (sima)<br>
+**4** - římsa<br>
+**6** - zubořez (ozdobný pás pravidelných kostek)<br>
+**7** - vlys<br>
+**13** - třikrát odstupněný architráv (násloupí)<br>
+**14** - hlavice<br>
+**17** - dřík<br>
+**18** - kanelování (drážkování)<br>
+**19** - stylobat (poslední stupeň podnože)<br>
+**20** - voluta (spirálový motiv vycházející z Archimédovy spirály)<br>
+**22** - akant (dekor ve tvary listů)<br>
+**23** - patka<br>
+**24** - torus
+
 
 :::
 
 ---
 
-<img class="centered_image" src="/images/pos/36/antika_recko.jpg" />
+![](/images/pos/36/antika_recko.jpg)
 
-<br>
-
-<div class="videoWrapper">
-  <iframe width="560" height="349" src="https://www.youtube.com/embed/15vilcnw3BI" frameborder="0" allowfullscreen></iframe>
-</div>
+<YouTube id="15vilcnw3BI" title="Antická architektura" />
 
 ---
 
@@ -197,6 +177,5 @@ Antické Řecko se dělí na 3 základní řády
 
 ---
 
-<img class="centered_image" src="/images/pos/36/antika_rim.jpg" />
+![](/images/pos/36/antika_rim.jpg)
 
----

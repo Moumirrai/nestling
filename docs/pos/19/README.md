@@ -98,9 +98,7 @@ pageClass: default-page
 > 3. Postup stejný jako výše
 > 4. Spáry se spárují spárovacím tmelem
 
-<div class="videoWrapper">
-    <iframe width="560" height="349" src="https://www.youtube.com/embed/0X0MQDRAouk" frameborder="0" allowfullscreen></iframe>
-</div>
+<YouTube id="0X0MQDRAouk"/>
 
 #### Kamenné obklady
 
@@ -109,15 +107,15 @@ pageClass: default-page
 - jsou nejpracnější
 - tloušťka obvykle 20-50mm
 - jako materiál se používá nejčastěji:
-  - žula
-  - pískovec
-  - štípaná břidlice
-  - mramor
-  - travertin
+    - žula
+    - pískovec
+    - štípaná břidlice
+    - mramor
+    - travertin
 - mohou být lešťené nebo kamenicky opracované
 - kotví se skobami či jinými kovovými úchyty - montáž za sucha
 
-> <img class="centered_image" src="/images/pos/19/kamenneObklady.jpg" />
+![](/images/pos/19/kamenneObklady.jpg =600x)
 >
 > 1. kotouče z cementové malty
 > 2. upevňovací kotvy
@@ -148,11 +146,11 @@ pageClass: default-page
 - fukce je estetická a hygienická
 - nanáší se pomocí válečku nebo stříkáním
 - podle pojiva rozlišuujeme:
-  - vápenné
-  - klihové
-  - pololatexové
-  - latexové
-  - akrylátové
+    - vápenné
+    - klihové
+    - pololatexové
+    - latexové
+    - akrylátové
 
 ### Tapety
 
@@ -189,7 +187,7 @@ pageClass: default-page
 > - nanáší se strojně nebo ručně
 > - později se omítka kartáčuje, čímž se vydrolí a obnaží slída
 
-<img class="centered_image" src="/images/pos/19/brizolit.jpg" />
+![](/images/pos/19/brizolit.jpg =500x)
 
 #### Cementová omítka
 
@@ -235,7 +233,7 @@ pageClass: default-page
 - struktura povrchu je dána vlastnostmi materiálu ze kterého je zhotovenou bednění
 - povrch může být struktorován dodatečnými úpravami
 
-<img class="centered_image" src="/images/pos/19/beton.jpg" />
+![](/images/pos/19/beton.jpg =700x)
 
 ## Spárování zdiva
 
@@ -247,7 +245,7 @@ pageClass: default-page
 > 4. vyspárujeme spárovací maltou
 > 5. uhladíme kovovou spárovačkou
 
-<img class="centered_image" src="/images/pos/19/spary.jpg" />
+![](/images/pos/19/spary.jpg =700x)
 
 **A** - u cihelného zdiva<br>
 **B** - u cihelného nebo kamenného zdiva<br>

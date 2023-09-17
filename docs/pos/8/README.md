@@ -10,18 +10,16 @@ pageClass: default-page
 - Výhodou je poměrně jednoduchá montáž, ale vyžaduje pečlivost při ukládání
 - Desky jsou lichoběžníkového průřezu - snazší zalévání spár, jednoduché určení správného otočení
 
-<img class="centered_image" src="/images/pos/8/desky.jpg" />
+![](/images/pos/8/desky.jpg)
 
 Vyrábějí se standartě ve dvou variantách:
 
-> **Plné desky**
->
-> - výška 65 a 90 mm
+**Plné desky**
+- výška 65 a 90 mm
 
-> **Dutinové desky**
->
-> - vylehčené čtyřmi podélnými dutinami
-> - výška 90 a 140 mm
+**Dutinové desky**
+- vylehčené čtyřmi podélnými dutinami
+- výška 90 a 140 mm
 
 ## Panelové montované stropy
 
@@ -30,20 +28,17 @@ Vyrábějí se standartě ve dvou variantách:
 - Ukládají se na svislé nosné konstrukce
 - Panely mohou být **plné** a **dutinové** nebo **dutinové předpjaté**
 
-> **Plné**
->
-> - velká hmotnost
+**Plné**
+- velká hmotnost
 
-> **Dutinové**
->
-> - pro rozpětí 3-6,6 m
-> - minimální uložení 80 mm
+**Dutinové**
+- pro rozpětí 3-6,6 m
+- minimální uložení 80 mm
 
-> **Dutinové předpjaté**
->
-> - díky předpjaté výztuži je nižší tloušťka panelu
+**Dutinové předpjaté**
+- díky předpjaté výztuži je nižší tloušťka panelu
 
-<img class="centered_image" src="/images/pos/8/panely.jpg" />
+![](/images/pos/8/panely.jpg)
 
 ### Spiroll
 
@@ -51,26 +46,26 @@ Vyrábějí se standartě ve dvou variantách:
 - tl 400mm → až 20m
 - nejsou opatřeny závěsnýmy háky
 
-<img class="centered_image" src="/images/pos/8/spiroll1.jpg" />
-<br>
-<img class="centered_image" src="/images/pos/8/spiroll2.jpg" />
+![](/images/pos/8/spiroll1.jpg)
+
+![](/images/pos/8/spiroll2.jpg)
 
 ### Uložení na průvlaky
 
 - průřezy průvlaků bývají nejčastěji tvaru obdélníku, I nebo T
 - průvlaky mohou mít ozub pro uložení panelů
 
-> **KONSTRUKČNÍ TVARY PRŮVLAKŮ**
->
-><img class="centered_image" src="/images/pos/8/pruvlak1.jpg" />
+**KONSTRUKČNÍ TVARY PRŮVLAKŮ**
 
-> **ULOŽENÍ PRLŮVLAKU NA PRŮBĚŽNÝ SLOUP**
->
-> <img class="centered_image" src="/images/pos/8/pruvlak2.jpg" />
+![](/images/pos/8/pruvlak1.jpg)
 
-> **POŽADAVKY NA STYK PANELŮ**
->
-> <img class="centered_image" src="/images/pos/8/pruvlak3.jpg" />
+**ULOŽENÍ PRLŮVLAKU NA PRŮBĚŽNÝ SLOUP**
+
+![](/images/pos/8/pruvlak2.jpg)
+
+**POŽADAVKY NA STYK PANELŮ**
+
+![](/images/pos/8/pruvlak3.jpg)
 
 ## Nosníkové stropy
 
@@ -82,7 +77,7 @@ Vyrábějí se standartě ve dvou variantách:
 - cihelná klenba vetknutá do ocelových nosníků
 - vzepětí klenby je 30-50 mm, a při omítání se vyrovná omítkou do rovného povrchu
 
-<img class="centered_image" src="/images/pos/8/prima_klenba.jpg" />
+![](/images/pos/8/prima_klenba.jpg =400x)
 
 ### Strop z desek HURDIS
 
@@ -92,25 +87,25 @@ Vyrábějí se standartě ve dvou variantách:
 
 Vyrábí se ve dvou variantách:
 
-> **CSD HURDIS 1**
->
-> - kolmé čela
-> - ukládají se přímo na vápenocementovou maltu na spodní přírubu nosníku
-> - spodní přírubu je v podhledu opatřit pletivem pod omítkou
->
-> <img class="centered_image" src="/images/pos/8/hurdis1.jpg" />
-> <br>
-> 1 - Deska HURDIS s rovným čelem
+**CSD HURDIS 1**
 
-> **CSD HURDIS 2**
->
-> - skosené čela
-> - ukládají se do keramických patek navlečených na spodní přírubu nosníku
-> - patky umožňují snazší vložení desek, a slouží jako ochrana proti korozi
->
-> <img class="centered_image" src="/images/pos/8/hurdis2.jpg" />
-> <br>
-> 1 - Válcovaný nosník tvaru I, 2 - tvárnice patky, 3 - Deska HURDIS se skoseným čelem
+- kolmé čela
+- ukládají se přímo na vápenocementovou maltu na spodní přírubu nosníku
+- spodní přírubu je v podhledu opatřit pletivem pod omítkou
+
+![](/images/pos/8/hurdis1.jpg =400x)
+
+1 - Deska HURDIS s rovným čelem
+
+**CSD HURDIS 2**
+
+- skosené čela
+- ukládají se do keramických patek navlečených na spodní přírubu nosníku
+- patky umožňují snazší vložení desek, a slouží jako ochrana proti korozi
+
+![](/images/pos/8/hurdis2.jpg =400x)
+
+1 - Válcovaný nosník tvaru I, 2 - tvárnice patky, 3 - Deska HURDIS se skoseným čelem
 
 :::warning DOPORUČENÁ SKLADBA
 
@@ -158,18 +153,16 @@ Vyrábí se ve dvou variantách:
 - překlady se osazují na navlhčenou plochu na 15 mm malty minimální třídy MC 15
 - překlady musí být omítnuty cementovou nebo vápenocementovou omítkou min. tloušťky 10 mm
 
-> **PŘEKLADY NA NOSNÉ ZDI**
->
-> <br>
-> <img class="centered_image" src="/images/pos/8/preklad_nosne.jpg" />
-> <br>
-> <img class="centered_image" src="/images/pos/8/preklad_nosne1.jpg" />
-> <br>
-> <img class="centered_image" src="/images/pos/8/preklad_nosne2.jpg" />
+**PŘEKLADY NA NOSNÉ ZDI**
 
-> **PŘEKLADY NA PŘÍČCE**
->
-> <br>
-> <img class="centered_image" src="/images/pos/8/preklad_pricky.jpg" />
-> <br>
-> <img class="centered_image" src="/images/pos/8/preklad_pricky1.jpg" />
+![](/images/pos/8/preklad_nosne.jpg)
+
+![](/images/pos/8/preklad_nosne1.jpg)
+
+![](/images/pos/8/preklad_nosne2.jpg)
+
+**PŘEKLADY NA PŘÍČCE**
+
+![](/images/pos/8/preklad_pricky.jpg)
+
+![](/images/pos/8/preklad_pricky1.jpg)
